@@ -1,0 +1,7097 @@
+{
+  "schema": "compose-preview-annotations/v1",
+  "previews": {},
+  "references": {
+    "buttongroup__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 420,
+          "height": 48
+        },
+        "label": "pad e 16px s 16px · gap 8px",
+        "detail": {
+          "padding.start": "16",
+          "padding.end": "16",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 16,
+          "y": 0,
+          "width": 146,
+          "height": 48
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "role": "Button",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 32,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 70,
+          "y": 10,
+          "width": 76,
+          "height": 28
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 178,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 16,
+          "y": 0,
+          "width": 146,
+          "height": 48
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 170,
+          "y": 0,
+          "width": 146,
+          "height": 48
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "role": "Button",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 186,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 224,
+          "y": 10,
+          "width": 76,
+          "height": 28
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 332,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 170,
+          "y": 0,
+          "width": 146,
+          "height": 48
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 324,
+          "y": 0,
+          "width": 146,
+          "height": 48
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "role": "Button",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 340,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 378,
+          "y": 10,
+          "width": 76,
+          "height": 28
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 486,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 324,
+          "y": 0,
+          "width": 146,
+          "height": 48
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 32,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 70,
+          "y": 10,
+          "width": 72,
+          "height": 28
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 178,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 186,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 224,
+          "y": 10,
+          "width": 72,
+          "height": 28
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 332,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 340,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 378,
+          "y": 10,
+          "width": 72,
+          "height": 28
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 486,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "button__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 73,
+          "height": 27
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 70,
+          "height": 27
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "button__ideal__disabled": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 73,
+          "height": 27
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": -1,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": -1,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "r 36px",
+        "role": "Dimming",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 70,
+          "height": 27
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "button__ideal__focused": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 73,
+          "height": 27
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 70,
+          "height": 27
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "button__ideal__pressed": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 73,
+          "height": 27
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 70,
+          "height": 27
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "button__ideal__default__size-large": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 5,
+          "width": 141,
+          "height": 62
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 15,
+          "y": 20,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 52,
+          "y": 22,
+          "width": 73,
+          "height": 27
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 156,
+          "y": 13,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 5,
+          "width": 141,
+          "height": 62
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 15,
+          "y": 20,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 52,
+          "y": 22,
+          "width": 70,
+          "height": 27
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 156,
+          "y": 13,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "togglebutton__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 73,
+          "height": 27
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 70,
+          "height": 27
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "togglebutton__ideal__cell-state-enabled-size-large-toggle-true-40000113-4082": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 5,
+          "width": 141,
+          "height": 62
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 15,
+          "y": 20,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 52,
+          "y": 22,
+          "width": 73,
+          "height": 27
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 156,
+          "y": 13,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 5,
+          "width": 141,
+          "height": 62
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 15,
+          "y": 20,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 52,
+          "y": 22,
+          "width": 70,
+          "height": 27
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 156,
+          "y": 13,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "togglebutton__ideal__cell-state-focused-size-default-toggle-true-40000113-4092": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 73,
+          "height": 27
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 70,
+          "height": 27
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "togglebutton__ideal__cell-state-focused-size-large-toggle-true-40000113-4112": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 5,
+          "width": 141,
+          "height": 62
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 15,
+          "y": 20,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 52,
+          "y": 22,
+          "width": 73,
+          "height": 27
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 156,
+          "y": 13,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 5,
+          "width": 141,
+          "height": 62
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 15,
+          "y": 20,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 52,
+          "y": 22,
+          "width": 70,
+          "height": 27
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 156,
+          "y": 13,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "togglebutton__ideal__cell-state-pressed-size-default-toggle-true-40000113-4102": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 73,
+          "height": 27
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 70,
+          "height": 27
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "togglebutton__ideal__cell-state-pressed-size-large-toggle-true-40000113-4122": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 5,
+          "width": 141,
+          "height": 62
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 15,
+          "y": 20,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 52,
+          "y": 22,
+          "width": 73,
+          "height": 27
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 156,
+          "y": 13,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 5,
+          "width": 141,
+          "height": 62
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 15,
+          "y": 20,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 52,
+          "y": 22,
+          "width": 70,
+          "height": 27
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 156,
+          "y": 13,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "togglebutton__ideal__disabled": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 73,
+          "height": 27
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": -1,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": -1,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "r 36px",
+        "role": "Dimming",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 70,
+          "height": 27
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "togglebutton__ideal__focused": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 73,
+          "height": 27
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 70,
+          "height": 27
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "togglebutton__ideal__pressed": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 73,
+          "height": 27
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 70,
+          "height": 27
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "togglebutton__ideal__default__size-large": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 5,
+          "width": 141,
+          "height": 62
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 15,
+          "y": 20,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 52,
+          "y": 22,
+          "width": 73,
+          "height": 27
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 156,
+          "y": 13,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 5,
+          "width": 141,
+          "height": 62
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 15,
+          "y": 20,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 52,
+          "y": 22,
+          "width": 70,
+          "height": 27
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 156,
+          "y": 13,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "togglebutton__ideal__checked": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 73,
+          "height": 27
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1,
+          "width": 141,
+          "height": 46
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 15,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 52,
+          "y": 11,
+          "width": 70,
+          "height": 27
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 156,
+          "y": 9,
+          "width": 31,
+          "height": 31
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "card__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 19,
+          "y": 0,
+          "width": 382,
+          "height": 375
+        },
+        "label": "gap 12px",
+        "detail": {
+          "gap": "12",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 148,
+          "y": 0,
+          "width": 125,
+          "height": 40
+        },
+        "label": "pad 6px · gap 8px · r 100px",
+        "role": "Title Chip",
+        "detail": {
+          "padding.start": "6",
+          "padding.top": "6",
+          "padding.end": "6",
+          "padding.bottom": "6",
+          "gap": "8",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 154,
+          "y": 5,
+          "width": 29,
+          "height": 29
+        },
+        "label": "r 166.7px",
+        "role": "Avatars",
+        "detail": {
+          "cornerRadius": "166.7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 168,
+          "y": 20,
+          "width": 15,
+          "height": 15
+        },
+        "label": "r 1333.3px",
+        "role": "Product Icon",
+        "detail": {
+          "cornerRadius": "1333.3",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 168,
+          "y": 20,
+          "width": 15,
+          "height": 15
+        },
+        "label": "r 666.7px",
+        "role": "App Icons",
+        "detail": {
+          "cornerRadius": "666.7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 302,
+          "y": 7,
+          "width": 29,
+          "height": 29
+        },
+        "label": "r 166.7px",
+        "role": "Avatars",
+        "detail": {
+          "cornerRadius": "166.7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 316,
+          "y": 22,
+          "width": 15,
+          "height": 15
+        },
+        "label": "r 1333.3px",
+        "role": "Product Icon",
+        "detail": {
+          "cornerRadius": "1333.3",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 316,
+          "y": 22,
+          "width": 15,
+          "height": 15
+        },
+        "label": "r 666.7px",
+        "role": "App Icons",
+        "detail": {
+          "cornerRadius": "666.7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 147,
+          "y": 1,
+          "width": 125,
+          "height": 40
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 19,
+          "y": 51,
+          "width": 382,
+          "height": 324
+        },
+        "label": "pad 12px · r 36px",
+        "role": "Card Container",
+        "detail": {
+          "padding.start": "12",
+          "padding.top": "12",
+          "padding.end": "12",
+          "padding.bottom": "12",
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 30,
+          "y": 62,
+          "width": 360,
+          "height": 217
+        },
+        "label": "r 24px",
+        "role": "Image",
+        "detail": {
+          "cornerRadius": "24",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 30,
+          "y": 279,
+          "width": 360,
+          "height": 126
+        },
+        "label": "pad 8px · gap 12px",
+        "role": "Content Area",
+        "detail": {
+          "padding.start": "8",
+          "padding.top": "8",
+          "padding.end": "8",
+          "padding.bottom": "8",
+          "gap": "12",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 37,
+          "y": 287,
+          "width": 44,
+          "height": 111
+        },
+        "label": "gap 10px",
+        "role": "Icon Area Vertical",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 37,
+          "y": 287,
+          "width": 44,
+          "height": 44
+        },
+        "label": "r 1000px",
+        "role": "App Icons",
+        "detail": {
+          "cornerRadius": "1000",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 92,
+          "y": 287,
+          "width": 291,
+          "height": 111
+        },
+        "label": "gap 3px",
+        "role": "Text Container",
+        "detail": {
+          "gap": "3",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 325,
+          "y": 287,
+          "width": 51,
+          "height": 184
+        },
+        "label": "gap 10px",
+        "role": "Trailing Icon Area Vertical",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 325,
+          "y": 287,
+          "width": 44,
+          "height": 44
+        },
+        "label": "gap 14px",
+        "role": "Entity",
+        "detail": {
+          "gap": "14",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 325,
+          "y": 287,
+          "width": 51,
+          "height": 51
+        },
+        "label": "≈pad t 0px e 8px b 8px s 0px",
+        "role": "Avatars",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "0",
+          "padding.end": "8",
+          "padding.bottom": "8",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 348,
+          "y": 310,
+          "width": 29,
+          "height": 29
+        },
+        "label": "≈pad t 0px e 8px b 8px s 0px · r 2133.3px",
+        "role": "Product Icon",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "0",
+          "padding.end": "8",
+          "padding.bottom": "8",
+          "cornerRadius": "2133.3",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 348,
+          "y": 310,
+          "width": 22,
+          "height": 22
+        },
+        "label": "r 1066.7px",
+        "role": "App Icons",
+        "detail": {
+          "cornerRadius": "1066.7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 30,
+          "y": 405,
+          "width": 360,
+          "height": 116
+        },
+        "label": "gap 12px",
+        "role": "Nested Action Area",
+        "detail": {
+          "gap": "12",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 30,
+          "y": 470,
+          "width": 360,
+          "height": 51
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "role": "Button",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 158,
+          "y": 481,
+          "width": 29,
+          "height": 29
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 193,
+          "y": 483,
+          "width": 69,
+          "height": 25
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 177,
+          "y": 478,
+          "width": 29,
+          "height": 29
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 30,
+          "y": 470,
+          "width": 360,
+          "height": 51
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 20,
+          "y": 51,
+          "width": 382,
+          "height": 325
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 190,
+          "y": 7,
+          "width": 77,
+          "height": 25
+        },
+        "label": "glimmer/caption/caption 18px/28",
+        "role": "Title Chip",
+        "detail": {
+          "token": "glimmer/caption/caption",
+          "unit": "px",
+          "fontSize": "18",
+          "lineHeight": "28",
+          "fontWeight": "725",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 92,
+          "y": 287,
+          "width": 291,
+          "height": 29
+        },
+        "label": "glimmer/body/medium 24px/32",
+        "role": "Title",
+        "detail": {
+          "token": "glimmer/body/medium",
+          "unit": "px",
+          "fontSize": "24",
+          "lineHeight": "32",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 92,
+          "y": 318,
+          "width": 291,
+          "height": 25
+        },
+        "label": "glimmer/caption/caption 18px/28",
+        "role": "Subtitle",
+        "detail": {
+          "token": "glimmer/caption/caption",
+          "unit": "px",
+          "fontSize": "18",
+          "lineHeight": "28",
+          "fontWeight": "725",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 92,
+          "y": 347,
+          "width": 291,
+          "height": 51
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Leyla expanded avocado beet greens mustard kale fava",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 158,
+          "y": 481,
+          "width": 29,
+          "height": 29
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 193,
+          "y": 483,
+          "width": 65,
+          "height": 25
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 177,
+          "y": 478,
+          "width": 29,
+          "height": 29
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "titlechip__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 2,
+          "y": 0,
+          "width": 146,
+          "height": 44
+        },
+        "label": "pad 6px · gap 8px · r 100px",
+        "detail": {
+          "padding.start": "6",
+          "padding.top": "6",
+          "padding.end": "6",
+          "padding.bottom": "6",
+          "gap": "8",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 8,
+          "y": 6,
+          "width": 32,
+          "height": 32
+        },
+        "label": "r 166.7px",
+        "role": "Avatars",
+        "detail": {
+          "cornerRadius": "166.7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 24,
+          "y": 22,
+          "width": 16,
+          "height": 16
+        },
+        "label": "r 1333.3px",
+        "role": "Product Icon",
+        "detail": {
+          "cornerRadius": "1333.3",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 24,
+          "y": 22,
+          "width": 16,
+          "height": 16
+        },
+        "label": "r 666.7px",
+        "role": "App Icons",
+        "detail": {
+          "cornerRadius": "666.7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 171,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "r 166.7px",
+        "role": "Avatars",
+        "detail": {
+          "cornerRadius": "166.7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 187,
+          "y": 24,
+          "width": 16,
+          "height": 16
+        },
+        "label": "r 1333.3px",
+        "role": "Product Icon",
+        "detail": {
+          "cornerRadius": "1333.3",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 187,
+          "y": 24,
+          "width": 16,
+          "height": 16
+        },
+        "label": "r 666.7px",
+        "role": "App Icons",
+        "detail": {
+          "cornerRadius": "666.7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 2,
+          "y": 1,
+          "width": 146,
+          "height": 44
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 48,
+          "y": 8,
+          "width": 94,
+          "height": 28
+        },
+        "label": "glimmer/caption/caption 18px/28",
+        "role": "Title Chip",
+        "detail": {
+          "token": "glimmer/caption/caption",
+          "unit": "px",
+          "fontSize": "18",
+          "lineHeight": "28",
+          "fontWeight": "725",
+          "fontFamily": "Google Sans Flex"
+        }
+      }
+    ],
+    "iconbutton__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "pad 8px/16px · gap 8px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "8",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "gap 10px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "text 32px/38.4",
+        "role": "mic_off",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "iconbutton__ideal__disabled": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "pad 8px/16px · gap 8px · r 24px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "8",
+          "cornerRadius": "24",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "gap 10px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "r 36px",
+        "role": "Dimming",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "text 32px/38.4",
+        "role": "mic",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "iconbutton__ideal__focused": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "pad 8px/16px · gap 8px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "8",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "gap 10px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "text 32px/38.4",
+        "role": "mic_off",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "iconbutton__ideal__pressed": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "pad 8px/16px · gap 8px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "8",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "gap 10px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "text 32px/38.4",
+        "role": "mic_off",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "icontogglebutton__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "pad 8px/16px · gap 8px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "8",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "gap 10px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "text 32px/38.4",
+        "role": "mic_off",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "icontogglebutton__ideal__cell-toggle-true-state-focused-40000113-4188": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "pad 8px/16px · gap 8px · r 20px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "8",
+          "cornerRadius": "20",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "gap 10px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "r 20px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "20",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "text 32px/38.4",
+        "role": "mic",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "icontogglebutton__ideal__cell-toggle-true-state-pressed-40000113-4195": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "pad 8px/16px · gap 8px · r 20px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "8",
+          "cornerRadius": "20",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "gap 10px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "r 20px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "20",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "text 32px/38.4",
+        "role": "mic",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "icontogglebutton__ideal__disabled": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "pad 8px/16px · gap 8px · r 24px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "8",
+          "cornerRadius": "24",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "gap 10px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "r 36px",
+        "role": "Dimming",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "text 32px/38.4",
+        "role": "mic",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "icontogglebutton__ideal__focused": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "pad 8px/16px · gap 8px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "8",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "gap 10px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "text 32px/38.4",
+        "role": "mic_off",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "icontogglebutton__ideal__pressed": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "pad 8px/16px · gap 8px · r 100px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "8",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "gap 10px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "text 32px/38.4",
+        "role": "mic_off",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "icontogglebutton__ideal__checked": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "pad 8px/16px · gap 8px · r 20px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "8",
+          "cornerRadius": "20",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "gap 10px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 48,
+          "height": 48
+        },
+        "label": "r 20px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "20",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 8,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "text 32px/38.4",
+        "role": "mic",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "glimmerlazycolumn__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 20,
+          "width": 420,
+          "height": 380
+        },
+        "label": "gap 20px",
+        "role": "List View",
+        "detail": {
+          "gap": "20",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 20,
+          "width": 420,
+          "height": 80
+        },
+        "label": "pad 16px · gap 12px · r 36px",
+        "role": "List Item 1",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "16",
+          "padding.end": "16",
+          "padding.bottom": "16",
+          "gap": "12",
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 16,
+          "y": 40,
+          "width": 40,
+          "height": 40
+        },
+        "label": "gap 11.1px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "11.1",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 20,
+          "width": 420,
+          "height": 80
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 120,
+          "width": 420,
+          "height": 80
+        },
+        "label": "pad 16px · gap 12px · r 36px",
+        "role": "List Item 2",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "16",
+          "padding.end": "16",
+          "padding.bottom": "16",
+          "gap": "12",
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 16,
+          "y": 140,
+          "width": 40,
+          "height": 40
+        },
+        "label": "gap 11.1px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "11.1",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 120,
+          "width": 420,
+          "height": 80
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 220,
+          "width": 420,
+          "height": 80
+        },
+        "label": "pad 16px · gap 12px · r 36px",
+        "role": "List Item 3",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "16",
+          "padding.end": "16",
+          "padding.bottom": "16",
+          "gap": "12",
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 16,
+          "y": 240,
+          "width": 40,
+          "height": 40
+        },
+        "label": "gap 11.1px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "11.1",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 220,
+          "width": 420,
+          "height": 80
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 320,
+          "width": 420,
+          "height": 80
+        },
+        "label": "pad 16px · gap 12px · r 36px",
+        "role": "List Item 4",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "16",
+          "padding.end": "16",
+          "padding.bottom": "16",
+          "gap": "12",
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 16,
+          "y": 340,
+          "width": 40,
+          "height": 40
+        },
+        "label": "gap 11.1px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "11.1",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 320,
+          "width": 420,
+          "height": 80
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 16,
+          "y": 40,
+          "width": 40,
+          "height": 40
+        },
+        "label": "text 40px/48",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "40",
+          "lineHeight": "48",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 68,
+          "y": 46,
+          "width": 336,
+          "height": 28
+        },
+        "label": "glimmer/title/small 20px/28",
+        "role": "Milk",
+        "detail": {
+          "token": "glimmer/title/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "750",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 16,
+          "y": 140,
+          "width": 40,
+          "height": 40
+        },
+        "label": "text 40px/48",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "40",
+          "lineHeight": "48",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 68,
+          "y": 146,
+          "width": 336,
+          "height": 28
+        },
+        "label": "glimmer/title/small 20px/28",
+        "role": "Bread",
+        "detail": {
+          "token": "glimmer/title/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "750",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 16,
+          "y": 240,
+          "width": 40,
+          "height": 40
+        },
+        "label": "text 40px/48",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "40",
+          "lineHeight": "48",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 68,
+          "y": 246,
+          "width": 336,
+          "height": 28
+        },
+        "label": "glimmer/title/small 20px/28",
+        "role": "Spinach",
+        "detail": {
+          "token": "glimmer/title/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "750",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 16,
+          "y": 340,
+          "width": 40,
+          "height": 40
+        },
+        "label": "text 40px/48",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "40",
+          "lineHeight": "48",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 68,
+          "y": 346,
+          "width": 336,
+          "height": 28
+        },
+        "label": "glimmer/title/small 20px/28",
+        "role": "Cereal",
+        "detail": {
+          "token": "glimmer/title/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "750",
+          "fontFamily": "Google Sans Flex"
+        }
+      }
+    ],
+    "glimmerlazycolumn__ideal__default__title-true": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 74,
+          "width": 420,
+          "height": 380
+        },
+        "label": "gap 20px",
+        "role": "List View",
+        "detail": {
+          "gap": "20",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 74,
+          "width": 420,
+          "height": 80
+        },
+        "label": "pad 16px · gap 12px · r 36px",
+        "role": "List Item 1",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "16",
+          "padding.end": "16",
+          "padding.bottom": "16",
+          "gap": "12",
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 16,
+          "y": 94,
+          "width": 40,
+          "height": 40
+        },
+        "label": "gap 11.1px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "11.1",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 74,
+          "width": 420,
+          "height": 80
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 174,
+          "width": 420,
+          "height": 80
+        },
+        "label": "pad 16px · gap 12px · r 36px",
+        "role": "List Item 2",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "16",
+          "padding.end": "16",
+          "padding.bottom": "16",
+          "gap": "12",
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 16,
+          "y": 194,
+          "width": 40,
+          "height": 40
+        },
+        "label": "gap 11.1px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "11.1",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 174,
+          "width": 420,
+          "height": 80
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 274,
+          "width": 420,
+          "height": 80
+        },
+        "label": "pad 16px · gap 12px · r 36px",
+        "role": "List Item 3",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "16",
+          "padding.end": "16",
+          "padding.bottom": "16",
+          "gap": "12",
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 16,
+          "y": 294,
+          "width": 40,
+          "height": 40
+        },
+        "label": "gap 11.1px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "11.1",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 274,
+          "width": 420,
+          "height": 80
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 374,
+          "width": 420,
+          "height": 80
+        },
+        "label": "pad 16px · gap 12px · r 36px",
+        "role": "List Item 4",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "16",
+          "padding.end": "16",
+          "padding.bottom": "16",
+          "gap": "12",
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 16,
+          "y": 394,
+          "width": 40,
+          "height": 40
+        },
+        "label": "gap 11.1px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "11.1",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 374,
+          "width": 420,
+          "height": 80
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 142,
+          "y": 0,
+          "width": 137,
+          "height": 44
+        },
+        "label": "pad 6px · gap 8px · r 100px",
+        "role": "Title chip",
+        "detail": {
+          "padding.start": "6",
+          "padding.top": "6",
+          "padding.end": "6",
+          "padding.bottom": "6",
+          "gap": "8",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 148,
+          "y": 6,
+          "width": 32,
+          "height": 32
+        },
+        "label": "r 166.7px",
+        "role": "Avatars",
+        "detail": {
+          "cornerRadius": "166.7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 164,
+          "y": 22,
+          "width": 16,
+          "height": 16
+        },
+        "label": "r 1333.3px",
+        "role": "Product Icon",
+        "detail": {
+          "cornerRadius": "1333.3",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 164,
+          "y": 22,
+          "width": 16,
+          "height": 16
+        },
+        "label": "r 666.7px",
+        "role": "App Icons",
+        "detail": {
+          "cornerRadius": "666.7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 311,
+          "y": 8,
+          "width": 32,
+          "height": 32
+        },
+        "label": "r 166.7px",
+        "role": "Avatars",
+        "detail": {
+          "cornerRadius": "166.7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 327,
+          "y": 24,
+          "width": 16,
+          "height": 16
+        },
+        "label": "r 1333.3px",
+        "role": "Product Icon",
+        "detail": {
+          "cornerRadius": "1333.3",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 327,
+          "y": 24,
+          "width": 16,
+          "height": 16
+        },
+        "label": "r 666.7px",
+        "role": "App Icons",
+        "detail": {
+          "cornerRadius": "666.7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 142,
+          "y": 0,
+          "width": 137,
+          "height": 44
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 16,
+          "y": 94,
+          "width": 40,
+          "height": 40
+        },
+        "label": "text 40px/48",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "40",
+          "lineHeight": "48",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 68,
+          "y": 100,
+          "width": 336,
+          "height": 28
+        },
+        "label": "glimmer/title/small 20px/28",
+        "role": "Milk",
+        "detail": {
+          "token": "glimmer/title/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "750",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 16,
+          "y": 194,
+          "width": 40,
+          "height": 40
+        },
+        "label": "text 40px/48",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "40",
+          "lineHeight": "48",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 68,
+          "y": 200,
+          "width": 336,
+          "height": 28
+        },
+        "label": "glimmer/title/small 20px/28",
+        "role": "Bread",
+        "detail": {
+          "token": "glimmer/title/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "750",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 16,
+          "y": 294,
+          "width": 40,
+          "height": 40
+        },
+        "label": "text 40px/48",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "40",
+          "lineHeight": "48",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 68,
+          "y": 300,
+          "width": 336,
+          "height": 28
+        },
+        "label": "glimmer/title/small 20px/28",
+        "role": "Spinach",
+        "detail": {
+          "token": "glimmer/title/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "750",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 16,
+          "y": 394,
+          "width": 40,
+          "height": 40
+        },
+        "label": "text 40px/48",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "40",
+          "lineHeight": "48",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 68,
+          "y": 400,
+          "width": 336,
+          "height": 28
+        },
+        "label": "glimmer/title/small 20px/28",
+        "role": "Cereal",
+        "detail": {
+          "token": "glimmer/title/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "750",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 188,
+          "y": 8,
+          "width": 85,
+          "height": 28
+        },
+        "label": "glimmer/caption/caption 18px/28",
+        "role": "Title Chip",
+        "detail": {
+          "token": "glimmer/caption/caption",
+          "unit": "px",
+          "fontSize": "18",
+          "lineHeight": "28",
+          "fontWeight": "725",
+          "fontFamily": "Google Sans Flex"
+        }
+      }
+    ],
+    "glimmerlazycolumn-twoline__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 20,
+          "width": 420,
+          "height": 304
+        },
+        "label": "gap 20px",
+        "role": "List View",
+        "detail": {
+          "gap": "20",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 20,
+          "width": 420,
+          "height": 88
+        },
+        "label": "pad 16px · gap 12px · r 36px",
+        "role": "List Item 1",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "16",
+          "padding.end": "16",
+          "padding.bottom": "16",
+          "gap": "12",
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 16,
+          "y": 44,
+          "width": 40,
+          "height": 40
+        },
+        "label": "gap 11.1px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "11.1",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1,
+          "y": 20,
+          "width": 420,
+          "height": 88
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 128,
+          "width": 420,
+          "height": 88
+        },
+        "label": "pad 16px · gap 12px · r 36px",
+        "role": "List Item 2",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "16",
+          "padding.end": "16",
+          "padding.bottom": "16",
+          "gap": "12",
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 16,
+          "y": 152,
+          "width": 40,
+          "height": 40
+        },
+        "label": "gap 11.1px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "11.1",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1,
+          "y": 128,
+          "width": 420,
+          "height": 88
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 236,
+          "width": 420,
+          "height": 88
+        },
+        "label": "pad 16px · gap 12px · r 36px",
+        "role": "List Item 3",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "16",
+          "padding.end": "16",
+          "padding.bottom": "16",
+          "gap": "12",
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 16,
+          "y": 260,
+          "width": 40,
+          "height": 40
+        },
+        "label": "gap 11.1px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "11.1",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1,
+          "y": 236,
+          "width": 420,
+          "height": 88
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 16,
+          "y": 44,
+          "width": 40,
+          "height": 40
+        },
+        "label": "text 40px/48",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "40",
+          "lineHeight": "48",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Outlined"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 68,
+          "y": 36,
+          "width": 261,
+          "height": 28
+        },
+        "label": "glimmer/title/small 20px/28",
+        "role": "Weekly Design Check-In",
+        "detail": {
+          "token": "glimmer/title/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "750",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 68,
+          "y": 64,
+          "width": 112,
+          "height": 28
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "8 - 8:30AM",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 16,
+          "y": 152,
+          "width": 40,
+          "height": 40
+        },
+        "label": "text 40px/48",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "40",
+          "lineHeight": "48",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Outlined"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 68,
+          "y": 144,
+          "width": 163,
+          "height": 28
+        },
+        "label": "glimmer/title/small 20px/28",
+        "role": "Jordan/Sam 1:1",
+        "detail": {
+          "token": "glimmer/title/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "750",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 68,
+          "y": 172,
+          "width": 112,
+          "height": 28
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "9 - 9:30AM",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 16,
+          "y": 260,
+          "width": 40,
+          "height": 40
+        },
+        "label": "text 40px/48",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "40",
+          "lineHeight": "48",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Outlined"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 68,
+          "y": 252,
+          "width": 222,
+          "height": 28
+        },
+        "label": "glimmer/title/small 20px/28",
+        "role": "Interview Candidate",
+        "detail": {
+          "token": "glimmer/title/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "750",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 68,
+          "y": 280,
+          "width": 127,
+          "height": 28
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "10 - 11:30AM",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      }
+    ],
+    "listitem__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 420,
+          "height": 80
+        },
+        "label": "pad 16px · gap 12px · r 36px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "16",
+          "padding.end": "16",
+          "padding.bottom": "16",
+          "gap": "12",
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 16,
+          "y": 20,
+          "width": 40,
+          "height": 40
+        },
+        "label": "gap 11.1px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "11.1",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 420,
+          "height": 80
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 16,
+          "y": 20,
+          "width": 40,
+          "height": 40
+        },
+        "label": "text 40px/48",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "40",
+          "lineHeight": "48",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 68,
+          "y": 26,
+          "width": 336,
+          "height": 28
+        },
+        "label": "glimmer/title/small 20px/28",
+        "role": "Title",
+        "detail": {
+          "token": "glimmer/title/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "750",
+          "fontFamily": "Google Sans Flex"
+        }
+      }
+    ],
+    "listitem__ideal__pressed": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 420,
+          "height": 80
+        },
+        "label": "pad 16px · gap 12px · r 36px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "16",
+          "padding.end": "16",
+          "padding.bottom": "16",
+          "gap": "12",
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 16,
+          "y": 20,
+          "width": 40,
+          "height": 40
+        },
+        "label": "gap 11.1px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "11.1",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 420,
+          "height": 80
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 16,
+          "y": 20,
+          "width": 40,
+          "height": 40
+        },
+        "label": "text 40px/48",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "40",
+          "lineHeight": "48",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 68,
+          "y": 26,
+          "width": 336,
+          "height": 28
+        },
+        "label": "glimmer/title/small 20px/28",
+        "role": "Title",
+        "detail": {
+          "token": "glimmer/title/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "750",
+          "fontFamily": "Google Sans Flex"
+        }
+      }
+    ],
+    "listitem__ideal__default__content-supporting-label": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 9,
+          "y": 0,
+          "width": 401,
+          "height": 84
+        },
+        "label": "pad 16px · gap 12px · r 36px",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "16",
+          "padding.end": "16",
+          "padding.bottom": "16",
+          "gap": "12",
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 24,
+          "y": 23,
+          "width": 38,
+          "height": 38
+        },
+        "label": "gap 11.1px",
+        "role": "System Icon",
+        "detail": {
+          "gap": "11.1",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 10,
+          "y": 0,
+          "width": 401,
+          "height": 84
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 24,
+          "y": 23,
+          "width": 38,
+          "height": 38
+        },
+        "label": "text 40px/48",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "40",
+          "lineHeight": "48",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Outlined"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 74,
+          "y": 15,
+          "width": 47,
+          "height": 27
+        },
+        "label": "glimmer/title/small 20px/28",
+        "role": "Title",
+        "detail": {
+          "token": "glimmer/title/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "750",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 74,
+          "y": 42,
+          "width": 52,
+          "height": 27
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Body",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      }
+    ],
+    "verticalstack__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 23,
+          "y": 0,
+          "width": 374,
+          "height": 159
+        },
+        "label": "gap -158px",
+        "detail": {
+          "gap": "-158",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 23,
+          "y": 0,
+          "width": 374,
+          "height": 144
+        },
+        "label": "gap 12px",
+        "role": "Card",
+        "detail": {
+          "gap": "12",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 149,
+          "y": 0,
+          "width": 122,
+          "height": 39
+        },
+        "label": "pad 6px · gap 8px · r 100px",
+        "role": "Title Chip",
+        "detail": {
+          "padding.start": "6",
+          "padding.top": "6",
+          "padding.end": "6",
+          "padding.bottom": "6",
+          "gap": "8",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 155,
+          "y": 5,
+          "width": 28,
+          "height": 28
+        },
+        "label": "r 166.7px",
+        "role": "Avatars",
+        "detail": {
+          "cornerRadius": "166.7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 169,
+          "y": 20,
+          "width": 14,
+          "height": 14
+        },
+        "label": "r 1333.3px",
+        "role": "Product Icon",
+        "detail": {
+          "cornerRadius": "1333.3",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 169,
+          "y": 20,
+          "width": 14,
+          "height": 14
+        },
+        "label": "r 666.7px",
+        "role": "App Icons",
+        "detail": {
+          "cornerRadius": "666.7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 300,
+          "y": 7,
+          "width": 28,
+          "height": 28
+        },
+        "label": "r 166.7px",
+        "role": "Avatars",
+        "detail": {
+          "cornerRadius": "166.7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 314,
+          "y": 21,
+          "width": 14,
+          "height": 14
+        },
+        "label": "r 1333.3px",
+        "role": "Product Icon",
+        "detail": {
+          "cornerRadius": "1333.3",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 314,
+          "y": 21,
+          "width": 14,
+          "height": 14
+        },
+        "label": "r 666.7px",
+        "role": "App Icons",
+        "detail": {
+          "cornerRadius": "666.7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 149,
+          "y": 1,
+          "width": 122,
+          "height": 39
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 23,
+          "y": 0,
+          "width": 374,
+          "height": 144
+        },
+        "label": "pad 12px · r 36px",
+        "role": "Card Container",
+        "detail": {
+          "padding.start": "12",
+          "padding.top": "12",
+          "padding.end": "12",
+          "padding.bottom": "12",
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 34,
+          "y": 11,
+          "width": 353,
+          "height": 213
+        },
+        "label": "r 24px",
+        "role": "Image",
+        "detail": {
+          "cornerRadius": "24",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 34,
+          "y": 11,
+          "width": 353,
+          "height": 123
+        },
+        "label": "pad 8px · gap 12px",
+        "role": "Content Area",
+        "detail": {
+          "padding.start": "8",
+          "padding.top": "8",
+          "padding.end": "8",
+          "padding.bottom": "8",
+          "gap": "12",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 41,
+          "y": 18,
+          "width": 43,
+          "height": 109
+        },
+        "label": "gap 10px",
+        "role": "Icon Area Vertical",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 41,
+          "y": 18,
+          "width": 43,
+          "height": 43
+        },
+        "label": "r 1000px",
+        "role": "App Icons",
+        "detail": {
+          "cornerRadius": "1000",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 41,
+          "y": 18,
+          "width": 338,
+          "height": 109
+        },
+        "label": "gap 3px",
+        "role": "Text Container",
+        "detail": {
+          "gap": "3",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 322,
+          "y": 18,
+          "width": 50,
+          "height": 180
+        },
+        "label": "gap 10px",
+        "role": "Trailing Icon Area Vertical",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 322,
+          "y": 18,
+          "width": 43,
+          "height": 43
+        },
+        "label": "gap 14px",
+        "role": "Entity",
+        "detail": {
+          "gap": "14",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 322,
+          "y": 18,
+          "width": 50,
+          "height": 50
+        },
+        "label": "≈pad t 0px e 8px b 8px s 0px",
+        "role": "Avatars",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "0",
+          "padding.end": "8",
+          "padding.bottom": "8",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 345,
+          "y": 41,
+          "width": 28,
+          "height": 28
+        },
+        "label": "≈pad t 0px e 8px b 8px s 0px · r 2133.3px",
+        "role": "Product Icon",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "0",
+          "padding.end": "8",
+          "padding.bottom": "8",
+          "cornerRadius": "2133.3",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 345,
+          "y": 41,
+          "width": 21,
+          "height": 21
+        },
+        "label": "r 1066.7px",
+        "role": "App Icons",
+        "detail": {
+          "cornerRadius": "1066.7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 34,
+          "y": 346,
+          "width": 353,
+          "height": 114
+        },
+        "label": "gap 12px",
+        "role": "Nested Action Area",
+        "detail": {
+          "gap": "12",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 34,
+          "y": 411,
+          "width": 353,
+          "height": 50
+        },
+        "label": "pad 8px/16px · gap 6px · r 100px",
+        "role": "Button",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "8",
+          "padding.end": "16",
+          "padding.bottom": "8",
+          "gap": "6",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 159,
+          "y": 421,
+          "width": 28,
+          "height": 28
+        },
+        "label": "gap 10px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 193,
+          "y": 423,
+          "width": 68,
+          "height": 25
+        },
+        "label": "pad e 4px · gap 8px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "4",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 178,
+          "y": 418,
+          "width": 28,
+          "height": 28
+        },
+        "label": "gap 10px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 34,
+          "y": 411,
+          "width": 353,
+          "height": 50
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 24,
+          "y": 0,
+          "width": 374,
+          "height": 145
+        },
+        "label": "r 36px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 37,
+          "y": 4,
+          "width": 346,
+          "height": 155
+        },
+        "label": "gap 11.3px · r 33px",
+        "role": "Card",
+        "detail": {
+          "gap": "11.3",
+          "cornerRadius": "33",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 156,
+          "y": 4,
+          "width": 115,
+          "height": 37
+        },
+        "label": "pad 5.7px · gap 7.5px · r 94.3px",
+        "role": "Title Chip",
+        "detail": {
+          "padding.start": "5.7",
+          "padding.top": "5.7",
+          "padding.end": "5.7",
+          "padding.bottom": "5.7",
+          "gap": "7.5",
+          "cornerRadius": "94.3",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 161,
+          "y": 9,
+          "width": 27,
+          "height": 27
+        },
+        "label": "r 157.1px",
+        "role": "Avatars",
+        "detail": {
+          "cornerRadius": "157.1",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 174,
+          "y": 22,
+          "width": 13,
+          "height": 13
+        },
+        "label": "r 1257.1px",
+        "role": "Product Icon",
+        "detail": {
+          "cornerRadius": "1257.1",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 174,
+          "y": 22,
+          "width": 13,
+          "height": 13
+        },
+        "label": "r 628.6px",
+        "role": "App Icons",
+        "detail": {
+          "cornerRadius": "628.6",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 298,
+          "y": 11,
+          "width": 27,
+          "height": 27
+        },
+        "label": "r 157.1px",
+        "role": "Avatars",
+        "detail": {
+          "cornerRadius": "157.1",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 312,
+          "y": 23,
+          "width": 13,
+          "height": 13
+        },
+        "label": "r 1257.1px",
+        "role": "Product Icon",
+        "detail": {
+          "cornerRadius": "1257.1",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 312,
+          "y": 23,
+          "width": 13,
+          "height": 13
+        },
+        "label": "r 628.6px",
+        "role": "App Icons",
+        "detail": {
+          "cornerRadius": "628.6",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 156,
+          "y": 4,
+          "width": 123,
+          "height": 37
+        },
+        "label": "r 33.9px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "33.9",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 37,
+          "y": 22,
+          "width": 346,
+          "height": 136
+        },
+        "label": "pad 11.3px · r 33px",
+        "role": "Card Container",
+        "detail": {
+          "padding.start": "11.3",
+          "padding.top": "11.3",
+          "padding.end": "11.3",
+          "padding.bottom": "11.3",
+          "cornerRadius": "33",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 47,
+          "y": 33,
+          "width": 332,
+          "height": 200
+        },
+        "label": "r 22.6px",
+        "role": "Image",
+        "detail": {
+          "cornerRadius": "22.6",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 47,
+          "y": 33,
+          "width": 325,
+          "height": 116
+        },
+        "label": "pad 7.5px · gap 11.3px",
+        "role": "Content Area",
+        "detail": {
+          "padding.start": "7.5",
+          "padding.top": "7.5",
+          "padding.end": "7.5",
+          "padding.bottom": "7.5",
+          "gap": "11.3",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 54,
+          "y": 39,
+          "width": 40,
+          "height": 102
+        },
+        "label": "gap 9.4px",
+        "role": "Icon Area Vertical",
+        "detail": {
+          "gap": "9.4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 54,
+          "y": 39,
+          "width": 40,
+          "height": 40
+        },
+        "label": "r 942.9px",
+        "role": "App Icons",
+        "detail": {
+          "cornerRadius": "942.9",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 54,
+          "y": 39,
+          "width": 312,
+          "height": 102
+        },
+        "label": "gap 2.8px",
+        "role": "Text Container",
+        "detail": {
+          "gap": "2.8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 320,
+          "y": 39,
+          "width": 47,
+          "height": 169
+        },
+        "label": "gap 9.4px",
+        "role": "Trailing Icon Area Vertical",
+        "detail": {
+          "gap": "9.4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 320,
+          "y": 39,
+          "width": 40,
+          "height": 40
+        },
+        "label": "gap 13.2px",
+        "role": "Entity",
+        "detail": {
+          "gap": "13.2",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 320,
+          "y": 39,
+          "width": 47,
+          "height": 47
+        },
+        "label": "≈pad t 0px e 8px b 8px s 0px",
+        "role": "Avatars",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "0",
+          "padding.end": "8",
+          "padding.bottom": "8",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 341,
+          "y": 61,
+          "width": 27,
+          "height": 27
+        },
+        "label": "≈pad t 0px e 8px b 8px s 0px · r 2011.4px",
+        "role": "Product Icon",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "0",
+          "padding.end": "8",
+          "padding.bottom": "8",
+          "cornerRadius": "2011.4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 341,
+          "y": 61,
+          "width": 20,
+          "height": 20
+        },
+        "label": "r 1005.7px",
+        "role": "App Icons",
+        "detail": {
+          "cornerRadius": "1005.7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 47,
+          "y": 349,
+          "width": 332,
+          "height": 108
+        },
+        "label": "gap 11.3px",
+        "role": "Nested Action Area",
+        "detail": {
+          "gap": "11.3",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 47,
+          "y": 410,
+          "width": 332,
+          "height": 47
+        },
+        "label": "pad 7.5px/15.1px · gap 5.7px · r 94.3px",
+        "role": "Button",
+        "detail": {
+          "padding.start": "15.1",
+          "padding.top": "7.5",
+          "padding.end": "15.1",
+          "padding.bottom": "7.5",
+          "gap": "5.7",
+          "cornerRadius": "94.3",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 165,
+          "y": 419,
+          "width": 27,
+          "height": 27
+        },
+        "label": "gap 9.4px",
+        "role": "Leading icon",
+        "detail": {
+          "gap": "9.4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 198,
+          "y": 421,
+          "width": 64,
+          "height": 24
+        },
+        "label": "pad e 3.8px · gap 7.5px",
+        "role": "Text Container",
+        "detail": {
+          "padding.end": "3.8",
+          "gap": "7.5",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 183,
+          "y": 416,
+          "width": 27,
+          "height": 27
+        },
+        "label": "gap 9.4px",
+        "role": "Trailing icon",
+        "detail": {
+          "gap": "9.4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 47,
+          "y": 410,
+          "width": 332,
+          "height": 47
+        },
+        "label": "r 33.9px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "33.9",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 37,
+          "y": -68,
+          "width": 346,
+          "height": 137
+        },
+        "label": "r 33.9px",
+        "role": "Highlight",
+        "detail": {
+          "cornerRadius": "33.9",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 198,
+          "y": 7,
+          "width": 76,
+          "height": 25
+        },
+        "label": "glimmer/caption/caption 18px/28",
+        "role": "Title Chip",
+        "detail": {
+          "token": "glimmer/caption/caption",
+          "unit": "px",
+          "fontSize": "18",
+          "lineHeight": "28",
+          "fontWeight": "725",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 41,
+          "y": 18,
+          "width": 338,
+          "height": 28
+        },
+        "label": "glimmer/body/medium 24px/32",
+        "role": "Title",
+        "detail": {
+          "token": "glimmer/body/medium",
+          "unit": "px",
+          "fontSize": "24",
+          "lineHeight": "32",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 41,
+          "y": 49,
+          "width": 338,
+          "height": 25
+        },
+        "label": "glimmer/caption/caption 18px/28",
+        "role": "Subtitle",
+        "detail": {
+          "token": "glimmer/caption/caption",
+          "unit": "px",
+          "fontSize": "18",
+          "lineHeight": "28",
+          "fontWeight": "725",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 41,
+          "y": 77,
+          "width": 338,
+          "height": 50
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Leyla expanded avocado beet greens mustard kale fava",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 159,
+          "y": 421,
+          "width": 28,
+          "height": 28
+        },
+        "label": "text 32px/38.4",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "38.4",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 193,
+          "y": 423,
+          "width": 64,
+          "height": 25
+        },
+        "label": "glimmer/body/small 20px/28",
+        "role": "Button",
+        "detail": {
+          "token": "glimmer/body/small",
+          "unit": "px",
+          "fontSize": "20",
+          "lineHeight": "28",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 178,
+          "y": 418,
+          "width": 28,
+          "height": 28
+        },
+        "label": "text 32px/37.5",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "32",
+          "lineHeight": "37.5",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 195,
+          "y": 11,
+          "width": 78,
+          "height": 24
+        },
+        "label": "text 17px/26.4",
+        "role": "Title Chip",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "17",
+          "lineHeight": "26.4",
+          "fontWeight": "725",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 54,
+          "y": 39,
+          "width": 269,
+          "height": 28
+        },
+        "label": "text 22.6px/30.2",
+        "role": "Title",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "22.6",
+          "lineHeight": "30.2",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 54,
+          "y": 69,
+          "width": 269,
+          "height": 24
+        },
+        "label": "text 17px/26.4",
+        "role": "Subtitle",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "17",
+          "lineHeight": "26.4",
+          "fontWeight": "725",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 54,
+          "y": 94,
+          "width": 269,
+          "height": 47
+        },
+        "label": "text 18.9px/26.4",
+        "role": "Leyla expanded avocado beet greens mustard kale fava",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "18.9",
+          "lineHeight": "26.4",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 165,
+          "y": 419,
+          "width": 27,
+          "height": 27
+        },
+        "label": "text 30.2px/36.2",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "30.2",
+          "lineHeight": "36.2",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 198,
+          "y": 421,
+          "width": 61,
+          "height": 24
+        },
+        "label": "text 18.9px/26.4",
+        "role": "Button",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "18.9",
+          "lineHeight": "26.4",
+          "fontWeight": "600",
+          "fontFamily": "Google Sans Flex"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 183,
+          "y": 416,
+          "width": 27,
+          "height": 27
+        },
+        "label": "text 30.2px/36.2",
+        "role": "send",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "30.2",
+          "lineHeight": "36.2",
+          "fontWeight": "600",
+          "fontFamily": "Material Symbols Rounded"
+        }
+      }
+    ],
+    "voiceinputindicator__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 32,
+          "height": 32
+        },
+        "label": "≈pad 5px/4px · ≈gap 3px · r 100px",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "5",
+          "padding.end": "4",
+          "padding.bottom": "5",
+          "gap": "3",
+          "cornerRadius": "100",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 13,
+          "y": 5,
+          "width": 6,
+          "height": 22
+        },
+        "label": "r 100px",
+        "role": "indicator",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 22,
+          "y": 10,
+          "width": 6,
+          "height": 12
+        },
+        "label": "r 100px",
+        "role": "indicator",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 4,
+          "y": 10,
+          "width": 6,
+          "height": 12
+        },
+        "label": "r 100px",
+        "role": "indicator",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      }
+    ],
+    "voiceinputindicator__ideal__cell-volume-quiet-contained-yes-40000116-9342": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 32,
+          "height": 32
+        },
+        "label": "≈pad 13px/4px · ≈gap 3px · r 100px",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "13",
+          "padding.end": "4",
+          "padding.bottom": "13",
+          "gap": "3",
+          "cornerRadius": "100",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 13,
+          "y": 13,
+          "width": 6,
+          "height": 7
+        },
+        "label": "r 100px",
+        "role": "indicator",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 22,
+          "y": 13,
+          "width": 6,
+          "height": 7
+        },
+        "label": "r 100px",
+        "role": "indicator",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 4,
+          "y": 13,
+          "width": 6,
+          "height": 7
+        },
+        "label": "r 100px",
+        "role": "indicator",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      }
+    ],
+    "voiceinputindicator__ideal__default__volume-quiet": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 32,
+          "height": 32
+        },
+        "label": "≈pad 13px/4px · ≈gap 3px · r 100px",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "13",
+          "padding.end": "4",
+          "padding.bottom": "13",
+          "gap": "3",
+          "cornerRadius": "100",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 13,
+          "y": 13,
+          "width": 6,
+          "height": 7
+        },
+        "label": "r 100px",
+        "role": "indicator",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 22,
+          "y": 13,
+          "width": 6,
+          "height": 7
+        },
+        "label": "r 100px",
+        "role": "indicator",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 4,
+          "y": 13,
+          "width": 6,
+          "height": 7
+        },
+        "label": "r 100px",
+        "role": "indicator",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      }
+    ],
+    "voiceinputindicator__ideal__default__container-contained": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 32,
+          "height": 32
+        },
+        "label": "≈pad 5px/4px · ≈gap 3px · r 100px",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "5",
+          "padding.end": "4",
+          "padding.bottom": "5",
+          "gap": "3",
+          "cornerRadius": "100",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 13,
+          "y": 5,
+          "width": 6,
+          "height": 22
+        },
+        "label": "r 100px",
+        "role": "indicator",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 22,
+          "y": 10,
+          "width": 6,
+          "height": 12
+        },
+        "label": "r 100px",
+        "role": "indicator",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 4,
+          "y": 10,
+          "width": 6,
+          "height": 12
+        },
+        "label": "r 100px",
+        "role": "indicator",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      }
+    ]
+  }
+}

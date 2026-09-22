@@ -1,0 +1,150 @@
+{
+  "schema": "compose-preview-activity/v1",
+  "generatedAt": "2026-09-22T22:35:42.642Z",
+  "windowDays": 30,
+  "code": {
+    "repo": "yschimke/m3-catalog",
+    "ref": "main",
+    "events": [
+      {
+        "sha": "76193d20ef8d2cab375ab423da29fcecec81b421",
+        "subject": "feat(glimmer): close the kit-coverage gaps, and declare the ones that are upstream's (#445)",
+        "at": "2026-09-16T06:20:31+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [
+          "buttongroup__ideal__default",
+          "button__ideal__default",
+          "button__ideal__disabled",
+          "button__ideal__focused",
+          "button__ideal__pressed",
+          "button__ideal__default__size-large",
+          "togglebutton__ideal__default",
+          "togglebutton__ideal__cell-state-enabled-size-large-toggle-true-40000113-4082",
+          "togglebutton__ideal__cell-state-focused-size-default-toggle-true-40000113-4092",
+          "togglebutton__ideal__cell-state-focused-size-large-toggle-true-40000113-4112",
+          "togglebutton__ideal__cell-state-pressed-size-default-toggle-true-40000113-4102",
+          "togglebutton__ideal__cell-state-pressed-size-large-toggle-true-40000113-4122",
+          "togglebutton__ideal__disabled",
+          "togglebutton__ideal__focused",
+          "togglebutton__ideal__pressed",
+          "togglebutton__ideal__default__size-large",
+          "togglebutton__ideal__checked",
+          "card__ideal__default",
+          "titlechip__ideal__default",
+          "iconbutton__ideal__default",
+          "iconbutton__ideal__disabled",
+          "iconbutton__ideal__focused",
+          "iconbutton__ideal__pressed",
+          "icontogglebutton__ideal__default",
+          "icontogglebutton__ideal__cell-toggle-true-state-focused-40000113-4188",
+          "icontogglebutton__ideal__cell-toggle-true-state-pressed-40000113-4195",
+          "icontogglebutton__ideal__disabled",
+          "icontogglebutton__ideal__focused",
+          "icontogglebutton__ideal__pressed",
+          "icontogglebutton__ideal__checked",
+          "glimmerlazycolumn__ideal__default",
+          "glimmerlazycolumn__ideal__default__title-true",
+          "glimmerlazycolumn-twoline__ideal__default",
+          "listitem__ideal__default",
+          "listitem__ideal__pressed",
+          "listitem__ideal__default__content-supporting-label",
+          "verticalstack__ideal__default",
+          "voiceinputindicator__ideal__default",
+          "voiceinputindicator__ideal__cell-volume-quiet-contained-yes-40000116-9342",
+          "voiceinputindicator__ideal__default__volume-quiet",
+          "voiceinputindicator__ideal__default__container-contained"
+        ],
+        "components": [
+          "ButtonGroup",
+          "Button",
+          "ToggleButton",
+          "Card",
+          "TitleChip",
+          "IconButton",
+          "IconToggleButton",
+          "GlimmerLazyColumn",
+          "GlimmerLazyColumn/TwoLine",
+          "ListItem",
+          "VerticalStack",
+          "VoiceInputIndicator"
+        ]
+      },
+      {
+        "sha": "0eac9db966d3d98f0ea3a453a5c93226d3e4e505",
+        "subject": "feat(glimmer): add ButtonGroup to the catalog (#425)",
+        "at": "2026-09-15T10:04:00+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [
+          "buttongroup__ideal__default"
+        ],
+        "components": [
+          "ButtonGroup"
+        ]
+      },
+      {
+        "sha": "03f17f3578692786764810ab96323f48c5ad1d48",
+        "subject": "feat(glimmer): add lazy list catalog coverage (#427)",
+        "at": "2026-09-15T09:44:29+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [
+          "glimmerlazycolumn__ideal__default",
+          "glimmerlazycolumn__ideal__default__title-true",
+          "glimmerlazycolumn-twoline__ideal__default"
+        ],
+        "components": [
+          "GlimmerLazyColumn",
+          "GlimmerLazyColumn/TwoLine"
+        ]
+      },
+      {
+        "sha": "1f6039272f4d1de00531e91ea9dc99628bf4f328",
+        "subject": "feat(glimmer): add VerticalStack to the catalog (#423)",
+        "at": "2026-09-15T09:34:06+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [
+          "verticalstack__ideal__default"
+        ],
+        "components": [
+          "VerticalStack"
+        ]
+      }
+    ]
+  },
+  "figma": {
+    "fileKey": "HKfLClZDLRyMhf4IQQLna8",
+    "fileName": "Jetpack Compose Glimmer UI (Community)",
+    "versions": [
+      {
+        "id": "2399364574015562050",
+        "at": "2026-09-15T07:52:24Z",
+        "author": "Figma"
+      },
+      {
+        "id": "2398263417944731998",
+        "at": "2026-09-12T10:00:18Z",
+        "author": "Yuri Schimke"
+      }
+    ],
+    "comments": []
+  },
+  "gaps": [
+    {
+      "kind": "dangling-mapping",
+      "detail": "design-map names ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker_VARIANT_disabled, ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker_VARIANT_focused, ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker_VARIANT_pressed, which this catalog does not publish.",
+      "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ButtonSticker",
+      "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker_VARIANT_disabled"
+    },
+    {
+      "kind": "dangling-mapping",
+      "detail": "design-map names ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_disabled, ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_focused, ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_pressed, which this catalog does not publish.",
+      "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt#ToggleButtonSticker",
+      "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_disabled"
+    },
+    {
+      "kind": "dangling-mapping",
+      "detail": "design-map names ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingSticker_VARIANT_pressed, which this catalog does not publish.",
+      "code": "glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt#ListItemSticker",
+      "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingSticker_VARIANT_pressed"
+    }
+  ]
+}

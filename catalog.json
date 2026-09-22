@@ -1,0 +1,3390 @@
+{
+  "schema": "design-parity-catalog/v1",
+  "system": "glimmer-catalog",
+  "title": "Compose Glimmer",
+  "components": [
+    {
+      "componentId": "ButtonGroup",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/buttongroup/ideal__default.png",
+          "state": "default",
+          "width": 420,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/buttongroup__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker",
+          "density": 1
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 16,
+              "y": 0,
+              "width": 146,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 16,
+            "y": 0,
+            "width": 146,
+            "height": 48
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 170,
+              "y": 0,
+              "width": 146,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 170,
+            "y": 0,
+            "width": 146,
+            "height": 48
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 324,
+              "y": 0,
+              "width": 96,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 324,
+            "y": 0,
+            "width": 96,
+            "height": 48
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 420,
+            "height": 48
+          },
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 16,
+            "y": 0,
+            "width": 146,
+            "height": 48
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 170,
+            "y": 0,
+            "width": 146,
+            "height": 48
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        },
+        {
+          "bounds": {
+            "x": 324,
+            "y": 0,
+            "width": 96,
+            "height": 48
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        }
+      ],
+      "section": "Actions",
+      "group": "Button group",
+      "caption": "A horizontally scrolling set of buttons that enlarges and centers the focused item.",
+      "reference": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:6497",
+      "wireframe": "wireframes/buttongroup.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/ButtonGroups.kt",
+      "sourceModule": ":glimmer-catalog",
+      "bodyLine": 30,
+      "sourceDirectory": "glimmer-catalog",
+      "sourceFunction": "ButtonGroupSticker",
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "composableSlot": true
+        }
+      ]
+    },
+    {
+      "componentId": "Button",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/button/ideal__default.png",
+          "state": "default",
+          "width": 141,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/button__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker",
+          "overrides": [
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Button"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Button"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "size",
+              "type": "string",
+              "label": "size",
+              "default": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "Medium",
+                  "label": "Medium"
+                },
+                {
+                  "value": "Large",
+                  "label": "Large"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/button/ideal__disabled.png",
+          "state": "disabled",
+          "width": 141,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/button__ideal__disabled",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_disabled",
+          "overrides": [
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Button"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Button"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "disabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "size",
+              "type": "string",
+              "label": "size",
+              "default": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "Medium",
+                  "label": "Medium"
+                },
+                {
+                  "value": "Large",
+                  "label": "Large"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/button/ideal__focused.png",
+          "state": "focused",
+          "width": 141,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/button__ideal__focused",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_focused",
+          "overrides": [
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Button"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Button"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "size",
+              "type": "string",
+              "label": "size",
+              "default": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "Medium",
+                  "label": "Medium"
+                },
+                {
+                  "value": "Large",
+                  "label": "Large"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/button/ideal__pressed.png",
+          "state": "pressed",
+          "width": 141,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/button__ideal__pressed",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonSticker_VARIANT_pressed",
+          "overrides": [
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Button"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Button"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "size",
+              "type": "string",
+              "label": "size",
+              "default": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "Medium",
+                  "label": "Medium"
+                },
+                {
+                  "value": "Large",
+                  "label": "Large"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/button/ideal__default__size-large.png",
+          "state": "default",
+          "width": 141,
+          "height": 72,
+          "props": {
+            "size": "Large"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/button__ideal__default__size-large",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLargeSticker",
+          "overrides": [
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Button"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Button"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/button/ideal__disabled__size-large.png",
+          "state": "disabled",
+          "width": 141,
+          "height": 72,
+          "props": {
+            "size": "Large"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/button__ideal__disabled__size-large"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/button/ideal__focused__size-large.png",
+          "state": "focused",
+          "width": 141,
+          "height": 72,
+          "props": {
+            "size": "Large"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/button__ideal__focused__size-large"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/button/ideal__pressed__size-large.png",
+          "state": "pressed",
+          "width": 141,
+          "height": 72,
+          "props": {
+            "size": "Large"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/button__ideal__pressed__size-large"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/button/ideal__default__content-label-only.png",
+          "state": "default",
+          "width": 103,
+          "height": 48,
+          "props": {
+            "content": "label-only"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/button__ideal__default__content-label-only",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonLabelOnlySticker",
+          "overrides": [
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Button"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Button"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/button/ideal__default__content-trailing-icon.png",
+          "state": "default",
+          "width": 179,
+          "height": 48,
+          "props": {
+            "content": "trailing-icon"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/button__ideal__default__content-trailing-icon",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ButtonTrailingIconSticker",
+          "overrides": [
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Button"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Button"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
+          "density": 1
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 141,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 141,
+            "height": 48
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 141,
+            "height": 48
+          },
+          "role": "Button",
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        }
+      ],
+      "section": "Actions",
+      "group": "Button",
+      "caption": "The primary action. Two sizes, the icon slots and the kit's states fold in.",
+      "reference": "figma:HKfLClZDLRyMhf4IQQLna8/40:660",
+      "wireframe": "wireframes/button.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt",
+      "sourceModule": ":glimmer-catalog",
+      "bodyLine": 48,
+      "sourceDirectory": "glimmer-catalog",
+      "sourceFunction": "ButtonSticker"
+    },
+    {
+      "componentId": "ToggleButton",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/togglebutton/ideal__default.png",
+          "state": "default",
+          "width": 141,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/togglebutton__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker",
+          "overrides": [
+            {
+              "key": "state",
+              "type": "string",
+              "label": "state",
+              "default": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "current": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "unchecked",
+                  "label": "Unchecked"
+                },
+                {
+                  "value": "checked",
+                  "label": "Checked"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "size",
+              "type": "string",
+              "label": "size",
+              "default": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "Medium",
+                  "label": "Medium"
+                },
+                {
+                  "value": "Large",
+                  "label": "Large"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/togglebutton/ideal__cell-state-enabled-size-large-toggle-true-40000113-4082.png",
+          "state": "cell-state-enabled-size-large-toggle-true-40000113-4082",
+          "width": 141,
+          "height": 72,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/togglebutton__ideal__cell-state-enabled-size-large-toggle-true-40000113-4082",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-enabled-size-large-toggle-true-40000113-4082",
+          "overrides": [
+            {
+              "key": "state",
+              "type": "string",
+              "label": "state",
+              "default": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "current": {
+                "kind": "string",
+                "value": "checked"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "unchecked",
+                  "label": "Unchecked"
+                },
+                {
+                  "value": "checked",
+                  "label": "Checked"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "size",
+              "type": "string",
+              "label": "size",
+              "default": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Large"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "Medium",
+                  "label": "Medium"
+                },
+                {
+                  "value": "Large",
+                  "label": "Large"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/togglebutton/ideal__cell-state-focused-size-default-toggle-true-40000113-4092.png",
+          "state": "cell-state-focused-size-default-toggle-true-40000113-4092",
+          "width": 141,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/togglebutton__ideal__cell-state-focused-size-default-toggle-true-40000113-4092",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-focused-size-default-toggle-true-40000113-4092",
+          "overrides": [
+            {
+              "key": "state",
+              "type": "string",
+              "label": "state",
+              "default": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "current": {
+                "kind": "string",
+                "value": "checked"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "unchecked",
+                  "label": "Unchecked"
+                },
+                {
+                  "value": "checked",
+                  "label": "Checked"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "size",
+              "type": "string",
+              "label": "size",
+              "default": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "Medium",
+                  "label": "Medium"
+                },
+                {
+                  "value": "Large",
+                  "label": "Large"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/togglebutton/ideal__cell-state-focused-size-large-toggle-true-40000113-4112.png",
+          "state": "cell-state-focused-size-large-toggle-true-40000113-4112",
+          "width": 141,
+          "height": 72,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/togglebutton__ideal__cell-state-focused-size-large-toggle-true-40000113-4112",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-focused-size-large-toggle-true-40000113-4112",
+          "overrides": [
+            {
+              "key": "state",
+              "type": "string",
+              "label": "state",
+              "default": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "current": {
+                "kind": "string",
+                "value": "checked"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "unchecked",
+                  "label": "Unchecked"
+                },
+                {
+                  "value": "checked",
+                  "label": "Checked"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "size",
+              "type": "string",
+              "label": "size",
+              "default": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Large"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "Medium",
+                  "label": "Medium"
+                },
+                {
+                  "value": "Large",
+                  "label": "Large"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/togglebutton/ideal__cell-state-pressed-size-default-toggle-true-40000113-4102.png",
+          "state": "cell-state-pressed-size-default-toggle-true-40000113-4102",
+          "width": 141,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/togglebutton__ideal__cell-state-pressed-size-default-toggle-true-40000113-4102",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-pressed-size-default-toggle-true-40000113-4102",
+          "overrides": [
+            {
+              "key": "state",
+              "type": "string",
+              "label": "state",
+              "default": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "current": {
+                "kind": "string",
+                "value": "checked"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "unchecked",
+                  "label": "Unchecked"
+                },
+                {
+                  "value": "checked",
+                  "label": "Checked"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "size",
+              "type": "string",
+              "label": "size",
+              "default": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "Medium",
+                  "label": "Medium"
+                },
+                {
+                  "value": "Large",
+                  "label": "Large"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/togglebutton/ideal__cell-state-pressed-size-large-toggle-true-40000113-4122.png",
+          "state": "cell-state-pressed-size-large-toggle-true-40000113-4122",
+          "width": 141,
+          "height": 72,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/togglebutton__ideal__cell-state-pressed-size-large-toggle-true-40000113-4122",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_cell-state-pressed-size-large-toggle-true-40000113-4122",
+          "overrides": [
+            {
+              "key": "state",
+              "type": "string",
+              "label": "state",
+              "default": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "current": {
+                "kind": "string",
+                "value": "checked"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "unchecked",
+                  "label": "Unchecked"
+                },
+                {
+                  "value": "checked",
+                  "label": "Checked"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "size",
+              "type": "string",
+              "label": "size",
+              "default": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Large"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "Medium",
+                  "label": "Medium"
+                },
+                {
+                  "value": "Large",
+                  "label": "Large"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/togglebutton/ideal__disabled.png",
+          "state": "disabled",
+          "width": 141,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/togglebutton__ideal__disabled",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_disabled",
+          "overrides": [
+            {
+              "key": "state",
+              "type": "string",
+              "label": "state",
+              "default": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "current": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "unchecked",
+                  "label": "Unchecked"
+                },
+                {
+                  "value": "checked",
+                  "label": "Checked"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "disabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "size",
+              "type": "string",
+              "label": "size",
+              "default": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "Medium",
+                  "label": "Medium"
+                },
+                {
+                  "value": "Large",
+                  "label": "Large"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/togglebutton/ideal__focused.png",
+          "state": "focused",
+          "width": 141,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/togglebutton__ideal__focused",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_focused",
+          "overrides": [
+            {
+              "key": "state",
+              "type": "string",
+              "label": "state",
+              "default": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "current": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "unchecked",
+                  "label": "Unchecked"
+                },
+                {
+                  "value": "checked",
+                  "label": "Checked"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "size",
+              "type": "string",
+              "label": "size",
+              "default": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "Medium",
+                  "label": "Medium"
+                },
+                {
+                  "value": "Large",
+                  "label": "Large"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/togglebutton/ideal__pressed.png",
+          "state": "pressed",
+          "width": 141,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/togglebutton__ideal__pressed",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonSticker_VARIANT_pressed",
+          "overrides": [
+            {
+              "key": "state",
+              "type": "string",
+              "label": "state",
+              "default": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "current": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "unchecked",
+                  "label": "Unchecked"
+                },
+                {
+                  "value": "checked",
+                  "label": "Checked"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "size",
+              "type": "string",
+              "label": "size",
+              "default": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Medium"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "Medium",
+                  "label": "Medium"
+                },
+                {
+                  "value": "Large",
+                  "label": "Large"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/togglebutton/ideal__default__size-large.png",
+          "state": "default",
+          "width": 141,
+          "height": 72,
+          "props": {
+            "size": "Large"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/togglebutton__ideal__default__size-large",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker",
+          "overrides": [
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/togglebutton/ideal__disabled__size-large.png",
+          "state": "disabled",
+          "width": 141,
+          "height": 72,
+          "props": {
+            "size": "Large"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/togglebutton__ideal__disabled__size-large"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/togglebutton/ideal__focused__size-large.png",
+          "state": "focused",
+          "width": 141,
+          "height": 72,
+          "props": {
+            "size": "Large"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/togglebutton__ideal__focused__size-large"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/togglebutton/ideal__pressed__size-large.png",
+          "state": "pressed",
+          "width": 141,
+          "height": 72,
+          "props": {
+            "size": "Large"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/togglebutton__ideal__pressed__size-large"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/togglebutton/ideal__checked.png",
+          "state": "checked",
+          "width": 141,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/togglebutton__ideal__checked",
+          "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonCheckedSticker",
+          "overrides": [
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "density": 1
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 141,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 141,
+            "height": 48
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 141,
+            "height": 48
+          },
+          "role": "Checkbox",
+          "padding": {
+            "start": 16,
+            "top": 8,
+            "end": 16,
+            "bottom": 8
+          }
+        }
+      ],
+      "section": "Actions",
+      "group": "Button",
+      "caption": "A button that holds its state. The corner morphs between checked and unchecked.",
+      "reference": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:3991",
+      "wireframe": "wireframes/togglebutton.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt",
+      "sourceModule": ":glimmer-catalog",
+      "bodyLine": 121,
+      "sourceDirectory": "glimmer-catalog",
+      "sourceFunction": "ToggleButtonSticker"
+    },
+    {
+      "componentId": "Card",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/card/ideal__default.png",
+          "state": "default",
+          "width": 420,
+          "height": 375,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/card__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardSticker",
+          "overrides": [
+            {
+              "key": "title",
+              "type": "string",
+              "label": "title",
+              "default": {
+                "kind": "string",
+                "value": "Title"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Title"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/card/ideal__default__content-text-only.png",
+          "state": "default",
+          "width": 420,
+          "height": 80,
+          "props": {
+            "content": "text-only"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/card__ideal__default__content-text-only",
+          "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardTextOnlySticker",
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/card/ideal__default__content-trailing-icon.png",
+          "state": "default",
+          "width": 420,
+          "height": 101,
+          "props": {
+            "content": "trailing-icon"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/card__ideal__default__content-trailing-icon",
+          "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardTrailingIconSticker",
+          "overrides": [
+            {
+              "key": "title",
+              "type": "string",
+              "label": "title",
+              "default": {
+                "kind": "string",
+                "value": "Title"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Title"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/card/ideal__default__content-action.png",
+          "state": "default",
+          "width": 420,
+          "height": 149,
+          "props": {
+            "content": "action"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/card__ideal__default__content-action",
+          "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardActionSticker",
+          "overrides": [
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Button"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Button"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            },
+            {
+              "key": "title",
+              "type": "string",
+              "label": "title",
+              "default": {
+                "kind": "string",
+                "value": "Title"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Title"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 420,
+            "height": 375
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 12,
+            "y": 12,
+            "width": 396,
+            "height": 248
+          },
+          "cornerRadius": 24
+        }
+      ],
+      "section": "Containment",
+      "group": "Card",
+      "caption": "A surface for a unit of content. Header image, title, subtitle and the icon slots.",
+      "reference": "figma:HKfLClZDLRyMhf4IQQLna8/416:2700",
+      "wireframe": "wireframes/card.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt",
+      "sourceModule": ":glimmer-catalog",
+      "bodyLine": 49,
+      "sourceDirectory": "glimmer-catalog",
+      "sourceFunction": "CardSticker"
+    },
+    {
+      "componentId": "TitleChip",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/titlechip/ideal__default.png",
+          "state": "default",
+          "width": 150,
+          "height": 44,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/titlechip__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.TitleChipSticker",
+          "overrides": [
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Title Chip"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Title Chip"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/titlechip/ideal__default__content-label-only.png",
+          "state": "default",
+          "width": 118,
+          "height": 44,
+          "props": {
+            "content": "label-only"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/titlechip__ideal__default__content-label-only",
+          "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.TitleChipLabelOnlySticker",
+          "overrides": [
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Title Chip"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Title Chip"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 6,
+            "y": 6,
+            "width": 138,
+            "height": 32
+          },
+          "padding": {
+            "start": 6,
+            "top": 6,
+            "end": 6,
+            "bottom": 6
+          },
+          "cornerRadius": 16
+        }
+      ],
+      "section": "Containment",
+      "group": "Card",
+      "caption": "Labels the content it sits above. Carries its own leading-icon slot.",
+      "reference": "figma:HKfLClZDLRyMhf4IQQLna8/5315:4722",
+      "wireframe": "wireframes/titlechip.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt",
+      "sourceModule": ":glimmer-catalog",
+      "bodyLine": 128,
+      "sourceDirectory": "glimmer-catalog",
+      "sourceFunction": "TitleChipSticker",
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "composableSlot": true
+        }
+      ]
+    },
+    {
+      "componentId": "IconButton",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/iconbutton/ideal__default.png",
+          "state": "default",
+          "width": 48,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/iconbutton__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker",
+          "overrides": [
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/iconbutton/ideal__disabled.png",
+          "state": "disabled",
+          "width": 48,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/iconbutton__ideal__disabled",
+          "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker_VARIANT_disabled",
+          "overrides": [
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "disabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/iconbutton/ideal__focused.png",
+          "state": "focused",
+          "width": 48,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/iconbutton__ideal__focused",
+          "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker_VARIANT_focused",
+          "overrides": [
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/iconbutton/ideal__pressed.png",
+          "state": "pressed",
+          "width": 48,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/iconbutton__ideal__pressed",
+          "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconButtonSticker_VARIANT_pressed",
+          "overrides": [
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "density": 1
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 48,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 48,
+            "height": 48
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 48,
+            "height": 48
+          },
+          "role": "Button",
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          },
+          "cornerRadius": 24
+        }
+      ],
+      "section": "Actions",
+      "group": "Icon button",
+      "caption": "An action carried by its icon alone.",
+      "reference": "figma:HKfLClZDLRyMhf4IQQLna8/5315:4651",
+      "wireframe": "wireframes/iconbutton.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt",
+      "sourceModule": ":glimmer-catalog",
+      "bodyLine": 32,
+      "sourceDirectory": "glimmer-catalog",
+      "sourceFunction": "IconButtonSticker"
+    },
+    {
+      "componentId": "IconToggleButton",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/icontogglebutton/ideal__default.png",
+          "state": "default",
+          "width": 48,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/icontogglebutton__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker",
+          "overrides": [
+            {
+              "key": "state",
+              "type": "string",
+              "label": "state",
+              "default": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "current": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "unchecked",
+                  "label": "Unchecked"
+                },
+                {
+                  "value": "checked",
+                  "label": "Checked"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/icontogglebutton/ideal__cell-toggle-true-state-focused-40000113-4188.png",
+          "state": "cell-toggle-true-state-focused-40000113-4188",
+          "width": 48,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/icontogglebutton__ideal__cell-toggle-true-state-focused-40000113-4188",
+          "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_cell-toggle-true-state-focused-40000113-4188",
+          "overrides": [
+            {
+              "key": "state",
+              "type": "string",
+              "label": "state",
+              "default": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "current": {
+                "kind": "string",
+                "value": "checked"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "unchecked",
+                  "label": "Unchecked"
+                },
+                {
+                  "value": "checked",
+                  "label": "Checked"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/icontogglebutton/ideal__cell-toggle-true-state-pressed-40000113-4195.png",
+          "state": "cell-toggle-true-state-pressed-40000113-4195",
+          "width": 48,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/icontogglebutton__ideal__cell-toggle-true-state-pressed-40000113-4195",
+          "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_cell-toggle-true-state-pressed-40000113-4195",
+          "overrides": [
+            {
+              "key": "state",
+              "type": "string",
+              "label": "state",
+              "default": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "current": {
+                "kind": "string",
+                "value": "checked"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "unchecked",
+                  "label": "Unchecked"
+                },
+                {
+                  "value": "checked",
+                  "label": "Checked"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/icontogglebutton/ideal__disabled.png",
+          "state": "disabled",
+          "width": 48,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/icontogglebutton__ideal__disabled",
+          "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_disabled",
+          "overrides": [
+            {
+              "key": "state",
+              "type": "string",
+              "label": "state",
+              "default": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "current": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "unchecked",
+                  "label": "Unchecked"
+                },
+                {
+                  "value": "checked",
+                  "label": "Checked"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "disabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/icontogglebutton/ideal__focused.png",
+          "state": "focused",
+          "width": 48,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/icontogglebutton__ideal__focused",
+          "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_focused",
+          "overrides": [
+            {
+              "key": "state",
+              "type": "string",
+              "label": "state",
+              "default": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "current": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "unchecked",
+                  "label": "Unchecked"
+                },
+                {
+                  "value": "checked",
+                  "label": "Checked"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/icontogglebutton/ideal__pressed.png",
+          "state": "pressed",
+          "width": 48,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/icontogglebutton__ideal__pressed",
+          "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonSticker_VARIANT_pressed",
+          "overrides": [
+            {
+              "key": "state",
+              "type": "string",
+              "label": "state",
+              "default": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "current": {
+                "kind": "string",
+                "value": "unchecked"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "unchecked",
+                  "label": "Unchecked"
+                },
+                {
+                  "value": "checked",
+                  "label": "Checked"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "supportsFocus": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/icontogglebutton/ideal__checked.png",
+          "state": "checked",
+          "width": 48,
+          "height": 48,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/icontogglebutton__ideal__checked",
+          "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonCheckedSticker",
+          "overrides": [
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "density": 1
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 48,
+              "height": 48
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 48,
+            "height": 48
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 48,
+            "height": 48
+          },
+          "role": "Checkbox",
+          "padding": {
+            "start": 8,
+            "top": 8,
+            "end": 8,
+            "bottom": 8
+          }
+        }
+      ],
+      "section": "Actions",
+      "group": "Icon button",
+      "caption": "An icon button that holds its checked state.",
+      "reference": "figma:HKfLClZDLRyMhf4IQQLna8/40000113:4150",
+      "wireframe": "wireframes/icontogglebutton.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt",
+      "sourceModule": ":glimmer-catalog",
+      "bodyLine": 53,
+      "sourceDirectory": "glimmer-catalog",
+      "sourceFunction": "IconToggleButtonSticker"
+    },
+    {
+      "componentId": "GlimmerLazyColumn",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/glimmerlazycolumn/ideal__default.png",
+          "state": "default",
+          "width": 420,
+          "height": 364,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/glimmerlazycolumn__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker",
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/glimmerlazycolumn/ideal__default__title-true.png",
+          "state": "default",
+          "width": 420,
+          "height": 364,
+          "props": {
+            "Title": "True"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/glimmerlazycolumn__ideal__default__title-true",
+          "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker",
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 20,
+            "width": 420,
+            "height": 80
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 120,
+            "width": 420,
+            "height": 80
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 220,
+            "width": 420,
+            "height": 80
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 320,
+            "width": 420,
+            "height": 44
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 36
+        }
+      ],
+      "section": "Containment",
+      "group": "Lazy list",
+      "caption": "A vertically scrolling Glimmer list with edge scrims and focus-aware snapping.",
+      "reference": "figma:HKfLClZDLRyMhf4IQQLna8/4116:5212",
+      "wireframe": "wireframes/glimmerlazycolumn.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt",
+      "sourceModule": ":glimmer-catalog",
+      "bodyLine": 51,
+      "sourceDirectory": "glimmer-catalog",
+      "sourceFunction": "GlimmerLazyColumnSticker",
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "composableSlot": true
+        }
+      ]
+    },
+    {
+      "componentId": "GlimmerLazyColumn/TwoLine",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/glimmerlazycolumn-twoline/ideal__default.png",
+          "state": "default",
+          "width": 420,
+          "height": 364,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/glimmerlazycolumn-twoline__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnTwoLineSticker",
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 20,
+            "width": 420,
+            "height": 84
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 124,
+            "width": 420,
+            "height": 84
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 228,
+            "width": 420,
+            "height": 84
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 332,
+            "width": 420,
+            "height": 32
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 36
+        }
+      ],
+      "section": "Containment",
+      "group": "Lazy list",
+      "caption": "The lazy column populated with two-line list items.",
+      "reference": "figma:HKfLClZDLRyMhf4IQQLna8/4116:5251",
+      "wireframe": "wireframes/glimmerlazycolumn-twoline.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt",
+      "sourceModule": ":glimmer-catalog",
+      "bodyLine": 82,
+      "sourceDirectory": "glimmer-catalog",
+      "sourceFunction": "GlimmerLazyColumnTwoLineSticker"
+    },
+    {
+      "componentId": "ListItem",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/listitem/ideal__default.png",
+          "state": "default",
+          "width": 420,
+          "height": 80,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/listitem__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker",
+          "overrides": [
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Title"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Title"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/listitem/ideal__focused.png",
+          "state": "focused",
+          "width": 420,
+          "height": 80,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/listitem__ideal__focused",
+          "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker_VARIANT_focused",
+          "overrides": [
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Title"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Title"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
+          "supportsFocus": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/listitem/ideal__pressed.png",
+          "state": "pressed",
+          "width": 420,
+          "height": 80,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/listitem__ideal__pressed",
+          "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSticker_VARIANT_pressed",
+          "overrides": [
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Title"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Title"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
+          "supportsFocus": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/listitem/ideal__default__content-supporting-label.png",
+          "state": "default",
+          "width": 420,
+          "height": 84,
+          "props": {
+            "content": "supporting-label"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/listitem__ideal__default__content-supporting-label",
+          "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingSticker",
+          "overrides": [
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Title"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Title"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/listitem/ideal__focused__content-supporting-label.png",
+          "state": "focused",
+          "width": 420,
+          "height": 84,
+          "props": {
+            "content": "supporting-label"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/listitem__ideal__focused__content-supporting-label"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/listitem/ideal__pressed__content-supporting-label.png",
+          "state": "pressed",
+          "width": 420,
+          "height": 84,
+          "props": {
+            "content": "supporting-label"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/listitem__ideal__pressed__content-supporting-label"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/listitem/ideal__default__content-supporting-label-leading-icon.png",
+          "state": "default",
+          "width": 420,
+          "height": 84,
+          "props": {
+            "content": "supporting-label-leading-icon"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/listitem__ideal__default__content-supporting-label-leading-icon",
+          "previewId": "ee.schimke.m3catalog.glimmer.ListsKt.ListItemSupportingIconSticker",
+          "overrides": [
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Title"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Title"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 420,
+            "height": 80
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          },
+          "cornerRadius": 36
+        }
+      ],
+      "section": "Containment",
+      "group": "List item",
+      "caption": "One row of a list. The supporting label, icon slots and the kit's states fold in.",
+      "reference": "figma:HKfLClZDLRyMhf4IQQLna8/384:4195",
+      "wireframe": "wireframes/listitem.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt",
+      "sourceModule": ":glimmer-catalog",
+      "bodyLine": 50,
+      "sourceDirectory": "glimmer-catalog",
+      "sourceFunction": "ListItemSticker"
+    },
+    {
+      "componentId": "VerticalStack",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/verticalstack/ideal__default.png",
+          "state": "default",
+          "width": 420,
+          "height": 178,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/verticalstack__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmer.StacksKt.VerticalStackSticker",
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 12,
+            "y": 27,
+            "width": 395,
+            "height": 150
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 420,
+            "height": 160
+          },
+          "padding": {
+            "start": 12,
+            "top": 12,
+            "end": 12,
+            "bottom": 12
+          },
+          "cornerRadius": 36
+        }
+      ],
+      "section": "Containment",
+      "group": "Stack",
+      "caption": "Layers focusable content in depth, scaling and revealing the items behind the front one.",
+      "reference": "figma:HKfLClZDLRyMhf4IQQLna8/40000042:4078",
+      "wireframe": "wireframes/verticalstack.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/Stacks.kt",
+      "sourceModule": ":glimmer-catalog",
+      "bodyLine": 30,
+      "sourceDirectory": "glimmer-catalog",
+      "sourceFunction": "VerticalStackSticker",
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "composableSlot": true
+        }
+      ]
+    },
+    {
+      "componentId": "VoiceInputIndicator",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/voiceinputindicator/ideal__default.png",
+          "state": "default",
+          "width": 32,
+          "height": 32,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/voiceinputindicator__ideal__default",
+          "previewId": "ee.schimke.m3catalog.glimmer.VoiceInputKt.VoiceInputIndicatorSticker",
+          "overrides": [
+            {
+              "key": "volume",
+              "type": "string",
+              "label": "volume",
+              "default": {
+                "kind": "string",
+                "value": "Loud"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Loud"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "Loud",
+                  "label": "Loud"
+                },
+                {
+                  "value": "Quiet",
+                  "label": "Quiet"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "container",
+              "type": "string",
+              "label": "container",
+              "default": {
+                "kind": "string",
+                "value": "plain"
+              },
+              "current": {
+                "kind": "string",
+                "value": "plain"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "plain",
+                  "label": "Plain"
+                },
+                {
+                  "value": "contained",
+                  "label": "Contained"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/voiceinputindicator/ideal__cell-volume-quiet-contained-yes-40000116-9342.png",
+          "state": "cell-volume-quiet-contained-yes-40000116-9342",
+          "width": 32,
+          "height": 32,
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/voiceinputindicator__ideal__cell-volume-quiet-contained-yes-40000116-9342",
+          "previewId": "ee.schimke.m3catalog.glimmer.VoiceInputKt.VoiceInputIndicatorSticker_VARIANT_cell-volume-quiet-contained-yes-40000116-9342",
+          "overrides": [
+            {
+              "key": "volume",
+              "type": "string",
+              "label": "volume",
+              "default": {
+                "kind": "string",
+                "value": "Loud"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Quiet"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "Loud",
+                  "label": "Loud"
+                },
+                {
+                  "value": "Quiet",
+                  "label": "Quiet"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "container",
+              "type": "string",
+              "label": "container",
+              "default": {
+                "kind": "string",
+                "value": "plain"
+              },
+              "current": {
+                "kind": "string",
+                "value": "contained"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "plain",
+                  "label": "Plain"
+                },
+                {
+                  "value": "contained",
+                  "label": "Contained"
+                }
+              ],
+              "optionsExhaustive": true
+            }
+          ],
+          "secondary": true,
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/voiceinputindicator/ideal__default__volume-quiet.png",
+          "state": "default",
+          "width": 32,
+          "height": 32,
+          "props": {
+            "volume": "Quiet"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/voiceinputindicator__ideal__default__volume-quiet",
+          "previewId": "ee.schimke.m3catalog.glimmer.VoiceInputKt.QuietVoiceInputIndicatorSticker",
+          "density": 1
+        },
+        {
+          "variant": "ideal",
+          "path": "images/voiceinputindicator/ideal__default__container-contained.png",
+          "state": "default",
+          "width": 32,
+          "height": 32,
+          "props": {
+            "container": "contained"
+          },
+          "livePreview": "https://preview.coo.ee/glimmer-catalog/p/voiceinputindicator__ideal__default__container-contained",
+          "previewId": "ee.schimke.m3catalog.glimmer.VoiceInputKt.ContainedVoiceInputIndicatorSticker",
+          "density": 1
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Communication",
+      "group": "Voice input",
+      "caption": "Shows that the glasses are listening, and how loudly. The kit's two levels fold in.",
+      "reference": "figma:HKfLClZDLRyMhf4IQQLna8/40000116:9346",
+      "wireframe": "wireframes/voiceinputindicator.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/VoiceInput.kt",
+      "sourceModule": ":glimmer-catalog",
+      "bodyLine": 77,
+      "sourceDirectory": "glimmer-catalog",
+      "sourceFunction": "VoiceInputIndicatorSticker"
+    }
+  ],
+  "library": [
+    "androidx.xr.glimmer:glimmer"
+  ],
+  "renderer": "compose-preview 2.22.0",
+  "generatedAt": "2026-09-22T22:34:59.550Z",
+  "display": {
+    "surface": "dark",
+    "hero": "CardActionSticker"
+  },
+  "liveBundle": {
+    "path": "bundle/",
+    "file": "bundle.png"
+  },
+  "liveBundles": [
+    {
+      "path": "bundle/",
+      "file": "bundle.png",
+      "module": ":glimmer-catalog",
+      "previewIdPrefix": ""
+    }
+  ],
+  "componentsFile": "components.json",
+  "source": {
+    "repo": "yschimke/m3-catalog",
+    "ref": "main",
+    "module": ":glimmer-catalog"
+  }
+}

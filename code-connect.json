@@ -1,0 +1,209 @@
+{
+  "system": "glimmer-catalog",
+  "title": "Compose Glimmer",
+  "label": "Compose",
+  "source": {
+    "repo": "yschimke/m3-catalog",
+    "ref": "main",
+    "module": ":glimmer-catalog"
+  },
+  "generatedAt": "2026-09-22T22:35:05.263Z",
+  "mappings": [
+    {
+      "componentId": "ButtonGroup",
+      "figmaLayerName": "ButtonGroup",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/GlimmerCatalog.kt",
+      "label": "Compose",
+      "confidence": "LOW",
+      "previewName": "ButtonGroupSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.glimmer.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/buttongroup.svg"
+    },
+    {
+      "componentId": "Button",
+      "figmaLayerName": "Button",
+      "componentName": "ButtonSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ButtonSticker",
+      "figmaSvg": "figma/button.svg"
+    },
+    {
+      "componentId": "ToggleButton",
+      "figmaLayerName": "ToggleButton",
+      "componentName": "ToggleButtonSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Buttons.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ToggleButtonSticker",
+      "figmaSvg": "figma/togglebutton.svg"
+    },
+    {
+      "componentId": "Card",
+      "figmaLayerName": "Card",
+      "componentName": "CardSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Cards.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "CardSticker",
+      "figmaSvg": "figma/card.svg"
+    },
+    {
+      "componentId": "TitleChip",
+      "figmaLayerName": "TitleChip",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/GlimmerCatalog.kt",
+      "label": "Compose",
+      "confidence": "LOW",
+      "previewName": "TitleChipSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.glimmer.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/titlechip.svg"
+    },
+    {
+      "componentId": "IconButton",
+      "figmaLayerName": "IconButton",
+      "componentName": "IconButtonSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "IconButtonSticker",
+      "figmaSvg": "figma/iconbutton.svg"
+    },
+    {
+      "componentId": "IconToggleButton",
+      "figmaLayerName": "IconToggleButton",
+      "componentName": "IconToggleButtonSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/IconButtons.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "IconToggleButtonSticker",
+      "figmaSvg": "figma/icontogglebutton.svg"
+    },
+    {
+      "componentId": "GlimmerLazyColumn",
+      "figmaLayerName": "GlimmerLazyColumn",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/GlimmerCatalog.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "GlimmerLazyColumnSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.glimmer.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/glimmerlazycolumn.svg"
+    },
+    {
+      "componentId": "GlimmerLazyColumn/TwoLine",
+      "figmaLayerName": "GlimmerLazyColumn/TwoLine",
+      "componentName": "GlimmerLazyColumnTwoLineSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/LazyLists.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "GlimmerLazyColumnTwoLineSticker",
+      "figmaSvg": "figma/glimmerlazycolumn-twoline.svg"
+    },
+    {
+      "componentId": "ListItem",
+      "figmaLayerName": "ListItem",
+      "componentName": "ListItemSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/Lists.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ListItemSticker",
+      "figmaSvg": "figma/listitem.svg"
+    },
+    {
+      "componentId": "VerticalStack",
+      "figmaLayerName": "VerticalStack",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/GlimmerCatalog.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "VerticalStackSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.glimmer.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/verticalstack.svg"
+    },
+    {
+      "componentId": "VoiceInputIndicator",
+      "figmaLayerName": "VoiceInputIndicator",
+      "componentName": "VoiceInputIndicatorSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/glimmer-catalog/src/main/kotlin/ee/schimke/m3catalog/glimmer/VoiceInput.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "VoiceInputIndicatorSticker",
+      "figmaSvg": "figma/voiceinputindicator.svg"
+    }
+  ]
+}

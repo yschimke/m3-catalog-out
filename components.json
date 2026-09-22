@@ -1,0 +1,188 @@
+{
+    "schemaVersion": 2,
+    "module": "glimmer-catalog",
+    "variant": "debug",
+    "components": [
+        {
+            "canonicalId": "glimmer-catalog/ee.schimke.m3catalog.glimmer.GlimmerCatalogKt.Sticker",
+            "componentIds": [
+                "ButtonGroup",
+                "Card",
+                "GlimmerLazyColumn",
+                "IconToggleButton",
+                "TitleChip",
+                "ToggleButton",
+                "VerticalStack",
+                "VoiceInputIndicator"
+            ],
+            "symbol": {
+                "jvmOwner": "ee.schimke.m3catalog.glimmer.GlimmerCatalogKt",
+                "callable": "ee.schimke.m3catalog.glimmer.Sticker",
+                "name": "Sticker",
+                "origin": "PROJECT",
+                "jvmName": "Sticker",
+                "descriptor": "(Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/glimmer/GlimmerCatalog.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "content",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": null
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonGroupsKt.ButtonGroupSticker",
+                    "componentId": "ButtonGroup",
+                    "group": "Button group"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonCheckedSticker",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_disabled",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_focused",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.ButtonsKt.ToggleButtonLargeSticker_VARIANT_pressed",
+                    "componentId": "ToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.CardTextOnlySticker",
+                    "componentId": "Card",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.TitleChipLabelOnlySticker",
+                    "componentId": "TitleChip",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.CardsKt.TitleChipSticker",
+                    "componentId": "TitleChip",
+                    "group": "Card"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnBusyEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnDarkEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnLightEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.ButtonOnVeniceCanalCatsEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnBusyEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnDarkEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnLightEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.GlimmerEnvironmentsKt.CardOnVeniceCanalCatsEnvironment",
+                    "componentId": null,
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.IconButtonsKt.IconToggleButtonCheckedSticker",
+                    "componentId": "IconToggleButton",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnSticker",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": "Lazy list"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.LazyListsKt.GlimmerLazyColumnWithTitleSticker",
+                    "componentId": "GlimmerLazyColumn",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.StacksKt.VerticalStackSticker",
+                    "componentId": "VerticalStack",
+                    "group": "Stack"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.VoiceInputKt.ContainedVoiceInputIndicatorSticker",
+                    "componentId": "VoiceInputIndicator",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.glimmer.VoiceInputKt.QuietVoiceInputIndicatorSticker",
+                    "componentId": "VoiceInputIndicator",
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": "Sticker(content = {})",
+                "imports": [
+                    "ee.schimke.m3catalog.glimmer.Sticker"
+                ],
+                "refusedReason": null,
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        }
+    ],
+    "builderOrphans": []
+}
