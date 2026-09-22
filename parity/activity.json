@@ -1,0 +1,491 @@
+{
+  "schema": "compose-preview-activity/v1",
+  "generatedAt": "2026-09-22T22:33:08.340Z",
+  "windowDays": 30,
+  "code": {
+    "repo": "yschimke/m3-catalog",
+    "ref": "main",
+    "events": [
+      {
+        "sha": "d57598b83ad5cc08e51b20140ceff708ada00bdb",
+        "subject": "build: prepare m3 catalog output repository (#488)",
+        "at": "2026-09-22T23:29:23+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b1405cf9e115568486cbc8e8a44389ab70c78be9",
+        "subject": "chore(deps): update dependency ee.schimke.composeai.preview to v2.22.0 (#489)",
+        "at": "2026-09-22T22:16:29Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0334256bf9ca0145588165a50ca0a04222e2adfb",
+        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.22.0 (#487)",
+        "at": "2026-09-22T13:19:29Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ccafd94b8356051dcf79ed2c36573c5d900e10ed",
+        "subject": "ci: avoid fetching generated blobs for attribution scans (#486)",
+        "at": "2026-09-22T14:14:15+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "423ca9fd3030200b57ede60c9554a9ac5d51c99f",
+        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.21.2 (#485)",
+        "at": "2026-09-22T11:55:59Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a96cbd9feb380bc893082eaa5b84211fccbb081c",
+        "subject": "feat: declare M3 source export adapter (#484)",
+        "at": "2026-09-22T11:59:32+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "55ea9ccf46d167e62f98f6ea875cc4ecab23fada",
+        "subject": "chore: pin catalog runtime SDK (#483)",
+        "at": "2026-09-21T11:08:45+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "791925a8df8a207389d1e1ed65bc3d96080c52f9",
+        "subject": "fix(ui-builder): preserve search content and state (#482)",
+        "at": "2026-09-21T07:32:15+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9decada815eb8aa9b3114baf9a801b9835d99e14",
+        "subject": "feat(ui-builder): deliver Material 3 runtime (#478)",
+        "at": "2026-09-21T07:16:15+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4f0717217eb10f35f4216d58b98cb18ba23ea4a7",
+        "subject": "chore(deps): update dependency java-jdk to v21.0.12+101.0.lts (#481)",
+        "at": "2026-09-21T00:38:54Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "7eafb4b0892f43c6781b3b5c8424a5cb356aeb43",
+        "subject": "chore(deps): update dependency com.android.library to v9.4.1 (#480)",
+        "at": "2026-09-21T00:16:59Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d0b73ee239648d19112f6d62adb2020958487a4a",
+        "subject": "chore(deps): pin dependency java-jdk to 21.0.12+8.0.lts (#479)",
+        "at": "2026-09-21T00:07:57Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "715e2561e125fd00251d12abf8dda79f55a0006e",
+        "subject": "chore(deps): update compose-ai-tools to v2.21.1 (#477)",
+        "at": "2026-09-20T18:55:29Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "06881c62607658377fd978aa92c35c6eb7a38f35",
+        "subject": "chore(deps): update dependency ee.schimke.composeai.preview to v2.20.0 (#476)",
+        "at": "2026-09-20T12:28:36Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "40f6e5e34cc13d917882e365157861cdb418b7b2",
+        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.20.0 (#475)",
+        "at": "2026-09-20T12:12:07Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ebb67166671ed5e1dd600c75f3dab03bcd618f32",
+        "subject": "chore(deps): update compose-ai-tools to v2.19.0 (#474)",
+        "at": "2026-09-20T11:07:20Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8af43e14434fbbb58e9a44b566ba693b992bc890",
+        "subject": "docs: record the one UI builder template design this repo is due (#472)",
+        "at": "2026-09-17T20:43:15+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "eb89018c063046cf0738823a43dca25fcc8403da",
+        "subject": "fix(deps): update compose-preview-daemon to v3.8.3 (#470)",
+        "at": "2026-09-17T18:40:33Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3d205f2e8c3b81ec32eea142596780b62e2fbb4c",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:data-glimmer-environment-connector to v3.8.3 (#471)",
+        "at": "2026-09-17T18:35:43Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "812f67233c5bcc59a35dd5d416aba00403863f67",
+        "subject": "chore(deps): update compose-ai-tools to v2.18.1 (#468)",
+        "at": "2026-09-17T18:17:46Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "042f20ba247ccb38dc4452dc557575ae4b569468",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:preview-annotations to v3.8.1 (#469)",
+        "at": "2026-09-17T17:54:51Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5a54c94e02b4179ce6fdeb7ed4cae35dc92a7b47",
+        "subject": "fix(deps): update compose-preview-daemon to v3.8.0 (#467)",
+        "at": "2026-09-17T03:13:46Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "322e02ac8563e56d2eafe7a280c3bd5311efac0c",
+        "subject": "fix(deps): update compose-ai-tools (#466)",
+        "at": "2026-09-17T03:13:38Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d02df4e67536b457c0c68ba41ca69f2cd27024d8",
+        "subject": "chore(deps): update compose-ai-tools to v2.17.0 (#461)",
+        "at": "2026-09-16T20:38:38Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "bcabf682a0924183a57ae0a7798ba3f4b219b5df",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:preview-annotations to v3.7.0 (#463)",
+        "at": "2026-09-16T20:21:10Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3db7cd24c4e2c7bbd2d9c216d3e1547d6a018b01",
+        "subject": "fix(deps): update compose-preview-daemon (#462)",
+        "at": "2026-09-16T20:13:00Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "045574fe44aeb6e703e13a7050fc088af58c3691",
+        "subject": "feat(parity): register the differences the stickers draw over, with their bugs (#459)",
+        "at": "2026-09-16T07:57:19+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "edcae6518f0fc7da3fb6ff42895f3b3308a63873",
+        "subject": "fix(time picker): the library's own headline and mode toggle (#454)",
+        "at": "2026-09-16T07:57:08+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3aca3bb9eefb7aec0a123ad14e67fbd043f00dca",
+        "subject": "fix(bottom app bar): stop overriding the padding that already matched the kit (#453)",
+        "at": "2026-09-16T07:56:41+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5d96a432f53ac3b4921b890f20a0afdf849b53c3",
+        "subject": "feat(glimmer-samples): render the vendored samples in the kit's typeface (#460)",
+        "at": "2026-09-16T07:56:12+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c71d660969124ad1ec3254b967a22bdf7fb3bce5",
+        "subject": "feat(glimmer): declare the catalog's font properties as render assertions (#457)",
+        "at": "2026-09-16T07:31:44+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3357de81e1d8b4b34a99f8803f778ce174e10d4a",
+        "subject": "fix(ci): scope each design-artifacts lane against what it last rendered (#452)",
+        "at": "2026-09-16T07:05:49+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4d7d890b2ce8b86fac4900d5b84f8c3dcdbc1341",
+        "subject": "docs(glimmer): record the Google Sans Flex weight-axis fix with renders (#451)",
+        "at": "2026-09-16T06:50:58+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "97b9e4dd301741e27935d1d7c99e30fb59eb0534",
+        "subject": "fix(deps): update compose-ai-tools (#448)",
+        "at": "2026-09-16T06:47:34+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c70ef4de552e18cc1ad056139d23d8ac328e89e0",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:data-preview-overrides-runtime to v3.5.0 (#449)",
+        "at": "2026-09-16T06:47:12+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ea175cc6b6acc92c49011e8ce72fbe340c4920bc",
+        "subject": "Declare the served set, with compose-ui-samples unlisted (#450)",
+        "at": "2026-09-16T06:46:57+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "97e5ebb6864ffe3359e790c9c35628303163d342",
+        "subject": "Two new catalogs: compose-foundation (the builder's vocabulary) and compose-ui-samples (#441)",
+        "at": "2026-09-16T06:41:25+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0b15a0854c57b7aeab54e490dbc2d9c3e176f946",
+        "subject": "fix(rail, dialog): the rail's header gap, and list rows that drew their own container (#447)",
+        "at": "2026-09-16T06:26:16+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "360c6e1b294277da93caf056589c6e8d9e223fd3",
+        "subject": "fix(cards): draw the kit's whole card, not its top half (#446)",
+        "at": "2026-09-16T06:25:57+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "76193d20ef8d2cab375ab423da29fcecec81b421",
+        "subject": "feat(glimmer): close the kit-coverage gaps, and declare the ones that are upstream's (#445)",
+        "at": "2026-09-16T06:20:31+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d6151ea5ae66dfad95c85ae9a51402e46121e7b6",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:data-glimmer-environment-connector to v3.4.9 (#444)",
+        "at": "2026-09-15T22:19:21Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5ab60fa49f967a6107aa13007f37ce2930f7d4fc",
+        "subject": "fix(placeholder): paint the kit's placeholder add-on, and square the app bar's band (#443)",
+        "at": "2026-09-15T22:58:37+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1782ad4978ca22a9b7af6a62108b13bc82d747c0",
+        "subject": "fix(carousel): mask items to the kit's shape, and rest the hero on item 1 (#442)",
+        "at": "2026-09-15T22:57:51+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "49085653f0095fd220c61c39e6986b7b9f601df3",
+        "subject": "fix(deps): update compose-preview-daemon to v3.4.8 (#438)",
+        "at": "2026-09-15T11:37:53Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "57520911da5be6f823c4eab5ab284c1a0231e78f",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:data-glimmer-environment-connector to v3.4.8 (#439)",
+        "at": "2026-09-15T11:37:50Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5b554e04f089a23d73175493216a754e3222e31b",
+        "subject": "feat(glimmer): publish Figma kit pages (#436)",
+        "at": "2026-09-15T11:24:05+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "95b37c65cfc33f59da03b6215436e1eab9604a09",
+        "subject": "chore(deps): update dependency ee.schimke.composeai.preview to v2.15.0 (#435)",
+        "at": "2026-09-15T09:22:28Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0ebbb015ff68fe8206b07c1b697a959566cd9b2f",
+        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.15.0 (#434)",
+        "at": "2026-09-15T09:04:36Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0eac9db966d3d98f0ea3a453a5c93226d3e4e505",
+        "subject": "feat(glimmer): add ButtonGroup to the catalog (#425)",
+        "at": "2026-09-15T10:04:00+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "03f17f3578692786764810ab96323f48c5ad1d48",
+        "subject": "feat(glimmer): add lazy list catalog coverage (#427)",
+        "at": "2026-09-15T09:44:29+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "22296d6975d1ec83d53475922dd72ae02835a089",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:data-glimmer-environment-connector to v3.4.7 (#430)",
+        "at": "2026-09-15T08:39:05Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "94b4220e6b7a685245c8b7050770f2a9e4e3356e",
+        "subject": "fix(deps): update compose-preview-daemon to v3.4.7 (#428)",
+        "at": "2026-09-15T08:38:01Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1f6039272f4d1de00531e91ea9dc99628bf4f328",
+        "subject": "feat(glimmer): add VerticalStack to the catalog (#423)",
+        "at": "2026-09-15T09:34:06+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4ed298772d5cb4edace0140a8892cab8d6dc6a0e",
+        "subject": "feat(ui-builder): publish concrete component families (#415)",
+        "at": "2026-09-15T06:14:06+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c6d939f68b9bd40d850ee74abddc9bc95d033a82",
+        "subject": "chore(deps): update dependency ee.schimke.composeai.preview to v2.14.1 (#421)",
+        "at": "2026-09-14T23:32:11Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "06e9b56ef828fd4edbdbb56342d4ff768f24bcd7",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:data-glimmer-environment-connector to v3.4.6 (#420)",
+        "at": "2026-09-14T22:35:12Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6e0db7be1141b491f853743e3691232b5ae85334",
+        "subject": "fix(deps): update compose-preview-daemon to v3.4.6 (#419)",
+        "at": "2026-09-14T22:30:09Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "085016b5bb744562611941ada60cc9bf382904c7",
+        "subject": "fix(deps): update compose multiplatform (#410)",
+        "at": "2026-09-14T22:15:21+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9d4d52357fa3f25cd3120e6f4eaf8087182c8f15",
+        "subject": "chore(deps): update compose-ai-tools to v2.14.0 (#418)",
+        "at": "2026-09-14T22:14:58+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "394fc94481857e5e5bb2df44d5d5cc35fc7cf198",
+        "subject": "chore: throttle automated Gradle runs (#417)",
+        "at": "2026-09-14T20:42:54+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      }
+    ]
+  }
+}
