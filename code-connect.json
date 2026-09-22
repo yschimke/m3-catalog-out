@@ -1,0 +1,2463 @@
+{
+  "system": "m3-samples",
+  "title": "Material 3 Samples",
+  "label": "Compose",
+  "source": {
+    "repo": "yschimke/m3-catalog",
+    "ref": "main",
+    "module": ":samples-catalog"
+  },
+  "generatedAt": "2026-09-22T22:36:05.701Z",
+  "mappings": [
+    {
+      "componentId": "AlertDialog/AlertDialogSample",
+      "figmaLayerName": "AlertDialog/AlertDialogSample",
+      "componentName": "AlertDialogSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AlertDialogSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "AlertDialogSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/alertdialog-alertdialogsample__ideal__default.svg"
+    },
+    {
+      "componentId": "AlertDialog/AlertDialogWithIconSample",
+      "figmaLayerName": "AlertDialog/AlertDialogWithIconSample",
+      "componentName": "AlertDialogWithIconSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AlertDialogSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "AlertDialogWithIconSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/alertdialog-alertdialogwithiconsample__ideal__default.svg"
+    },
+    {
+      "componentId": "AlertDialog/BasicAlertDialogSample",
+      "figmaLayerName": "AlertDialog/BasicAlertDialogSample",
+      "componentName": "BasicAlertDialogSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AlertDialogSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "BasicAlertDialogSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/alertdialog-basicalertdialogsample__ideal__default.svg"
+    },
+    {
+      "componentId": "animateFloatingActionButton/AnimatedFloatingActionButtonSample",
+      "figmaLayerName": "animateFloatingActionButton/AnimatedFloatingActionButtonSample",
+      "componentName": "AnimatedFloatingActionButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingActionButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "AnimatedFloatingActionButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/animatefloatingactionbutton-animatedfloatingactionbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "animateWidth/ButtonGroupWithCustomItemSample",
+      "figmaLayerName": "animateWidth/ButtonGroupWithCustomItemSample",
+      "componentName": "ButtonGroupWithCustomItemSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonGroupSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ButtonGroupWithCustomItemSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/animatewidth-buttongroupwithcustomitemsample__ideal__default.svg"
+    },
+    {
+      "componentId": "AppBarWithSearch/DockedSearchBarScaffoldSample",
+      "figmaLayerName": "AppBarWithSearch/DockedSearchBarScaffoldSample",
+      "componentName": "DockedSearchBarScaffoldSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SearchBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "DockedSearchBarScaffoldSample",
+      "figmaSvg": "figma/appbarwithsearch-dockedsearchbarscaffoldsample.svg"
+    },
+    {
+      "componentId": "AppBarWithSearch/FullScreenSearchBarScaffoldSample",
+      "figmaLayerName": "AppBarWithSearch/FullScreenSearchBarScaffoldSample",
+      "componentName": "FullScreenSearchBarScaffoldSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SearchBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FullScreenSearchBarScaffoldSample",
+      "figmaSvg": "figma/appbarwithsearch-fullscreensearchbarscaffoldsample.svg"
+    },
+    {
+      "componentId": "AssistChip/AssistChipSample",
+      "figmaLayerName": "AssistChip/AssistChipSample",
+      "componentName": "AssistChipSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ChipSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "AssistChipSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/assistchip-assistchipsample__ideal__default.svg"
+    },
+    {
+      "componentId": "BadgedBox/NavigationBarItemWithBadge",
+      "figmaLayerName": "BadgedBox/NavigationBarItemWithBadge",
+      "componentName": "NavigationBarItemWithBadge",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/BadgeSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "NavigationBarItemWithBadge",
+      "figmaSvg": "figma/badgedbox-navigationbaritemwithbadge.svg"
+    },
+    {
+      "componentId": "BottomAppBar/BottomAppBarWithFAB",
+      "figmaLayerName": "BottomAppBar/BottomAppBarWithFAB",
+      "componentName": "BottomAppBarWithFAB",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "BottomAppBarWithFAB",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/bottomappbar-bottomappbarwithfab__ideal__default.svg"
+    },
+    {
+      "componentId": "BottomAppBar/ExitAlwaysBottomAppBar",
+      "figmaLayerName": "BottomAppBar/ExitAlwaysBottomAppBar",
+      "componentName": "ExitAlwaysBottomAppBar",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ExitAlwaysBottomAppBar",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/bottomappbar-exitalwaysbottomappbar__ideal__default.svg"
+    },
+    {
+      "componentId": "BottomAppBar/SimpleBottomAppBar",
+      "figmaLayerName": "BottomAppBar/SimpleBottomAppBar",
+      "componentName": "SimpleBottomAppBar",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SimpleBottomAppBar",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/bottomappbar-simplebottomappbar__ideal__default.svg"
+    },
+    {
+      "componentId": "BottomSheet/ManualModalBottomSheetSample",
+      "figmaLayerName": "BottomSheet/ManualModalBottomSheetSample",
+      "componentName": "ManualModalBottomSheetSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/BottomSheetSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ManualModalBottomSheetSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/bottomsheet-manualmodalbottomsheetsample__ideal__default.svg"
+    },
+    {
+      "componentId": "BottomSheetScaffold/SimpleBottomSheetScaffoldSample",
+      "figmaLayerName": "BottomSheetScaffold/SimpleBottomSheetScaffoldSample",
+      "componentName": "SimpleBottomSheetScaffoldSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/BottomSheetSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SimpleBottomSheetScaffoldSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/bottomsheetscaffold-simplebottomsheetscaffoldsample__ideal__default.svg"
+    },
+    {
+      "componentId": "Button/ButtonSample",
+      "figmaLayerName": "Button/ButtonSample",
+      "componentName": "ButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/button-buttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "Button/ButtonWithAnimatedShapeSample",
+      "figmaLayerName": "Button/ButtonWithAnimatedShapeSample",
+      "componentName": "ButtonWithAnimatedShapeSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ButtonWithAnimatedShapeSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/button-buttonwithanimatedshapesample__ideal__default.svg"
+    },
+    {
+      "componentId": "Button/ButtonWithIconSample",
+      "figmaLayerName": "Button/ButtonWithIconSample",
+      "componentName": "ButtonWithIconSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ButtonWithIconSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/button-buttonwithiconsample__ideal__default.svg"
+    },
+    {
+      "componentId": "Button/LargeButtonWithIconSample",
+      "figmaLayerName": "Button/LargeButtonWithIconSample",
+      "componentName": "LargeButtonWithIconSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "LargeButtonWithIconSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/button-largebuttonwithiconsample__ideal__default.svg"
+    },
+    {
+      "componentId": "Button/MediumButtonWithIconSample",
+      "figmaLayerName": "Button/MediumButtonWithIconSample",
+      "componentName": "MediumButtonWithIconSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "MediumButtonWithIconSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/button-mediumbuttonwithiconsample__ideal__default.svg"
+    },
+    {
+      "componentId": "Button/SmallButtonSample",
+      "figmaLayerName": "Button/SmallButtonSample",
+      "componentName": "SmallButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SmallButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/button-smallbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "Button/SquareButtonSample",
+      "figmaLayerName": "Button/SquareButtonSample",
+      "componentName": "SquareButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SquareButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/button-squarebuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "Button/XLargeButtonWithIconSample",
+      "figmaLayerName": "Button/XLargeButtonWithIconSample",
+      "componentName": "XLargeButtonWithIconSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "XLargeButtonWithIconSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/button-xlargebuttonwithiconsample__ideal__default.svg"
+    },
+    {
+      "componentId": "Button/XSmallButtonWithIconSample",
+      "figmaLayerName": "Button/XSmallButtonWithIconSample",
+      "componentName": "XSmallButtonWithIconSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "XSmallButtonWithIconSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/button-xsmallbuttonwithiconsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ButtonGroup/ButtonGroupSample",
+      "figmaLayerName": "ButtonGroup/ButtonGroupSample",
+      "componentName": "ButtonGroupSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonGroupSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ButtonGroupSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/buttongroup-buttongroupsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ButtonGroup/VerticalButtonGroupSample",
+      "figmaLayerName": "ButtonGroup/VerticalButtonGroupSample",
+      "componentName": "VerticalButtonGroupSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonGroupSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "VerticalButtonGroupSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/buttongroup-verticalbuttongroupsample__ideal__default.svg"
+    },
+    {
+      "componentId": "Card/CardSample",
+      "figmaLayerName": "Card/CardSample",
+      "componentName": "CardSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/CardSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "CardSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/card-cardsample__ideal__default.svg"
+    },
+    {
+      "componentId": "Card/ClickableCardSample",
+      "figmaLayerName": "Card/ClickableCardSample",
+      "componentName": "ClickableCardSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/CardSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ClickableCardSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/card-clickablecardsample__ideal__default.svg"
+    },
+    {
+      "componentId": "CenterAlignedTopAppBar/SimpleCenterAlignedTopAppBar",
+      "figmaLayerName": "CenterAlignedTopAppBar/SimpleCenterAlignedTopAppBar",
+      "componentName": "SimpleCenterAlignedTopAppBar",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SimpleCenterAlignedTopAppBar",
+      "figmaSvg": "figma/centeralignedtopappbar-simplecenteralignedtopappbar.svg"
+    },
+    {
+      "componentId": "Checkbox/CheckboxRoundedStrokesSample",
+      "figmaLayerName": "Checkbox/CheckboxRoundedStrokesSample",
+      "componentName": "CheckboxRoundedStrokesSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/CheckboxSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "CheckboxRoundedStrokesSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/checkbox-checkboxroundedstrokessample__ideal__default.svg"
+    },
+    {
+      "componentId": "Checkbox/CheckboxSample",
+      "figmaLayerName": "Checkbox/CheckboxSample",
+      "componentName": "CheckboxSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/CheckboxSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "CheckboxSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/checkbox-checkboxsample__ideal__default.svg"
+    },
+    {
+      "componentId": "Checkbox/CheckboxWithTextSample",
+      "figmaLayerName": "Checkbox/CheckboxWithTextSample",
+      "componentName": "CheckboxWithTextSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/CheckboxSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "CheckboxWithTextSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/checkbox-checkboxwithtextsample__ideal__default.svg"
+    },
+    {
+      "componentId": "CircularProgressIndicator/CircularProgressIndicatorSample",
+      "figmaLayerName": "CircularProgressIndicator/CircularProgressIndicatorSample",
+      "componentName": "CircularProgressIndicatorSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ProgressIndicatorSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "CircularProgressIndicatorSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/circularprogressindicator-circularprogressindicatorsample__ideal__default.svg"
+    },
+    {
+      "componentId": "CircularProgressIndicator/IndeterminateCircularProgressIndicatorSample",
+      "figmaLayerName": "CircularProgressIndicator/IndeterminateCircularProgressIndicatorSample",
+      "componentName": "IndeterminateCircularProgressIndicatorSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ProgressIndicatorSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "IndeterminateCircularProgressIndicatorSample",
+      "figmaSvg": "figma/circularprogressindicator-indeterminatecircularprogressindicatorsample.svg"
+    },
+    {
+      "componentId": "CircularWavyProgressIndicator/CircularThickWavyProgressIndicatorSample",
+      "figmaLayerName": "CircularWavyProgressIndicator/CircularThickWavyProgressIndicatorSample",
+      "componentName": "CircularThickWavyProgressIndicatorSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ProgressIndicatorSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "CircularThickWavyProgressIndicatorSample",
+      "figmaSvg": "figma/circularwavyprogressindicator-circularthickwavyprogressindicatorsample.svg"
+    },
+    {
+      "componentId": "CircularWavyProgressIndicator/CircularWavyProgressIndicatorSample",
+      "figmaLayerName": "CircularWavyProgressIndicator/CircularWavyProgressIndicatorSample",
+      "componentName": "CircularWavyProgressIndicatorSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ProgressIndicatorSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "CircularWavyProgressIndicatorSample",
+      "figmaSvg": "figma/circularwavyprogressindicator-circularwavyprogressindicatorsample.svg"
+    },
+    {
+      "componentId": "CircularWavyProgressIndicator/IndeterminateCircularWavyProgressIndicatorSample",
+      "figmaLayerName": "CircularWavyProgressIndicator/IndeterminateCircularWavyProgressIndicatorSample",
+      "componentName": "IndeterminateCircularWavyProgressIndicatorSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ProgressIndicatorSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "IndeterminateCircularWavyProgressIndicatorSample",
+      "figmaSvg": "figma/circularwavyprogressindicator-indeterminatecircularwavyprogressindicatorsample.svg"
+    },
+    {
+      "componentId": "ContainedLoadingIndicator/ContainedLoadingIndicatorSample",
+      "figmaLayerName": "ContainedLoadingIndicator/ContainedLoadingIndicatorSample",
+      "componentName": "ContainedLoadingIndicatorSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/LoadingIndicatorSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ContainedLoadingIndicatorSample",
+      "figmaSvg": "figma/containedloadingindicator-containedloadingindicatorsample.svg"
+    },
+    {
+      "componentId": "ContainedLoadingIndicator/DeterminateContainedLoadingIndicatorSample",
+      "figmaLayerName": "ContainedLoadingIndicator/DeterminateContainedLoadingIndicatorSample",
+      "componentName": "DeterminateContainedLoadingIndicatorSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/LoadingIndicatorSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "DeterminateContainedLoadingIndicatorSample",
+      "figmaSvg": "figma/containedloadingindicator-determinatecontainedloadingindicatorsample.svg"
+    },
+    {
+      "componentId": "ContainedLoadingIndicator/LoadingIndicatorPullToRefreshSample",
+      "figmaLayerName": "ContainedLoadingIndicator/LoadingIndicatorPullToRefreshSample",
+      "componentName": "LoadingIndicatorPullToRefreshSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/LoadingIndicatorSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "LoadingIndicatorPullToRefreshSample",
+      "figmaSvg": "figma/containedloadingindicator-loadingindicatorpulltorefreshsample.svg"
+    },
+    {
+      "componentId": "DismissibleNavigationDrawer/DismissibleNavigationDrawerSample",
+      "figmaLayerName": "DismissibleNavigationDrawer/DismissibleNavigationDrawerSample",
+      "componentName": "DismissibleNavigationDrawerSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/DrawerSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "DismissibleNavigationDrawerSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/dismissiblenavigationdrawer-dismissiblenavigationdrawersample__ideal__default.svg"
+    },
+    {
+      "componentId": "DockedEdge/SupportingPaneScaffoldSampleWithExtraPaneLevitatedAsBottomSheet",
+      "figmaLayerName": "DockedEdge/SupportingPaneScaffoldSampleWithExtraPaneLevitatedAsBottomSheet",
+      "componentName": "SupportingPaneScaffoldSampleWithExtraPaneLevitatedAsBottomSheet",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/adaptive/samples/ThreePaneScaffoldSample.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SupportingPaneScaffoldSampleWithExtraPaneLevitatedAsBottomSheet",
+      "figmaSvg": "figma/dockededge-supportingpanescaffoldsamplewithextrapanelevitatedasbottomsheet.svg"
+    },
+    {
+      "componentId": "DropdownMenuItem/ExposedDropdownMenuSample",
+      "figmaLayerName": "DropdownMenuItem/ExposedDropdownMenuSample",
+      "componentName": "ExposedDropdownMenuSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ExposedDropdownMenuSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ExposedDropdownMenuSample",
+      "figmaSvg": "figma/dropdownmenuitem-exposeddropdownmenusample.svg"
+    },
+    {
+      "componentId": "ElevatedAssistChip/ElevatedAssistChipSample",
+      "figmaLayerName": "ElevatedAssistChip/ElevatedAssistChipSample",
+      "componentName": "ElevatedAssistChipSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ChipSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ElevatedAssistChipSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/elevatedassistchip-elevatedassistchipsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ElevatedButton/ElevatedButtonSample",
+      "figmaLayerName": "ElevatedButton/ElevatedButtonSample",
+      "componentName": "ElevatedButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ElevatedButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/elevatedbutton-elevatedbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ElevatedButton/ElevatedButtonWithAnimatedShapeSample",
+      "figmaLayerName": "ElevatedButton/ElevatedButtonWithAnimatedShapeSample",
+      "componentName": "ElevatedButtonWithAnimatedShapeSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ElevatedButtonWithAnimatedShapeSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/elevatedbutton-elevatedbuttonwithanimatedshapesample__ideal__default.svg"
+    },
+    {
+      "componentId": "ElevatedCard/ClickableElevatedCardSample",
+      "figmaLayerName": "ElevatedCard/ClickableElevatedCardSample",
+      "componentName": "ClickableElevatedCardSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/CardSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ClickableElevatedCardSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/elevatedcard-clickableelevatedcardsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ElevatedCard/ElevatedCardSample",
+      "figmaLayerName": "ElevatedCard/ElevatedCardSample",
+      "componentName": "ElevatedCardSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/CardSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ElevatedCardSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/elevatedcard-elevatedcardsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ElevatedFilterChip/ElevatedFilterChipSample",
+      "figmaLayerName": "ElevatedFilterChip/ElevatedFilterChipSample",
+      "componentName": "ElevatedFilterChipSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ChipSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ElevatedFilterChipSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/elevatedfilterchip-elevatedfilterchipsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ElevatedFilterChip/ElevatedFilterChipWithCornerMorphingSample",
+      "figmaLayerName": "ElevatedFilterChip/ElevatedFilterChipWithCornerMorphingSample",
+      "componentName": "ElevatedFilterChipWithCornerMorphingSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ChipSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ElevatedFilterChipWithCornerMorphingSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/elevatedfilterchip-elevatedfilterchipwithcornermorphingsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ElevatedSuggestionChip/ElevatedSuggestionChipSample",
+      "figmaLayerName": "ElevatedSuggestionChip/ElevatedSuggestionChipSample",
+      "componentName": "ElevatedSuggestionChipSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ChipSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ElevatedSuggestionChipSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/elevatedsuggestionchip-elevatedsuggestionchipsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ElevatedToggleButton/ElevatedToggleButtonSample",
+      "figmaLayerName": "ElevatedToggleButton/ElevatedToggleButtonSample",
+      "componentName": "ElevatedToggleButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ToggleButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ElevatedToggleButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/elevatedtogglebutton-elevatedtogglebuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "enterAlwaysScrollBehavior/EnterAlwaysTopAppBarWithReverseScrolling",
+      "figmaLayerName": "enterAlwaysScrollBehavior/EnterAlwaysTopAppBarWithReverseScrolling",
+      "componentName": "EnterAlwaysTopAppBarWithReverseScrolling",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "EnterAlwaysTopAppBarWithReverseScrolling",
+      "figmaSvg": "figma/enteralwaysscrollbehavior-enteralwaystopappbarwithreversescrolling.svg"
+    },
+    {
+      "componentId": "exitAlwaysScrollBehavior/ScrollableHorizontalFloatingToolbarSample",
+      "figmaLayerName": "exitAlwaysScrollBehavior/ScrollableHorizontalFloatingToolbarSample",
+      "componentName": "ScrollableHorizontalFloatingToolbarSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingToolbarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ScrollableHorizontalFloatingToolbarSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/exitalwaysscrollbehavior-scrollablehorizontalfloatingtoolbarsample__ideal__default.svg"
+    },
+    {
+      "componentId": "exitUntilCollapsedScrollBehavior/ExitUntilCollapsedMediumTopAppBar",
+      "figmaLayerName": "exitUntilCollapsedScrollBehavior/ExitUntilCollapsedMediumTopAppBar",
+      "componentName": "ExitUntilCollapsedMediumTopAppBar",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ExitUntilCollapsedMediumTopAppBar",
+      "figmaSvg": "figma/exituntilcollapsedscrollbehavior-exituntilcollapsedmediumtopappbar.svg"
+    },
+    {
+      "componentId": "ExposedDropdownMenuBox/EditableExposedDropdownMenuSample",
+      "figmaLayerName": "ExposedDropdownMenuBox/EditableExposedDropdownMenuSample",
+      "componentName": "EditableExposedDropdownMenuSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ExposedDropdownMenuSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "EditableExposedDropdownMenuSample",
+      "figmaSvg": "figma/exposeddropdownmenubox-editableexposeddropdownmenusample.svg"
+    },
+    {
+      "componentId": "ExposedDropdownMenuBox/MultiAutocompleteExposedDropdownMenuSample",
+      "figmaLayerName": "ExposedDropdownMenuBox/MultiAutocompleteExposedDropdownMenuSample",
+      "componentName": "MultiAutocompleteExposedDropdownMenuSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ExposedDropdownMenuSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "MultiAutocompleteExposedDropdownMenuSample",
+      "figmaSvg": "figma/exposeddropdownmenubox-multiautocompleteexposeddropdownmenusample.svg"
+    },
+    {
+      "componentId": "ExtendedFloatingActionButton/AnimatedExtendedFloatingActionButtonSample",
+      "figmaLayerName": "ExtendedFloatingActionButton/AnimatedExtendedFloatingActionButtonSample",
+      "componentName": "AnimatedExtendedFloatingActionButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingActionButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "AnimatedExtendedFloatingActionButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/extendedfloatingactionbutton-animatedextendedfloatingactionbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ExtendedFloatingActionButton/ExtendedFloatingActionButtonSample",
+      "figmaLayerName": "ExtendedFloatingActionButton/ExtendedFloatingActionButtonSample",
+      "componentName": "ExtendedFloatingActionButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingActionButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ExtendedFloatingActionButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/extendedfloatingactionbutton-extendedfloatingactionbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ExtendedFloatingActionButton/ExtendedFloatingActionButtonTextSample",
+      "figmaLayerName": "ExtendedFloatingActionButton/ExtendedFloatingActionButtonTextSample",
+      "componentName": "ExtendedFloatingActionButtonTextSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingActionButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ExtendedFloatingActionButtonTextSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/extendedfloatingactionbutton-extendedfloatingactionbuttontextsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ExtendedPaneScaffoldPaneScope/ListDetailPaneScaffoldSample",
+      "figmaLayerName": "ExtendedPaneScaffoldPaneScope/ListDetailPaneScaffoldSample",
+      "componentName": "ListDetailPaneScaffoldSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/adaptive/samples/ThreePaneScaffoldSample.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ListDetailPaneScaffoldSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/extendedpanescaffoldpanescope-listdetailpanescaffoldsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ExtendedPaneScaffoldPaneScope/ListDetailPaneScaffoldSampleWithExtraPane",
+      "figmaLayerName": "ExtendedPaneScaffoldPaneScope/ListDetailPaneScaffoldSampleWithExtraPane",
+      "componentName": "ListDetailPaneScaffoldSampleWithExtraPane",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/adaptive/samples/ThreePaneScaffoldSample.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ListDetailPaneScaffoldSampleWithExtraPane",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/extendedpanescaffoldpanescope-listdetailpanescaffoldsamplewithextrapane__ideal__default.svg"
+    },
+    {
+      "componentId": "ExtendedPaneScaffoldPaneScope/ListDetailPaneScaffoldSampleWithExtraPaneLevitatedAsDialog",
+      "figmaLayerName": "ExtendedPaneScaffoldPaneScope/ListDetailPaneScaffoldSampleWithExtraPaneLevitatedAsDialog",
+      "componentName": "ListDetailPaneScaffoldSampleWithExtraPaneLevitatedAsDialog",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/adaptive/samples/ThreePaneScaffoldSample.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ListDetailPaneScaffoldSampleWithExtraPaneLevitatedAsDialog",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/extendedpanescaffoldpanescope-listdetailpanescaffoldsamplewithextrapanelevitatedasdialog__ideal__default.svg"
+    },
+    {
+      "componentId": "ExtendedPaneScaffoldPaneScope/SupportingPaneScaffoldSample",
+      "figmaLayerName": "ExtendedPaneScaffoldPaneScope/SupportingPaneScaffoldSample",
+      "componentName": "SupportingPaneScaffoldSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/adaptive/samples/ThreePaneScaffoldSample.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SupportingPaneScaffoldSample",
+      "figmaSvg": "figma/extendedpanescaffoldpanescope-supportingpanescaffoldsample.svg"
+    },
+    {
+      "componentId": "FilledIconButton/FilledIconButtonSample",
+      "figmaLayerName": "FilledIconButton/FilledIconButtonSample",
+      "componentName": "FilledIconButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FilledIconButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/fillediconbutton-fillediconbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "FilledIconButton/FilledIconButtonWithAnimatedShapeSample",
+      "figmaLayerName": "FilledIconButton/FilledIconButtonWithAnimatedShapeSample",
+      "componentName": "FilledIconButtonWithAnimatedShapeSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FilledIconButtonWithAnimatedShapeSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/fillediconbutton-fillediconbuttonwithanimatedshapesample__ideal__default.svg"
+    },
+    {
+      "componentId": "FilledIconToggleButton/FilledIconToggleButtonSample",
+      "figmaLayerName": "FilledIconToggleButton/FilledIconToggleButtonSample",
+      "componentName": "FilledIconToggleButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FilledIconToggleButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/filledicontogglebutton-filledicontogglebuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "FilledIconToggleButton/FilledIconToggleButtonWithAnimatedShapeSample",
+      "figmaLayerName": "FilledIconToggleButton/FilledIconToggleButtonWithAnimatedShapeSample",
+      "componentName": "FilledIconToggleButtonWithAnimatedShapeSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FilledIconToggleButtonWithAnimatedShapeSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/filledicontogglebutton-filledicontogglebuttonwithanimatedshapesample__ideal__default.svg"
+    },
+    {
+      "componentId": "FilledTonalButton/FilledTonalButtonSample",
+      "figmaLayerName": "FilledTonalButton/FilledTonalButtonSample",
+      "componentName": "FilledTonalButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FilledTonalButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/filledtonalbutton-filledtonalbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "FilledTonalButton/FilledTonalButtonWithAnimatedShapeSample",
+      "figmaLayerName": "FilledTonalButton/FilledTonalButtonWithAnimatedShapeSample",
+      "componentName": "FilledTonalButtonWithAnimatedShapeSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FilledTonalButtonWithAnimatedShapeSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/filledtonalbutton-filledtonalbuttonwithanimatedshapesample__ideal__default.svg"
+    },
+    {
+      "componentId": "FilledTonalIconButton/FilledTonalIconButtonSample",
+      "figmaLayerName": "FilledTonalIconButton/FilledTonalIconButtonSample",
+      "componentName": "FilledTonalIconButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FilledTonalIconButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/filledtonaliconbutton-filledtonaliconbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "FilledTonalIconButton/FilledTonalIconButtonWithAnimatedShapeSample",
+      "figmaLayerName": "FilledTonalIconButton/FilledTonalIconButtonWithAnimatedShapeSample",
+      "componentName": "FilledTonalIconButtonWithAnimatedShapeSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FilledTonalIconButtonWithAnimatedShapeSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/filledtonaliconbutton-filledtonaliconbuttonwithanimatedshapesample__ideal__default.svg"
+    },
+    {
+      "componentId": "FilledTonalIconToggleButton/FilledTonalIconToggleButtonSample",
+      "figmaLayerName": "FilledTonalIconToggleButton/FilledTonalIconToggleButtonSample",
+      "componentName": "FilledTonalIconToggleButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FilledTonalIconToggleButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/filledtonalicontogglebutton-filledtonalicontogglebuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "FilledTonalIconToggleButton/FilledTonalIconToggleButtonWithAnimatedShapeSample",
+      "figmaLayerName": "FilledTonalIconToggleButton/FilledTonalIconToggleButtonWithAnimatedShapeSample",
+      "componentName": "FilledTonalIconToggleButtonWithAnimatedShapeSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FilledTonalIconToggleButtonWithAnimatedShapeSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/filledtonalicontogglebutton-filledtonalicontogglebuttonwithanimatedshapesample__ideal__default.svg"
+    },
+    {
+      "componentId": "FilterChip/FilterChipSample",
+      "figmaLayerName": "FilterChip/FilterChipSample",
+      "componentName": "FilterChipSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ChipSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FilterChipSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/filterchip-filterchipsample__ideal__default.svg"
+    },
+    {
+      "componentId": "FilterChip/FilterChipWithCornerMorphingSample",
+      "figmaLayerName": "FilterChip/FilterChipWithCornerMorphingSample",
+      "componentName": "FilterChipWithCornerMorphingSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ChipSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FilterChipWithCornerMorphingSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/filterchip-filterchipwithcornermorphingsample__ideal__default.svg"
+    },
+    {
+      "componentId": "FilterChip/FilterChipWithCustomSpacingSample",
+      "figmaLayerName": "FilterChip/FilterChipWithCustomSpacingSample",
+      "componentName": "FilterChipWithCustomSpacingSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ChipSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FilterChipWithCustomSpacingSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/filterchip-filterchipwithcustomspacingsample__ideal__default.svg"
+    },
+    {
+      "componentId": "FilterChip/FilterChipWithLeadingIconSample",
+      "figmaLayerName": "FilterChip/FilterChipWithLeadingIconSample",
+      "componentName": "FilterChipWithLeadingIconSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ChipSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FilterChipWithLeadingIconSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/filterchip-filterchipwithleadingiconsample__ideal__default.svg"
+    },
+    {
+      "componentId": "FilterChip/FilterChipWithTrailingIconSample",
+      "figmaLayerName": "FilterChip/FilterChipWithTrailingIconSample",
+      "componentName": "FilterChipWithTrailingIconSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ChipSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FilterChipWithTrailingIconSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/filterchip-filterchipwithtrailingiconsample__ideal__default.svg"
+    },
+    {
+      "componentId": "FlexibleBottomAppBar/BottomAppBarWithOverflow",
+      "figmaLayerName": "FlexibleBottomAppBar/BottomAppBarWithOverflow",
+      "componentName": "BottomAppBarWithOverflow",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "BottomAppBarWithOverflow",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/flexiblebottomappbar-bottomappbarwithoverflow__ideal__default.svg"
+    },
+    {
+      "componentId": "FlexibleBottomAppBar/ExitAlwaysBottomAppBarFixed",
+      "figmaLayerName": "FlexibleBottomAppBar/ExitAlwaysBottomAppBarFixed",
+      "componentName": "ExitAlwaysBottomAppBarFixed",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ExitAlwaysBottomAppBarFixed",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/flexiblebottomappbar-exitalwaysbottomappbarfixed__ideal__default.svg"
+    },
+    {
+      "componentId": "FlexibleBottomAppBar/ExitAlwaysBottomAppBarFixedVibrant",
+      "figmaLayerName": "FlexibleBottomAppBar/ExitAlwaysBottomAppBarFixedVibrant",
+      "componentName": "ExitAlwaysBottomAppBarFixedVibrant",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ExitAlwaysBottomAppBarFixedVibrant",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/flexiblebottomappbar-exitalwaysbottomappbarfixedvibrant__ideal__default.svg"
+    },
+    {
+      "componentId": "FlexibleBottomAppBar/ExitAlwaysBottomAppBarSpacedAround",
+      "figmaLayerName": "FlexibleBottomAppBar/ExitAlwaysBottomAppBarSpacedAround",
+      "componentName": "ExitAlwaysBottomAppBarSpacedAround",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ExitAlwaysBottomAppBarSpacedAround",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/flexiblebottomappbar-exitalwaysbottomappbarspacedaround__ideal__default.svg"
+    },
+    {
+      "componentId": "FlexibleBottomAppBar/ExitAlwaysBottomAppBarSpacedBetween",
+      "figmaLayerName": "FlexibleBottomAppBar/ExitAlwaysBottomAppBarSpacedBetween",
+      "componentName": "ExitAlwaysBottomAppBarSpacedBetween",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ExitAlwaysBottomAppBarSpacedBetween",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/flexiblebottomappbar-exitalwaysbottomappbarspacedbetween__ideal__default.svg"
+    },
+    {
+      "componentId": "FlexibleBottomAppBar/ExitAlwaysBottomAppBarSpacedEvenly",
+      "figmaLayerName": "FlexibleBottomAppBar/ExitAlwaysBottomAppBarSpacedEvenly",
+      "componentName": "ExitAlwaysBottomAppBarSpacedEvenly",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ExitAlwaysBottomAppBarSpacedEvenly",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/flexiblebottomappbar-exitalwaysbottomappbarspacedevenly__ideal__default.svg"
+    },
+    {
+      "componentId": "FloatingActionButton/FloatingActionButtonSample",
+      "figmaLayerName": "FloatingActionButton/FloatingActionButtonSample",
+      "componentName": "FloatingActionButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingActionButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FloatingActionButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/floatingactionbutton-floatingactionbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "HorizontalFloatingToolbar/CenteredHorizontalFloatingToolbarWithFabSample",
+      "figmaLayerName": "HorizontalFloatingToolbar/CenteredHorizontalFloatingToolbarWithFabSample",
+      "componentName": "CenteredHorizontalFloatingToolbarWithFabSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingToolbarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "CenteredHorizontalFloatingToolbarWithFabSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/horizontalfloatingtoolbar-centeredhorizontalfloatingtoolbarwithfabsample__ideal__default.svg"
+    },
+    {
+      "componentId": "HorizontalFloatingToolbar/ExpandableHorizontalFloatingToolbarSample",
+      "figmaLayerName": "HorizontalFloatingToolbar/ExpandableHorizontalFloatingToolbarSample",
+      "componentName": "ExpandableHorizontalFloatingToolbarSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingToolbarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ExpandableHorizontalFloatingToolbarSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/horizontalfloatingtoolbar-expandablehorizontalfloatingtoolbarsample__ideal__default.svg"
+    },
+    {
+      "componentId": "HorizontalFloatingToolbar/HorizontalFloatingToolbarAsScaffoldFabSample",
+      "figmaLayerName": "HorizontalFloatingToolbar/HorizontalFloatingToolbarAsScaffoldFabSample",
+      "componentName": "HorizontalFloatingToolbarAsScaffoldFabSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingToolbarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "HorizontalFloatingToolbarAsScaffoldFabSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/horizontalfloatingtoolbar-horizontalfloatingtoolbarasscaffoldfabsample__ideal__default.svg"
+    },
+    {
+      "componentId": "HorizontalFloatingToolbar/HorizontalFloatingToolbarWithFabSample",
+      "figmaLayerName": "HorizontalFloatingToolbar/HorizontalFloatingToolbarWithFabSample",
+      "componentName": "HorizontalFloatingToolbarWithFabSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingToolbarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "HorizontalFloatingToolbarWithFabSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/horizontalfloatingtoolbar-horizontalfloatingtoolbarwithfabsample__ideal__default.svg"
+    },
+    {
+      "componentId": "HorizontalFloatingToolbar/OverflowingHorizontalFloatingToolbarSample",
+      "figmaLayerName": "HorizontalFloatingToolbar/OverflowingHorizontalFloatingToolbarSample",
+      "componentName": "OverflowingHorizontalFloatingToolbarSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingToolbarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "OverflowingHorizontalFloatingToolbarSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/horizontalfloatingtoolbar-overflowinghorizontalfloatingtoolbarsample__ideal__default.svg"
+    },
+    {
+      "componentId": "IconButton/ExtraSmallNarrowSquareIconButtonsSample",
+      "figmaLayerName": "IconButton/ExtraSmallNarrowSquareIconButtonsSample",
+      "componentName": "ExtraSmallNarrowSquareIconButtonsSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ExtraSmallNarrowSquareIconButtonsSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/iconbutton-extrasmallnarrowsquareiconbuttonssample__ideal__default.svg"
+    },
+    {
+      "componentId": "IconButton/IconButtonSample",
+      "figmaLayerName": "IconButton/IconButtonSample",
+      "componentName": "IconButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "IconButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/iconbutton-iconbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "IconButton/IconButtonWithAnimatedShapeSample",
+      "figmaLayerName": "IconButton/IconButtonWithAnimatedShapeSample",
+      "componentName": "IconButtonWithAnimatedShapeSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "IconButtonWithAnimatedShapeSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/iconbutton-iconbuttonwithanimatedshapesample__ideal__default.svg"
+    },
+    {
+      "componentId": "IconButton/MediumRoundWideIconButtonSample",
+      "figmaLayerName": "IconButton/MediumRoundWideIconButtonSample",
+      "componentName": "MediumRoundWideIconButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "MediumRoundWideIconButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/iconbutton-mediumroundwideiconbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "IconButton/TintedIconButtonSample",
+      "figmaLayerName": "IconButton/TintedIconButtonSample",
+      "componentName": "TintedIconButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TintedIconButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/iconbutton-tintediconbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "IconToggleButton/IconToggleButtonSample",
+      "figmaLayerName": "IconToggleButton/IconToggleButtonSample",
+      "componentName": "IconToggleButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "IconToggleButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/icontogglebutton-icontogglebuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "IconToggleButton/IconToggleButtonWithAnimatedShapeSample",
+      "figmaLayerName": "IconToggleButton/IconToggleButtonWithAnimatedShapeSample",
+      "componentName": "IconToggleButtonWithAnimatedShapeSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "IconToggleButtonWithAnimatedShapeSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/icontogglebutton-icontogglebuttonwithanimatedshapesample__ideal__default.svg"
+    },
+    {
+      "componentId": "InputChip/ChipGroupReflowSample",
+      "figmaLayerName": "InputChip/ChipGroupReflowSample",
+      "componentName": "ChipGroupReflowSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ChipSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ChipGroupReflowSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/inputchip-chipgroupreflowsample__ideal__default.svg"
+    },
+    {
+      "componentId": "InputChip/ChipGroupSingleLineSample",
+      "figmaLayerName": "InputChip/ChipGroupSingleLineSample",
+      "componentName": "ChipGroupSingleLineSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ChipSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ChipGroupSingleLineSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/inputchip-chipgroupsinglelinesample__ideal__default.svg"
+    },
+    {
+      "componentId": "InputChip/InputChipSample",
+      "figmaLayerName": "InputChip/InputChipSample",
+      "componentName": "InputChipSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ChipSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "InputChipSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/inputchip-inputchipsample__ideal__default.svg"
+    },
+    {
+      "componentId": "InputChip/InputChipWithAvatarSample",
+      "figmaLayerName": "InputChip/InputChipWithAvatarSample",
+      "componentName": "InputChipWithAvatarSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ChipSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "InputChipWithAvatarSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/inputchip-inputchipwithavatarsample__ideal__default.svg"
+    },
+    {
+      "componentId": "InputChip/InputChipWithCornerMorphingSample",
+      "figmaLayerName": "InputChip/InputChipWithCornerMorphingSample",
+      "componentName": "InputChipWithCornerMorphingSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ChipSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "InputChipWithCornerMorphingSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/inputchip-inputchipwithcornermorphingsample__ideal__default.svg"
+    },
+    {
+      "componentId": "Label/RangeSliderWithCustomComponents",
+      "figmaLayerName": "Label/RangeSliderWithCustomComponents",
+      "componentName": "RangeSliderWithCustomComponents",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SliderSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "RangeSliderWithCustomComponents",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/label-rangesliderwithcustomcomponents__ideal__default.svg"
+    },
+    {
+      "componentId": "Label/SliderWithCustomThumbSample",
+      "figmaLayerName": "Label/SliderWithCustomThumbSample",
+      "componentName": "SliderWithCustomThumbSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SliderSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SliderWithCustomThumbSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/label-sliderwithcustomthumbsample__ideal__default.svg"
+    },
+    {
+      "componentId": "LargeExtendedFloatingActionButton/LargeAnimatedExtendedFloatingActionButtonSample",
+      "figmaLayerName": "LargeExtendedFloatingActionButton/LargeAnimatedExtendedFloatingActionButtonSample",
+      "componentName": "LargeAnimatedExtendedFloatingActionButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingActionButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "LargeAnimatedExtendedFloatingActionButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/largeextendedfloatingactionbutton-largeanimatedextendedfloatingactionbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "LargeExtendedFloatingActionButton/LargeExtendedFloatingActionButtonSample",
+      "figmaLayerName": "LargeExtendedFloatingActionButton/LargeExtendedFloatingActionButtonSample",
+      "componentName": "LargeExtendedFloatingActionButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingActionButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "LargeExtendedFloatingActionButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/largeextendedfloatingactionbutton-largeextendedfloatingactionbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "LargeExtendedFloatingActionButton/LargeExtendedFloatingActionButtonTextSample",
+      "figmaLayerName": "LargeExtendedFloatingActionButton/LargeExtendedFloatingActionButtonTextSample",
+      "componentName": "LargeExtendedFloatingActionButtonTextSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingActionButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "LargeExtendedFloatingActionButtonTextSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/largeextendedfloatingactionbutton-largeextendedfloatingactionbuttontextsample__ideal__default.svg"
+    },
+    {
+      "componentId": "LargeFlexibleTopAppBar/ExitUntilCollapsedCenterAlignedLargeFlexibleTopAppBar",
+      "figmaLayerName": "LargeFlexibleTopAppBar/ExitUntilCollapsedCenterAlignedLargeFlexibleTopAppBar",
+      "componentName": "ExitUntilCollapsedCenterAlignedLargeFlexibleTopAppBar",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ExitUntilCollapsedCenterAlignedLargeFlexibleTopAppBar",
+      "figmaSvg": "figma/largeflexibletopappbar-exituntilcollapsedcenteralignedlargeflexibletopappbar.svg"
+    },
+    {
+      "componentId": "LargeFloatingActionButton/LargeFloatingActionButtonSample",
+      "figmaLayerName": "LargeFloatingActionButton/LargeFloatingActionButtonSample",
+      "componentName": "LargeFloatingActionButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingActionButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "LargeFloatingActionButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/largefloatingactionbutton-largefloatingactionbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "LargeTopAppBar/ExitUntilCollapsedLargeTopAppBar",
+      "figmaLayerName": "LargeTopAppBar/ExitUntilCollapsedLargeTopAppBar",
+      "componentName": "ExitUntilCollapsedLargeTopAppBar",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ExitUntilCollapsedLargeTopAppBar",
+      "figmaSvg": "figma/largetopappbar-exituntilcollapsedlargetopappbar.svg"
+    },
+    {
+      "componentId": "LinearProgressIndicator/IndeterminateLinearProgressIndicatorSample",
+      "figmaLayerName": "LinearProgressIndicator/IndeterminateLinearProgressIndicatorSample",
+      "componentName": "IndeterminateLinearProgressIndicatorSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ProgressIndicatorSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "IndeterminateLinearProgressIndicatorSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/linearprogressindicator-indeterminatelinearprogressindicatorsample__ideal__default.svg"
+    },
+    {
+      "componentId": "LinearProgressIndicator/LinearProgressIndicatorSample",
+      "figmaLayerName": "LinearProgressIndicator/LinearProgressIndicatorSample",
+      "componentName": "LinearProgressIndicatorSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ProgressIndicatorSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "LinearProgressIndicatorSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/linearprogressindicator-linearprogressindicatorsample__ideal__default.svg"
+    },
+    {
+      "componentId": "LinearWavyProgressIndicator/IndeterminateLinearWavyProgressIndicatorSample",
+      "figmaLayerName": "LinearWavyProgressIndicator/IndeterminateLinearWavyProgressIndicatorSample",
+      "componentName": "IndeterminateLinearWavyProgressIndicatorSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ProgressIndicatorSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "IndeterminateLinearWavyProgressIndicatorSample",
+      "figmaSvg": "figma/linearwavyprogressindicator-indeterminatelinearwavyprogressindicatorsample.svg"
+    },
+    {
+      "componentId": "LinearWavyProgressIndicator/LinearThickWavyProgressIndicatorSample",
+      "figmaLayerName": "LinearWavyProgressIndicator/LinearThickWavyProgressIndicatorSample",
+      "componentName": "LinearThickWavyProgressIndicatorSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ProgressIndicatorSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "LinearThickWavyProgressIndicatorSample",
+      "figmaSvg": "figma/linearwavyprogressindicator-linearthickwavyprogressindicatorsample.svg"
+    },
+    {
+      "componentId": "LinearWavyProgressIndicator/LinearWavyProgressIndicatorSample",
+      "figmaLayerName": "LinearWavyProgressIndicator/LinearWavyProgressIndicatorSample",
+      "componentName": "LinearWavyProgressIndicatorSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ProgressIndicatorSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "LinearWavyProgressIndicatorSample",
+      "figmaSvg": "figma/linearwavyprogressindicator-linearwavyprogressindicatorsample.svg"
+    },
+    {
+      "componentId": "ListItem/ClickableListItemSample",
+      "figmaLayerName": "ListItem/ClickableListItemSample",
+      "componentName": "ClickableListItemSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ListSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ClickableListItemSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/listitem-clickablelistitemsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ListItem/ClickableListItemWithClickableChildSample",
+      "figmaLayerName": "ListItem/ClickableListItemWithClickableChildSample",
+      "componentName": "ClickableListItemWithClickableChildSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ListSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ClickableListItemWithClickableChildSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/listitem-clickablelistitemwithclickablechildsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ListItem/ListItemWithModeChangeOnLongClickSample",
+      "figmaLayerName": "ListItem/ListItemWithModeChangeOnLongClickSample",
+      "componentName": "ListItemWithModeChangeOnLongClickSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ListSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ListItemWithModeChangeOnLongClickSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/listitem-listitemwithmodechangeonlongclicksample__ideal__default.svg"
+    },
+    {
+      "componentId": "ListItem/MultiSelectionListItemSample",
+      "figmaLayerName": "ListItem/MultiSelectionListItemSample",
+      "componentName": "MultiSelectionListItemSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ListSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "MultiSelectionListItemSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/listitem-multiselectionlistitemsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ListItem/OneLineListItem",
+      "figmaLayerName": "ListItem/OneLineListItem",
+      "componentName": "OneLineListItem",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ListSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "OneLineListItem",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/listitem-onelinelistitem__ideal__default.svg"
+    },
+    {
+      "componentId": "ListItem/SingleSelectionListItemSample",
+      "figmaLayerName": "ListItem/SingleSelectionListItemSample",
+      "componentName": "SingleSelectionListItemSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ListSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SingleSelectionListItemSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/listitem-singleselectionlistitemsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ListItem/ThreeLineListItemWithExtendedSupporting",
+      "figmaLayerName": "ListItem/ThreeLineListItemWithExtendedSupporting",
+      "componentName": "ThreeLineListItemWithExtendedSupporting",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ListSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ThreeLineListItemWithExtendedSupporting",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/listitem-threelinelistitemwithextendedsupporting__ideal__default.svg"
+    },
+    {
+      "componentId": "ListItem/ThreeLineListItemWithOverlineAndSupporting",
+      "figmaLayerName": "ListItem/ThreeLineListItemWithOverlineAndSupporting",
+      "componentName": "ThreeLineListItemWithOverlineAndSupporting",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ListSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ThreeLineListItemWithOverlineAndSupporting",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/listitem-threelinelistitemwithoverlineandsupporting__ideal__default.svg"
+    },
+    {
+      "componentId": "ListItem/TwoLineListItem",
+      "figmaLayerName": "ListItem/TwoLineListItem",
+      "componentName": "TwoLineListItem",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ListSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TwoLineListItem",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/listitem-twolinelistitem__ideal__default.svg"
+    },
+    {
+      "componentId": "LoadingIndicator/DeterminateLoadingIndicatorSample",
+      "figmaLayerName": "LoadingIndicator/DeterminateLoadingIndicatorSample",
+      "componentName": "DeterminateLoadingIndicatorSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/LoadingIndicatorSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "DeterminateLoadingIndicatorSample",
+      "figmaSvg": "figma/loadingindicator-determinateloadingindicatorsample.svg"
+    },
+    {
+      "componentId": "LoadingIndicator/LoadingIndicatorSample",
+      "figmaLayerName": "LoadingIndicator/LoadingIndicatorSample",
+      "componentName": "LoadingIndicatorSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/LoadingIndicatorSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "LoadingIndicatorSample",
+      "figmaSvg": "figma/loadingindicator-loadingindicatorsample.svg"
+    },
+    {
+      "componentId": "MediumExtendedFloatingActionButton/MediumAnimatedExtendedFloatingActionButtonSample",
+      "figmaLayerName": "MediumExtendedFloatingActionButton/MediumAnimatedExtendedFloatingActionButtonSample",
+      "componentName": "MediumAnimatedExtendedFloatingActionButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingActionButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "MediumAnimatedExtendedFloatingActionButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/mediumextendedfloatingactionbutton-mediumanimatedextendedfloatingactionbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "MediumExtendedFloatingActionButton/MediumExtendedFloatingActionButtonSample",
+      "figmaLayerName": "MediumExtendedFloatingActionButton/MediumExtendedFloatingActionButtonSample",
+      "componentName": "MediumExtendedFloatingActionButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingActionButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "MediumExtendedFloatingActionButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/mediumextendedfloatingactionbutton-mediumextendedfloatingactionbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "MediumExtendedFloatingActionButton/MediumExtendedFloatingActionButtonTextSample",
+      "figmaLayerName": "MediumExtendedFloatingActionButton/MediumExtendedFloatingActionButtonTextSample",
+      "componentName": "MediumExtendedFloatingActionButtonTextSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingActionButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "MediumExtendedFloatingActionButtonTextSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/mediumextendedfloatingactionbutton-mediumextendedfloatingactionbuttontextsample__ideal__default.svg"
+    },
+    {
+      "componentId": "MediumFlexibleTopAppBar/ExitUntilCollapsedCenterAlignedMediumFlexibleTopAppBar",
+      "figmaLayerName": "MediumFlexibleTopAppBar/ExitUntilCollapsedCenterAlignedMediumFlexibleTopAppBar",
+      "componentName": "ExitUntilCollapsedCenterAlignedMediumFlexibleTopAppBar",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ExitUntilCollapsedCenterAlignedMediumFlexibleTopAppBar",
+      "figmaSvg": "figma/mediumflexibletopappbar-exituntilcollapsedcenteralignedmediumflexibletopappbar.svg"
+    },
+    {
+      "componentId": "MediumFloatingActionButton/MediumFloatingActionButtonSample",
+      "figmaLayerName": "MediumFloatingActionButton/MediumFloatingActionButtonSample",
+      "componentName": "MediumFloatingActionButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingActionButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "MediumFloatingActionButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/mediumfloatingactionbutton-mediumfloatingactionbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "minimumInteractiveComponentSize/MinimumInteractiveComponentSizeCheckboxRowSample",
+      "figmaLayerName": "minimumInteractiveComponentSize/MinimumInteractiveComponentSizeCheckboxRowSample",
+      "componentName": "MinimumInteractiveComponentSizeCheckboxRowSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/InteractiveComponentSizeSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "MinimumInteractiveComponentSizeCheckboxRowSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/minimuminteractivecomponentsize-minimuminteractivecomponentsizecheckboxrowsample__ideal__default.svg"
+    },
+    {
+      "componentId": "minimumInteractiveComponentSize/MinimumInteractiveComponentSizeSample",
+      "figmaLayerName": "minimumInteractiveComponentSize/MinimumInteractiveComponentSizeSample",
+      "componentName": "MinimumInteractiveComponentSizeSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/InteractiveComponentSizeSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "MinimumInteractiveComponentSizeSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/minimuminteractivecomponentsize-minimuminteractivecomponentsizesample__ideal__default.svg"
+    },
+    {
+      "componentId": "ModalBottomSheet/ModalBottomSheetSample",
+      "figmaLayerName": "ModalBottomSheet/ModalBottomSheetSample",
+      "componentName": "ModalBottomSheetSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/BottomSheetSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ModalBottomSheetSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/modalbottomsheet-modalbottomsheetsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ModalNavigationDrawer/ModalNavigationDrawerSample",
+      "figmaLayerName": "ModalNavigationDrawer/ModalNavigationDrawerSample",
+      "componentName": "ModalNavigationDrawerSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/DrawerSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ModalNavigationDrawerSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/modalnavigationdrawer-modalnavigationdrawersample__ideal__default.svg"
+    },
+    {
+      "componentId": "ModalWideNavigationRail/DismissibleModalWideNavigationRailSample",
+      "figmaLayerName": "ModalWideNavigationRail/DismissibleModalWideNavigationRailSample",
+      "componentName": "DismissibleModalWideNavigationRailSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/NavigationRailSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "DismissibleModalWideNavigationRailSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/modalwidenavigationrail-dismissiblemodalwidenavigationrailsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ModalWideNavigationRail/ModalWideNavigationRailSample",
+      "figmaLayerName": "ModalWideNavigationRail/ModalWideNavigationRailSample",
+      "componentName": "ModalWideNavigationRailSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/NavigationRailSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ModalWideNavigationRailSample",
+      "figmaSvg": "figma/modalwidenavigationrail-modalwidenavigationrailsample.svg"
+    },
+    {
+      "componentId": "MultiChoiceSegmentedButtonRow/SegmentedButtonMultiSelectSample",
+      "figmaLayerName": "MultiChoiceSegmentedButtonRow/SegmentedButtonMultiSelectSample",
+      "componentName": "SegmentedButtonMultiSelectSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SegmentedButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SegmentedButtonMultiSelectSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/multichoicesegmentedbuttonrow-segmentedbuttonmultiselectsample__ideal__default.svg"
+    },
+    {
+      "componentId": "NavigationBar/NavigationBarSample",
+      "figmaLayerName": "NavigationBar/NavigationBarSample",
+      "componentName": "NavigationBarSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/NavigationBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "NavigationBarSample",
+      "figmaSvg": "figma/navigationbar-navigationbarsample.svg"
+    },
+    {
+      "componentId": "NavigationRail/NavigationRailSample",
+      "figmaLayerName": "NavigationRail/NavigationRailSample",
+      "componentName": "NavigationRailSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/NavigationRailSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "NavigationRailSample",
+      "figmaSvg": "figma/navigationrail-navigationrailsample.svg"
+    },
+    {
+      "componentId": "OutlinedButton/OutlinedButtonSample",
+      "figmaLayerName": "OutlinedButton/OutlinedButtonSample",
+      "componentName": "OutlinedButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "OutlinedButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/outlinedbutton-outlinedbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "OutlinedButton/OutlinedButtonWithAnimatedShapeSample",
+      "figmaLayerName": "OutlinedButton/OutlinedButtonWithAnimatedShapeSample",
+      "componentName": "OutlinedButtonWithAnimatedShapeSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "OutlinedButtonWithAnimatedShapeSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/outlinedbutton-outlinedbuttonwithanimatedshapesample__ideal__default.svg"
+    },
+    {
+      "componentId": "OutlinedCard/ClickableOutlinedCardSample",
+      "figmaLayerName": "OutlinedCard/ClickableOutlinedCardSample",
+      "componentName": "ClickableOutlinedCardSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/CardSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ClickableOutlinedCardSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/outlinedcard-clickableoutlinedcardsample__ideal__default.svg"
+    },
+    {
+      "componentId": "OutlinedCard/OutlinedCardSample",
+      "figmaLayerName": "OutlinedCard/OutlinedCardSample",
+      "componentName": "OutlinedCardSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/CardSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "OutlinedCardSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/outlinedcard-outlinedcardsample__ideal__default.svg"
+    },
+    {
+      "componentId": "OutlinedIconButton/LargeRoundUniformOutlinedIconButtonSample",
+      "figmaLayerName": "OutlinedIconButton/LargeRoundUniformOutlinedIconButtonSample",
+      "componentName": "LargeRoundUniformOutlinedIconButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "LargeRoundUniformOutlinedIconButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/outlinediconbutton-largerounduniformoutlinediconbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "OutlinedIconButton/OutlinedIconButtonSample",
+      "figmaLayerName": "OutlinedIconButton/OutlinedIconButtonSample",
+      "componentName": "OutlinedIconButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "OutlinedIconButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/outlinediconbutton-outlinediconbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "OutlinedIconButton/OutlinedIconButtonWithAnimatedShapeSample",
+      "figmaLayerName": "OutlinedIconButton/OutlinedIconButtonWithAnimatedShapeSample",
+      "componentName": "OutlinedIconButtonWithAnimatedShapeSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "OutlinedIconButtonWithAnimatedShapeSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/outlinediconbutton-outlinediconbuttonwithanimatedshapesample__ideal__default.svg"
+    },
+    {
+      "componentId": "OutlinedIconToggleButton/OutlinedIconToggleButtonSample",
+      "figmaLayerName": "OutlinedIconToggleButton/OutlinedIconToggleButtonSample",
+      "componentName": "OutlinedIconToggleButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "OutlinedIconToggleButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/outlinedicontogglebutton-outlinedicontogglebuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "OutlinedIconToggleButton/OutlinedIconToggleButtonWithAnimatedShapeSample",
+      "figmaLayerName": "OutlinedIconToggleButton/OutlinedIconToggleButtonWithAnimatedShapeSample",
+      "componentName": "OutlinedIconToggleButtonWithAnimatedShapeSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/IconButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "OutlinedIconToggleButtonWithAnimatedShapeSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/outlinedicontogglebutton-outlinedicontogglebuttonwithanimatedshapesample__ideal__default.svg"
+    },
+    {
+      "componentId": "OutlinedToggleButton/OutlinedToggleButtonSample",
+      "figmaLayerName": "OutlinedToggleButton/OutlinedToggleButtonSample",
+      "componentName": "OutlinedToggleButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ToggleButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "OutlinedToggleButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/outlinedtogglebutton-outlinedtogglebuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "PermanentNavigationDrawer/PermanentNavigationDrawerSample",
+      "figmaLayerName": "PermanentNavigationDrawer/PermanentNavigationDrawerSample",
+      "componentName": "PermanentNavigationDrawerSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/DrawerSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "PermanentNavigationDrawerSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/permanentnavigationdrawer-permanentnavigationdrawersample__ideal__default.svg"
+    },
+    {
+      "componentId": "pinnedScrollBehavior/PinnedTopAppBarWithPreScrolledLazyColumn",
+      "figmaLayerName": "pinnedScrollBehavior/PinnedTopAppBarWithPreScrolledLazyColumn",
+      "componentName": "PinnedTopAppBarWithPreScrolledLazyColumn",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "PinnedTopAppBarWithPreScrolledLazyColumn",
+      "figmaSvg": "figma/pinnedscrollbehavior-pinnedtopappbarwithprescrolledlazycolumn.svg"
+    },
+    {
+      "componentId": "pinnedScrollBehavior/PinnedTopAppBarWithReversedLazyGrid",
+      "figmaLayerName": "pinnedScrollBehavior/PinnedTopAppBarWithReversedLazyGrid",
+      "componentName": "PinnedTopAppBarWithReversedLazyGrid",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "PinnedTopAppBarWithReversedLazyGrid",
+      "figmaSvg": "figma/pinnedscrollbehavior-pinnedtopappbarwithreversedlazygrid.svg"
+    },
+    {
+      "componentId": "PrimaryTabRow/FancyIndicatorContainerTabs",
+      "figmaLayerName": "PrimaryTabRow/FancyIndicatorContainerTabs",
+      "componentName": "FancyIndicatorContainerTabs",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/TabSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FancyIndicatorContainerTabs",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/primarytabrow-fancyindicatorcontainertabs__ideal__default.svg"
+    },
+    {
+      "componentId": "PrimaryTabRow/FancyIndicatorTabs",
+      "figmaLayerName": "PrimaryTabRow/FancyIndicatorTabs",
+      "componentName": "FancyIndicatorTabs",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/TabSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FancyIndicatorTabs",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/primarytabrow-fancyindicatortabs__ideal__default.svg"
+    },
+    {
+      "componentId": "PrimaryTabRow/FancyTabs",
+      "figmaLayerName": "PrimaryTabRow/FancyTabs",
+      "componentName": "FancyTabs",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/TabSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FancyTabs",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/primarytabrow-fancytabs__ideal__default.svg"
+    },
+    {
+      "componentId": "PrimaryTabRow/PrimaryTextTabs",
+      "figmaLayerName": "PrimaryTabRow/PrimaryTextTabs",
+      "componentName": "PrimaryTextTabs",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/TabSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "PrimaryTextTabs",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/primarytabrow-primarytexttabs__ideal__default.svg"
+    },
+    {
+      "componentId": "PullToRefreshBox/PullToRefreshCustomIndicatorWithDefaultTransform",
+      "figmaLayerName": "PullToRefreshBox/PullToRefreshCustomIndicatorWithDefaultTransform",
+      "componentName": "PullToRefreshCustomIndicatorWithDefaultTransform",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/PullToRefreshSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "PullToRefreshCustomIndicatorWithDefaultTransform",
+      "figmaSvg": "figma/pulltorefreshbox-pulltorefreshcustomindicatorwithdefaulttransform.svg"
+    },
+    {
+      "componentId": "PullToRefreshBox/PullToRefreshSample",
+      "figmaLayerName": "PullToRefreshBox/PullToRefreshSample",
+      "componentName": "PullToRefreshSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/PullToRefreshSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "PullToRefreshSample",
+      "figmaSvg": "figma/pulltorefreshbox-pulltorefreshsample.svg"
+    },
+    {
+      "componentId": "PullToRefreshBox/PullToRefreshSampleCustomState",
+      "figmaLayerName": "PullToRefreshBox/PullToRefreshSampleCustomState",
+      "componentName": "PullToRefreshSampleCustomState",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/PullToRefreshSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "PullToRefreshSampleCustomState",
+      "figmaSvg": "figma/pulltorefreshbox-pulltorefreshsamplecustomstate.svg"
+    },
+    {
+      "componentId": "PullToRefreshBox/PullToRefreshScalingSample",
+      "figmaLayerName": "PullToRefreshBox/PullToRefreshScalingSample",
+      "componentName": "PullToRefreshScalingSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/PullToRefreshSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "PullToRefreshScalingSample",
+      "figmaSvg": "figma/pulltorefreshbox-pulltorefreshscalingsample.svg"
+    },
+    {
+      "componentId": "PullToRefreshBox/PullToRefreshViewModelSample",
+      "figmaLayerName": "PullToRefreshBox/PullToRefreshViewModelSample",
+      "componentName": "PullToRefreshViewModelSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/PullToRefreshSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "PullToRefreshViewModelSample",
+      "figmaSvg": "figma/pulltorefreshbox-pulltorefreshviewmodelsample.svg"
+    },
+    {
+      "componentId": "PullToRefreshBox/PullToRefreshWithLoadingIndicatorSample",
+      "figmaLayerName": "PullToRefreshBox/PullToRefreshWithLoadingIndicatorSample",
+      "componentName": "PullToRefreshWithLoadingIndicatorSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/PullToRefreshSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "PullToRefreshWithLoadingIndicatorSample",
+      "figmaSvg": "figma/pulltorefreshbox-pulltorefreshwithloadingindicatorsample.svg"
+    },
+    {
+      "componentId": "PullToRefreshState/PullToRefreshLinearProgressIndicatorSample",
+      "figmaLayerName": "PullToRefreshState/PullToRefreshLinearProgressIndicatorSample",
+      "componentName": "PullToRefreshLinearProgressIndicatorSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/PullToRefreshSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "PullToRefreshLinearProgressIndicatorSample",
+      "figmaSvg": "figma/pulltorefreshstate-pulltorefreshlinearprogressindicatorsample.svg"
+    },
+    {
+      "componentId": "RadioButton/RadioButtonSample",
+      "figmaLayerName": "RadioButton/RadioButtonSample",
+      "componentName": "RadioButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/RadioButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "RadioButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/radiobutton-radiobuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "RadioButton/RadioGroupSample",
+      "figmaLayerName": "RadioButton/RadioGroupSample",
+      "componentName": "RadioGroupSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/RadioButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "RadioGroupSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/radiobutton-radiogroupsample__ideal__default.svg"
+    },
+    {
+      "componentId": "RangeSlider/RangeSliderSample",
+      "figmaLayerName": "RangeSlider/RangeSliderSample",
+      "componentName": "RangeSliderSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SliderSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "RangeSliderSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/rangeslider-rangeslidersample__ideal__default.svg"
+    },
+    {
+      "componentId": "RangeSlider/StepRangeSliderSample",
+      "figmaLayerName": "RangeSlider/StepRangeSliderSample",
+      "componentName": "StepRangeSliderSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SliderSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "StepRangeSliderSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/rangeslider-steprangeslidersample__ideal__default.svg"
+    },
+    {
+      "componentId": "Scaffold/ScaffoldWithSimpleSnackbar",
+      "figmaLayerName": "Scaffold/ScaffoldWithSimpleSnackbar",
+      "componentName": "ScaffoldWithSimpleSnackbar",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ScaffoldSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ScaffoldWithSimpleSnackbar",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/scaffold-scaffoldwithsimplesnackbar__ideal__default.svg"
+    },
+    {
+      "componentId": "Scaffold/SimpleScaffoldWithTopBar",
+      "figmaLayerName": "Scaffold/SimpleScaffoldWithTopBar",
+      "componentName": "SimpleScaffoldWithTopBar",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ScaffoldSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SimpleScaffoldWithTopBar",
+      "figmaSvg": "figma/scaffold-simplescaffoldwithtopbar.svg"
+    },
+    {
+      "componentId": "ScrollField/ScrollFieldSample",
+      "figmaLayerName": "ScrollField/ScrollFieldSample",
+      "componentName": "ScrollFieldSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ScrollFieldSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ScrollFieldSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/scrollfield-scrollfieldsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ScrollField/TimeScrollFieldSample",
+      "figmaLayerName": "ScrollField/TimeScrollFieldSample",
+      "componentName": "TimeScrollFieldSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ScrollFieldSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TimeScrollFieldSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/scrollfield-timescrollfieldsample__ideal__default.svg"
+    },
+    {
+      "componentId": "SearchBar/SimpleSearchBarSample",
+      "figmaLayerName": "SearchBar/SimpleSearchBarSample",
+      "componentName": "SimpleSearchBarSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SearchBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SimpleSearchBarSample",
+      "figmaSvg": "figma/searchbar-simplesearchbarsample.svg"
+    },
+    {
+      "componentId": "SecondaryTabRow/SecondaryTextTabs",
+      "figmaLayerName": "SecondaryTabRow/SecondaryTextTabs",
+      "componentName": "SecondaryTextTabs",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/TabSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SecondaryTextTabs",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/secondarytabrow-secondarytexttabs__ideal__default.svg"
+    },
+    {
+      "componentId": "SegmentedButton/SegmentedButtonSingleSelectSample",
+      "figmaLayerName": "SegmentedButton/SegmentedButtonSingleSelectSample",
+      "componentName": "SegmentedButtonSingleSelectSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SegmentedButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SegmentedButtonSingleSelectSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/segmentedbutton-segmentedbuttonsingleselectsample__ideal__default.svg"
+    },
+    {
+      "componentId": "SegmentedListItem/MultiSelectionSegmentedListItemSample",
+      "figmaLayerName": "SegmentedListItem/MultiSelectionSegmentedListItemSample",
+      "componentName": "MultiSelectionSegmentedListItemSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ListSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "MultiSelectionSegmentedListItemSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/segmentedlistitem-multiselectionsegmentedlistitemsample__ideal__default.svg"
+    },
+    {
+      "componentId": "SegmentedListItem/SegmentedListItemWithExpansionSample",
+      "figmaLayerName": "SegmentedListItem/SegmentedListItemWithExpansionSample",
+      "componentName": "SegmentedListItemWithExpansionSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ListSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SegmentedListItemWithExpansionSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/segmentedlistitem-segmentedlistitemwithexpansionsample__ideal__default.svg"
+    },
+    {
+      "componentId": "SegmentedListItem/SingleSelectionSegmentedListItemSample",
+      "figmaLayerName": "SegmentedListItem/SingleSelectionSegmentedListItemSample",
+      "componentName": "SingleSelectionSegmentedListItemSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ListSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SingleSelectionSegmentedListItemSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/segmentedlistitem-singleselectionsegmentedlistitemsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ShortNavigationBar/ShortNavigationBarSample",
+      "figmaLayerName": "ShortNavigationBar/ShortNavigationBarSample",
+      "componentName": "ShortNavigationBarSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/NavigationBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ShortNavigationBarSample",
+      "figmaSvg": "figma/shortnavigationbar-shortnavigationbarsample.svg"
+    },
+    {
+      "componentId": "ShortNavigationBar/ShortNavigationBarWithHorizontalItemsSample",
+      "figmaLayerName": "ShortNavigationBar/ShortNavigationBarWithHorizontalItemsSample",
+      "componentName": "ShortNavigationBarWithHorizontalItemsSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/NavigationBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ShortNavigationBarWithHorizontalItemsSample",
+      "figmaSvg": "figma/shortnavigationbar-shortnavigationbarwithhorizontalitemssample.svg"
+    },
+    {
+      "componentId": "showSnackbar/ScaffoldWithCoroutinesSnackbar",
+      "figmaLayerName": "showSnackbar/ScaffoldWithCoroutinesSnackbar",
+      "componentName": "ScaffoldWithCoroutinesSnackbar",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ScaffoldSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ScaffoldWithCoroutinesSnackbar",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/showsnackbar-scaffoldwithcoroutinessnackbar__ideal__default.svg"
+    },
+    {
+      "componentId": "showSnackbar/ScaffoldWithCustomSnackbar",
+      "figmaLayerName": "showSnackbar/ScaffoldWithCustomSnackbar",
+      "componentName": "ScaffoldWithCustomSnackbar",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ScaffoldSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ScaffoldWithCustomSnackbar",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/showsnackbar-scaffoldwithcustomsnackbar__ideal__default.svg"
+    },
+    {
+      "componentId": "Slider/CenteredSliderSample",
+      "figmaLayerName": "Slider/CenteredSliderSample",
+      "componentName": "CenteredSliderSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SliderSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "CenteredSliderSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/slider-centeredslidersample__ideal__default.svg"
+    },
+    {
+      "componentId": "Slider/SliderSample",
+      "figmaLayerName": "Slider/SliderSample",
+      "componentName": "SliderSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SliderSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SliderSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/slider-slidersample__ideal__default.svg"
+    },
+    {
+      "componentId": "Slider/SliderWithCustomTrackAndThumbSample",
+      "figmaLayerName": "Slider/SliderWithCustomTrackAndThumbSample",
+      "componentName": "SliderWithCustomTrackAndThumbSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SliderSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SliderWithCustomTrackAndThumbSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/slider-sliderwithcustomtrackandthumbsample__ideal__default.svg"
+    },
+    {
+      "componentId": "Slider/SliderWithTrackIconsSample",
+      "figmaLayerName": "Slider/SliderWithTrackIconsSample",
+      "componentName": "SliderWithTrackIconsSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SliderSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SliderWithTrackIconsSample",
+      "figmaSvg": "figma/slider-sliderwithtrackiconssample.svg"
+    },
+    {
+      "componentId": "Slider/StepsSliderSample",
+      "figmaLayerName": "Slider/StepsSliderSample",
+      "componentName": "StepsSliderSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SliderSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "StepsSliderSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/slider-stepsslidersample__ideal__default.svg"
+    },
+    {
+      "componentId": "SmallExtendedFloatingActionButton/SmallAnimatedExtendedFloatingActionButtonSample",
+      "figmaLayerName": "SmallExtendedFloatingActionButton/SmallAnimatedExtendedFloatingActionButtonSample",
+      "componentName": "SmallAnimatedExtendedFloatingActionButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingActionButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SmallAnimatedExtendedFloatingActionButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/smallextendedfloatingactionbutton-smallanimatedextendedfloatingactionbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "SmallExtendedFloatingActionButton/SmallExtendedFloatingActionButtonSample",
+      "figmaLayerName": "SmallExtendedFloatingActionButton/SmallExtendedFloatingActionButtonSample",
+      "componentName": "SmallExtendedFloatingActionButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingActionButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SmallExtendedFloatingActionButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/smallextendedfloatingactionbutton-smallextendedfloatingactionbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "SmallExtendedFloatingActionButton/SmallExtendedFloatingActionButtonTextSample",
+      "figmaLayerName": "SmallExtendedFloatingActionButton/SmallExtendedFloatingActionButtonTextSample",
+      "componentName": "SmallExtendedFloatingActionButtonTextSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingActionButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SmallExtendedFloatingActionButtonTextSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/smallextendedfloatingactionbutton-smallextendedfloatingactionbuttontextsample__ideal__default.svg"
+    },
+    {
+      "componentId": "SmallFloatingActionButton/SmallFloatingActionButtonSample",
+      "figmaLayerName": "SmallFloatingActionButton/SmallFloatingActionButtonSample",
+      "componentName": "SmallFloatingActionButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingActionButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SmallFloatingActionButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/smallfloatingactionbutton-smallfloatingactionbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "Snackbar/ScaffoldWithIndefiniteSnackbar",
+      "figmaLayerName": "Snackbar/ScaffoldWithIndefiniteSnackbar",
+      "componentName": "ScaffoldWithIndefiniteSnackbar",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ScaffoldSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ScaffoldWithIndefiniteSnackbar",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/snackbar-scaffoldwithindefinitesnackbar__ideal__default.svg"
+    },
+    {
+      "componentId": "Snackbar/ScaffoldWithMultilineSnackbar",
+      "figmaLayerName": "Snackbar/ScaffoldWithMultilineSnackbar",
+      "componentName": "ScaffoldWithMultilineSnackbar",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ScaffoldSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ScaffoldWithMultilineSnackbar",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/snackbar-scaffoldwithmultilinesnackbar__ideal__default.svg"
+    },
+    {
+      "componentId": "SplitButtonLayout/ElevatedSplitButtonSample",
+      "figmaLayerName": "SplitButtonLayout/ElevatedSplitButtonSample",
+      "componentName": "ElevatedSplitButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SplitButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ElevatedSplitButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/splitbuttonlayout-elevatedsplitbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "SplitButtonLayout/ExtraLargeFilledSplitButtonSample",
+      "figmaLayerName": "SplitButtonLayout/ExtraLargeFilledSplitButtonSample",
+      "componentName": "ExtraLargeFilledSplitButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SplitButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ExtraLargeFilledSplitButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/splitbuttonlayout-extralargefilledsplitbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "SplitButtonLayout/FilledSplitButtonSample",
+      "figmaLayerName": "SplitButtonLayout/FilledSplitButtonSample",
+      "componentName": "FilledSplitButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SplitButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FilledSplitButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/splitbuttonlayout-filledsplitbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "SplitButtonLayout/LargeFilledSplitButtonSample",
+      "figmaLayerName": "SplitButtonLayout/LargeFilledSplitButtonSample",
+      "componentName": "LargeFilledSplitButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SplitButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "LargeFilledSplitButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/splitbuttonlayout-largefilledsplitbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "SplitButtonLayout/MediumFilledSplitButtonSample",
+      "figmaLayerName": "SplitButtonLayout/MediumFilledSplitButtonSample",
+      "componentName": "MediumFilledSplitButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SplitButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "MediumFilledSplitButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/splitbuttonlayout-mediumfilledsplitbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "SplitButtonLayout/OutlinedSplitButtonSample",
+      "figmaLayerName": "SplitButtonLayout/OutlinedSplitButtonSample",
+      "componentName": "OutlinedSplitButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SplitButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "OutlinedSplitButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/splitbuttonlayout-outlinedsplitbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "SplitButtonLayout/SplitButtonWithDropdownMenuSample",
+      "figmaLayerName": "SplitButtonLayout/SplitButtonWithDropdownMenuSample",
+      "componentName": "SplitButtonWithDropdownMenuSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SplitButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SplitButtonWithDropdownMenuSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/splitbuttonlayout-splitbuttonwithdropdownmenusample__ideal__default.svg"
+    },
+    {
+      "componentId": "SplitButtonLayout/SplitButtonWithIconSample",
+      "figmaLayerName": "SplitButtonLayout/SplitButtonWithIconSample",
+      "componentName": "SplitButtonWithIconSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SplitButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SplitButtonWithIconSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/splitbuttonlayout-splitbuttonwithiconsample__ideal__default.svg"
+    },
+    {
+      "componentId": "SplitButtonLayout/SplitButtonWithTextSample",
+      "figmaLayerName": "SplitButtonLayout/SplitButtonWithTextSample",
+      "componentName": "SplitButtonWithTextSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SplitButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SplitButtonWithTextSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/splitbuttonlayout-splitbuttonwithtextsample__ideal__default.svg"
+    },
+    {
+      "componentId": "SplitButtonLayout/SplitButtonWithUnCheckableTrailingButtonSample",
+      "figmaLayerName": "SplitButtonLayout/SplitButtonWithUnCheckableTrailingButtonSample",
+      "componentName": "SplitButtonWithUnCheckableTrailingButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SplitButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SplitButtonWithUnCheckableTrailingButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/splitbuttonlayout-splitbuttonwithuncheckabletrailingbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "SplitButtonLayout/TonalSplitButtonSample",
+      "figmaLayerName": "SplitButtonLayout/TonalSplitButtonSample",
+      "componentName": "TonalSplitButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SplitButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TonalSplitButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/splitbuttonlayout-tonalsplitbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "SplitButtonLayout/XSmallFilledSplitButtonSample",
+      "figmaLayerName": "SplitButtonLayout/XSmallFilledSplitButtonSample",
+      "componentName": "XSmallFilledSplitButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SplitButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "XSmallFilledSplitButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/splitbuttonlayout-xsmallfilledsplitbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "SuggestionChip/SuggestionChipSample",
+      "figmaLayerName": "SuggestionChip/SuggestionChipSample",
+      "componentName": "SuggestionChipSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ChipSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SuggestionChipSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/suggestionchip-suggestionchipsample__ideal__default.svg"
+    },
+    {
+      "componentId": "Surface/ClickableSurfaceSample",
+      "figmaLayerName": "Surface/ClickableSurfaceSample",
+      "componentName": "ClickableSurfaceSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SurfaceSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ClickableSurfaceSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/surface-clickablesurfacesample__ideal__default.svg"
+    },
+    {
+      "componentId": "Surface/SelectableSurfaceSample",
+      "figmaLayerName": "Surface/SelectableSurfaceSample",
+      "componentName": "SelectableSurfaceSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SurfaceSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SelectableSurfaceSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/surface-selectablesurfacesample__ideal__default.svg"
+    },
+    {
+      "componentId": "Surface/SurfaceSample",
+      "figmaLayerName": "Surface/SurfaceSample",
+      "componentName": "SurfaceSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SurfaceSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SurfaceSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/surface-surfacesample__ideal__default.svg"
+    },
+    {
+      "componentId": "Surface/ToggleableSurfaceSample",
+      "figmaLayerName": "Surface/ToggleableSurfaceSample",
+      "componentName": "ToggleableSurfaceSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SurfaceSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ToggleableSurfaceSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/surface-toggleablesurfacesample__ideal__default.svg"
+    },
+    {
+      "componentId": "SwipeToDismissBox/SwipeToDismissListItems",
+      "figmaLayerName": "SwipeToDismissBox/SwipeToDismissListItems",
+      "componentName": "SwipeToDismissListItems",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SwipeToDismissSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SwipeToDismissListItems",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/swipetodismissbox-swipetodismisslistitems__ideal__default.svg"
+    },
+    {
+      "componentId": "Switch/SwitchSample",
+      "figmaLayerName": "Switch/SwitchSample",
+      "componentName": "SwitchSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SwitchSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SwitchSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/switch-switchsample__ideal__default.svg"
+    },
+    {
+      "componentId": "Switch/SwitchWithThumbIconSample",
+      "figmaLayerName": "Switch/SwitchWithThumbIconSample",
+      "componentName": "SwitchWithThumbIconSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SwitchSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SwitchWithThumbIconSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/switch-switchwiththumbiconsample__ideal__default.svg"
+    },
+    {
+      "componentId": "TabRow/TextTabs",
+      "figmaLayerName": "TabRow/TextTabs",
+      "componentName": "TextTabs",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/TabSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TextTabs",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/tabrow-texttabs__ideal__default.svg"
+    },
+    {
+      "componentId": "Text/TextWithLinks",
+      "figmaLayerName": "Text/TextWithLinks",
+      "componentName": "TextWithLinks",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/TextSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TextWithLinks",
+      "figmaSvg": "figma/text-textwithlinks.svg"
+    },
+    {
+      "componentId": "TextButton/TextButtonSample",
+      "figmaLayerName": "TextButton/TextButtonSample",
+      "componentName": "TextButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TextButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/textbutton-textbuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "TextButton/TextButtonWithAnimatedShapeSample",
+      "figmaLayerName": "TextButton/TextButtonWithAnimatedShapeSample",
+      "componentName": "TextButtonWithAnimatedShapeSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TextButtonWithAnimatedShapeSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/textbutton-textbuttonwithanimatedshapesample__ideal__default.svg"
+    },
+    {
+      "componentId": "ToggleButton/LargeToggleButtonWithIconSample",
+      "figmaLayerName": "ToggleButton/LargeToggleButtonWithIconSample",
+      "componentName": "LargeToggleButtonWithIconSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ToggleButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "LargeToggleButtonWithIconSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/togglebutton-largetogglebuttonwithiconsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ToggleButton/MediumToggleButtonWithIconSample",
+      "figmaLayerName": "ToggleButton/MediumToggleButtonWithIconSample",
+      "componentName": "MediumToggleButtonWithIconSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ToggleButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "MediumToggleButtonWithIconSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/togglebutton-mediumtogglebuttonwithiconsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ToggleButton/SquareToggleButtonSample",
+      "figmaLayerName": "ToggleButton/SquareToggleButtonSample",
+      "componentName": "SquareToggleButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ToggleButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SquareToggleButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/togglebutton-squaretogglebuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ToggleButton/ToggleButtonSample",
+      "figmaLayerName": "ToggleButton/ToggleButtonSample",
+      "componentName": "ToggleButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ToggleButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ToggleButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/togglebutton-togglebuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ToggleButton/ToggleButtonWithIconSample",
+      "figmaLayerName": "ToggleButton/ToggleButtonWithIconSample",
+      "componentName": "ToggleButtonWithIconSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ToggleButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ToggleButtonWithIconSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/togglebutton-togglebuttonwithiconsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ToggleButton/XLargeToggleButtonWithIconSample",
+      "figmaLayerName": "ToggleButton/XLargeToggleButtonWithIconSample",
+      "componentName": "XLargeToggleButtonWithIconSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ToggleButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "XLargeToggleButtonWithIconSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/togglebutton-xlargetogglebuttonwithiconsample__ideal__default.svg"
+    },
+    {
+      "componentId": "ToggleButton/XSmallToggleButtonWithIconSample",
+      "figmaLayerName": "ToggleButton/XSmallToggleButtonWithIconSample",
+      "componentName": "XSmallToggleButtonWithIconSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ToggleButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "XSmallToggleButtonWithIconSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/togglebutton-xsmalltogglebuttonwithiconsample__ideal__default.svg"
+    },
+    {
+      "componentId": "TonalToggleButton/TonalToggleButtonSample",
+      "figmaLayerName": "TonalToggleButton/TonalToggleButtonSample",
+      "componentName": "TonalToggleButtonSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/ToggleButtonSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TonalToggleButtonSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/tonaltogglebutton-tonaltogglebuttonsample__ideal__default.svg"
+    },
+    {
+      "componentId": "TooltipBox/PlainTooltipSample",
+      "figmaLayerName": "TooltipBox/PlainTooltipSample",
+      "componentName": "PlainTooltipSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/TooltipSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "PlainTooltipSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/tooltipbox-plaintooltipsample__ideal__default.svg"
+    },
+    {
+      "componentId": "TooltipBox/PlainTooltipWithManualInvocationSample",
+      "figmaLayerName": "TooltipBox/PlainTooltipWithManualInvocationSample",
+      "componentName": "PlainTooltipWithManualInvocationSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/TooltipSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "PlainTooltipWithManualInvocationSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/tooltipbox-plaintooltipwithmanualinvocationsample__ideal__default.svg"
+    },
+    {
+      "componentId": "TopAppBar/EnterAlwaysTopAppBar",
+      "figmaLayerName": "TopAppBar/EnterAlwaysTopAppBar",
+      "componentName": "EnterAlwaysTopAppBar",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "EnterAlwaysTopAppBar",
+      "figmaSvg": "figma/topappbar-enteralwaystopappbar.svg"
+    },
+    {
+      "componentId": "TopAppBar/PinnedTopAppBar",
+      "figmaLayerName": "TopAppBar/PinnedTopAppBar",
+      "componentName": "PinnedTopAppBar",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "PinnedTopAppBar",
+      "figmaSvg": "figma/topappbar-pinnedtopappbar.svg"
+    },
+    {
+      "componentId": "TopAppBar/SimpleCenterAlignedTopAppBarWithSubtitle",
+      "figmaLayerName": "TopAppBar/SimpleCenterAlignedTopAppBarWithSubtitle",
+      "componentName": "SimpleCenterAlignedTopAppBarWithSubtitle",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SimpleCenterAlignedTopAppBarWithSubtitle",
+      "figmaSvg": "figma/topappbar-simplecenteralignedtopappbarwithsubtitle.svg"
+    },
+    {
+      "componentId": "TopAppBar/SimpleTopAppBar",
+      "figmaLayerName": "TopAppBar/SimpleTopAppBar",
+      "componentName": "SimpleTopAppBar",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SimpleTopAppBar",
+      "figmaSvg": "figma/topappbar-simpletopappbar.svg"
+    },
+    {
+      "componentId": "TopAppBar/SimpleTopAppBarWithSubtitle",
+      "figmaLayerName": "TopAppBar/SimpleTopAppBarWithSubtitle",
+      "componentName": "SimpleTopAppBarWithSubtitle",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SimpleTopAppBarWithSubtitle",
+      "figmaSvg": "figma/topappbar-simpletopappbarwithsubtitle.svg"
+    },
+    {
+      "componentId": "TriStateCheckbox/TriStateCheckboxRoundedStrokesSample",
+      "figmaLayerName": "TriStateCheckbox/TriStateCheckboxRoundedStrokesSample",
+      "componentName": "TriStateCheckboxRoundedStrokesSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/CheckboxSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TriStateCheckboxRoundedStrokesSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/tristatecheckbox-tristatecheckboxroundedstrokessample__ideal__default.svg"
+    },
+    {
+      "componentId": "TriStateCheckbox/TriStateCheckboxSample",
+      "figmaLayerName": "TriStateCheckbox/TriStateCheckboxSample",
+      "componentName": "TriStateCheckboxSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/CheckboxSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TriStateCheckboxSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/tristatecheckbox-tristatecheckboxsample__ideal__default.svg"
+    },
+    {
+      "componentId": "TwoRowsTopAppBar/CustomTwoRowsTopAppBar",
+      "figmaLayerName": "TwoRowsTopAppBar/CustomTwoRowsTopAppBar",
+      "componentName": "CustomTwoRowsTopAppBar",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/AppBarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "CustomTwoRowsTopAppBar",
+      "figmaSvg": "figma/tworowstopappbar-customtworowstopappbar.svg"
+    },
+    {
+      "componentId": "VerticalFloatingToolbar/CenteredVerticalFloatingToolbarWithFabSample",
+      "figmaLayerName": "VerticalFloatingToolbar/CenteredVerticalFloatingToolbarWithFabSample",
+      "componentName": "CenteredVerticalFloatingToolbarWithFabSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingToolbarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "CenteredVerticalFloatingToolbarWithFabSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/verticalfloatingtoolbar-centeredverticalfloatingtoolbarwithfabsample__ideal__default.svg"
+    },
+    {
+      "componentId": "VerticalFloatingToolbar/ExpandableVerticalFloatingToolbarSample",
+      "figmaLayerName": "VerticalFloatingToolbar/ExpandableVerticalFloatingToolbarSample",
+      "componentName": "ExpandableVerticalFloatingToolbarSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingToolbarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ExpandableVerticalFloatingToolbarSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/verticalfloatingtoolbar-expandableverticalfloatingtoolbarsample__ideal__default.svg"
+    },
+    {
+      "componentId": "VerticalFloatingToolbar/OverflowingVerticalFloatingToolbarSample",
+      "figmaLayerName": "VerticalFloatingToolbar/OverflowingVerticalFloatingToolbarSample",
+      "componentName": "OverflowingVerticalFloatingToolbarSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingToolbarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "OverflowingVerticalFloatingToolbarSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/verticalfloatingtoolbar-overflowingverticalfloatingtoolbarsample__ideal__default.svg"
+    },
+    {
+      "componentId": "VerticalFloatingToolbar/ScrollableVerticalFloatingToolbarSample",
+      "figmaLayerName": "VerticalFloatingToolbar/ScrollableVerticalFloatingToolbarSample",
+      "componentName": "ScrollableVerticalFloatingToolbarSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingToolbarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ScrollableVerticalFloatingToolbarSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/verticalfloatingtoolbar-scrollableverticalfloatingtoolbarsample__ideal__default.svg"
+    },
+    {
+      "componentId": "VerticalFloatingToolbar/VerticalFloatingToolbarWithFabSample",
+      "figmaLayerName": "VerticalFloatingToolbar/VerticalFloatingToolbarWithFabSample",
+      "componentName": "VerticalFloatingToolbarWithFabSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/FloatingToolbarSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "VerticalFloatingToolbarWithFabSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/verticalfloatingtoolbar-verticalfloatingtoolbarwithfabsample__ideal__default.svg"
+    },
+    {
+      "componentId": "VerticalSlider/VerticalCenteredSliderSample",
+      "figmaLayerName": "VerticalSlider/VerticalCenteredSliderSample",
+      "componentName": "VerticalCenteredSliderSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SliderSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "VerticalCenteredSliderSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/verticalslider-verticalcenteredslidersample__ideal__default.svg"
+    },
+    {
+      "componentId": "VerticalSlider/VerticalSliderSample",
+      "figmaLayerName": "VerticalSlider/VerticalSliderSample",
+      "componentName": "VerticalSliderSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/SliderSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "VerticalSliderSample",
+      "figmaSvg": "https://preview.coo.ee/m3-samples/render/verticalslider-verticalslidersample__ideal__default.svg"
+    },
+    {
+      "componentId": "WideNavigationRail/WideNavigationRailCollapsedSample",
+      "figmaLayerName": "WideNavigationRail/WideNavigationRailCollapsedSample",
+      "componentName": "WideNavigationRailCollapsedSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/NavigationRailSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "WideNavigationRailCollapsedSample",
+      "figmaSvg": "figma/widenavigationrail-widenavigationrailcollapsedsample.svg"
+    },
+    {
+      "componentId": "WideNavigationRail/WideNavigationRailExpandedSample",
+      "figmaLayerName": "WideNavigationRail/WideNavigationRailExpandedSample",
+      "componentName": "WideNavigationRailExpandedSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/NavigationRailSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "WideNavigationRailExpandedSample",
+      "figmaSvg": "figma/widenavigationrail-widenavigationrailexpandedsample.svg"
+    },
+    {
+      "componentId": "WideNavigationRail/WideNavigationRailResponsiveSample",
+      "figmaLayerName": "WideNavigationRail/WideNavigationRailResponsiveSample",
+      "componentName": "WideNavigationRailResponsiveSample",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/samples-catalog/src/main/kotlin/upstream/androidx/compose/material3/samples/NavigationRailSamples.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "WideNavigationRailResponsiveSample",
+      "figmaSvg": "figma/widenavigationrail-widenavigationrailresponsivesample.svg"
+    }
+  ]
+}
