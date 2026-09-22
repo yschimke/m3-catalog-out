@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 808" width="960" height="808" role="img" aria-label="Shapes/ShapesSample layout wireframe">
+  <title>Shapes/ShapesSample — layout wireframe (slots + tokens)</title>
+  <rect width="960" height="808" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="960" height="720" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="960" height="720" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="960" height="720" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M24,20 H936 A24,24 0 0 1 960,44 V380 A24,24 0 0 1 936,404 H24 A24,24 0 0 1 0,380 V44 A24,24 0 0 1 24,20 Z" fill="#303030" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="32" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF303030</text>
+  </g>
+  <g>
+    <rect x="453" y="199" width="54" height="26" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M36,424 H924 A36,36 0 0 1 960,460 V772 A36,36 0 0 1 924,808 H36 A36,36 0 0 1 0,772 V460 A36,36 0 0 1 36,424 Z" fill="#303030" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="436" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF303030</text>
+  </g>
+  <g>
+    <rect x="437" y="603" width="86" height="26" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>
