@@ -1,0 +1,1167 @@
+{
+  "system": "m3-catalog",
+  "title": "Material 3 Design Kit",
+  "label": "Compose",
+  "source": {
+    "repo": "yschimke/m3-catalog",
+    "ref": "main",
+    "module": ":catalog"
+  },
+  "generatedAt": "2026-09-23T00:09:43.236Z",
+  "mappings": [
+    {
+      "componentId": "Badge/Number",
+      "figmaLayerName": "Badge/Number",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "NumberBadge",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/badge-number__ideal__default__light.svg"
+    },
+    {
+      "componentId": "BottomAppBar/Standard",
+      "figmaLayerName": "BottomAppBar/Standard",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "BottomAppBarSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/bottomappbar-standard__ideal__default__light__compact.svg"
+    },
+    {
+      "componentId": "Button/Filled",
+      "figmaLayerName": "Button/Filled",
+      "componentName": "FilledButton",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Buttons.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FilledButton",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/button-filled__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Button/Tonal",
+      "figmaLayerName": "Button/Tonal",
+      "componentName": "TonalButton",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Buttons.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TonalButton",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/button-tonal__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Button/Outlined",
+      "figmaLayerName": "Button/Outlined",
+      "componentName": "OutlinedButtonSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Buttons.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "OutlinedButtonSticker",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/button-outlined__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Button/Elevated",
+      "figmaLayerName": "Button/Elevated",
+      "componentName": "ElevatedButtonSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Buttons.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ElevatedButtonSticker",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/button-elevated__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Button/Text",
+      "figmaLayerName": "Button/Text",
+      "componentName": "TextButtonSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Buttons.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TextButtonSticker",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/button-text__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Card/Filled",
+      "figmaLayerName": "Card/Filled",
+      "componentName": "FilledCard",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Cards.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FilledCard",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/card-filled__ideal__default__light__compact.svg"
+    },
+    {
+      "componentId": "Card/Elevated",
+      "figmaLayerName": "Card/Elevated",
+      "componentName": "ElevatedCardSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Cards.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ElevatedCardSticker",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/card-elevated__ideal__default__light__compact.svg"
+    },
+    {
+      "componentId": "Card/Outlined",
+      "figmaLayerName": "Card/Outlined",
+      "componentName": "OutlinedCardSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Cards.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "OutlinedCardSticker",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/card-outlined__ideal__default__light__compact.svg"
+    },
+    {
+      "componentId": "Carousel/MultiBrowse",
+      "figmaLayerName": "Carousel/MultiBrowse",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "MultiBrowseCarousel",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/carousel-multibrowse__ideal__default__light__compact.svg"
+    },
+    {
+      "componentId": "Checkbox/Checked",
+      "figmaLayerName": "Checkbox/Checked",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "LOW",
+      "previewName": "CheckboxChecked",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/checkbox-checked__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Chip/Assist",
+      "figmaLayerName": "Chip/Assist",
+      "componentName": "AssistChipSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Chips.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "AssistChipSticker",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/chip-assist__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Chip/Filter",
+      "figmaLayerName": "Chip/Filter",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "FilterChipSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/chip-filter__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Chip/Input",
+      "figmaLayerName": "Chip/Input",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "LOW",
+      "previewName": "InputChipSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/chip-input__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Chip/Suggestion",
+      "figmaLayerName": "Chip/Suggestion",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "SuggestionChipSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/chip-suggestion__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Color/Role grid",
+      "figmaLayerName": "Color/Role grid",
+      "componentName": "currentScheme",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogSchemes.kt",
+      "label": "Compose",
+      "confidence": "LOW",
+      "previewName": "ColorRoleGridSticker",
+      "codeSnippet": "currentScheme()",
+      "imports": [
+        "import ee.schimke.m3catalog.currentScheme"
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/color-role-grid__ideal__default__light__medium.svg"
+    },
+    {
+      "componentId": "DatePicker/Modal",
+      "figmaLayerName": "DatePicker/Modal",
+      "componentName": "DatePickerModalSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/DatePickers.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "DatePickerModalSticker",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/datepicker-modal__ideal__default__light__compact.svg"
+    },
+    {
+      "componentId": "Dialog/Basic",
+      "figmaLayerName": "Dialog/Basic",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "BasicDialog",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/dialog-basic__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Dialog/List",
+      "figmaLayerName": "Dialog/List",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ListDialog",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/dialog-list__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Divider/Horizontal",
+      "figmaLayerName": "Divider/Horizontal",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "HorizontalDividerSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/divider-horizontal__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Divider/Vertical",
+      "figmaLayerName": "Divider/Vertical",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "VerticalDividerSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/divider-vertical__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Fab/Standard",
+      "figmaLayerName": "Fab/Standard",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "LOW",
+      "previewName": "Fab",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/fab-standard__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Fab/Extended",
+      "figmaLayerName": "Fab/Extended",
+      "componentName": "ExtendedFab",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Fab.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ExtendedFab",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/fab-extended__ideal__default__light.svg"
+    },
+    {
+      "componentId": "IconButton/Standard",
+      "figmaLayerName": "IconButton/Standard",
+      "componentName": "StandardIconButton",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/IconButtons.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "StandardIconButton",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/iconbutton-standard__ideal__default__light.svg"
+    },
+    {
+      "componentId": "IconButton/Filled",
+      "figmaLayerName": "IconButton/Filled",
+      "componentName": "FilledIconButtonSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/IconButtons.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "FilledIconButtonSticker",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/iconbutton-filled__ideal__default__light.svg"
+    },
+    {
+      "componentId": "IconButton/Tonal",
+      "figmaLayerName": "IconButton/Tonal",
+      "componentName": "TonalIconButton",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/IconButtons.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TonalIconButton",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/iconbutton-tonal__ideal__default__light.svg"
+    },
+    {
+      "componentId": "IconButton/Outlined",
+      "figmaLayerName": "IconButton/Outlined",
+      "componentName": "OutlinedIconButtonSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/IconButtons.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "OutlinedIconButtonSticker",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/iconbutton-outlined__ideal__default__light.svg"
+    },
+    {
+      "componentId": "List/Item",
+      "figmaLayerName": "List/Item",
+      "componentName": "ListItemSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Lists.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ListItemSticker",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/list-item__ideal__default__light.svg"
+    },
+    {
+      "componentId": "LoadingIndicator/Uncontained",
+      "figmaLayerName": "LoadingIndicator/Uncontained",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "LoadingIndicatorSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/loadingindicator-uncontained.svg"
+    },
+    {
+      "componentId": "NavigationBar/Short",
+      "figmaLayerName": "NavigationBar/Short",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ShortNavigationBarSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/navigationbar-short.svg"
+    },
+    {
+      "componentId": "NavigationRail/Standard",
+      "figmaLayerName": "NavigationRail/Standard",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "NavigationRailSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/navigationrail-standard.svg"
+    },
+    {
+      "componentId": "NavigationRail/Wide",
+      "figmaLayerName": "NavigationRail/Wide",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "WideNavigationRailSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/navigationrail-wide.svg"
+    },
+    {
+      "componentId": "Progress/Linear",
+      "figmaLayerName": "Progress/Linear",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "LinearProgress",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/progress-linear__ideal__default__light__compact.svg"
+    },
+    {
+      "componentId": "Progress/Circular",
+      "figmaLayerName": "Progress/Circular",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "CircularProgress",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/progress-circular__ideal__default__light.svg"
+    },
+    {
+      "componentId": "RadioButton/Selected",
+      "figmaLayerName": "RadioButton/Selected",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "LOW",
+      "previewName": "RadioSelected",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/radiobutton-selected__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Search/Bar",
+      "figmaLayerName": "Search/Bar",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "SearchBarSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/search-bar.svg"
+    },
+    {
+      "componentId": "SegmentedButton/SingleChoice",
+      "figmaLayerName": "SegmentedButton/SingleChoice",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "SegmentedButtons",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/segmentedbutton-singlechoice__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Shape/Corner scale",
+      "figmaLayerName": "Shape/Corner scale",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "LOW",
+      "previewName": "CornerScaleSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/shape-corner-scale__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Shape/MaterialShapes",
+      "figmaLayerName": "Shape/MaterialShapes",
+      "componentName": "MaterialShapesSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Shapes.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "MaterialShapesSticker",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/shape-materialshapes__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Slider/Continuous",
+      "figmaLayerName": "Slider/Continuous",
+      "componentName": "ContinuousSlider",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Sliders.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ContinuousSlider",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/slider-continuous__ideal__default__light__compact.svg"
+    },
+    {
+      "componentId": "Slider/Range",
+      "figmaLayerName": "Slider/Range",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "LOW",
+      "previewName": "RangeSliderSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/slider-range__ideal__default__light__compact.svg"
+    },
+    {
+      "componentId": "Snackbar/Message",
+      "figmaLayerName": "Snackbar/Message",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "SnackbarMessage",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/snackbar-message__ideal__default__light__compact.svg"
+    },
+    {
+      "componentId": "SplitButton/Filled",
+      "figmaLayerName": "SplitButton/Filled",
+      "componentName": "SplitButton",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/SplitButton.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SplitButton",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/splitbutton-filled__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Switch/On",
+      "figmaLayerName": "Switch/On",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "LOW",
+      "previewName": "SwitchOn",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/switch-on__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Tabs/Primary",
+      "figmaLayerName": "Tabs/Primary",
+      "componentName": "PrimaryTabs",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Tabs.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "PrimaryTabs",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/tabs-primary__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Tabs/Secondary",
+      "figmaLayerName": "Tabs/Secondary",
+      "componentName": "SecondaryTabs",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Tabs.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SecondaryTabs",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/tabs-secondary__ideal__default__light.svg"
+    },
+    {
+      "componentId": "TextField/Filled",
+      "figmaLayerName": "TextField/Filled",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "FilledTextField",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/textfield-filled.svg"
+    },
+    {
+      "componentId": "TextField/Outlined",
+      "figmaLayerName": "TextField/Outlined",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "OutlinedTextFieldSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/textfield-outlined.svg"
+    },
+    {
+      "componentId": "TimePicker/Dial",
+      "figmaLayerName": "TimePicker/Dial",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "TimePickerSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/timepicker-dial.svg"
+    },
+    {
+      "componentId": "TimePicker/Input",
+      "figmaLayerName": "TimePicker/Input",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "LOW",
+      "previewName": "TimeInputSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/timepicker-input.svg"
+    },
+    {
+      "componentId": "ToggleButton/Filled",
+      "figmaLayerName": "ToggleButton/Filled",
+      "componentName": "ToggleButtonSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/ToggleButtons.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ToggleButtonSticker",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/togglebutton-filled__ideal__default__light.svg"
+    },
+    {
+      "componentId": "ToggleButton/Tonal",
+      "figmaLayerName": "ToggleButton/Tonal",
+      "componentName": "TonalToggleButtonSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/ToggleButtons.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TonalToggleButtonSticker",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/togglebutton-tonal__ideal__default__light.svg"
+    },
+    {
+      "componentId": "ToggleButton/Outlined",
+      "figmaLayerName": "ToggleButton/Outlined",
+      "componentName": "OutlinedToggleButtonSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/ToggleButtons.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "OutlinedToggleButtonSticker",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/togglebutton-outlined__ideal__default__light.svg"
+    },
+    {
+      "componentId": "ToggleButton/Elevated",
+      "figmaLayerName": "ToggleButton/Elevated",
+      "componentName": "ElevatedToggleButtonSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/ToggleButtons.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ElevatedToggleButtonSticker",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/togglebutton-elevated__ideal__default__light.svg"
+    },
+    {
+      "componentId": "Toolbar/HorizontalFloating",
+      "figmaLayerName": "Toolbar/HorizontalFloating",
+      "componentName": "Sticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/CatalogTheme.kt",
+      "label": "Compose",
+      "confidence": "LOW",
+      "previewName": "HorizontalFloatingToolbarSticker",
+      "codeSnippet": "Sticker(\n    content = { },\n)",
+      "imports": [
+        "import ee.schimke.m3catalog.Sticker"
+      ],
+      "parameters": [
+        {
+          "name": "content",
+          "type": "() -> Unit",
+          "typeFqn": "kotlin.Function0",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/toolbar-horizontalfloating__ideal__default__light.svg"
+    },
+    {
+      "componentId": "TopAppBar/Small",
+      "figmaLayerName": "TopAppBar/Small",
+      "componentName": "SmallTopAppBar",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/TopAppBars.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SmallTopAppBar",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/topappbar-small__ideal__default__light__compact.svg"
+    },
+    {
+      "componentId": "Typography/Type scale",
+      "figmaLayerName": "Typography/Type scale",
+      "componentName": "TypeScaleRoleSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Typography.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TypeScaleRoleSticker",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/typography-type-scale__ideal__default__light.svg"
+    }
+  ]
+}
