@@ -26,9 +26,9 @@ half-pixel rasterizer offset doesn't read as a mismatch.
 
 ## ↔ Compare across systems
 
-**[▶ Open the Compose Glimmer Samples ↔ Compose Glimmer matches (htmlpreview)](https://htmlpreview.github.io/?https://github.com/yschimke/m3-catalog/blob/design-artifacts/glimmer-samples/matches.html)**
+**[▶ Open the Compose Glimmer Samples ↔ glimmer-catalog matches (htmlpreview)](https://htmlpreview.github.io/?https://github.com/yschimke/m3-catalog/blob/design-artifacts/glimmer-samples/matches.html)**
 
-Every component paired with its counterpart in **Compose Glimmer**, side by side — the
+Every component paired with its counterpart in **glimmer-catalog**, side by side — the
 authored `parallel` mapping in the catalog spec, rendered as a cross-system contact sheet. Both
 sides are static thumbnails — this branch's baked render on the left, the glimmer-catalog
 render baked from its own `design-artifacts/glimmer-catalog` branch on the right — and each
@@ -56,7 +56,7 @@ customising the live render are two ends of one workflow.
 | Library | `androidx.xr.glimmer:glimmer` |
 | Renderer | compose-preview 2.22.0 |
 | Schema | `design-parity-catalog/v1` |
-| Generated | 2026-09-22 |
+| Generated | 2026-09-24 |
 
 ## Components by group
 
