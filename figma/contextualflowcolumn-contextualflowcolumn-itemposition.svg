@@ -8,75 +8,75 @@
       </g>
       <g id="LayoutNodeSubcompositionsState">
         <g id="Box">
-          <rect x="53" y="53" width="131" height="223" fill="#00FF00"/>
+          <rect x="53" y="53" width="131" height="231" fill="#00FF00"/>
           <g id="Empty">
             <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="61" y="105" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="61" y="160" textLength="30" lengthAdjust="spacing">0</tspan><tspan x="61" y="215" textLength="113" lengthAdjust="spacing">Ps: 0</tspan></text>
           </g>
         </g>
         <g id="Box">
-          <rect x="53" y="329" width="131" height="252" fill="#FFFF00"/>
+          <rect x="53" y="337" width="131" height="247" fill="#FFFF00"/>
           <g id="Empty">
-            <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="61" y="381" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="61" y="436" textLength="30" lengthAdjust="spacing">0</tspan><tspan x="61" y="491" textLength="113" lengthAdjust="spacing">Ps: 1</tspan></text>
+            <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="61" y="389" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="61" y="444" textLength="30" lengthAdjust="spacing">0</tspan><tspan x="61" y="499" textLength="113" lengthAdjust="spacing">Ps: 1</tspan></text>
           </g>
         </g>
         <g id="Box">
-          <rect x="53" y="634" width="131" height="252" fill="#0000FF"/>
+          <rect x="53" y="637" width="131" height="236" fill="#0000FF"/>
           <g id="Empty">
-            <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="61" y="686" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="61" y="741" textLength="30" lengthAdjust="spacing">0</tspan><tspan x="61" y="796" textLength="113" lengthAdjust="spacing">Ps: 2</tspan></text>
+            <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="61" y="689" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="61" y="744" textLength="30" lengthAdjust="spacing">0</tspan><tspan x="61" y="799" textLength="113" lengthAdjust="spacing">Ps: 2</tspan></text>
           </g>
         </g>
         <g id="Box">
-          <rect x="53" y="939" width="131" height="244" fill="#00FFFF"/>
+          <rect x="53" y="926" width="131" height="260" fill="#00FFFF"/>
           <g id="Empty">
-            <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="61" y="991" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="61" y="1046" textLength="30" lengthAdjust="spacing">0</tspan><tspan x="61" y="1101" textLength="113" lengthAdjust="spacing">Ps: 3</tspan></text>
+            <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="61" y="978" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="61" y="1033" textLength="30" lengthAdjust="spacing">0</tspan><tspan x="61" y="1088" textLength="113" lengthAdjust="spacing">Ps: 3</tspan></text>
           </g>
         </g>
         <g id="Box">
-          <rect x="210" y="53" width="131" height="218" fill="#00FF00"/>
+          <rect x="210" y="53" width="131" height="228" fill="#00FF00"/>
           <g id="Empty">
             <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="218" y="105" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="218" y="160" textLength="30" lengthAdjust="spacing">1</tspan><tspan x="218" y="215" textLength="113" lengthAdjust="spacing">Ps: 0</tspan></text>
           </g>
         </g>
         <g id="Box">
-          <rect x="210" y="324" width="131" height="221" fill="#FFFF00"/>
+          <rect x="210" y="334" width="131" height="249" fill="#FFFF00"/>
           <g id="Empty">
-            <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="218" y="376" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="218" y="431" textLength="30" lengthAdjust="spacing">1</tspan><tspan x="218" y="486" textLength="113" lengthAdjust="spacing">Ps: 1</tspan></text>
+            <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="218" y="386" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="218" y="441" textLength="30" lengthAdjust="spacing">1</tspan><tspan x="218" y="496" textLength="113" lengthAdjust="spacing">Ps: 1</tspan></text>
           </g>
         </g>
         <g id="Box">
-          <rect x="210" y="598" width="131" height="231" fill="#0000FF"/>
+          <rect x="210" y="636" width="131" height="221" fill="#0000FF"/>
           <g id="Empty">
-            <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="218" y="650" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="218" y="705" textLength="30" lengthAdjust="spacing">1</tspan><tspan x="218" y="760" textLength="113" lengthAdjust="spacing">Ps: 2</tspan></text>
+            <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="218" y="688" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="218" y="743" textLength="30" lengthAdjust="spacing">1</tspan><tspan x="218" y="798" textLength="113" lengthAdjust="spacing">Ps: 2</tspan></text>
           </g>
         </g>
         <g id="Box">
-          <rect x="210" y="882" width="131" height="244" fill="#00FFFF"/>
+          <rect x="210" y="910" width="131" height="249" fill="#00FFFF"/>
           <g id="Empty">
-            <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="218" y="934" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="218" y="989" textLength="30" lengthAdjust="spacing">1</tspan><tspan x="218" y="1044" textLength="113" lengthAdjust="spacing">Ps: 3</tspan></text>
+            <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="218" y="962" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="218" y="1017" textLength="30" lengthAdjust="spacing">1</tspan><tspan x="218" y="1072" textLength="113" lengthAdjust="spacing">Ps: 3</tspan></text>
           </g>
         </g>
         <g id="Box">
-          <rect x="367" y="53" width="129" height="236" fill="#00FF00"/>
+          <rect x="367" y="53" width="129" height="218" fill="#00FF00"/>
           <g id="Empty">
             <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="375" y="105" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="375" y="160" textLength="30" lengthAdjust="spacing">2</tspan><tspan x="375" y="215" textLength="68" lengthAdjust="spacing">Ps:</tspan><tspan x="375" y="270" textLength="30" lengthAdjust="spacing">0</tspan></text>
           </g>
         </g>
         <g id="Box">
-          <rect x="367" y="342" width="129" height="213" fill="#FFFF00"/>
+          <rect x="367" y="324" width="129" height="210" fill="#FFFF00"/>
           <g id="Empty">
-            <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="375" y="394" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="375" y="449" textLength="30" lengthAdjust="spacing">2</tspan><tspan x="375" y="504" textLength="68" lengthAdjust="spacing">Ps:</tspan><tspan x="375" y="559" textLength="30" lengthAdjust="spacing">1</tspan></text>
+            <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="375" y="376" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="375" y="431" textLength="30" lengthAdjust="spacing">2</tspan><tspan x="375" y="486" textLength="68" lengthAdjust="spacing">Ps:</tspan><tspan x="375" y="541" textLength="30" lengthAdjust="spacing">1</tspan></text>
           </g>
         </g>
         <g id="Box">
-          <rect x="367" y="608" width="129" height="234" fill="#0000FF"/>
+          <rect x="367" y="587" width="129" height="215" fill="#0000FF"/>
           <g id="Empty">
-            <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="375" y="660" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="375" y="715" textLength="30" lengthAdjust="spacing">2</tspan><tspan x="375" y="770" textLength="68" lengthAdjust="spacing">Ps:</tspan><tspan x="375" y="825" textLength="30" lengthAdjust="spacing">2</tspan></text>
+            <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="375" y="639" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="375" y="694" textLength="30" lengthAdjust="spacing">2</tspan><tspan x="375" y="749" textLength="68" lengthAdjust="spacing">Ps:</tspan><tspan x="375" y="804" textLength="30" lengthAdjust="spacing">2</tspan></text>
           </g>
         </g>
         <g id="Box">
-          <rect x="367" y="895" width="129" height="236" fill="#00FFFF"/>
+          <rect x="367" y="855" width="129" height="228" fill="#00FFFF"/>
           <g id="Empty">
-            <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="375" y="947" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="375" y="1002" textLength="30" lengthAdjust="spacing">2</tspan><tspan x="375" y="1057" textLength="68" lengthAdjust="spacing">Ps:</tspan><tspan x="375" y="1112" textLength="30" lengthAdjust="spacing">3</tspan></text>
+            <text font-size="47.25" font-family="Roboto, sans-serif" fill="#000000"><tspan x="375" y="907" textLength="72" lengthAdjust="spacing">Ln:</tspan><tspan x="375" y="962" textLength="30" lengthAdjust="spacing">2</tspan><tspan x="375" y="1017" textLength="68" lengthAdjust="spacing">Ps:</tspan><tspan x="375" y="1072" textLength="30" lengthAdjust="spacing">3</tspan></text>
           </g>
         </g>
       </g>
