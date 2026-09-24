@@ -1,11 +1,67 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-22T22:33:08.340Z",
+  "generatedAt": "2026-09-24T20:43:45.104Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "b61e5f6eb82872a251fed516255d7b32efba7066",
+        "subject": "fix(ui-builder): let a search field's query be text as well as a state read (#498)",
+        "at": "2026-09-24T21:21:45+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "df0725ef6ca232b6aebc72ea14d329d52bab5323",
+        "subject": "ci: publish generated branches to m3-catalog-out (#496)",
+        "at": "2026-09-24T21:14:05+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "112d101b26f835b01b0c9f706f6990d7a3bb9446",
+        "subject": "fix: isolate preview publishing credentials (#494)",
+        "at": "2026-09-23T12:17:49+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5054092ca8237154581efb0f0e9cad2b0f065472",
+        "subject": "build: publish preview branches to output repository (#493)",
+        "at": "2026-09-23T07:28:58+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "77b0860a975ef9f73efb6dbb80b0afa0a69a36e3",
+        "subject": "build: publish parity artifacts to output repository (#492)",
+        "at": "2026-09-23T06:58:12+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fe1e1524eb78f0c864e2cf5360b11d02abaeb3b5",
+        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.22.2 (#491)",
+        "at": "2026-09-22T23:28:00Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c364d15197f67a07c38fecd5ce6f49b94dfc35d6",
+        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.22.1 (#490)",
+        "at": "2026-09-22T23:29:30+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d57598b83ad5cc08e51b20140ceff708ada00bdb",
         "subject": "build: prepare m3 catalog output repository (#488)",
@@ -426,62 +482,6 @@
         "sha": "1f6039272f4d1de00531e91ea9dc99628bf4f328",
         "subject": "feat(glimmer): add VerticalStack to the catalog (#423)",
         "at": "2026-09-15T09:34:06+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4ed298772d5cb4edace0140a8892cab8d6dc6a0e",
-        "subject": "feat(ui-builder): publish concrete component families (#415)",
-        "at": "2026-09-15T06:14:06+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c6d939f68b9bd40d850ee74abddc9bc95d033a82",
-        "subject": "chore(deps): update dependency ee.schimke.composeai.preview to v2.14.1 (#421)",
-        "at": "2026-09-14T23:32:11Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "06e9b56ef828fd4edbdbb56342d4ff768f24bcd7",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:data-glimmer-environment-connector to v3.4.6 (#420)",
-        "at": "2026-09-14T22:35:12Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6e0db7be1141b491f853743e3691232b5ae85334",
-        "subject": "fix(deps): update compose-preview-daemon to v3.4.6 (#419)",
-        "at": "2026-09-14T22:30:09Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "085016b5bb744562611941ada60cc9bf382904c7",
-        "subject": "fix(deps): update compose multiplatform (#410)",
-        "at": "2026-09-14T22:15:21+01:00",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9d4d52357fa3f25cd3120e6f4eaf8087182c8f15",
-        "subject": "chore(deps): update compose-ai-tools to v2.14.0 (#418)",
-        "at": "2026-09-14T22:14:58+01:00",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "394fc94481857e5e5bb2df44d5d5cc35fc7cf198",
-        "subject": "chore: throttle automated Gradle runs (#417)",
-        "at": "2026-09-14T20:42:54+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
