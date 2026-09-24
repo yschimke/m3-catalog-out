@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":glimmer-catalog"
   },
-  "generatedAt": "2026-09-22T22:35:05.263Z",
+  "generatedAt": "2026-09-24T20:46:26.707Z",
   "mappings": [
     {
       "componentId": "ButtonGroup",
