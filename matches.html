@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Material 3 Samples ↔ Material 3 Design Kit — component matches</title>
+<title>Material 3 Samples ↔ m3-catalog — component matches</title>
 <style>
   :root { color-scheme: light dark; --bg:#0f0f10; --panel:#1b1b1d; --fg:#e8e8ea; --muted:#9b9ba1; --line:#2a2a2d;
     --accent:#7dd87d; --warn:#e0c060; --link:#8ab4f8; }
@@ -88,8 +88,8 @@
 </head>
 <body>
 <header class="top">
-  <h1>Material 3 Samples ↔ Material 3 Design Kit</h1>
-  <div class="subtitle"><span>Material 3 Samples <span class="arrow">↔</span> Material 3 Design Kit</span><span>0 paired</span><span>0 rendered both sides</span></div>
+  <h1>Material 3 Samples ↔ m3-catalog</h1>
+  <div class="subtitle"><span>Material 3 Samples <span class="arrow">↔</span> m3-catalog</span><span>0 paired</span><span>0 rendered both sides</span></div>
   <p class="note">Each row pairs a <strong>m3-samples</strong> component with its declared
   <strong>m3-catalog</strong> parallel (the <code>parallel</code> field in the catalog spec). Both
   renders are static thumbnails — the left from this branch, the right baked from the
@@ -104,7 +104,7 @@
       <tr>
         <th scope="col">Component</th>
         <th scope="col">Material 3 Samples</th>
-        <th scope="col">Material 3 Design Kit</th>
+        <th scope="col">m3-catalog</th>
         <th scope="col">Parallel</th>
       </tr>
     </thead>
@@ -356,65 +356,7 @@
 <li><span class="cid">WideNavigationRail/WideNavigationRailCollapsedSample</span><span class="grp">WideNavigationRail</span><span class="cap">WideNavigationRailCollapsedSample — the sample `WideNavigationRail`&#39;s KDoc points at.</span></li>
 <li><span class="cid">WideNavigationRail/WideNavigationRailExpandedSample</span><span class="grp">WideNavigationRail</span><span class="cap">WideNavigationRailExpandedSample — the sample `WideNavigationRail`&#39;s KDoc points at.</span></li>
 <li><span class="cid">WideNavigationRail/WideNavigationRailResponsiveSample</span><span class="grp">WideNavigationRail</span><span class="cap">WideNavigationRailResponsiveSample — the sample `WideNavigationRail`&#39;s KDoc points at.</span></li></ul></section>
-  <section class="solo"><h2>Only in m3-catalog <span>58</span></h2>
-       <ul><li><span class="cid">Badge/Number</span><span class="grp">Badges</span><span class="cap">Unread count badge. One to three digits and overflow fold in.</span></li>
-<li><span class="cid">BottomAppBar/Standard</span><span class="grp">Bottom app bar</span><span class="cap">Screen-level actions along the bottom. FAB and action count fold in.</span></li>
-<li><span class="cid">Button/Filled</span><span class="grp">Buttons</span><span class="cap">Highest emphasis; the primary action. Five sizes x two shapes fold in as variants.</span></li>
-<li><span class="cid">Button/Tonal</span><span class="grp">Buttons</span><span class="cap">Secondary, still prominent. Five sizes x two shapes fold in as variants.</span></li>
-<li><span class="cid">Button/Outlined</span><span class="grp">Buttons</span><span class="cap">Medium emphasis on a busy surface. Five sizes x two shapes fold in as variants.</span></li>
-<li><span class="cid">Button/Elevated</span><span class="grp">Buttons</span><span class="cap">Outlined alternative needing separation. Five sizes x two shapes fold in as variants.</span></li>
-<li><span class="cid">Button/Text</span><span class="grp">Buttons</span><span class="cap">Lowest emphasis; inline actions. Five sizes x two shapes fold in as variants. The container is transparent, so the shape axis is invisible at rest — the kit draws its square nodes the same way, and `square-hovered` is the cell where it shows.</span></li>
-<li><span class="cid">Card/Filled</span><span class="grp">Cards</span><span class="cap">Default container for related content: header, media, text and actions. The kit&#39;s empty slot layout folds in.</span></li>
-<li><span class="cid">Card/Elevated</span><span class="grp">Cards</span><span class="cap">Separated by shadow; header, media, text and actions. The kit&#39;s empty slot layout folds in.</span></li>
-<li><span class="cid">Card/Outlined</span><span class="grp">Cards</span><span class="cap">Separated by outline; header, media, text and actions. The kit&#39;s empty slot layout folds in.</span></li>
-<li><span class="cid">Carousel/MultiBrowse</span><span class="grp">Carousel</span><span class="cap">Items that resize as they enter and leave the viewport. Item widths fold in.</span></li>
-<li><span class="cid">Checkbox/Checked</span><span class="grp">Checkbox</span><span class="cap">Select one or more items from a set. Unchecked, indeterminate, disabled and error fold in.</span></li>
-<li><span class="cid">Chip/Assist</span><span class="grp">Chips</span><span class="cap">A smart action related to the content. Elevated, leading icon and disabled fold in.</span></li>
-<li><span class="cid">Chip/Filter</span><span class="grp">Chips</span><span class="cap">Filters content; carries a selected state. Unselected, elevated and disabled fold in. The check mark is the selected state&#39;s leading icon, so it follows selection rather than a knob.</span></li>
-<li><span class="cid">Chip/Input</span><span class="grp">Chips</span><span class="cap">A discrete piece of user input, removable. Leading icon, avatar, selected and disabled fold in.</span></li>
-<li><span class="cid">Chip/Suggestion</span><span class="grp">Chips</span><span class="cap">A dynamically generated action. Elevated and disabled fold in; the kit&#39;s selected cells stay excluded because SuggestionChip has no selection state.</span></li>
-<li><span class="cid">Color/Role grid</span><span class="grp">Color</span><span class="cap">Material color roles in the kit&#39;s schematic layout — accent families, fixed colors and surfaces — with all six catalog themes as variants.</span></li>
-<li><span class="cid">DatePicker/Modal</span><span class="grp">Date pickers</span><span class="cap">The picker on its own dialog surface, with confirm and dismiss actions.</span></li>
-<li><span class="cid">Dialog/Basic</span><span class="grp">Dialogs</span><span class="cap">Headline, supporting text and two actions. The hero icon folds in.</span></li>
-<li><span class="cid">Dialog/List</span><span class="grp">Dialogs</span><span class="cap">A choice list in place of supporting text.</span></li>
-<li><span class="cid">Divider/Horizontal</span><span class="grp">Divider</span><span class="cap">Separates content in a vertical list. Inset and subhead fold in.</span></li>
-<li><span class="cid">Divider/Vertical</span><span class="grp">Divider</span><span class="cap">Separates content in a horizontal row.</span></li>
-<li><span class="cid">Fab/Standard</span><span class="grp">FAB</span><span class="cap">The screen&#39;s single primary action. Six container roles fold in as variants.</span></li>
-<li><span class="cid">Fab/Extended</span><span class="grp">FAB</span><span class="cap">FAB with a label; the action is named. Six container roles fold in as variants.</span></li>
-<li><span class="cid">IconButton/Standard</span><span class="grp">Icon buttons</span><span class="cap">Lowest emphasis; inline on a surface. Five sizes x three widths x two shapes fold in as variants. The container is transparent, so the shape axis is invisible at rest — the kit draws its square nodes the same way, and `square-hovered` is the cell where it shows.</span></li>
-<li><span class="cid">IconButton/Filled</span><span class="grp">Icon buttons</span><span class="cap">Highest emphasis icon-only action. Five sizes x three widths x two shapes fold in as variants.</span></li>
-<li><span class="cid">IconButton/Tonal</span><span class="grp">Icon buttons</span><span class="cap">Secondary emphasis. Five sizes x three widths x two shapes fold in as variants.</span></li>
-<li><span class="cid">IconButton/Outlined</span><span class="grp">Icon buttons</span><span class="cap">Medium emphasis on a busy surface. Five sizes x three widths x two shapes fold in as variants.</span></li>
-<li><span class="cid">List/Item</span><span class="grp">Lists</span><span class="cap">The kit&#39;s list frame. Line count, leading and trailing slots all fold in as single rows.</span></li>
-<li><span class="cid">LoadingIndicator/Uncontained</span><span class="grp">Loading indicator</span><span class="cap">The shape-morph indicator on its own.</span></li>
-<li><span class="cid">NavigationBar/Short</span><span class="grp">Navigation bar</span><span class="cap">The expressive compact bar. Count and labels fold in.</span></li>
-<li><span class="cid">NavigationRail/Standard</span><span class="grp">Navigation rail</span><span class="cap">Destinations along the side. Count, menu, FAB and labels fold in.</span></li>
-<li><span class="cid">NavigationRail/Wide</span><span class="grp">Navigation rail</span><span class="cap">The expanded form, labels beside the icons. Count folds in.</span></li>
-<li><span class="cid">Progress/Linear</span><span class="grp">Progress indicators</span><span class="cap">Determinate linear progress. Values across the range fold in.</span></li>
-<li><span class="cid">Progress/Circular</span><span class="grp">Progress indicators</span><span class="cap">Determinate circular progress. Values across the range fold in.</span></li>
-<li><span class="cid">RadioButton/Selected</span><span class="grp">Radio button</span><span class="cap">Select exactly one option from a set. Unselected, disabled and error fold in.</span></li>
-<li><span class="cid">Search/Bar</span><span class="grp">Search</span><span class="cap">The collapsed entry point, floating over content. Query, avatar and the docked form fold in.</span></li>
-<li><span class="cid">SegmentedButton/SingleChoice</span><span class="grp">Segmented buttons</span><span class="cap">Two to five related options. Count, content and multi-select fold in.</span></li>
-<li><span class="cid">Shape/Corner scale</span><span class="grp">Shapes</span><span class="cap">The Material corner scale, with each of its ten radius tokens folded in as a variant.</span></li>
-<li><span class="cid">Shape/MaterialShapes</span><span class="grp">Shapes</span><span class="cap">The expressive shape library. All 35 of `MaterialShapes` fold in as variants.</span></li>
-<li><span class="cid">Slider/Continuous</span><span class="grp">Sliders</span><span class="cap">Select a value from a range. Discrete stops, a centered track and disabled fold in.</span></li>
-<li><span class="cid">Slider/Range</span><span class="grp">Sliders</span><span class="cap">Two thumbs bounding a sub-range. Discrete stops and disabled fold in.</span></li>
-<li><span class="cid">Snackbar/Message</span><span class="grp">Snackbar</span><span class="cap">Brief message about a process. Two-line, action and close affordance fold in.</span></li>
-<li><span class="cid">SplitButton/Filled</span><span class="grp">Split button</span><span class="cap">Primary action plus a related-choices affordance. Five sizes and four colours fold in.</span></li>
-<li><span class="cid">Switch/On</span><span class="grp">Switch</span><span class="cap">Toggle a single setting on or off. Off, thumb icon and disabled fold in.</span></li>
-<li><span class="cid">Tabs/Primary</span><span class="grp">Tabs</span><span class="cap">Top-level content categories under an app bar. Icon and icon+label fold in.</span></li>
-<li><span class="cid">Tabs/Secondary</span><span class="grp">Tabs</span><span class="cap">Nested categories within a primary tab. Icon and icon+label fold in.</span></li>
-<li><span class="cid">TextField/Filled</span><span class="grp">Text fields</span><span class="cap">The default; a filled container. Empty, error, disabled, icons, supporting text and the label-less form fold in.</span></li>
-<li><span class="cid">TextField/Outlined</span><span class="grp">Text fields</span><span class="cap">Outlined container; less visual weight. Carries the same matrix as the filled field.</span></li>
-<li><span class="cid">TimePicker/Dial</span><span class="grp">Time pickers</span><span class="cap">Clock dial for picking an hour and minute. 12-hour and the landscape layout fold in.</span></li>
-<li><span class="cid">TimePicker/Input</span><span class="grp">Time pickers</span><span class="cap">Keyboard entry instead of the dial. 12-hour folds in.</span></li>
-<li><span class="cid">ToggleButton/Filled</span><span class="grp">Toggle buttons</span><span class="cap">A button whose selection persists. Five sizes x two shapes fold in as variants.</span></li>
-<li><span class="cid">ToggleButton/Tonal</span><span class="grp">Toggle buttons</span><span class="cap">Secondary emphasis toggle. Five sizes x two shapes fold in as variants.</span></li>
-<li><span class="cid">ToggleButton/Outlined</span><span class="grp">Toggle buttons</span><span class="cap">Medium emphasis on a busy surface. Five sizes x two shapes fold in as variants.</span></li>
-<li><span class="cid">ToggleButton/Elevated</span><span class="grp">Toggle buttons</span><span class="cap">Separated by shadow. Five sizes x two shapes fold in as variants.</span></li>
-<li><span class="cid">Toolbar/HorizontalFloating</span><span class="grp">Toolbars</span><span class="cap">A floating cluster of related actions over the content. Vibrant folds in.</span></li>
-<li><span class="cid">TopAppBar/Small</span><span class="grp">Top app bar</span><span class="cap">The app bar. Its four sizes, centred, image and search layouts, nav icon and actions fold in.</span></li>
-<li><span class="cid">Typography/Type scale</span><span class="grp">Typography</span><span class="cap">The Material 3 type scale, with each of its fifteen roles folded in as a variant.</span></li></ul></section>
+  
 </main>
 </body>
 </html>
