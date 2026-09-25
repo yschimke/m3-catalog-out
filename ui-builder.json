@@ -372,6 +372,12 @@
                 "m3/wide-navigation-rail-item": {
                     "group": "Navigation rail"
                 },
+                "m3/navigation-suite-item": {
+                    "group": "Navigation bar"
+                },
+                "m3/navigation-suite-scaffold": {
+                    "group": "Navigation bar"
+                },
                 "m3/horizontal-centered-hero-carousel": {
                     "group": "Carousel"
                 },
@@ -3788,21 +3794,66 @@
             "m3/primary-scrollable-tab-row": {
                 "record": "catalog/androidx.compose.material3.TabRowKt.PrimaryScrollableTabRow",
                 "catalogId": null,
-                "displayName": null,
-                "canvas": null,
+                "displayName": "Scrollable tab row",
+                "canvas": "material3/PrimaryScrollableTabRow",
                 "canvasMapping": null,
                 "unrolled": null,
                 "nativeOnly": false,
-                "traits": [],
+                "traits": [
+                    "TabBar",
+                    "OrderedContent"
+                ],
                 "slots": {},
                 "stateCallbacks": {},
                 "starter": {},
                 "variantProperty": null,
                 "variants": {},
                 "excluded": null,
-                "propertyCapabilities": null,
-                "slotCapabilities": null,
-                "modifierCapabilities": null
+                "propertyCapabilities": [
+                    {
+                        "name": "selectedIndex",
+                        "jsonType": [
+                            "integer",
+                            "object"
+                        ],
+                        "required": true,
+                        "notes": "An index, or a `state` read of a declared `int` variable — the shapes `m3/primary-tab-row` accepts. It is the variable the tabs write."
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "tabs",
+                        "cardinality": {
+                            "min": 1
+                        },
+                        "ordered": true,
+                        "acceptedRoles": [
+                            "Container"
+                        ],
+                        "acceptedTraits": [
+                            "TabItem"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "fillMaxWidth",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ]
             },
             "m3/primary-tab-row": {
                 "record": "catalog/androidx.compose.material3.TabRowKt.PrimaryTabRow",
@@ -4574,31 +4625,92 @@
             "m3/navigation-suite-item": {
                 "record": "catalog/androidx.compose.material3.adaptive.navigationsuite.NavigationSuiteScaffoldKt.NavigationSuiteItem",
                 "catalogId": null,
-                "displayName": null,
-                "canvas": null,
+                "displayName": "Navigation item",
+                "canvas": "material3/NavigationSuiteItem",
                 "canvasMapping": null,
                 "unrolled": null,
                 "nativeOnly": false,
-                "traits": [],
+                "traits": [
+                    "NavigationItem",
+                    "SelectionControl"
+                ],
                 "slots": {},
                 "stateCallbacks": {},
                 "starter": {},
                 "variantProperty": null,
                 "variants": {},
                 "excluded": null,
-                "propertyCapabilities": null,
-                "slotCapabilities": null,
-                "modifierCapabilities": null
+                "propertyCapabilities": [
+                    {
+                        "name": "selected",
+                        "jsonType": [
+                            "boolean",
+                            "string",
+                            "object"
+                        ],
+                        "required": true,
+                        "notes": "A flag, or a `stateEquals` read of a declared state variable — the shapes `m3/tab` accepts, for the same reason."
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "icon",
+                        "cardinality": {
+                            "min": 1,
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Leaf"
+                        ],
+                        "acceptedTraits": []
+                    },
+                    {
+                        "name": "label",
+                        "cardinality": {
+                            "min": 0,
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "TextContent"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ]
             },
             "m3/navigation-suite-scaffold": {
                 "record": "catalog/androidx.compose.material3.adaptive.navigationsuite.NavigationSuiteScaffoldKt.NavigationSuiteScaffold",
                 "catalogId": null,
-                "displayName": null,
-                "canvas": null,
+                "displayName": "Navigation suite",
+                "canvas": "material3/NavigationSuiteScaffold",
                 "canvasMapping": null,
                 "unrolled": null,
                 "nativeOnly": false,
-                "traits": [],
+                "traits": [
+                    "ScreenContent",
+                    "AdaptiveNavigation"
+                ],
                 "slots": {},
                 "stateCallbacks": {},
                 "starter": {},
@@ -4606,8 +4718,72 @@
                 "variants": {},
                 "excluded": null,
                 "propertyCapabilities": null,
-                "slotCapabilities": null,
-                "modifierCapabilities": null
+                "slotCapabilities": [
+                    {
+                        "name": "navigationItems",
+                        "cardinality": {
+                            "min": 1
+                        },
+                        "ordered": true,
+                        "acceptedRoles": [
+                            "Container"
+                        ],
+                        "acceptedTraits": [
+                            "NavigationItem"
+                        ]
+                    },
+                    {
+                        "name": "primaryAction",
+                        "cardinality": {
+                            "min": 0,
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Container",
+                            "Leaf"
+                        ],
+                        "acceptedTraits": []
+                    },
+                    {
+                        "name": "content",
+                        "cardinality": {
+                            "min": 1
+                        },
+                        "ordered": true,
+                        "acceptedRoles": [
+                            "Container",
+                            "Scaffold",
+                            "Leaf"
+                        ],
+                        "acceptedTraits": []
+                    }
+                ],
+                "modifierCapabilities": [
+                    "size",
+                    "fillMaxSize",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "fillMaxHeight",
+                    "background",
+                    "border",
+                    "shadow",
+                    "wrapContentSize",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ]
             },
             "m3/horizontal-centered-hero-carousel": {
                 "record": "catalog/androidx.compose.material3.carousel.CarouselKt.HorizontalCenteredHeroCarousel",
@@ -5003,11 +5179,6 @@
         },
         {
             "code": "component.canvas.unclaimed",
-            "subject": "m3/primary-scrollable-tab-row",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
-        },
-        {
-            "code": "component.canvas.unclaimed",
             "subject": "m3/secondary-scrollable-tab-row",
             "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
         },
@@ -5089,16 +5260,6 @@
         {
             "code": "component.canvas.unclaimed",
             "subject": "m3/supporting-pane-scaffold",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
-        },
-        {
-            "code": "component.canvas.unclaimed",
-            "subject": "m3/navigation-suite-item",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
-        },
-        {
-            "code": "component.canvas.unclaimed",
-            "subject": "m3/navigation-suite-scaffold",
             "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
         },
         {
