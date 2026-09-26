@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-26T16:21:28.353Z",
+  "generatedAt": "2026-09-26T19:34:42.751Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "744e3450b6acea9fced0030d51c4525d3ec332ad",
+        "subject": "chore: remove extracted Glimmer catalogs (#502)",
+        "at": "2026-09-26T20:30:07+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "ac4c0d015fc646c2bc3562d337969646c1ca835a",
         "subject": "feat(ui-builder): rebuild runtime for device view (#501)",
@@ -475,14 +483,6 @@
         "subject": "feat(glimmer): add lazy list catalog coverage (#427)",
         "at": "2026-09-15T09:44:29+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "22296d6975d1ec83d53475922dd72ae02835a089",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:data-glimmer-environment-connector to v3.4.7 (#430)",
-        "at": "2026-09-15T08:39:05Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
