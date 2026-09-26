@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-26T19:36:58.430Z",
+  "generatedAt": "2026-09-26T19:54:37.907Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "f67261afb2e3f2617c15236cfbadcfd4e8174ba5",
+        "subject": "fix(deps): update compose-preview-daemon to v3.8.4 (#500)",
+        "at": "2026-09-26T19:47:55Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "744e3450b6acea9fced0030d51c4525d3ec332ad",
         "subject": "chore: remove extracted Glimmer catalogs (#502)",
@@ -474,14 +482,6 @@
         "sha": "0eac9db966d3d98f0ea3a453a5c93226d3e4e505",
         "subject": "feat(glimmer): add ButtonGroup to the catalog (#425)",
         "at": "2026-09-15T10:04:00+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "03f17f3578692786764810ab96323f48c5ad1d48",
-        "subject": "feat(glimmer): add lazy list catalog coverage (#427)",
-        "at": "2026-09-15T09:44:29+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
