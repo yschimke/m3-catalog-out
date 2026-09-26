@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-24T20:46:54.877Z",
+  "generatedAt": "2026-09-26T16:23:05.118Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "ac4c0d015fc646c2bc3562d337969646c1ca835a",
+        "subject": "feat(ui-builder): rebuild runtime for device view (#501)",
+        "at": "2026-09-26T17:15:54+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "78afe50e37ace5e9d1661bf7b3de534093326faf",
+        "subject": "feat(ui-builder): the navigation suite and scrollable tab row on the builder shelf (#499)",
+        "at": "2026-09-25T12:11:17+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "b61e5f6eb82872a251fed516255d7b32efba7066",
         "subject": "fix(ui-builder): let a search field's query be text as well as a state read (#498)",
@@ -467,22 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:data-glimmer-environment-connector to v3.4.7 (#430)",
         "at": "2026-09-15T08:39:05Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "94b4220e6b7a685245c8b7050770f2a9e4e3356e",
-        "subject": "fix(deps): update compose-preview-daemon to v3.4.7 (#428)",
-        "at": "2026-09-15T08:38:01Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1f6039272f4d1de00531e91ea9dc99628bf4f328",
-        "subject": "feat(glimmer): add VerticalStack to the catalog (#423)",
-        "at": "2026-09-15T09:34:06+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
