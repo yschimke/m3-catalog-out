@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-26T19:54:37.907Z",
+  "generatedAt": "2026-09-26T20:00:02.113Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "2671dab73796884ac1446b6211982c972357fa0f",
+        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.22.4 (#497)",
+        "at": "2026-09-26T19:48:49Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f67261afb2e3f2617c15236cfbadcfd4e8174ba5",
         "subject": "fix(deps): update compose-preview-daemon to v3.8.4 (#500)",
@@ -475,14 +483,6 @@
         "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.15.0 (#434)",
         "at": "2026-09-15T09:04:36Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0eac9db966d3d98f0ea3a453a5c93226d3e4e505",
-        "subject": "feat(glimmer): add ButtonGroup to the catalog (#425)",
-        "at": "2026-09-15T10:04:00+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
