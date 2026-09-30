@@ -1,6 +1,6 @@
 {
   "schema": "compose-preview-issues/v1",
-  "generatedAt": "2026-09-30T16:19:33.248Z",
+  "generatedAt": "2026-09-30T16:19:55.458Z",
   "issues": [
     {
       "repository": "yschimke/m3-catalog",
@@ -457,7 +457,7 @@
       "number": 382,
       "title": "glimmer-catalog exposes no accessibility roles, and VoiceInputIndicator no labels either",
       "url": "https://github.com/yschimke/m3-catalog/issues/382",
-      "state": "open",
+      "state": "closed",
       "area": "component",
       "parity": "catalog",
       "system": "glimmer-catalog",
@@ -475,7 +475,7 @@
       "number": 382,
       "title": "glimmer-catalog exposes no accessibility roles, and VoiceInputIndicator no labels either",
       "url": "https://github.com/yschimke/m3-catalog/issues/382",
-      "state": "open",
+      "state": "closed",
       "area": "component",
       "parity": "catalog",
       "system": "glimmer-catalog",
@@ -493,7 +493,7 @@
       "number": 382,
       "title": "glimmer-catalog exposes no accessibility roles, and VoiceInputIndicator no labels either",
       "url": "https://github.com/yschimke/m3-catalog/issues/382",
-      "state": "open",
+      "state": "closed",
       "area": "component",
       "parity": "catalog",
       "system": "glimmer-catalog",
@@ -511,7 +511,7 @@
       "number": 382,
       "title": "glimmer-catalog exposes no accessibility roles, and VoiceInputIndicator no labels either",
       "url": "https://github.com/yschimke/m3-catalog/issues/382",
-      "state": "open",
+      "state": "closed",
       "area": "component",
       "parity": "catalog",
       "system": "glimmer-catalog",
