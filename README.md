@@ -46,7 +46,7 @@ customising the live render are two ends of one workflow.
 | Library | `org.jetbrains.compose.foundation:foundation` |
 | Renderer | compose-preview 2.28.3 |
 | Schema | `design-parity-catalog/v1` |
-| Generated | 2026-09-30 |
+| Generated | 2026-10-01 |
 
 ## Components by group
 
