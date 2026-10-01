@@ -18,6 +18,25 @@
   ],
   "revisions": [
     {
+      "commit": "e062d86d82b8a07be65b86ceb2ed40e11427c6f5",
+      "previews": [
+        "content-image__ideal__default__dark",
+        "content-image__ideal__default__light",
+        "layout-box__ideal__default__dark",
+        "layout-box__ideal__default__light",
+        "layout-column__ideal__default__dark",
+        "layout-column__ideal__default__light",
+        "layout-lazycolumn__ideal__default__dark",
+        "layout-lazycolumn__ideal__default__light",
+        "layout-lazyrow__ideal__default__dark",
+        "layout-lazyrow__ideal__default__light",
+        "layout-lazyverticalgrid__ideal__default__dark",
+        "layout-lazyverticalgrid__ideal__default__light",
+        "layout-row__ideal__default__dark",
+        "layout-row__ideal__default__light"
+      ]
+    },
+    {
       "commit": "93b98acd58acd98d21e1e164231e895f2040b296",
       "previews": [
         "content-image__ideal__default__dark",
