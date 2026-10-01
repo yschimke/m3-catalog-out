@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-30T17:01:04.709Z",
+  "generatedAt": "2026-10-01T05:30:49.394Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "86b3dc5ceb0411c0b8d99857d3e026d13cf44ff9",
+        "subject": "feat: declare render assertions for the M3 catalog render (#504)",
+        "at": "2026-09-30T18:25:29+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fa6118748d322dde433a81c9f12045d4eb1cc36f",
+        "subject": "docs: point delivery-branch links at m3-catalog-out (#503)",
+        "at": "2026-09-30T18:23:48+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d5d0c08c9e8e1499deee05b239792870d122f91b",
         "subject": "chore(deps): update compose-ai-tools (#505)",
@@ -466,22 +482,6 @@
         "sha": "57520911da5be6f823c4eab5ab284c1a0231e78f",
         "subject": "fix(deps): update dependency ee.schimke.composeai:data-glimmer-environment-connector to v3.4.8 (#439)",
         "at": "2026-09-15T11:37:50Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5b554e04f089a23d73175493216a754e3222e31b",
-        "subject": "feat(glimmer): publish Figma kit pages (#436)",
-        "at": "2026-09-15T11:24:05+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "95b37c65cfc33f59da03b6215436e1eab9604a09",
-        "subject": "chore(deps): update dependency ee.schimke.composeai.preview to v2.15.0 (#435)",
-        "at": "2026-09-15T09:22:28Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
