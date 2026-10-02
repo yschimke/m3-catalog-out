@@ -1,6 +1,6 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-02T13:13:30.187Z",
+  "generatedAt": "2026-10-02T23:44:53.489Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
@@ -100,24 +100,6 @@
           "Card/Elevated",
           "Card/Filled",
           "Card/Outlined"
-        ]
-      },
-      {
-        "sha": "5ab60fa49f967a6107aa13007f37ce2930f7d4fc",
-        "subject": "fix(placeholder): paint the kit's placeholder add-on, and square the app bar's band (#443)",
-        "at": "2026-09-15T22:58:37+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [
-          "topappbar-small__ideal__default__light__compact",
-          "topappbar-small__ideal__default__light__compact__configuration-search",
-          "topappbar-small__ideal__on-scroll__compact",
-          "topappbar-small__ideal__small-image__compact",
-          "topappbar-small__ideal__default__light__compact__configuration-small-centered",
-          "topappbar-small__ideal__default__light__compact__configuration-medium",
-          "topappbar-small__ideal__default__light__compact__configuration-large"
-        ],
-        "components": [
-          "TopAppBar/Small"
         ]
       }
     ]
