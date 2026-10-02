@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-01T05:27:19.979Z",
+  "generatedAt": "2026-10-02T11:07:53.571Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "12ae674b2f84c0e7a6d212e67778b20993f93b1a",
+        "subject": "fix(deps): update compose-ai-tools to v2.32.0 (#507)",
+        "at": "2026-10-02T12:04:32+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "31c7e59ea724fb35118c68fb60f39b0603256f14",
+        "subject": "fix(ci): pin download-artifact correctly and pass the token for run-id (#506)",
+        "at": "2026-10-01T08:05:37+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "86b3dc5ceb0411c0b8d99857d3e026d13cf44ff9",
         "subject": "feat: declare render assertions for the M3 catalog render (#504)",
@@ -467,22 +483,6 @@
         "subject": "fix(carousel): mask items to the kit's shape, and rest the hero on item 1 (#442)",
         "at": "2026-09-15T22:57:51+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "49085653f0095fd220c61c39e6986b7b9f601df3",
-        "subject": "fix(deps): update compose-preview-daemon to v3.4.8 (#438)",
-        "at": "2026-09-15T11:37:53Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "57520911da5be6f823c4eab5ab284c1a0231e78f",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:data-glimmer-environment-connector to v3.4.8 (#439)",
-        "at": "2026-09-15T11:37:50Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
