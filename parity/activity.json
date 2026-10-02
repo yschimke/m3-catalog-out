@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-02T11:24:39.110Z",
+  "generatedAt": "2026-10-02T22:44:39.318Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "1db7302f82b0d5460ef3a4548aefd3001025327e",
+        "subject": "chore(deps): update compose-ai-tools to v2.32.1 (#508)",
+        "at": "2026-10-02T22:42:14Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "a719d1f86143852586f8ccb6562216160f79b7f2",
         "subject": "fix(deps): update compose-preview-daemon to v3.12.0 (#509)",
@@ -475,14 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:data-glimmer-environment-connector to v3.4.9 (#444)",
         "at": "2026-09-15T22:19:21Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5ab60fa49f967a6107aa13007f37ce2930f7d4fc",
-        "subject": "fix(placeholder): paint the kit's placeholder add-on, and square the app bar's band (#443)",
-        "at": "2026-09-15T22:58:37+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
