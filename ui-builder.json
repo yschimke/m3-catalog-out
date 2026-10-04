@@ -406,6 +406,7 @@
             "ui-builder/designs/blank.json",
             "ui-builder/designs/adaptive-navigation.json",
             "ui-builder/designs/supporting-pane.json",
+            "ui-builder/designs/list-detail.json",
             "ui-builder/designs/adaptive-feed.json"
         ],
         "colorTokens": {
