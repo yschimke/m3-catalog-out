@@ -112448,7 +112448,7 @@
                 "name": "AdaptiveSticker",
                 "origin": "PROJECT",
                 "jvmName": "AdaptiveSticker",
-                "descriptor": "(Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;I)V",
+                "descriptor": "(Lkotlin/jvm/functions/Function4;Landroidx/compose/runtime/Composer;I)V",
                 "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/adaptive/AdaptiveLayouts.kt",
                 "docs": "unavailable",
                 "receiver": null
@@ -112456,8 +112456,8 @@
             "parameters": [
                 {
                     "name": "content",
-                    "type": "(WindowAdaptiveInfo) -> Unit",
-                    "typeFqn": "kotlin.Function1",
+                    "type": "(WindowAdaptiveInfo, Dp) -> Unit",
+                    "typeFqn": "kotlin.Function2",
                     "hasDefault": false,
                     "composableSlot": true,
                     "composableSlotReceiver": null,

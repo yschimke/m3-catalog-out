@@ -402,7 +402,12 @@
             "adapter": "compose-material3",
             "version": 1
         },
-        "templates": [],
+        "templates": [
+            "ui-builder/designs/blank.json",
+            "ui-builder/designs/adaptive-navigation.json",
+            "ui-builder/designs/supporting-pane.json",
+            "ui-builder/designs/adaptive-feed.json"
+        ],
         "colorTokens": {
             "$comment": "The theme roles a colour property or a background modifier may name — the roles a canvas drawing this catalog can resolve. Anything else is a #RRGGBB or #AARRGGBB literal. This is Material 3's own vocabulary, which is why this catalog is the one entitled to state it.",
             "roles": [
