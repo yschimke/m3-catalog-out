@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-02T22:44:39.318Z",
+  "generatedAt": "2026-10-04T11:36:30.154Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "ff20bca86066ef65895aa8f65699b9155a8736bd",
+        "subject": "feat: add adaptive UI builder starters and pane sizing controls (#510)",
+        "at": "2026-10-04T12:32:57+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "1db7302f82b0d5460ef3a4548aefd3001025327e",
         "subject": "chore(deps): update compose-ai-tools to v2.32.1 (#508)",
@@ -475,14 +483,6 @@
         "subject": "feat(glimmer): close the kit-coverage gaps, and declare the ones that are upstream's (#445)",
         "at": "2026-09-16T06:20:31+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d6151ea5ae66dfad95c85ae9a51402e46121e7b6",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:data-glimmer-environment-connector to v3.4.9 (#444)",
-        "at": "2026-09-15T22:19:21Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
