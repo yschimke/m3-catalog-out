@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-04T11:36:30.154Z",
+  "generatedAt": "2026-10-05T13:34:37.687Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "56497ce7bfc4ea6d764813e96ec364ee6e1c89ed",
+        "subject": "feat: add list-detail adaptive starter (#511)",
+        "at": "2026-10-04T14:16:41+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "ff20bca86066ef65895aa8f65699b9155a8736bd",
         "subject": "feat: add adaptive UI builder starters and pane sizing controls (#510)",
@@ -474,14 +482,6 @@
         "sha": "360c6e1b294277da93caf056589c6e8d9e223fd3",
         "subject": "fix(cards): draw the kit's whole card, not its top half (#446)",
         "at": "2026-09-16T06:25:57+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "76193d20ef8d2cab375ab423da29fcecec81b421",
-        "subject": "feat(glimmer): close the kit-coverage gaps, and declare the ones that are upstream's (#445)",
-        "at": "2026-09-16T06:20:31+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
