@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-05T13:38:15.038Z",
+  "generatedAt": "2026-10-06T07:37:15.840Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "babcfb59ccfbc19766753b12a1586b20b676d617",
+        "subject": "fix: align catalog runtimes through latest release BOMs",
+        "at": "2026-10-06T08:26:18+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "56497ce7bfc4ea6d764813e96ec364ee6e1c89ed",
         "subject": "feat: add list-detail adaptive starter (#511)",
@@ -474,14 +482,6 @@
         "sha": "0b15a0854c57b7aeab54e490dbc2d9c3e176f946",
         "subject": "fix(rail, dialog): the rail's header gap, and list rows that drew their own container (#447)",
         "at": "2026-09-16T06:26:16+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "360c6e1b294277da93caf056589c6e8d9e223fd3",
-        "subject": "fix(cards): draw the kit's whole card, not its top half (#446)",
-        "at": "2026-09-16T06:25:57+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
