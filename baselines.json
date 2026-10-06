@@ -10796,7 +10796,7 @@
     "functionName": "FilledIconButtonSticker",
     "module": "catalog",
     "renderBasename": "FilledIconButtonSticker_Dark-521fc312.apng",
-    "sha256": "ef3c607a70e6b9dc82f86d332516aae9f2bca706e2951ea665bd38f9a9b6631f",
+    "sha256": "8a841a38048a766dbbcb203366f532ca6dd24e81f192d042fe8d8949fe408d97",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/IconButtons.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.IconButtonsKt.FilledIconButtonSticker_Dark_VARIANT_cell-type-round-size-large-width-default-state-disabled-58665-36343": {
@@ -12012,7 +12012,7 @@
     "functionName": "FilledIconButtonSticker",
     "module": "catalog",
     "renderBasename": "FilledIconButtonSticker_Light-c3a24658.apng",
-    "sha256": "e64df09e36bb07c64a75243cd2bed901263f650d86aff1072e7091ac4a000797",
+    "sha256": "f64080508296f51afa2f3aa1bba1b3a27be4e2a9d0b9c629be1b03255fda1b07",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/IconButtons.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.IconButtonsKt.FilledIconButtonSticker_Light_VARIANT_cell-type-round-size-large-width-default-state-disabled-58665-36343": {
@@ -20652,7 +20652,7 @@
     "functionName": "ShortNavigationBarSticker",
     "module": "catalog",
     "renderBasename": "ShortNavigationBarSticker_Dark-ca03dd89.apng",
-    "sha256": "3c2db6060c30418181f8bf9dbbbdd16f1526ab78e2085ec14ccf3d2c524eebcb",
+    "sha256": "7a6e0e086a2912cded0b738dc1b41ddbc5ff8a1e4638e22744b7800fbe50a60d",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationBars.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationBarsKt.ShortNavigationBarSticker_Dark_VARIANT_five": {
@@ -20692,7 +20692,7 @@
     "functionName": "ShortNavigationBarSticker",
     "module": "catalog",
     "renderBasename": "ShortNavigationBarSticker_Light-ba09a63b.apng",
-    "sha256": "5b41987978d810a47050bf4a60b927a2eb365f22cb21e35769c6ced382d0cb9a",
+    "sha256": "f1392d281724256ac83d3ac1b505736809c35737f6b68352c41aa49b4f8615ce",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationBars.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationBarsKt.ShortNavigationBarSticker_Light_VARIANT_five": {
@@ -20860,7 +20860,7 @@
     "functionName": "WideNavigationRailSticker",
     "module": "catalog",
     "renderBasename": "WideNavigationRailSticker_Dark-2bf46631.apng",
-    "sha256": "8651f6fd9a30e4eeae662b892a9874992061992f1aff1f224e71dd03970feeda",
+    "sha256": "2417a56e18c62d0ab9d429f7f938af469a67ba802a06241952b7851e56e15937",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.WideNavigationRailSticker_Dark_VARIANT_cell-type-docked-alignment-middle-nav-items-4-58016-36783": {
@@ -20900,7 +20900,7 @@
     "functionName": "WideNavigationRailSticker",
     "module": "catalog",
     "renderBasename": "WideNavigationRailSticker_Light-aba5cbb2.apng",
-    "sha256": "dac3daff054af733cd4b884b7aac94bc46386a29eea923e886e29248f4a61788",
+    "sha256": "e0ff3e9ed0bdfe186bd22d2394266f38f19223be40ee3123fff25700597db56b",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.WideNavigationRailSticker_Light_VARIANT_cell-type-docked-alignment-middle-nav-items-4-58016-36783": {
@@ -24252,7 +24252,7 @@
     "functionName": "SwitchOn",
     "module": "catalog",
     "renderBasename": "SwitchOn_Dark-b441ef3d.apng",
-    "sha256": "b54dfd8bd124910430f05b08dc18d4b59afbcf89dad5d24ba70d1e24b6c93afd",
+    "sha256": "eaf68149e51fcc8c2b885ce1b2429e57f79a03c54b610d34e0dda6a3220feb19",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/Switches.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.SwitchesKt.SwitchOn_Dark_VARIANT_cell-selected-false-state-focused-icon-false-54446-25367": {
@@ -24428,7 +24428,7 @@
     "functionName": "SwitchOn",
     "module": "catalog",
     "renderBasename": "SwitchOn_Light-4cdaec2b.apng",
-    "sha256": "5aee348351a0b9f8392b0ecb9aa681e9302cb7e9250642b5654bfa1154b11b81",
+    "sha256": "387ab709b630d89fe1a5de9986c628fe31ffb5d02ddf2a51423244d41419c3b6",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/Switches.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.SwitchesKt.SwitchOn_Light_VARIANT_cell-selected-false-state-focused-icon-false-54446-25367": {
@@ -29596,7 +29596,7 @@
     "functionName": "ToggleButtonSticker",
     "module": "catalog",
     "renderBasename": "ToggleButtonSticker_Dark-31ef428c.apng",
-    "sha256": "07897ef8896c97563df1d063e722c6518b3b2a731a2ba1eb4ac6c63fda83bacb",
+    "sha256": "9c34691d2034654687ac5080d41c71f1e642b7c044d238e0d79a9af346a93e01",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/ToggleButtons.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.ToggleButtonsKt.ToggleButtonSticker_Dark_VARIANT_cell-type-round-size-large-state-disabled-selected-false-58653-20202": {
@@ -30412,7 +30412,7 @@
     "functionName": "ToggleButtonSticker",
     "module": "catalog",
     "renderBasename": "ToggleButtonSticker_Light-ef8e2388.apng",
-    "sha256": "7103e4126bdecccfb8d1a6ccf53b2d474545acbfb7b4b9a21511e0e06af92280",
+    "sha256": "7faf234909c475b296aa2e28c4ab0065b20dd4d76f9d4c51c870e93f76d6ef67",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/ToggleButtons.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.ToggleButtonsKt.ToggleButtonSticker_Light_VARIANT_cell-type-round-size-large-state-disabled-selected-false-58653-20202": {
@@ -35972,7 +35972,7 @@
     "functionName": "BorderSampleWithDynamicDataPreview",
     "module": "ui-samples-catalog",
     "renderBasename": "BorderSampleWithDynamicDataPreview-0ed69384.png",
-    "sha256": "b20953100a11c2730d4ee41c66280af6616139acbb0fa24efbab3c22a02adb29",
+    "sha256": "7216cc5f214fbcf53cb688923072d196a688097228611b4f4ed0b61de2540c8a",
     "sourceFile": "src/main/kotlin/ee/schimke/uisamplescatalog/SamplePreviews.kt"
   },
   "ui-samples-catalog/ee.schimke.uisamplescatalog.SamplePreviewsKt.BoxWithConstraintsSamplePreview": {
@@ -36084,7 +36084,7 @@
     "functionName": "ContextualFlowColumn_ItemPositionPreview",
     "module": "ui-samples-catalog",
     "renderBasename": "ContextualFlowColumn_ItemPositionPreview-29d68bcc.png",
-    "sha256": "a3af0937c51fc6ffdcba5908d0761482b9cbd20a70fe6c4458e2951575b914a5",
+    "sha256": "21a3b891a7cd9a6e849301ef45cf78050434152abfc65004cfa10265a2290677",
     "sourceFile": "src/main/kotlin/ee/schimke/uisamplescatalog/SamplePreviews.kt"
   },
   "ui-samples-catalog/ee.schimke.uisamplescatalog.SamplePreviewsKt.ContextualFlowRowMaxLineDynamicSeeMorePreview": {
@@ -36100,7 +36100,7 @@
     "functionName": "ContextualFlowRow_ItemPositionPreview",
     "module": "ui-samples-catalog",
     "renderBasename": "ContextualFlowRow_ItemPositionPreview-69d0b766.png",
-    "sha256": "c9b5ff052f3fe0a48e72f7d58ee1473171a541acdb9536e83b101e72b3446d38",
+    "sha256": "0f4c046a430d7136f5fe39f33b524ac1230f90c098637b6f83c0fe049df87605",
     "sourceFile": "src/main/kotlin/ee/schimke/uisamplescatalog/SamplePreviews.kt"
   },
   "ui-samples-catalog/ee.schimke.uisamplescatalog.SamplePreviewsKt.ControlledScrollableRowSamplePreview": {
@@ -36852,7 +36852,7 @@
     "functionName": "SimpleFlowColumn_EqualWidthPreview",
     "module": "ui-samples-catalog",
     "renderBasename": "SimpleFlowColumn_EqualWidthPreview-9a454f7d.png",
-    "sha256": "db0808acc3e36a65e680b0a35f103b270480a03daba84dc743148cfe4b6b8ba4",
+    "sha256": "a3bd8bf944d93bdd61f935579d3487d76bf6be39eb62ccfbcd78665cd39eecba",
     "sourceFile": "src/main/kotlin/ee/schimke/uisamplescatalog/SamplePreviews.kt"
   },
   "ui-samples-catalog/ee.schimke.uisamplescatalog.SamplePreviewsKt.SimpleFlowRowMaxLinesDynamicSeeMorePreview": {
@@ -36884,7 +36884,7 @@
     "functionName": "SimpleFlowRow_EqualHeightPreview",
     "module": "ui-samples-catalog",
     "renderBasename": "SimpleFlowRow_EqualHeightPreview-a0589206.png",
-    "sha256": "3dca043d5612eae0d5728a1d8321914ad46c9f3dba672e334753a68863348ba1",
+    "sha256": "030eb1587dcef0c430726678e1943543968544e2d014e11b45d7e76dfe5003b1",
     "sourceFile": "src/main/kotlin/ee/schimke/uisamplescatalog/SamplePreviews.kt"
   },
   "ui-samples-catalog/ee.schimke.uisamplescatalog.SamplePreviewsKt.SimpleGridPreview": {
