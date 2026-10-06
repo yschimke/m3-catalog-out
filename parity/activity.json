@@ -1,6 +1,6 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-05T14:41:22.709Z",
+  "generatedAt": "2026-10-06T08:32:07.117Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
@@ -81,25 +81,6 @@
           "Dialog/List",
           "NavigationRail/Standard",
           "NavigationRail/Wide"
-        ]
-      },
-      {
-        "sha": "360c6e1b294277da93caf056589c6e8d9e223fd3",
-        "subject": "fix(cards): draw the kit's whole card, not its top half (#446)",
-        "at": "2026-09-16T06:25:57+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [
-          "card-elevated__ideal__default__light__compact",
-          "card-elevated__ideal__slot__compact",
-          "card-filled__ideal__default__light__compact",
-          "card-filled__ideal__slot__compact",
-          "card-outlined__ideal__default__light__compact",
-          "card-outlined__ideal__slot__compact"
-        ],
-        "components": [
-          "Card/Elevated",
-          "Card/Filled",
-          "Card/Outlined"
         ]
       }
     ]
