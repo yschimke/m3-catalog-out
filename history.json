@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "87b31855b2b6b9c2bba39a6fe2290e17bc764eb0",
+    "generatedFrom": "0ba4e447298551857b4e3566f8c3d5d393fb53d0",
     "previews": {
         "catalog/ee.schimke.m3catalog.adaptive.AdaptiveLayoutsKt.ListDetailPaneScaffoldSticker_Compact Dark": {
             "path": "renders/catalog/ListDetailPaneScaffoldSticker_Compact_Dark-05021a95.png",
@@ -20241,6 +20241,13 @@
             "path": "renders/catalog/FilledIconButtonSticker_Dark-521fc312.apng",
             "versions": [
                 {
+                    "blob": "6946ed7045f04953827e588af6b9296c14b3ed52",
+                    "commit": "0ba4e447298551857b4e3566f8c3d5d393fb53d0",
+                    "date": "2026-10-06T07:41:57Z",
+                    "sourceSha": "babcfb59",
+                    "commits": 1
+                },
+                {
                     "blob": "85b25495f14e658fa58699207c68a4d85903365d",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
                     "date": "2026-09-23T06:31:43Z",
@@ -20248,7 +20255,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -22521,6 +22528,13 @@
             "path": "renders/catalog/FilledIconButtonSticker_Light-c3a24658.apng",
             "versions": [
                 {
+                    "blob": "678e217b340fb0e48aebd32f3c1e8e6dc75758f8",
+                    "commit": "0ba4e447298551857b4e3566f8c3d5d393fb53d0",
+                    "date": "2026-10-06T07:41:57Z",
+                    "sourceSha": "babcfb59",
+                    "commits": 1
+                },
+                {
                     "blob": "bbbadb72b62af6de89cdae0a14638ae7def6020c",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
                     "date": "2026-09-23T06:31:43Z",
@@ -22528,7 +22542,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -38721,6 +38735,13 @@
             "path": "renders/catalog/ShortNavigationBarSticker_Dark-ca03dd89.apng",
             "versions": [
                 {
+                    "blob": "02d66dd9b839a41fa7c56da7726e8c8f07141092",
+                    "commit": "0ba4e447298551857b4e3566f8c3d5d393fb53d0",
+                    "date": "2026-10-06T07:41:57Z",
+                    "sourceSha": "babcfb59",
+                    "commits": 1
+                },
+                {
                     "blob": "3fa352f885fe856d37c2547f064c8a25e39384df",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
                     "date": "2026-09-23T06:31:43Z",
@@ -38728,7 +38749,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -38796,6 +38817,13 @@
             "path": "renders/catalog/ShortNavigationBarSticker_Light-ba09a63b.apng",
             "versions": [
                 {
+                    "blob": "6511dbb308023e18a76b29cd9acb5e796bdc6bfa",
+                    "commit": "0ba4e447298551857b4e3566f8c3d5d393fb53d0",
+                    "date": "2026-10-06T07:41:57Z",
+                    "sourceSha": "babcfb59",
+                    "commits": 1
+                },
+                {
                     "blob": "27d5c61a435d9e6ffe656764e7d95936d07f3c09",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
                     "date": "2026-09-23T06:31:43Z",
@@ -38803,7 +38831,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -39111,6 +39139,13 @@
             "path": "renders/catalog/WideNavigationRailSticker_Dark-2bf46631.apng",
             "versions": [
                 {
+                    "blob": "44cd3cd199b1f47bba441e8627a28cbce24d0dce",
+                    "commit": "0ba4e447298551857b4e3566f8c3d5d393fb53d0",
+                    "date": "2026-10-06T07:41:57Z",
+                    "sourceSha": "babcfb59",
+                    "commits": 1
+                },
+                {
                     "blob": "dcf8abcd059945c5b0d646ec281ba8280b9fc791",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
                     "date": "2026-09-23T06:31:43Z",
@@ -39118,7 +39153,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -39186,6 +39221,13 @@
             "path": "renders/catalog/WideNavigationRailSticker_Light-aba5cbb2.apng",
             "versions": [
                 {
+                    "blob": "0734ef6acfa869c488e4a2f3a44beac9a9fd3a8e",
+                    "commit": "0ba4e447298551857b4e3566f8c3d5d393fb53d0",
+                    "date": "2026-10-06T07:41:57Z",
+                    "sourceSha": "babcfb59",
+                    "commits": 1
+                },
+                {
                     "blob": "472d79414870a35646bb19da19357661d43f0920",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
                     "date": "2026-09-23T06:31:43Z",
@@ -39193,7 +39235,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -45471,6 +45513,13 @@
             "path": "renders/catalog/SwitchOn_Dark-b441ef3d.apng",
             "versions": [
                 {
+                    "blob": "954b9a1ac4e864f3a41719bba5ee39de708efe6e",
+                    "commit": "0ba4e447298551857b4e3566f8c3d5d393fb53d0",
+                    "date": "2026-10-06T07:41:57Z",
+                    "sourceSha": "babcfb59",
+                    "commits": 1
+                },
+                {
                     "blob": "7bf8b9b784664ccb2cd73abad51036f917f7286c",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
                     "date": "2026-09-23T06:31:43Z",
@@ -45478,7 +45527,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -45801,6 +45850,13 @@
             "path": "renders/catalog/SwitchOn_Light-4cdaec2b.apng",
             "versions": [
                 {
+                    "blob": "da2f819822b9d2992084f17a895d2a8d69a1e425",
+                    "commit": "0ba4e447298551857b4e3566f8c3d5d393fb53d0",
+                    "date": "2026-10-06T07:41:57Z",
+                    "sourceSha": "babcfb59",
+                    "commits": 1
+                },
+                {
                     "blob": "700afc4787205d87eb9c6ad091e6a2eb602140eb",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
                     "date": "2026-09-23T06:31:43Z",
@@ -45808,7 +45864,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -55491,6 +55547,13 @@
             "path": "renders/catalog/ToggleButtonSticker_Dark-31ef428c.apng",
             "versions": [
                 {
+                    "blob": "de2176b72a6e9254b942c4511011a24da8e3d34a",
+                    "commit": "0ba4e447298551857b4e3566f8c3d5d393fb53d0",
+                    "date": "2026-10-06T07:41:57Z",
+                    "sourceSha": "babcfb59",
+                    "commits": 1
+                },
+                {
                     "blob": "0bb02e3189fb345ebb77fd5cdf11245137659a0e",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
                     "date": "2026-09-23T06:31:43Z",
@@ -55498,7 +55561,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -57021,6 +57084,13 @@
             "path": "renders/catalog/ToggleButtonSticker_Light-ef8e2388.apng",
             "versions": [
                 {
+                    "blob": "d23a38eb0c5c0b41fedf4ca21f4ee6cca935e15c",
+                    "commit": "0ba4e447298551857b4e3566f8c3d5d393fb53d0",
+                    "date": "2026-10-06T07:41:57Z",
+                    "sourceSha": "babcfb59",
+                    "commits": 1
+                },
+                {
                     "blob": "906c1b652cc50212ac77b73a8fdd4dcfa89bb179",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
                     "date": "2026-09-23T06:31:43Z",
@@ -57028,7 +57098,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -67446,6 +67516,13 @@
             "path": "renders/ui-samples-catalog/BorderSampleWithDynamicDataPreview-0ed69384.png",
             "versions": [
                 {
+                    "blob": "c9de3465875324e6af27f3f57b9ac9a58d5427ad",
+                    "commit": "0ba4e447298551857b4e3566f8c3d5d393fb53d0",
+                    "date": "2026-10-06T07:41:57Z",
+                    "sourceSha": "babcfb59",
+                    "commits": 1
+                },
+                {
                     "blob": "e1d20156ebdff5d6d4bc8f2fe068a76e791401e8",
                     "commit": "87b31855b2b6b9c2bba39a6fe2290e17bc764eb0",
                     "date": "2026-10-02T22:54:05Z",
@@ -67488,7 +67565,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 6,
+            "observations": 7,
             "unstable": false,
             "flapCount": 0
         },
@@ -67691,6 +67768,13 @@
             "path": "renders/ui-samples-catalog/ContextualFlowColumn_ItemPositionPreview-29d68bcc.png",
             "versions": [
                 {
+                    "blob": "cc86abaa0adf62b1e5d117bd0cc904d1d90207e2",
+                    "commit": "0ba4e447298551857b4e3566f8c3d5d393fb53d0",
+                    "date": "2026-10-06T07:41:57Z",
+                    "sourceSha": "babcfb59",
+                    "commits": 1
+                },
+                {
                     "blob": "3b8b6c0ef100836ede83686daf06925b78a83179",
                     "commit": "87b31855b2b6b9c2bba39a6fe2290e17bc764eb0",
                     "date": "2026-10-02T22:54:05Z",
@@ -67733,7 +67817,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 6,
+            "observations": 7,
             "unstable": false,
             "flapCount": 0
         },
@@ -67755,6 +67839,13 @@
         "ui-samples-catalog/ee.schimke.uisamplescatalog.SamplePreviewsKt.ContextualFlowRow_ItemPositionPreview": {
             "path": "renders/ui-samples-catalog/ContextualFlowRow_ItemPositionPreview-69d0b766.png",
             "versions": [
+                {
+                    "blob": "80cd569a39a565ebaf8202411e3650907d5cf30e",
+                    "commit": "0ba4e447298551857b4e3566f8c3d5d393fb53d0",
+                    "date": "2026-10-06T07:41:57Z",
+                    "sourceSha": "babcfb59",
+                    "commits": 1
+                },
                 {
                     "blob": "d9b3acf6ff9db6f3050ef933c3e3f5c953c2426a",
                     "commit": "87b31855b2b6b9c2bba39a6fe2290e17bc764eb0",
@@ -67798,7 +67889,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 6,
+            "observations": 7,
             "unstable": false,
             "flapCount": 0
         },
@@ -69201,6 +69292,13 @@
             "path": "renders/ui-samples-catalog/SimpleFlowColumn_EqualWidthPreview-9a454f7d.png",
             "versions": [
                 {
+                    "blob": "a51d7f687892fa7babd950ddaf1bfec6ab56605d",
+                    "commit": "0ba4e447298551857b4e3566f8c3d5d393fb53d0",
+                    "date": "2026-10-06T07:41:57Z",
+                    "sourceSha": "babcfb59",
+                    "commits": 1
+                },
+                {
                     "blob": "07ce1f9ddee7693383f31efcf4f6bb543d632e08",
                     "commit": "87b31855b2b6b9c2bba39a6fe2290e17bc764eb0",
                     "date": "2026-10-02T22:54:05Z",
@@ -69243,7 +69341,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 6,
+            "observations": 7,
             "unstable": false,
             "flapCount": 0
         },
@@ -69296,6 +69394,13 @@
             "path": "renders/ui-samples-catalog/SimpleFlowRow_EqualHeightPreview-a0589206.png",
             "versions": [
                 {
+                    "blob": "ef0e0f2d8c8a98266a2b5781c47fc9dcc2a068fe",
+                    "commit": "0ba4e447298551857b4e3566f8c3d5d393fb53d0",
+                    "date": "2026-10-06T07:41:57Z",
+                    "sourceSha": "babcfb59",
+                    "commits": 1
+                },
+                {
                     "blob": "00d8cd9a66e209799f43eb54f69aaa3383efb41c",
                     "commit": "87b31855b2b6b9c2bba39a6fe2290e17bc764eb0",
                     "date": "2026-10-02T22:54:05Z",
@@ -69338,7 +69443,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 6,
+            "observations": 7,
             "unstable": false,
             "flapCount": 0
         },
