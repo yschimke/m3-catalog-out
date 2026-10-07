@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-07T19:38:05.296Z",
+  "generatedAt": "2026-10-07T20:24:10.277Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "9e1075d3804eb43b2e2e038af3c2bc29cf32e160",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.20.0 (#517)",
+        "at": "2026-10-07T21:07:12+01:00",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d739682a2d1c202e8a24f90065143b5a0ed83a41",
+        "subject": "chore: drop setup-repo-protection.sh for the shared repo policy (#515)",
+        "at": "2026-10-07T20:56:33+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "23a794c64a433da1b8db7065551f6dc728df62f6",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.14.1 (#516)",
@@ -467,22 +483,6 @@
         "subject": "docs(glimmer): record the Google Sans Flex weight-axis fix with renders (#451)",
         "at": "2026-09-16T06:50:58+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "97b9e4dd301741e27935d1d7c99e30fb59eb0534",
-        "subject": "fix(deps): update compose-ai-tools (#448)",
-        "at": "2026-09-16T06:47:34+01:00",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c70ef4de552e18cc1ad056139d23d8ac328e89e0",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:data-preview-overrides-runtime to v3.5.0 (#449)",
-        "at": "2026-09-16T06:47:12+01:00",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
