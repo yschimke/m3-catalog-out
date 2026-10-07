@@ -1,6 +1,6 @@
 {
   "schema": "compose-preview-issues/v1",
-  "generatedAt": "2026-10-07T15:47:50.186Z",
+  "generatedAt": "2026-10-07T16:18:48.471Z",
   "issues": [
     {
       "repository": "yschimke/m3-catalog",
@@ -313,7 +313,7 @@
       "number": 256,
       "title": "Button label clipped with large font scale",
       "url": "https://github.com/yschimke/m3-catalog/issues/256",
-      "state": "open",
+      "state": "closed",
       "area": null,
       "parity": "upstream",
       "system": "m3-catalog",
