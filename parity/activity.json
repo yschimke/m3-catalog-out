@@ -1,6 +1,6 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-06T08:32:07.117Z",
+  "generatedAt": "2026-10-07T09:34:37.977Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
@@ -56,46 +56,8 @@
         "components": [
           "BottomAppBar/Standard"
         ]
-      },
-      {
-        "sha": "0b15a0854c57b7aeab54e490dbc2d9c3e176f946",
-        "subject": "fix(rail, dialog): the rail's header gap, and list rows that drew their own container (#447)",
-        "at": "2026-09-16T06:26:16+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [
-          "dialog-basic__ideal__default__light",
-          "dialog-basic__ideal__icon",
-          "dialog-list__ideal__default__light",
-          "dialog-list__ideal__icon",
-          "navigationrail-standard__ideal__default__light",
-          "navigationrail-standard__ideal__cell-alignment-middle-nav-items-4-58016-36888",
-          "navigationrail-standard__ideal__four",
-          "navigationrail-standard__ideal__middle",
-          "navigationrail-wide__ideal__default__light",
-          "navigationrail-wide__ideal__cell-type-docked-alignment-middle-nav-items-4-58016-36783",
-          "navigationrail-wide__ideal__four",
-          "navigationrail-wide__ideal__middle"
-        ],
-        "components": [
-          "Dialog/Basic",
-          "Dialog/List",
-          "NavigationRail/Standard",
-          "NavigationRail/Wide"
-        ]
       }
     ]
-  },
-  "figma": {
-    "fileKey": "ocdacdEsnHipMJD3egzxKb",
-    "fileName": "Material 3 Design Kit (Community)",
-    "versions": [
-      {
-        "id": "2396133989288508086",
-        "at": "2026-09-06T16:30:33Z",
-        "author": "Yuri Schimke"
-      }
-    ],
-    "comments": []
   },
   "gaps": [
     {
