@@ -20639,6 +20639,22 @@
     "sha256": "8c99426d9c5e3e67a861cff37ed4ab58f48131d98f668b4283d93a3389f50c96",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/LoadingIndicator.kt"
   },
+  "catalog/ee.schimke.m3catalog.sections.MenusKt.DropdownMenuGroupSticker_Dark": {
+    "captureLabel": "",
+    "functionName": "DropdownMenuGroupSticker",
+    "module": "catalog",
+    "renderBasename": "DropdownMenuGroupSticker_Dark-48dd1315.png",
+    "sha256": "4815f8098354c129e7175316a6b7f13d9d0a96629bb3e52c0eff97da52bb43fb",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/Menus.kt"
+  },
+  "catalog/ee.schimke.m3catalog.sections.MenusKt.DropdownMenuGroupSticker_Light": {
+    "captureLabel": "",
+    "functionName": "DropdownMenuGroupSticker",
+    "module": "catalog",
+    "renderBasename": "DropdownMenuGroupSticker_Light-d48d4cea.png",
+    "sha256": "49ea0aa4bacb24ea266b3a1d3697ed1845fcb5a60fd21ecc855b8d646a6c7ebe",
+    "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/Menus.kt"
+  },
   "catalog/ee.schimke.m3catalog.sections.NavigationBarsKt.ShortNavigationBarSticker_Dark": {
     "captureLabel": "",
     "functionName": "ShortNavigationBarSticker",
@@ -20724,7 +20740,7 @@
     "functionName": "NavigationRailSticker",
     "module": "catalog",
     "renderBasename": "NavigationRailSticker_Dark-a9ef0f0e.png",
-    "sha256": "16cc5292748e2637a4274745ababbf1028d58e92b82129b4bd898ce35005ac0a",
+    "sha256": "00605653e123aecdc3350dce195038fa91abbffe7eb93d826cf1cd285e3166b9",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_cell-alignment-middle-nav-items-4-58016-36888": {
@@ -20732,7 +20748,7 @@
     "functionName": "NavigationRailSticker",
     "module": "catalog",
     "renderBasename": "NavigationRailSticker_Dark_VARIANT_cell_alignment_middle_nav_items_4_58016_36888-a2637a26.png",
-    "sha256": "ef278345f0fe60c4366d7e09743a5d783e0d5696d940baca4c246e80a43af87c",
+    "sha256": "fd0ff229565982b12c12358b296310391ee39853bf4d59d25d740afc007ac6fc",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_four": {
@@ -20740,7 +20756,7 @@
     "functionName": "NavigationRailSticker",
     "module": "catalog",
     "renderBasename": "NavigationRailSticker_Dark_VARIANT_four-2a1f40d7.png",
-    "sha256": "f5898ae1aee8fd634ec19a223478f7802b5348d3366d69d9e875cb22967e7ca2",
+    "sha256": "1af22c0d88f67255a10e50e4abea43f4c503ee8b25ed05b2e93fb4a7aa16ee8c",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_labels-none": {
@@ -20748,7 +20764,7 @@
     "functionName": "NavigationRailSticker",
     "module": "catalog",
     "renderBasename": "NavigationRailSticker_Dark_VARIANT_labels_none-1489dbf5.png",
-    "sha256": "14a3ef7587d9a40b97a44cab7a94562c0508d49bb08d5ca5a7792ed99c1b2387",
+    "sha256": "dedd127d919f3e38cb08a6832ff910ea0705b853c429f5250304e8b4b1efa6d7",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_middle": {
@@ -20756,7 +20772,7 @@
     "functionName": "NavigationRailSticker",
     "module": "catalog",
     "renderBasename": "NavigationRailSticker_Dark_VARIANT_middle-103c1d15.png",
-    "sha256": "b20db3bf3e24eb2c613dc550332729438509c87c23996a03626267f6e2501814",
+    "sha256": "99e8b59ed573483f0eddc6cdc58513196036c911dc9ca573eab61ca851e31255",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_no-fab": {
@@ -20764,7 +20780,7 @@
     "functionName": "NavigationRailSticker",
     "module": "catalog",
     "renderBasename": "NavigationRailSticker_Dark_VARIANT_no_fab-a930fd36.png",
-    "sha256": "9492b1200f5f6ba7d78729c284330c37832b4602197697ee8f689d87a611bf23",
+    "sha256": "75323785deb0104b6f4cd935f6b653ecf1ad6aa3713291cec0faa94e917419f4",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_no-menu": {
@@ -20772,7 +20788,7 @@
     "functionName": "NavigationRailSticker",
     "module": "catalog",
     "renderBasename": "NavigationRailSticker_Dark_VARIANT_no_menu-77c49ff1.png",
-    "sha256": "f719c99401977e666a59fe93fa642112176ac03fbb48db222a57b5ffe1857bc5",
+    "sha256": "81e4c0a249c0a652f4b935b455702f4787846ae19cd61e570b08d39a03008092",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_no-menu-fab": {
@@ -20780,7 +20796,7 @@
     "functionName": "NavigationRailSticker",
     "module": "catalog",
     "renderBasename": "NavigationRailSticker_Dark_VARIANT_no_menu_fab-b621ae39.png",
-    "sha256": "bc328ae349ccfd8f24f88b04236ac6fca87a44fae1c17d97a56d60ba925df988",
+    "sha256": "eff443216905f022ac9b23ccfc75c1b8c2663ae23696cdab6dc9ee89276adb8d",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light": {
@@ -20788,7 +20804,7 @@
     "functionName": "NavigationRailSticker",
     "module": "catalog",
     "renderBasename": "NavigationRailSticker_Light-195ff75b.png",
-    "sha256": "34b0b5ba53329a824ecab83892db0322c96597a1636b4a767de9b585060722a1",
+    "sha256": "5cc2fea6467e90042b627c9cbeedeb70fe362b728ac076865c545f63cd78cb3a",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_cell-alignment-middle-nav-items-4-58016-36888": {
@@ -20796,7 +20812,7 @@
     "functionName": "NavigationRailSticker",
     "module": "catalog",
     "renderBasename": "NavigationRailSticker_Light_VARIANT_cell_alignment_middle_nav_items_4_58016_3688-06e54f1c.png",
-    "sha256": "fff94c15317a7ff0d8e6cc63f0d646bc33fd07ee979a7fe8e6bddeac691573bf",
+    "sha256": "2af6e8326309b3f0f22a3b3fbee5d74d79ff93ea2d8d624f330be9483fbb440d",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_four": {
@@ -20804,7 +20820,7 @@
     "functionName": "NavigationRailSticker",
     "module": "catalog",
     "renderBasename": "NavigationRailSticker_Light_VARIANT_four-88b17927.png",
-    "sha256": "ade1c4fe097a86e398ffd78f43068b32baf2041bb8deee5ee2292ad16d734a85",
+    "sha256": "c74826806c4bf35f5dbbab35e476feda2a7429a645071bdf5905d352f50561cb",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_labels-none": {
@@ -20812,7 +20828,7 @@
     "functionName": "NavigationRailSticker",
     "module": "catalog",
     "renderBasename": "NavigationRailSticker_Light_VARIANT_labels_none-56db905d.png",
-    "sha256": "1ebea37aabcbeea5476a6fd07411ad3310094cd03fa5125cca798526d861c27f",
+    "sha256": "fb39e9f37a545b1db5e103a608b5384a830ab3a9f938f454b039b4200f7246b3",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_middle": {
@@ -20820,7 +20836,7 @@
     "functionName": "NavigationRailSticker",
     "module": "catalog",
     "renderBasename": "NavigationRailSticker_Light_VARIANT_middle-d4acd4f8.png",
-    "sha256": "221291538851e90f889f3ed2ed6f500bc76e11804b69d072e636434459061dd6",
+    "sha256": "fa6b22624547d0f73ccb6dee4affcf53a7914a8df9af6a98fdae3b50c7a1f799",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_no-fab": {
@@ -20828,7 +20844,7 @@
     "functionName": "NavigationRailSticker",
     "module": "catalog",
     "renderBasename": "NavigationRailSticker_Light_VARIANT_no_fab-c9b9d637.png",
-    "sha256": "9d00d2fc5937077df1499f00a295703ab669f3e92ae3b091e1a796e1354b47c2",
+    "sha256": "aa6106bebd9926f0f4e9c769b0a28ffce99b317eb0fa777cbbb0da541a723b96",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_no-menu": {
@@ -20836,7 +20852,7 @@
     "functionName": "NavigationRailSticker",
     "module": "catalog",
     "renderBasename": "NavigationRailSticker_Light_VARIANT_no_menu-92f089f8.png",
-    "sha256": "aaf36752917705391671458750a17944c967ed7acbabbf3fddb225e4a0c69697",
+    "sha256": "6c9ac9aea24b93b378eef99c3d0aeaba7929b58da0c685e88459bdb4e3ac8485",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_no-menu-fab": {
@@ -20844,7 +20860,7 @@
     "functionName": "NavigationRailSticker",
     "module": "catalog",
     "renderBasename": "NavigationRailSticker_Light_VARIANT_no_menu_fab-a637f795.png",
-    "sha256": "48ce3f05e3b3f54c019c552a9e941e1af8cafb91c3c92ab7ee63ccff5b5ec06a",
+    "sha256": "9065319cdc7f26e526217432adb38db0861360e55935eac94fb261762256bdd0",
     "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt"
   },
   "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.WideNavigationRailSticker_Dark": {

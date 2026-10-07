@@ -2586,6 +2586,8 @@ Auto-generated from `main`. Browse inline or compare against PR branches.
 | `ContainedLoadingIndicatorSticker` | <img src="https://raw.githubusercontent.com/yschimke/m3-catalog-out/compose-preview/main/renders/catalog/ContainedLoadingIndicatorSticker_Light-64248a25.png" width="150" /> |
 | `LoadingIndicatorSticker` | <img src="https://raw.githubusercontent.com/yschimke/m3-catalog-out/compose-preview/main/renders/catalog/LoadingIndicatorSticker_Dark-2c5e02ed.png" width="150" /> |
 | `LoadingIndicatorSticker` | <img src="https://raw.githubusercontent.com/yschimke/m3-catalog-out/compose-preview/main/renders/catalog/LoadingIndicatorSticker_Light-8ab91a6f.png" width="150" /> |
+| `DropdownMenuGroupSticker` | <img src="https://raw.githubusercontent.com/yschimke/m3-catalog-out/compose-preview/main/renders/catalog/DropdownMenuGroupSticker_Dark-48dd1315.png" width="150" /> |
+| `DropdownMenuGroupSticker` | <img src="https://raw.githubusercontent.com/yschimke/m3-catalog-out/compose-preview/main/renders/catalog/DropdownMenuGroupSticker_Light-d48d4cea.png" width="150" /> |
 | `ShortNavigationBarSticker` | <img src="https://raw.githubusercontent.com/yschimke/m3-catalog-out/compose-preview/main/renders/catalog/ShortNavigationBarSticker_Dark-ca03dd89.png" width="150" /> |
 | `ShortNavigationBarSticker` | <img src="https://raw.githubusercontent.com/yschimke/m3-catalog-out/compose-preview/main/renders/catalog/ShortNavigationBarSticker_Dark-ca03dd89.apng.png" width="150" /> |
 | `ShortNavigationBarSticker` | <img src="https://raw.githubusercontent.com/yschimke/m3-catalog-out/compose-preview/main/renders/catalog/ShortNavigationBarSticker_Dark_VARIANT_five-46c64e99.png" width="150" /> |
