@@ -64239,6 +64239,582 @@
         ]
       }
     ],
+    "ee.schimke.m3catalog.sections.MenusKt.DropdownMenuGroupSticker_Light": [
+      {
+        "source": "figma",
+        "status": "warn",
+        "findings": [
+          {
+            "kind": "token",
+            "severity": "info",
+            "message": "colors.label has no Material-role mapping; unverified (spec #49454F)",
+            "detail": {
+              "token": "colors.label",
+              "expected": "#49454F",
+              "unmapped": "true"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 208,
+                  "height": 292
+                }
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 604,
+                  "height": 823
+                }
+              }
+            ]
+          },
+          {
+            "kind": "token",
+            "severity": "info",
+            "message": "typography.label has no Material-role mapping; unverified (spec {\"fontFamily\":\"Roboto\",\"fontSize\":14,\"fontWeight\":500,\"lineHeight\":20,\"letterSpacing\":0.10000000149011612})",
+            "detail": {
+              "token": "typography.label",
+              "expected": "{\"fontFamily\":\"Roboto\",\"fontSize\":14,\"fontWeight\":500,\"lineHeight\":20,\"letterSpacing\":0.10000000149011612}",
+              "unmapped": "true"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 208,
+                  "height": 292
+                }
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 604,
+                  "height": 823
+                }
+              }
+            ]
+          },
+          {
+            "kind": "pairing",
+            "severity": "info",
+            "message": "reference renders with List 1 content=[object Object], List 2 content=[object Object], List 3 content=[object Object], Show scrollbar=false, Show section label=false — component property defaults the variant name does not state",
+            "detail": {
+              "properties": "[{\"name\":\"List 1 content\",\"value\":\"[object Object]\"},{\"name\":\"List 2 content\",\"value\":\"[object Object]\"},{\"name\":\"List 3 content\",\"value\":\"[object Object]\"},{\"name\":\"Show scrollbar\",\"type\":\"boolean\",\"value\":\"false\"},{\"name\":\"Show section label\",\"type\":\"boolean\",\"value\":\"false\"}]"
+            }
+          },
+          {
+            "kind": "semantic",
+            "severity": "warn",
+            "message": "reference variant 'default' has no candidate render to compare",
+            "detail": {
+              "variant": "default"
+            }
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"Label\": offset (-6, -13), size Δ(117, 8) vs candidate",
+            "detail": {
+              "label": "Label",
+              "dx": "-6",
+              "dy": "-13",
+              "dw": "117",
+              "dh": "8"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 44,
+                  "y": 8,
+                  "width": 148,
+                  "height": 26
+                },
+                "label": "Label"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 146,
+                  "y": 60,
+                  "width": 91,
+                  "height": 53
+                },
+                "label": "Label"
+              }
+            ]
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"Label\": offset (-6, -48), size Δ(89, 2) vs candidate",
+            "detail": {
+              "label": "Label",
+              "dx": "-6",
+              "dy": "-48",
+              "dw": "89",
+              "dh": "2"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 44,
+                  "y": 8,
+                  "width": 148,
+                  "height": 26
+                },
+                "label": "Label"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 146,
+                  "y": 60,
+                  "width": 91,
+                  "height": 53
+                },
+                "label": "Label"
+              }
+            ]
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"Label\": offset (-6, -43), size Δ(89, 2) vs candidate",
+            "detail": {
+              "label": "Label",
+              "dx": "-6",
+              "dy": "-43",
+              "dw": "89",
+              "dh": "2"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 44,
+                  "y": 8,
+                  "width": 148,
+                  "height": 26
+                },
+                "label": "Label"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 146,
+                  "y": 60,
+                  "width": 91,
+                  "height": 53
+                },
+                "label": "Label"
+              }
+            ]
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"Label\": offset (-6, -39), size Δ(89, 2) vs candidate",
+            "detail": {
+              "label": "Label",
+              "dx": "-6",
+              "dy": "-39",
+              "dw": "89",
+              "dh": "2"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 44,
+                  "y": 8,
+                  "width": 148,
+                  "height": 26
+                },
+                "label": "Label"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 146,
+                  "y": 60,
+                  "width": 91,
+                  "height": 53
+                },
+                "label": "Label"
+              }
+            ]
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"Label\": offset (-6, -34), size Δ(89, 2) vs candidate",
+            "detail": {
+              "label": "Label",
+              "dx": "-6",
+              "dy": "-34",
+              "dw": "89",
+              "dh": "2"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 44,
+                  "y": 8,
+                  "width": 148,
+                  "height": 26
+                },
+                "label": "Label"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 146,
+                  "y": 60,
+                  "width": 91,
+                  "height": 53
+                },
+                "label": "Label"
+              }
+            ]
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"Label\": offset (-6, -30), size Δ(89, 2) vs candidate",
+            "detail": {
+              "label": "Label",
+              "dx": "-6",
+              "dy": "-30",
+              "dw": "89",
+              "dh": "2"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 44,
+                  "y": 8,
+                  "width": 148,
+                  "height": 26
+                },
+                "label": "Label"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 146,
+                  "y": 60,
+                  "width": 91,
+                  "height": 53
+                },
+                "label": "Label"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Menus.kt#DropdownMenuGroupSticker": [
+      {
+        "source": "figma",
+        "status": "warn",
+        "findings": [
+          {
+            "kind": "token",
+            "severity": "info",
+            "message": "colors.label has no Material-role mapping; unverified (spec #49454F)",
+            "detail": {
+              "token": "colors.label",
+              "expected": "#49454F",
+              "unmapped": "true"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 208,
+                  "height": 292
+                }
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 604,
+                  "height": 823
+                }
+              }
+            ]
+          },
+          {
+            "kind": "token",
+            "severity": "info",
+            "message": "typography.label has no Material-role mapping; unverified (spec {\"fontFamily\":\"Roboto\",\"fontSize\":14,\"fontWeight\":500,\"lineHeight\":20,\"letterSpacing\":0.10000000149011612})",
+            "detail": {
+              "token": "typography.label",
+              "expected": "{\"fontFamily\":\"Roboto\",\"fontSize\":14,\"fontWeight\":500,\"lineHeight\":20,\"letterSpacing\":0.10000000149011612}",
+              "unmapped": "true"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 208,
+                  "height": 292
+                }
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 0,
+                  "y": 0,
+                  "width": 604,
+                  "height": 823
+                }
+              }
+            ]
+          },
+          {
+            "kind": "pairing",
+            "severity": "info",
+            "message": "reference renders with List 1 content=[object Object], List 2 content=[object Object], List 3 content=[object Object], Show scrollbar=false, Show section label=false — component property defaults the variant name does not state",
+            "detail": {
+              "properties": "[{\"name\":\"List 1 content\",\"value\":\"[object Object]\"},{\"name\":\"List 2 content\",\"value\":\"[object Object]\"},{\"name\":\"List 3 content\",\"value\":\"[object Object]\"},{\"name\":\"Show scrollbar\",\"type\":\"boolean\",\"value\":\"false\"},{\"name\":\"Show section label\",\"type\":\"boolean\",\"value\":\"false\"}]"
+            }
+          },
+          {
+            "kind": "semantic",
+            "severity": "warn",
+            "message": "reference variant 'default' has no candidate render to compare",
+            "detail": {
+              "variant": "default"
+            }
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"Label\": offset (-6, -13), size Δ(117, 8) vs candidate",
+            "detail": {
+              "label": "Label",
+              "dx": "-6",
+              "dy": "-13",
+              "dw": "117",
+              "dh": "8"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 44,
+                  "y": 8,
+                  "width": 148,
+                  "height": 26
+                },
+                "label": "Label"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 146,
+                  "y": 60,
+                  "width": 91,
+                  "height": 53
+                },
+                "label": "Label"
+              }
+            ]
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"Label\": offset (-6, -48), size Δ(89, 2) vs candidate",
+            "detail": {
+              "label": "Label",
+              "dx": "-6",
+              "dy": "-48",
+              "dw": "89",
+              "dh": "2"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 44,
+                  "y": 8,
+                  "width": 148,
+                  "height": 26
+                },
+                "label": "Label"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 146,
+                  "y": 60,
+                  "width": 91,
+                  "height": 53
+                },
+                "label": "Label"
+              }
+            ]
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"Label\": offset (-6, -43), size Δ(89, 2) vs candidate",
+            "detail": {
+              "label": "Label",
+              "dx": "-6",
+              "dy": "-43",
+              "dw": "89",
+              "dh": "2"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 44,
+                  "y": 8,
+                  "width": 148,
+                  "height": 26
+                },
+                "label": "Label"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 146,
+                  "y": 60,
+                  "width": 91,
+                  "height": 53
+                },
+                "label": "Label"
+              }
+            ]
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"Label\": offset (-6, -39), size Δ(89, 2) vs candidate",
+            "detail": {
+              "label": "Label",
+              "dx": "-6",
+              "dy": "-39",
+              "dw": "89",
+              "dh": "2"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 44,
+                  "y": 8,
+                  "width": 148,
+                  "height": 26
+                },
+                "label": "Label"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 146,
+                  "y": 60,
+                  "width": 91,
+                  "height": 53
+                },
+                "label": "Label"
+              }
+            ]
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"Label\": offset (-6, -34), size Δ(89, 2) vs candidate",
+            "detail": {
+              "label": "Label",
+              "dx": "-6",
+              "dy": "-34",
+              "dw": "89",
+              "dh": "2"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 44,
+                  "y": 8,
+                  "width": 148,
+                  "height": 26
+                },
+                "label": "Label"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 146,
+                  "y": 60,
+                  "width": 91,
+                  "height": 53
+                },
+                "label": "Label"
+              }
+            ]
+          },
+          {
+            "kind": "layout",
+            "severity": "warn",
+            "message": "layout \"Label\": offset (-6, -30), size Δ(89, 2) vs candidate",
+            "detail": {
+              "label": "Label",
+              "dx": "-6",
+              "dy": "-30",
+              "dw": "89",
+              "dh": "2"
+            },
+            "anchors": [
+              {
+                "side": "reference",
+                "bounds": {
+                  "x": 44,
+                  "y": 8,
+                  "width": 148,
+                  "height": 26
+                },
+                "label": "Label"
+              },
+              {
+                "side": "actual",
+                "bounds": {
+                  "x": 146,
+                  "y": 60,
+                  "width": 91,
+                  "height": 53
+                },
+                "label": "Label"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "ee.schimke.m3catalog.sections.NavigationBarsKt.ShortNavigationBarSticker_Light": [
       {
         "source": "figma",
@@ -64599,134 +65175,44 @@
             }
           },
           {
-            "kind": "layout",
-            "severity": "warn",
-            "message": "layout \"Label\": offset (-32, -11), size Δ(64, 0) vs candidate",
-            "detail": {
-              "label": "Label",
-              "dx": "-32",
-              "dy": "-11",
-              "dw": "64",
-              "dh": "0"
-            },
-            "anchors": [
-              {
-                "side": "reference",
-                "bounds": {
-                  "x": 0,
-                  "y": 242,
-                  "width": 96,
-                  "height": 16
-                },
-                "label": "Label"
-              },
-              {
-                "side": "actual",
-                "bounds": {
-                  "x": 84,
-                  "y": 664,
-                  "width": 84,
-                  "height": 42
-                },
-                "label": "Label"
-              }
-            ]
-          },
-          {
-            "kind": "layout",
-            "severity": "warn",
-            "message": "layout \"Label\": offset (-32, 5), size Δ(64, 0) vs candidate",
-            "detail": {
-              "label": "Label",
-              "dx": "-32",
-              "dy": "5",
-              "dw": "64",
-              "dh": "0"
-            },
-            "anchors": [
-              {
-                "side": "reference",
-                "bounds": {
-                  "x": 0,
-                  "y": 242,
-                  "width": 96,
-                  "height": 16
-                },
-                "label": "Label"
-              },
-              {
-                "side": "actual",
-                "bounds": {
-                  "x": 84,
-                  "y": 664,
-                  "width": 84,
-                  "height": 42
-                },
-                "label": "Label"
-              }
-            ]
-          },
-          {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-alignment-middle-nav-items-4-58016-36888: 2.9% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "cell-alignment-middle-nav-items-4-58016-36888: 1.6% of pixels differ from reference",
             "detail": {
               "key": "cell-alignment-middle-nav-items-4-58016-36888",
-              "alphaLossRatio": "0.028545",
-              "alphaLossPixels": "15106",
-              "alphaComparedPixels": "529200"
+              "score": "0.016415",
+              "diffPixels": "8687"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-alignment-middle-nav-items-4-58016-36888: 6.0% of pixels differ from reference",
-            "detail": {
-              "key": "cell-alignment-middle-nav-items-4-58016-36888",
-              "score": "0.060268",
-              "diffPixels": "31894"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "four: 1.4% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "four: 1.2% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "four",
-              "alphaLossRatio": "0.014367",
-              "alphaLossPixels": "7603",
+              "alphaLossRatio": "0.011939",
+              "alphaLossPixels": "6318",
               "alphaComparedPixels": "529200"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "four: 3.6% of pixels differ from reference",
+            "message": "four: 3.2% of pixels differ from reference",
             "detail": {
               "key": "four",
-              "score": "0.036455",
-              "diffPixels": "19292"
+              "score": "0.032103",
+              "diffPixels": "16989"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "middle: 2.6% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "middle: 1.5% of pixels differ from reference",
             "detail": {
               "key": "middle",
-              "alphaLossRatio": "0.025678",
-              "alphaLossPixels": "13589",
-              "alphaComparedPixels": "529200"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "middle: 5.5% of pixels differ from reference",
-            "detail": {
-              "key": "middle",
-              "score": "0.054658",
-              "diffPixels": "28925"
+              "score": "0.015197",
+              "diffPixels": "8042"
             }
           }
         ]
@@ -64874,134 +65360,44 @@
             }
           },
           {
-            "kind": "layout",
-            "severity": "warn",
-            "message": "layout \"Label\": offset (-32, -11), size Δ(64, 0) vs candidate",
-            "detail": {
-              "label": "Label",
-              "dx": "-32",
-              "dy": "-11",
-              "dw": "64",
-              "dh": "0"
-            },
-            "anchors": [
-              {
-                "side": "reference",
-                "bounds": {
-                  "x": 0,
-                  "y": 242,
-                  "width": 96,
-                  "height": 16
-                },
-                "label": "Label"
-              },
-              {
-                "side": "actual",
-                "bounds": {
-                  "x": 84,
-                  "y": 664,
-                  "width": 84,
-                  "height": 42
-                },
-                "label": "Label"
-              }
-            ]
-          },
-          {
-            "kind": "layout",
-            "severity": "warn",
-            "message": "layout \"Label\": offset (-32, 5), size Δ(64, 0) vs candidate",
-            "detail": {
-              "label": "Label",
-              "dx": "-32",
-              "dy": "5",
-              "dw": "64",
-              "dh": "0"
-            },
-            "anchors": [
-              {
-                "side": "reference",
-                "bounds": {
-                  "x": 0,
-                  "y": 242,
-                  "width": 96,
-                  "height": 16
-                },
-                "label": "Label"
-              },
-              {
-                "side": "actual",
-                "bounds": {
-                  "x": 84,
-                  "y": 664,
-                  "width": 84,
-                  "height": 42
-                },
-                "label": "Label"
-              }
-            ]
-          },
-          {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-alignment-middle-nav-items-4-58016-36888: 2.9% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "cell-alignment-middle-nav-items-4-58016-36888: 1.6% of pixels differ from reference",
             "detail": {
               "key": "cell-alignment-middle-nav-items-4-58016-36888",
-              "alphaLossRatio": "0.028545",
-              "alphaLossPixels": "15106",
-              "alphaComparedPixels": "529200"
+              "score": "0.016415",
+              "diffPixels": "8687"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "cell-alignment-middle-nav-items-4-58016-36888: 6.0% of pixels differ from reference",
-            "detail": {
-              "key": "cell-alignment-middle-nav-items-4-58016-36888",
-              "score": "0.060268",
-              "diffPixels": "31894"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "four: 1.4% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "four: 1.2% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "four",
-              "alphaLossRatio": "0.014367",
-              "alphaLossPixels": "7603",
+              "alphaLossRatio": "0.011939",
+              "alphaLossPixels": "6318",
               "alphaComparedPixels": "529200"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "four: 3.6% of pixels differ from reference",
+            "message": "four: 3.2% of pixels differ from reference",
             "detail": {
               "key": "four",
-              "score": "0.036455",
-              "diffPixels": "19292"
+              "score": "0.032103",
+              "diffPixels": "16989"
             }
           },
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "middle: 2.6% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "message": "middle: 1.5% of pixels differ from reference",
             "detail": {
               "key": "middle",
-              "alphaLossRatio": "0.025678",
-              "alphaLossPixels": "13589",
-              "alphaComparedPixels": "529200"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "middle: 5.5% of pixels differ from reference",
-            "detail": {
-              "key": "middle",
-              "score": "0.054658",
-              "diffPixels": "28925"
+              "score": "0.015197",
+              "diffPixels": "8042"
             }
           }
         ]
