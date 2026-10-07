@@ -16,13 +16,11 @@
 </defs>
 <g transform="translate(0, 0)">
   <g id="Root">
-    <g id="Column">
+    <g id="WideNavigationRailKt">
       <g id="Column">
-        <g id="Spacer">
-        </g>
         <g id="Box">
           <g id="BoxKt" data-material-icon="menu" data-material-icon-style="Filled" data-material-icon-url="https://fonts.gstatic.com/s/i/materialicons/menu/v1/24px.svg">
-            <g transform="translate(96 159) scale(2.62 2.62)">
+            <g transform="translate(95 148) scale(2.62 2.62)">
               <use href="#material-icon-materialicons-menu" xlink:href="#material-icon-materialicons-menu"/>
             </g>
           </g>
@@ -30,64 +28,60 @@
         <g id="Spacer">
         </g>
         <g id="Box">
-          <rect x="53" y="274" width="147" height="147" rx="42" ry="42" fill="#4F378B"/>
+          <rect x="53" y="263" width="147" height="147" rx="42" ry="42" fill="#4F378B"/>
           <g id="BoxKt" data-material-icon="edit" data-material-icon-style="Filled" data-material-icon-url="https://fonts.gstatic.com/s/i/materialicons/edit/v1/24px.svg">
-            <g transform="translate(95 316) scale(2.62 2.62)">
+            <g transform="translate(95 305) scale(2.62 2.62)">
               <use href="#material-icon-materialicons-edit" xlink:href="#material-icon-materialicons-edit"/>
             </g>
           </g>
         </g>
-        <g id="Spacer">
-        </g>
       </g>
-      <g id="Spacer">
-      </g>
-      <g id="NavigationRailKt">
+      <g id="Animated">
         <g id="BoxKt">
-          <rect x="52" y="569" width="147" height="84" rx="42" ry="42" fill="#4A4458"/>
-        </g>
-        <g id="Empty">
-          <text x="84" y="695.86" font-size="31.5" font-family="Roboto" font-weight="500" letter-spacing="1.31" fill="#CCC2DC">Label</text>
+          <rect x="53" y="530" width="147" height="84" rx="42" ry="42" fill="#4A4458"/>
         </g>
         <g id="BoxKt" data-material-icon="stars" data-material-icon-style="Filled" data-material-icon-url="https://fonts.gstatic.com/s/i/materialicons/stars/v1/24px.svg">
-          <g transform="translate(94 580) scale(2.62 2.62)">
+          <g transform="translate(95 541) scale(2.62 2.62)">
             <use href="#material-icon-materialicons-stars" xlink:href="#material-icon-materialicons-stars"/>
           </g>
         </g>
+        <g id="Empty">
+          <text x="84" y="656.86" font-size="31.5" font-family="Roboto" font-weight="500" letter-spacing="1.31" fill="#CCC2DC">Label</text>
+        </g>
         <g id="BoxKt">
-          <image href="ideal__no-menu-fab__dark.figma-raster/5918.png" x="52" y="569" width="147" height="84"/>
+          <image href="ideal__no-menu-fab__dark.figma-raster/5936.png" x="53" y="530" width="147" height="84"/>
         </g>
       </g>
-      <g id="NavigationRailKt">
+      <g id="Animated">
         <g id="BoxKt" opacity="0">
-          <rect x="21" y="727" width="0" height="84" rx="0" ry="0" fill="#4A4458"/>
-        </g>
-        <g id="Empty">
-          <text x="84" y="853.86" font-size="31.5" font-family="Roboto" font-weight="500" letter-spacing="1.31" fill="#CAC4D0">Label</text>
+          <rect x="0" y="709" width="0" height="84" rx="0" ry="0" fill="#4A4458"/>
         </g>
         <g id="BoxKt" data-material-icon="stars" data-material-icon-style="Outlined" data-material-icon-url="https://fonts.gstatic.com/s/i/materialiconsoutlined/stars/v1/24px.svg">
-          <g transform="translate(94 738) scale(2.62 2.62)">
+          <g transform="translate(95 720) scale(2.62 2.62)">
             <use href="#material-icon-materialiconsoutlined-stars" xlink:href="#material-icon-materialiconsoutlined-stars"/>
           </g>
         </g>
+        <g id="Empty">
+          <text x="84" y="835.86" font-size="31.5" font-family="Roboto" font-weight="500" letter-spacing="1.31" fill="#CAC4D0">Label</text>
+        </g>
         <g id="BoxKt">
-          <image href="ideal__no-menu-fab__dark.figma-raster/5927.png" x="52" y="727" width="147" height="84"/>
+          <image href="ideal__no-menu-fab__dark.figma-raster/5944.png" x="53" y="709" width="147" height="84"/>
         </g>
       </g>
-      <g id="NavigationRailKt">
+      <g id="Animated">
         <g id="BoxKt" opacity="0">
-          <rect x="21" y="885" width="0" height="84" rx="0" ry="0" fill="#4A4458"/>
-        </g>
-        <g id="Empty">
-          <text x="84" y="1011.86" font-size="31.5" font-family="Roboto" font-weight="500" letter-spacing="1.31" fill="#CAC4D0">Label</text>
+          <rect x="0" y="888" width="0" height="84" rx="0" ry="0" fill="#4A4458"/>
         </g>
         <g id="BoxKt" data-material-icon="stars" data-material-icon-style="Outlined" data-material-icon-url="https://fonts.gstatic.com/s/i/materialiconsoutlined/stars/v1/24px.svg">
-          <g transform="translate(94 896) scale(2.62 2.62)">
+          <g transform="translate(95 899) scale(2.62 2.62)">
             <use href="#material-icon-materialiconsoutlined-stars" xlink:href="#material-icon-materialiconsoutlined-stars"/>
           </g>
         </g>
+        <g id="Empty">
+          <text x="84" y="1014.86" font-size="31.5" font-family="Roboto" font-weight="500" letter-spacing="1.31" fill="#CAC4D0">Label</text>
+        </g>
         <g id="BoxKt">
-          <image href="ideal__no-menu-fab__dark.figma-raster/5936.png" x="52" y="885" width="147" height="84"/>
+          <image href="ideal__no-menu-fab__dark.figma-raster/5952.png" x="53" y="888" width="147" height="84"/>
         </g>
       </g>
     </g>

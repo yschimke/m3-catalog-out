@@ -213,11 +213,11 @@
                 "m3/loading-indicator": {
                     "group": "Loading indicator"
                 },
-                "m3/navigation-rail": {
-                    "group": "Navigation rail"
+                "m3/dropdown-menu-group": {
+                    "group": "Menus"
                 },
-                "m3/navigation-rail-item": {
-                    "group": "Navigation rail"
+                "m3/dropdown-menu-item": {
+                    "group": "Menus"
                 },
                 "m3/outlined-text-field": {
                     "group": "Text fields"
@@ -2564,8 +2564,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null
             },
-            "m3/navigation-rail": {
-                "record": "catalog/androidx.compose.material3.NavigationRailKt.NavigationRail",
+            "m3/dropdown-menu-group": {
+                "record": "catalog/androidx.compose.material3.MenuKt.DropdownMenuGroup",
                 "catalogId": null,
                 "displayName": null,
                 "canvas": null,
@@ -2583,8 +2583,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null
             },
-            "m3/navigation-rail-item": {
-                "record": "catalog/androidx.compose.material3.NavigationRailKt.NavigationRailItem",
+            "m3/dropdown-menu-item": {
+                "record": "catalog/androidx.compose.material3.MenuKt.DropdownMenuItem",
                 "catalogId": null,
                 "displayName": null,
                 "canvas": null,
@@ -5065,12 +5065,12 @@
         },
         {
             "code": "component.canvas.unclaimed",
-            "subject": "m3/navigation-rail",
+            "subject": "m3/dropdown-menu-group",
             "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
         },
         {
             "code": "component.canvas.unclaimed",
-            "subject": "m3/navigation-rail-item",
+            "subject": "m3/dropdown-menu-item",
             "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
         },
         {

@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":catalog"
   },
-  "generatedAt": "2026-10-07T09:15:23.616Z",
+  "generatedAt": "2026-10-07T17:07:24.289Z",
   "mappings": [
     {
       "componentId": "Badge/Number",
@@ -559,6 +559,16 @@
         }
       ],
       "figmaSvg": "figma/loadingindicator-uncontained.svg"
+    },
+    {
+      "componentId": "Menu/DropdownGroup",
+      "figmaLayerName": "Menu/DropdownGroup",
+      "componentName": "DropdownMenuGroupSticker",
+      "source": "https://github.com/yschimke/m3-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Menus.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "DropdownMenuGroupSticker",
+      "figmaSvg": "https://preview.coo.ee/m3-catalog/render/menu-dropdowngroup__ideal__default__light.svg"
     },
     {
       "componentId": "NavigationBar/Short",

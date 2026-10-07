@@ -38,11 +38,11 @@ customising the live render are two ends of one workflow.
 
 | | |
 | --- | --- |
-| Components | **58** |
-| Rendered images (PNG) | **4108** |
-| Editable wireframes (SVG) | **58** |
-| Editable design vectors (figma-svg) | **58** |
-| Components with a11y greenlines | **38** |
+| Components | **59** |
+| Rendered images (PNG) | **4110** |
+| Editable wireframes (SVG) | **59** |
+| Editable design vectors (figma-svg) | **59** |
+| Components with a11y greenlines | **39** |
 | Library | `org.jetbrains.compose.material3:material3`<br>`org.jetbrains.compose.material:material-icons-extended`<br>`org.jetbrains.compose.material3:material3-adaptive-navigation-suite`<br>`org.jetbrains.compose.material3.adaptive:adaptive-layout`<br>`org.jetbrains.compose.material3.adaptive:adaptive-navigation` |
 | Renderer | compose-preview 2.35.0 |
 | Schema | `design-parity-catalog/v1` |
@@ -75,6 +75,7 @@ customising the live render are two ends of one workflow.
 | Date pickers | 1 |
 | Lists | 1 |
 | Loading indicator | 1 |
+| Menus | 1 |
 | Navigation bar | 1 |
 | Radio button | 1 |
 | Search | 1 |

@@ -43712,6 +43712,39 @@
       }
     },
     {
+      "id": "menu-dropdowngroup__ideal__default__light",
+      "previewId": "menu-dropdowngroup__ideal__default__light",
+      "label": "Menu/DropdownGroup — figma",
+      "tier": "primary",
+      "raster": {
+        "path": "references/menu-dropdowngroup__ideal__default__light.png",
+        "width": 604,
+        "height": 823,
+        "density": 2.625,
+        "sha256": "824dc854f449348d63282ff211eab495b8ad6ea27e92605c665a706139a5a45c",
+        "transform": {
+          "scaleX": 0.998344,
+          "scaleY": 0.997576,
+          "offsetX": 0,
+          "offsetY": 0
+        }
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Menus.kt#DropdownMenuGroupSticker",
+          "preview": "DropdownMenuGroupSticker",
+          "componentId": "Menu/DropdownGroup"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/58966:4078"
+      },
+      "match": {
+        "percent": 82.48,
+        "changedPercent": 17.34,
+        "scoreVersion": 3
+      }
+    },
+    {
       "id": "navigationbar-short__ideal__default__light__compact",
       "previewId": "navigationbar-short__ideal__default__light__compact",
       "label": "NavigationBar/Short — figma",
@@ -43820,8 +43853,8 @@
         "uri": "figma:ocdacdEsnHipMJD3egzxKb/58016:36948"
       },
       "match": {
-        "percent": 84.96,
-        "changedPercent": 15.96,
+        "percent": 97.86,
+        "changedPercent": 8.84,
         "scoreVersion": 3
       }
     },
@@ -43850,10 +43883,9 @@
         "uri": "figma:ocdacdEsnHipMJD3egzxKb/58016:36888"
       },
       "match": {
-        "percent": 75.33,
-        "changedPercent": 20.71,
-        "scoreVersion": 3,
-        "geometry": 16.7
+        "percent": 98.44,
+        "changedPercent": 9.4,
+        "scoreVersion": 3
       }
     },
     {
@@ -43881,10 +43913,9 @@
         "uri": "figma:ocdacdEsnHipMJD3egzxKb/58016:36939"
       },
       "match": {
-        "percent": 86.93,
-        "changedPercent": 17.21,
-        "scoreVersion": 3,
-        "geometry": 3.1
+        "percent": 98.33,
+        "changedPercent": 9.37,
+        "scoreVersion": 3
       }
     },
     {
@@ -43912,10 +43943,9 @@
         "uri": "figma:ocdacdEsnHipMJD3egzxKb/58016:36880"
       },
       "match": {
-        "percent": 69.37,
-        "changedPercent": 21.03,
-        "scoreVersion": 3,
-        "geometry": 18.3
+        "percent": 98.34,
+        "changedPercent": 7.91,
+        "scoreVersion": 3
       }
     },
     {

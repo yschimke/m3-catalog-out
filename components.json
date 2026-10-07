@@ -23061,6 +23061,7 @@
                 "IconButton/Standard",
                 "IconButton/Tonal",
                 "List/Item",
+                "Menu/DropdownGroup",
                 "NavigationBar/Short",
                 "NavigationRail/Standard",
                 "NavigationRail/Wide",
@@ -35328,6 +35329,16 @@
                     "group": "Lists"
                 },
                 {
+                    "previewId": "ee.schimke.m3catalog.sections.MenusKt.DropdownMenuGroupSticker_Dark",
+                    "componentId": "Menu/DropdownGroup",
+                    "group": "Menus"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.MenusKt.DropdownMenuGroupSticker_Light",
+                    "componentId": "Menu/DropdownGroup",
+                    "group": "Menus"
+                },
+                {
                     "previewId": "ee.schimke.m3catalog.sections.NavigationBarsKt.ShortNavigationBarSticker_Dark",
                     "componentId": "NavigationBar/Short",
                     "group": "Navigation bar"
@@ -42240,6 +42251,7 @@
                 "IconButton/Tonal",
                 "List/Item",
                 "LoadingIndicator/Uncontained",
+                "Menu/DropdownGroup",
                 "NavigationBar/Short",
                 "NavigationRail/Standard",
                 "NavigationRail/Wide",
@@ -55166,6 +55178,16 @@
                     "group": "Loading indicator"
                 },
                 {
+                    "previewId": "ee.schimke.m3catalog.sections.MenusKt.DropdownMenuGroupSticker_Dark",
+                    "componentId": "Menu/DropdownGroup",
+                    "group": "Menus"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.MenusKt.DropdownMenuGroupSticker_Light",
+                    "componentId": "Menu/DropdownGroup",
+                    "group": "Menus"
+                },
+                {
                     "previewId": "ee.schimke.m3catalog.sections.NavigationBarsKt.ShortNavigationBarSticker_Dark",
                     "componentId": "NavigationBar/Short",
                     "group": "Navigation bar"
@@ -63005,22 +63027,35 @@
             "androidxOptIns": []
         },
         {
-            "canonicalId": "catalog/androidx.compose.material3.NavigationRailKt.NavigationRail",
+            "canonicalId": "catalog/androidx.compose.material3.MenuKt.DropdownMenuGroup",
             "componentIds": [
-                "NavigationRail/Standard"
+                "Menu/DropdownGroup"
             ],
             "symbol": {
-                "jvmOwner": "androidx.compose.material3.NavigationRailKt",
-                "callable": "androidx.compose.material3.NavigationRail",
-                "name": "NavigationRail",
+                "jvmOwner": "androidx.compose.material3.MenuKt",
+                "callable": "androidx.compose.material3.DropdownMenuGroup",
+                "name": "DropdownMenuGroup",
                 "origin": "LIBRARY",
-                "jvmName": "NavigationRail-qi6gXK8",
-                "descriptor": "(Landroidx/compose/ui/Modifier;JJLkotlin/jvm/functions/Function3;Landroidx/compose/foundation/layout/WindowInsets;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;II)V",
+                "jvmName": "DropdownMenuGroup-BfByrIA",
+                "descriptor": "(Landroidx/compose/material3/MenuGroupShapes;Landroidx/compose/ui/Modifier;JFFLandroidx/compose/foundation/BorderStroke;Landroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function3;Landroidx/compose/runtime/Composer;II)V",
                 "sourceFile": null,
                 "docs": "unavailable",
                 "receiver": null
             },
             "parameters": [
+                {
+                    "name": "shapes",
+                    "type": "MenuGroupShapes",
+                    "typeFqn": "androidx.compose.material3.MenuGroupShapes",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
                 {
                     "name": "modifier",
                     "type": "Modifier",
@@ -63048,9 +63083,9 @@
                     "lambdaReturnTypeFqn": null
                 },
                 {
-                    "name": "contentColor",
-                    "type": "Color",
-                    "typeFqn": "androidx.compose.ui.graphics.Color",
+                    "name": "tonalElevation",
+                    "type": "Dp",
+                    "typeFqn": "androidx.compose.ui.unit.Dp",
                     "hasDefault": true,
                     "composableSlot": false,
                     "composableSlotReceiver": null,
@@ -63061,22 +63096,9 @@
                     "lambdaReturnTypeFqn": null
                 },
                 {
-                    "name": "header",
-                    "type": "(ColumnScope.() -> Unit)?",
-                    "typeFqn": "kotlin.Function1",
-                    "hasDefault": true,
-                    "composableSlot": true,
-                    "composableSlotReceiver": "androidx.compose.foundation.layout.ColumnScope",
-                    "nullable": true,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": "kotlin.Unit"
-                },
-                {
-                    "name": "windowInsets",
-                    "type": "WindowInsets",
-                    "typeFqn": "androidx.compose.foundation.layout.WindowInsets",
+                    "name": "shadowElevation",
+                    "type": "Dp",
+                    "typeFqn": "androidx.compose.ui.unit.Dp",
                     "hasDefault": true,
                     "composableSlot": false,
                     "composableSlotReceiver": null,
@@ -63087,243 +63109,22 @@
                     "lambdaReturnTypeFqn": null
                 },
                 {
-                    "name": "content",
-                    "type": "ColumnScope.() -> Unit",
-                    "typeFqn": "kotlin.Function1",
-                    "hasDefault": false,
-                    "composableSlot": true,
-                    "composableSlotReceiver": "androidx.compose.foundation.layout.ColumnScope",
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": "kotlin.Unit"
-                }
-            ],
-            "slots": [
-                {
-                    "name": "header",
-                    "required": false,
-                    "receiverScope": "androidx.compose.foundation.layout.ColumnScope"
-                },
-                {
-                    "name": "content",
-                    "required": true,
-                    "receiverScope": "androidx.compose.foundation.layout.ColumnScope"
-                }
-            ],
-            "bindings": [
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_cell-alignment-middle-nav-items-4-58016-36888",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_four",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_labels-none",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_middle",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_no-fab",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_no-menu",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_no-menu-fab",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_cell-alignment-middle-nav-items-4-58016-36888",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_four",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_labels-none",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_middle",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_no-fab",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_no-menu",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_no-menu-fab",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                }
-            ],
-            "code": {
-                "call": "NavigationRail(content = {})",
-                "imports": [
-                    "androidx.compose.material3.NavigationRail"
-                ],
-                "refusedReason": null,
-                "requiredOptIns": [],
-                "androidxOptIns": []
-            },
-            "signatureKnown": true,
-            "callableFromAnotherFile": true,
-            "hasTypeParameters": false,
-            "hasContextReceivers": false,
-            "overloadsCollided": false,
-            "builder": null,
-            "requiredOptIns": [],
-            "androidxOptIns": []
-        },
-        {
-            "canonicalId": "catalog/androidx.compose.material3.NavigationRailKt.NavigationRailItem",
-            "componentIds": [
-                "NavigationRail/Standard"
-            ],
-            "symbol": {
-                "jvmOwner": "androidx.compose.material3.NavigationRailKt",
-                "callable": "androidx.compose.material3.NavigationRailItem",
-                "name": "NavigationRailItem",
-                "origin": "LIBRARY",
-                "jvmName": "NavigationRailItem",
-                "descriptor": "(ZLkotlin/jvm/functions/Function0;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/Modifier;ZLkotlin/jvm/functions/Function2;ZLandroidx/compose/material3/NavigationRailItemColors;Landroidx/compose/foundation/interaction/MutableInteractionSource;Landroidx/compose/runtime/Composer;II)V",
-                "sourceFile": null,
-                "docs": "unavailable",
-                "receiver": null
-            },
-            "parameters": [
-                {
-                    "name": "selected",
-                    "type": "Boolean",
-                    "typeFqn": "kotlin.Boolean",
-                    "hasDefault": false,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": null
-                },
-                {
-                    "name": "onClick",
-                    "type": "() -> Unit",
-                    "typeFqn": "kotlin.Function0",
-                    "hasDefault": false,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": "kotlin.Unit"
-                },
-                {
-                    "name": "icon",
-                    "type": "() -> Unit",
-                    "typeFqn": "kotlin.Function0",
-                    "hasDefault": false,
-                    "composableSlot": true,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": "kotlin.Unit"
-                },
-                {
-                    "name": "modifier",
-                    "type": "Modifier",
-                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "name": "border",
+                    "type": "BorderStroke?",
+                    "typeFqn": "androidx.compose.foundation.BorderStroke",
                     "hasDefault": true,
                     "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": null
-                },
-                {
-                    "name": "enabled",
-                    "type": "Boolean",
-                    "typeFqn": "kotlin.Boolean",
-                    "hasDefault": true,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": null
-                },
-                {
-                    "name": "label",
-                    "type": "(() -> Unit)?",
-                    "typeFqn": "kotlin.Function0",
-                    "hasDefault": true,
-                    "composableSlot": true,
                     "composableSlotReceiver": null,
                     "nullable": true,
                     "noArgConstructible": false,
                     "noArgFactory": null,
                     "scopeDslReceiver": null,
-                    "lambdaReturnTypeFqn": "kotlin.Unit"
-                },
-                {
-                    "name": "alwaysShowLabel",
-                    "type": "Boolean",
-                    "typeFqn": "kotlin.Boolean",
-                    "hasDefault": true,
-                    "composableSlot": false,
-                    "composableSlotReceiver": null,
-                    "nullable": false,
-                    "noArgConstructible": false,
-                    "noArgFactory": null,
-                    "scopeDslReceiver": null,
                     "lambdaReturnTypeFqn": null
                 },
                 {
-                    "name": "colors",
-                    "type": "NavigationRailItemColors",
-                    "typeFqn": "androidx.compose.material3.NavigationRailItemColors",
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
                     "hasDefault": true,
                     "composableSlot": false,
                     "composableSlotReceiver": null,
@@ -63345,108 +63146,255 @@
                     "noArgFactory": null,
                     "scopeDslReceiver": null,
                     "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "content",
+                    "type": "ColumnScope.() -> Unit",
+                    "typeFqn": "kotlin.Function1",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": "androidx.compose.foundation.layout.ColumnScope",
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
                 }
             ],
             "slots": [
                 {
-                    "name": "icon",
+                    "name": "content",
+                    "required": true,
+                    "receiverScope": "androidx.compose.foundation.layout.ColumnScope"
+                }
+            ],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.MenusKt.DropdownMenuGroupSticker_Dark",
+                    "componentId": "Menu/DropdownGroup",
+                    "group": "Menus"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.MenusKt.DropdownMenuGroupSticker_Light",
+                    "componentId": "Menu/DropdownGroup",
+                    "group": "Menus"
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "no placeholder can be written for required parameter `shapes: MenuGroupShapes`",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": true,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/androidx.compose.material3.MenuKt.DropdownMenuItem",
+            "componentIds": [
+                "Menu/DropdownGroup"
+            ],
+            "symbol": {
+                "jvmOwner": "androidx.compose.material3.MenuKt",
+                "callable": "androidx.compose.material3.DropdownMenuItem",
+                "name": "DropdownMenuItem",
+                "origin": "LIBRARY",
+                "jvmName": "DropdownMenuItem",
+                "descriptor": "(Lkotlin/jvm/functions/Function0;Lkotlin/jvm/functions/Function2;Landroidx/compose/ui/graphics/Shape;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function2;Lkotlin/jvm/functions/Function2;ZLandroidx/compose/material3/MenuItemColors;Landroidx/compose/foundation/layout/PaddingValues;Landroidx/compose/foundation/interaction/MutableInteractionSource;Lkotlin/jvm/functions/Function2;Landroidx/compose/runtime/Composer;III)V",
+                "sourceFile": null,
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "onClick",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "text",
+                    "type": "() -> Unit",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": false,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "shape",
+                    "type": "Shape",
+                    "typeFqn": "androidx.compose.ui.graphics.Shape",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "modifier",
+                    "type": "Modifier",
+                    "typeFqn": "androidx.compose.ui.Modifier",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "leadingIcon",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "trailingIcon",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                },
+                {
+                    "name": "enabled",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "colors",
+                    "type": "MenuItemColors",
+                    "typeFqn": "androidx.compose.material3.MenuItemColors",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "contentPadding",
+                    "type": "PaddingValues",
+                    "typeFqn": "androidx.compose.foundation.layout.PaddingValues",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "interactionSource",
+                    "type": "MutableInteractionSource?",
+                    "typeFqn": "androidx.compose.foundation.interaction.MutableInteractionSource",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "supportingText",
+                    "type": "(() -> Unit)?",
+                    "typeFqn": "kotlin.Function0",
+                    "hasDefault": true,
+                    "composableSlot": true,
+                    "composableSlotReceiver": null,
+                    "nullable": true,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": "kotlin.Unit"
+                }
+            ],
+            "slots": [
+                {
+                    "name": "text",
                     "required": true,
                     "receiverScope": null
                 },
                 {
-                    "name": "label",
+                    "name": "leadingIcon",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "trailingIcon",
+                    "required": false,
+                    "receiverScope": null
+                },
+                {
+                    "name": "supportingText",
                     "required": false,
                     "receiverScope": null
                 }
             ],
             "bindings": [
                 {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
+                    "previewId": "ee.schimke.m3catalog.sections.MenusKt.DropdownMenuGroupSticker_Dark",
+                    "componentId": "Menu/DropdownGroup",
+                    "group": "Menus"
                 },
                 {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_cell-alignment-middle-nav-items-4-58016-36888",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_four",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_labels-none",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_middle",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_no-fab",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_no-menu",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_no-menu-fab",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_cell-alignment-middle-nav-items-4-58016-36888",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_four",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_labels-none",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_middle",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_no-fab",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_no-menu",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
-                },
-                {
-                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_no-menu-fab",
-                    "componentId": "NavigationRail/Standard",
-                    "group": "Navigation rail"
+                    "previewId": "ee.schimke.m3catalog.sections.MenusKt.DropdownMenuGroupSticker_Light",
+                    "componentId": "Menu/DropdownGroup",
+                    "group": "Menus"
                 }
             ],
             "code": {
-                "call": "NavigationRailItem(selected = false, onClick = {}, icon = {})",
-                "imports": [
-                    "androidx.compose.material3.NavigationRailItem"
-                ],
-                "refusedReason": null,
+                "call": null,
+                "imports": [],
+                "refusedReason": "no placeholder can be written for required parameter `shape: Shape`",
                 "requiredOptIns": [],
                 "androidxOptIns": []
             },
@@ -87351,6 +87299,7 @@
                 "Divider/Vertical",
                 "Fab/Extended",
                 "List/Item",
+                "Menu/DropdownGroup",
                 "NavigationBar/Short",
                 "NavigationRail/Standard",
                 "NavigationRail/Wide",
@@ -93190,6 +93139,16 @@
                     "previewId": "ee.schimke.m3catalog.sections.ListsKt.ListItemSticker_Light_VARIANT_trailing-text",
                     "componentId": "List/Item",
                     "group": "Lists"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.MenusKt.DropdownMenuGroupSticker_Dark",
+                    "componentId": "Menu/DropdownGroup",
+                    "group": "Menus"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.MenusKt.DropdownMenuGroupSticker_Light",
+                    "componentId": "Menu/DropdownGroup",
+                    "group": "Menus"
                 },
                 {
                     "previewId": "ee.schimke.m3catalog.sections.NavigationBarsKt.ShortNavigationBarSticker_Dark",
@@ -105380,6 +105339,7 @@
         {
             "canonicalId": "catalog/androidx.compose.material3.WideNavigationRailKt.WideNavigationRail",
             "componentIds": [
+                "NavigationRail/Standard",
                 "NavigationRail/Wide"
             ],
             "symbol": {
@@ -105526,6 +105486,86 @@
             ],
             "bindings": [
                 {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_cell-alignment-middle-nav-items-4-58016-36888",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_four",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_labels-none",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_middle",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_no-fab",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_no-menu",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_no-menu-fab",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_cell-alignment-middle-nav-items-4-58016-36888",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_four",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_labels-none",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_middle",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_no-fab",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_no-menu",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_no-menu-fab",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
                     "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.WideNavigationRailSticker_Dark",
                     "componentId": "NavigationRail/Wide",
                     "group": "Navigation rail"
@@ -105587,6 +105627,7 @@
         {
             "canonicalId": "catalog/androidx.compose.material3.WideNavigationRailKt.WideNavigationRailItem",
             "componentIds": [
+                "NavigationRail/Standard",
                 "NavigationRail/Wide"
             ],
             "symbol": {
@@ -105758,6 +105799,86 @@
                 }
             ],
             "bindings": [
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_cell-alignment-middle-nav-items-4-58016-36888",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_four",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_labels-none",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_middle",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_no-fab",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_no-menu",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_no-menu-fab",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_cell-alignment-middle-nav-items-4-58016-36888",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_four",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_labels-none",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_middle",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_no-fab",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_no-menu",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
+                {
+                    "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_no-menu-fab",
+                    "componentId": "NavigationRail/Standard",
+                    "group": "Navigation rail"
+                },
                 {
                     "previewId": "ee.schimke.m3catalog.sections.NavigationRailsKt.WideNavigationRailSticker_Dark",
                     "componentId": "NavigationRail/Wide",

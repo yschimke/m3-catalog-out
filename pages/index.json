@@ -18939,7 +18939,10 @@
           "depth": 3,
           "type": "COMPONENT",
           "ref": "figma:ocdacdEsnHipMJD3egzxKb/58966:4078",
-          "link": "unlinked"
+          "link": "manifest",
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Menus.kt#DropdownMenuGroupSticker",
+          "previewId": "menu-dropdowngroup__ideal__default__light",
+          "confidence": "high"
         },
         {
           "nodeId": "58966:4100",

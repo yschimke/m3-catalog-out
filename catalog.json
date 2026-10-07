@@ -17517,7 +17517,7 @@
       "wireframe": "wireframes/button-filled.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/Buttons.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 116,
+      "bodyLine": 134,
       "sourceDirectory": "catalog",
       "sourceFunction": "FilledButton"
     },
@@ -33359,7 +33359,7 @@
       "wireframe": "wireframes/button-tonal.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/Buttons.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 144,
+      "bodyLine": 162,
       "sourceDirectory": "catalog",
       "sourceFunction": "TonalButton"
     },
@@ -49201,7 +49201,7 @@
       "wireframe": "wireframes/button-outlined.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/Buttons.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 186,
+      "bodyLine": 204,
       "sourceDirectory": "catalog",
       "sourceFunction": "OutlinedButtonSticker"
     },
@@ -66369,7 +66369,7 @@
       "wireframe": "wireframes/button-elevated.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/Buttons.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 215,
+      "bodyLine": 233,
       "sourceDirectory": "catalog",
       "sourceFunction": "ElevatedButtonSticker"
     },
@@ -82209,7 +82209,7 @@
       "wireframe": "wireframes/button-text.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/Buttons.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 246,
+      "bodyLine": 264,
       "sourceDirectory": "catalog",
       "sourceFunction": "TextButtonSticker"
     },
@@ -398353,6 +398353,739 @@
       ]
     },
     {
+      "componentId": "Menu/DropdownGroup",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/menu-dropdowngroup/ideal__default__dark.png",
+          "state": "default",
+          "width": 604,
+          "height": 823,
+          "theme": "dark",
+          "gutter": {
+            "start": 29,
+            "top": 18,
+            "end": 29,
+            "bottom": 39
+          },
+          "livePreview": "https://preview.coo.ee/m3-catalog/p/menu-dropdowngroup__ideal__default__dark",
+          "previewId": "ee.schimke.m3catalog.sections.MenusKt.DropdownMenuGroupSticker_Dark",
+          "overrides": [
+            {
+              "key": "focus",
+              "type": "string",
+              "label": "focus",
+              "default": {
+                "kind": "string",
+                "value": "opacity"
+              },
+              "current": {
+                "kind": "string",
+                "value": "opacity"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "opacity",
+                  "label": "Opacity"
+                },
+                {
+                  "value": "ring",
+                  "label": "Ring"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "leading",
+              "type": "string",
+              "label": "leading",
+              "default": {
+                "kind": "string",
+                "value": "icon"
+              },
+              "current": {
+                "kind": "string",
+                "value": "icon"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "icon",
+                  "label": "Icon"
+                },
+                {
+                  "value": "none",
+                  "label": "None"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "trailing",
+              "type": "string",
+              "label": "trailing",
+              "default": {
+                "kind": "string",
+                "value": "chevron"
+              },
+              "current": {
+                "kind": "string",
+                "value": "chevron"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "chevron",
+                  "label": "Chevron"
+                },
+                {
+                  "value": "shortcut",
+                  "label": "Shortcut"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "index": 0,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            },
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "index": 1,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            },
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "index": 2,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            },
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "index": 3,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            },
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "index": 4,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            },
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "index": 5,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
+          "previewParams": {
+            "uiMode": 32,
+            "captureGutter": {
+              "left": 29,
+              "top": 18,
+              "right": 29,
+              "bottom": 39
+            }
+          },
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/m3-catalog/render/menu-dropdowngroup__ideal__default__dark.svg"
+        },
+        {
+          "variant": "ideal",
+          "path": "images/menu-dropdowngroup/ideal__default__light.png",
+          "state": "default",
+          "width": 604,
+          "height": 823,
+          "theme": "light",
+          "gutter": {
+            "start": 29,
+            "top": 18,
+            "end": 29,
+            "bottom": 39
+          },
+          "livePreview": "https://preview.coo.ee/m3-catalog/p/menu-dropdowngroup__ideal__default__light",
+          "previewId": "ee.schimke.m3catalog.sections.MenusKt.DropdownMenuGroupSticker_Light",
+          "overrides": [
+            {
+              "key": "focus",
+              "type": "string",
+              "label": "focus",
+              "default": {
+                "kind": "string",
+                "value": "opacity"
+              },
+              "current": {
+                "kind": "string",
+                "value": "opacity"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "opacity",
+                  "label": "Opacity"
+                },
+                {
+                  "value": "ring",
+                  "label": "Ring"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "leading",
+              "type": "string",
+              "label": "leading",
+              "default": {
+                "kind": "string",
+                "value": "icon"
+              },
+              "current": {
+                "kind": "string",
+                "value": "icon"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "icon",
+                  "label": "Icon"
+                },
+                {
+                  "value": "none",
+                  "label": "None"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "trailing",
+              "type": "string",
+              "label": "trailing",
+              "default": {
+                "kind": "string",
+                "value": "chevron"
+              },
+              "current": {
+                "kind": "string",
+                "value": "chevron"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "chevron",
+                  "label": "Chevron"
+                },
+                {
+                  "value": "shortcut",
+                  "label": "Shortcut"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "status",
+              "type": "string",
+              "label": "status",
+              "default": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "current": {
+                "kind": "string",
+                "value": "enabled"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [
+                {
+                  "value": "enabled",
+                  "label": "Enabled"
+                },
+                {
+                  "value": "disabled",
+                  "label": "Disabled"
+                }
+              ],
+              "optionsExhaustive": true
+            },
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "index": 0,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            },
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "index": 1,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            },
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "index": 2,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            },
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "index": 3,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            },
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "index": 4,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            },
+            {
+              "key": "label",
+              "type": "string",
+              "label": "label",
+              "default": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "current": {
+                "kind": "string",
+                "value": "Label"
+              },
+              "index": 5,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
+          "previewParams": {
+            "captureGutter": {
+              "left": 29,
+              "top": 18,
+              "right": 29,
+              "bottom": 39
+            }
+          },
+          "density": 2.625,
+          "figmaSvg": "https://preview.coo.ee/m3-catalog/render/menu-dropdowngroup__ideal__default__light.svg"
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 40,
+              "y": 28,
+              "width": 524,
+              "height": 117
+            }
+          },
+          "bounds": {
+            "x": 40,
+            "y": 28,
+            "width": 524,
+            "height": 117
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 40,
+              "y": 154,
+              "width": 524,
+              "height": 117
+            }
+          },
+          "bounds": {
+            "x": 40,
+            "y": 154,
+            "width": 524,
+            "height": 117
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 40,
+              "y": 280,
+              "width": 524,
+              "height": 117
+            }
+          },
+          "bounds": {
+            "x": 40,
+            "y": 280,
+            "width": 524,
+            "height": 117
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 40,
+              "y": 406,
+              "width": 524,
+              "height": 117
+            }
+          },
+          "bounds": {
+            "x": 40,
+            "y": 406,
+            "width": 524,
+            "height": 117
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 40,
+              "y": 532,
+              "width": 524,
+              "height": 117
+            }
+          },
+          "bounds": {
+            "x": 40,
+            "y": 532,
+            "width": 524,
+            "height": 117
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 40,
+              "y": 658,
+              "width": 524,
+              "height": 117
+            }
+          },
+          "bounds": {
+            "x": 40,
+            "y": 658,
+            "width": 524,
+            "height": 117
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 29,
+            "y": 18,
+            "width": 546,
+            "height": 766
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 40,
+            "y": 28,
+            "width": 524,
+            "height": 117
+          },
+          "role": "Button",
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 0
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 40,
+            "y": 154,
+            "width": 524,
+            "height": 117
+          },
+          "role": "Button",
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 0
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 40,
+            "y": 280,
+            "width": 524,
+            "height": 117
+          },
+          "role": "Button",
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 0
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 40,
+            "y": 406,
+            "width": 524,
+            "height": 117
+          },
+          "role": "Button",
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 0
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 40,
+            "y": 532,
+            "width": 524,
+            "height": 117
+          },
+          "role": "Button",
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 0
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 40,
+            "y": 658,
+            "width": 524,
+            "height": 117
+          },
+          "role": "Button",
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 0
+          },
+          "cornerRadius": 4
+        }
+      ],
+      "section": "Selection",
+      "group": "Menus",
+      "caption": "The expressive menu: items in a DropdownMenuGroup, in the group's 16dp corner and surface-container-low.",
+      "reference": "figma:ocdacdEsnHipMJD3egzxKb/58966:4078",
+      "wireframe": "wireframes/menu-dropdowngroup.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/Menus.kt",
+      "sourceModule": ":catalog",
+      "bodyLine": 171,
+      "sourceDirectory": "catalog",
+      "sourceFunction": "DropdownMenuGroupSticker"
+    },
+    {
       "componentId": "NavigationBar/Short",
       "images": [
         {
@@ -399764,24 +400497,6 @@
               "optionsExhaustive": true
             },
             {
-              "key": "figmaWorkarounds",
-              "type": "bool",
-              "label": "figmaWorkarounds",
-              "default": {
-                "kind": "bool",
-                "value": true
-              },
-              "current": {
-                "kind": "bool",
-                "value": true
-              },
-              "index": null,
-              "suggestions": [],
-              "googleFonts": false,
-              "options": [],
-              "optionsExhaustive": false
-            },
-            {
               "key": "label",
               "type": "string",
               "label": "label",
@@ -399985,24 +400700,6 @@
                 }
               ],
               "optionsExhaustive": true
-            },
-            {
-              "key": "figmaWorkarounds",
-              "type": "bool",
-              "label": "figmaWorkarounds",
-              "default": {
-                "kind": "bool",
-                "value": true
-              },
-              "current": {
-                "kind": "bool",
-                "value": true
-              },
-              "index": null,
-              "suggestions": [],
-              "googleFonts": false,
-              "options": [],
-              "optionsExhaustive": false
             },
             {
               "key": "label",
@@ -400229,24 +400926,6 @@
               "optionsExhaustive": true
             },
             {
-              "key": "figmaWorkarounds",
-              "type": "bool",
-              "label": "figmaWorkarounds",
-              "default": {
-                "kind": "bool",
-                "value": true
-              },
-              "current": {
-                "kind": "bool",
-                "value": true
-              },
-              "index": null,
-              "suggestions": [],
-              "googleFonts": false,
-              "options": [],
-              "optionsExhaustive": false
-            },
-            {
               "key": "label",
               "type": "string",
               "label": "label",
@@ -400468,24 +401147,6 @@
                 }
               ],
               "optionsExhaustive": true
-            },
-            {
-              "key": "figmaWorkarounds",
-              "type": "bool",
-              "label": "figmaWorkarounds",
-              "default": {
-                "kind": "bool",
-                "value": true
-              },
-              "current": {
-                "kind": "bool",
-                "value": true
-              },
-              "index": null,
-              "suggestions": [],
-              "googleFonts": false,
-              "options": [],
-              "optionsExhaustive": false
             }
           ],
           "previewParams": {
@@ -400637,24 +401298,6 @@
                 }
               ],
               "optionsExhaustive": true
-            },
-            {
-              "key": "figmaWorkarounds",
-              "type": "bool",
-              "label": "figmaWorkarounds",
-              "default": {
-                "kind": "bool",
-                "value": true
-              },
-              "current": {
-                "kind": "bool",
-                "value": true
-              },
-              "index": null,
-              "suggestions": [],
-              "googleFonts": false,
-              "options": [],
-              "optionsExhaustive": false
             },
             {
               "key": "label",
@@ -400862,24 +401505,6 @@
               "optionsExhaustive": true
             },
             {
-              "key": "figmaWorkarounds",
-              "type": "bool",
-              "label": "figmaWorkarounds",
-              "default": {
-                "kind": "bool",
-                "value": true
-              },
-              "current": {
-                "kind": "bool",
-                "value": true
-              },
-              "index": null,
-              "suggestions": [],
-              "googleFonts": false,
-              "options": [],
-              "optionsExhaustive": false
-            },
-            {
               "key": "label",
               "type": "string",
               "label": "label",
@@ -401083,24 +401708,6 @@
                 }
               ],
               "optionsExhaustive": true
-            },
-            {
-              "key": "figmaWorkarounds",
-              "type": "bool",
-              "label": "figmaWorkarounds",
-              "default": {
-                "kind": "bool",
-                "value": true
-              },
-              "current": {
-                "kind": "bool",
-                "value": true
-              },
-              "index": null,
-              "suggestions": [],
-              "googleFonts": false,
-              "options": [],
-              "optionsExhaustive": false
             },
             {
               "key": "label",
@@ -401308,24 +401915,6 @@
               "optionsExhaustive": true
             },
             {
-              "key": "figmaWorkarounds",
-              "type": "bool",
-              "label": "figmaWorkarounds",
-              "default": {
-                "kind": "bool",
-                "value": true
-              },
-              "current": {
-                "kind": "bool",
-                "value": true
-              },
-              "index": null,
-              "suggestions": [],
-              "googleFonts": false,
-              "options": [],
-              "optionsExhaustive": false
-            },
-            {
               "key": "label",
               "type": "string",
               "label": "label",
@@ -401531,24 +402120,6 @@
               "optionsExhaustive": true
             },
             {
-              "key": "figmaWorkarounds",
-              "type": "bool",
-              "label": "figmaWorkarounds",
-              "default": {
-                "kind": "bool",
-                "value": true
-              },
-              "current": {
-                "kind": "bool",
-                "value": true
-              },
-              "index": null,
-              "suggestions": [],
-              "googleFonts": false,
-              "options": [],
-              "optionsExhaustive": false
-            },
-            {
               "key": "label",
               "type": "string",
               "label": "label",
@@ -401748,24 +402319,6 @@
                 }
               ],
               "optionsExhaustive": true
-            },
-            {
-              "key": "figmaWorkarounds",
-              "type": "bool",
-              "label": "figmaWorkarounds",
-              "default": {
-                "kind": "bool",
-                "value": true
-              },
-              "current": {
-                "kind": "bool",
-                "value": true
-              },
-              "index": null,
-              "suggestions": [],
-              "googleFonts": false,
-              "options": [],
-              "optionsExhaustive": false
             },
             {
               "key": "label",
@@ -401988,24 +402541,6 @@
               "optionsExhaustive": true
             },
             {
-              "key": "figmaWorkarounds",
-              "type": "bool",
-              "label": "figmaWorkarounds",
-              "default": {
-                "kind": "bool",
-                "value": true
-              },
-              "current": {
-                "kind": "bool",
-                "value": true
-              },
-              "index": null,
-              "suggestions": [],
-              "googleFonts": false,
-              "options": [],
-              "optionsExhaustive": false
-            },
-            {
               "key": "label",
               "type": "string",
               "label": "label",
@@ -402223,24 +402758,6 @@
                 }
               ],
               "optionsExhaustive": true
-            },
-            {
-              "key": "figmaWorkarounds",
-              "type": "bool",
-              "label": "figmaWorkarounds",
-              "default": {
-                "kind": "bool",
-                "value": true
-              },
-              "current": {
-                "kind": "bool",
-                "value": true
-              },
-              "index": null,
-              "suggestions": [],
-              "googleFonts": false,
-              "options": [],
-              "optionsExhaustive": false
             }
           ],
           "density": 2.625
@@ -402388,24 +402905,6 @@
                 }
               ],
               "optionsExhaustive": true
-            },
-            {
-              "key": "figmaWorkarounds",
-              "type": "bool",
-              "label": "figmaWorkarounds",
-              "default": {
-                "kind": "bool",
-                "value": true
-              },
-              "current": {
-                "kind": "bool",
-                "value": true
-              },
-              "index": null,
-              "suggestions": [],
-              "googleFonts": false,
-              "options": [],
-              "optionsExhaustive": false
             },
             {
               "key": "label",
@@ -402609,24 +403108,6 @@
               "optionsExhaustive": true
             },
             {
-              "key": "figmaWorkarounds",
-              "type": "bool",
-              "label": "figmaWorkarounds",
-              "default": {
-                "kind": "bool",
-                "value": true
-              },
-              "current": {
-                "kind": "bool",
-                "value": true
-              },
-              "index": null,
-              "suggestions": [],
-              "googleFonts": false,
-              "options": [],
-              "optionsExhaustive": false
-            },
-            {
               "key": "label",
               "type": "string",
               "label": "label",
@@ -402826,24 +403307,6 @@
                 }
               ],
               "optionsExhaustive": true
-            },
-            {
-              "key": "figmaWorkarounds",
-              "type": "bool",
-              "label": "figmaWorkarounds",
-              "default": {
-                "kind": "bool",
-                "value": true
-              },
-              "current": {
-                "kind": "bool",
-                "value": true
-              },
-              "index": null,
-              "suggestions": [],
-              "googleFonts": false,
-              "options": [],
-              "optionsExhaustive": false
             },
             {
               "key": "label",
@@ -403047,24 +403510,6 @@
               "optionsExhaustive": true
             },
             {
-              "key": "figmaWorkarounds",
-              "type": "bool",
-              "label": "figmaWorkarounds",
-              "default": {
-                "kind": "bool",
-                "value": true
-              },
-              "current": {
-                "kind": "bool",
-                "value": true
-              },
-              "index": null,
-              "suggestions": [],
-              "googleFonts": false,
-              "options": [],
-              "optionsExhaustive": false
-            },
-            {
               "key": "label",
               "type": "string",
               "label": "label",
@@ -403130,15 +403575,15 @@
           "detail": {
             "role": "button",
             "bounds": {
-              "x": 75,
-              "y": 138,
+              "x": 74,
+              "y": 127,
               "width": 105,
               "height": 105
             }
           },
           "bounds": {
-            "x": 75,
-            "y": 138,
+            "x": 74,
+            "y": 127,
             "width": 105,
             "height": 105
           }
@@ -403151,14 +403596,14 @@
             "role": "button",
             "bounds": {
               "x": 53,
-              "y": 274,
+              "y": 263,
               "width": 147,
               "height": 147
             }
           },
           "bounds": {
             "x": 53,
-            "y": 274,
+            "y": 263,
             "width": 147,
             "height": 147
           }
@@ -403170,17 +403615,17 @@
           "detail": {
             "role": "tab",
             "bounds": {
-              "x": 21,
-              "y": 569,
-              "width": 210,
-              "height": 147
+              "x": 0,
+              "y": 515,
+              "width": 252,
+              "height": 168
             }
           },
           "bounds": {
-            "x": 21,
-            "y": 569,
-            "width": 210,
-            "height": 147
+            "x": 0,
+            "y": 515,
+            "width": 252,
+            "height": 168
           }
         },
         {
@@ -403190,17 +403635,17 @@
           "detail": {
             "role": "tab",
             "bounds": {
-              "x": 21,
-              "y": 727,
-              "width": 210,
-              "height": 147
+              "x": 0,
+              "y": 694,
+              "width": 252,
+              "height": 168
             }
           },
           "bounds": {
-            "x": 21,
-            "y": 727,
-            "width": 210,
-            "height": 147
+            "x": 0,
+            "y": 694,
+            "width": 252,
+            "height": 168
           }
         },
         {
@@ -403210,40 +403655,39 @@
           "detail": {
             "role": "tab",
             "bounds": {
-              "x": 21,
-              "y": 885,
-              "width": 210,
-              "height": 147
+              "x": 0,
+              "y": 873,
+              "width": 252,
+              "height": 168
             }
           },
           "bounds": {
-            "x": 21,
-            "y": 885,
-            "width": 210,
-            "height": 147
+            "x": 0,
+            "y": 873,
+            "width": 252,
+            "height": 168
           }
         }
       ],
       "redlines": [
         {
           "bounds": {
-            "x": 21,
-            "y": 11,
-            "width": 210,
-            "height": 2078
+            "x": 0,
+            "y": 116,
+            "width": 252,
+            "height": 1868
           },
           "padding": {
             "start": 0,
-            "top": 4,
+            "top": 44,
             "end": 0,
-            "bottom": 4
-          },
-          "gap": 4
+            "bottom": 44
+          }
         },
         {
           "bounds": {
-            "x": 75,
-            "y": 138,
+            "x": 74,
+            "y": 127,
             "width": 105,
             "height": 105
           },
@@ -403253,7 +403697,7 @@
         {
           "bounds": {
             "x": 53,
-            "y": 274,
+            "y": 263,
             "width": 147,
             "height": 147
           },
@@ -403262,8 +403706,8 @@
         },
         {
           "bounds": {
-            "x": 52,
-            "y": 569,
+            "x": 53,
+            "y": 530,
             "width": 147,
             "height": 84
           },
@@ -403271,8 +403715,8 @@
         },
         {
           "bounds": {
-            "x": 52,
-            "y": 569,
+            "x": 53,
+            "y": 530,
             "width": 147,
             "height": 84
           },
@@ -403280,8 +403724,8 @@
         },
         {
           "bounds": {
-            "x": 52,
-            "y": 727,
+            "x": 53,
+            "y": 709,
             "width": 147,
             "height": 84
           },
@@ -403289,8 +403733,8 @@
         },
         {
           "bounds": {
-            "x": 52,
-            "y": 885,
+            "x": 53,
+            "y": 888,
             "width": 147,
             "height": 84
           },
@@ -403299,12 +403743,12 @@
       ],
       "section": "Navigation",
       "group": "Navigation rail",
-      "caption": "Destinations along the side. Count, menu, FAB and labels fold in.",
+      "caption": "Destinations along the side: a collapsed WideNavigationRail. Count, menu, FAB and labels fold in.",
       "reference": "figma:ocdacdEsnHipMJD3egzxKb/58016:36948",
       "wireframe": "wireframes/navigationrail-standard.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 159,
+      "bodyLine": 143,
       "sourceDirectory": "catalog",
       "sourceFunction": "NavigationRailSticker",
       "parameters": [
@@ -405139,7 +405583,7 @@
       "wireframe": "wireframes/navigationrail-wide.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/m3catalog/sections/NavigationRails.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 216,
+      "bodyLine": 195,
       "sourceDirectory": "catalog",
       "sourceFunction": "WideNavigationRailSticker",
       "parameters": [
@@ -679681,7 +680125,7 @@
     "org.jetbrains.compose.material3.adaptive:adaptive-navigation"
   ],
   "renderer": "compose-preview 2.35.0",
-  "generatedAt": "2026-10-07T09:14:47.873Z",
+  "generatedAt": "2026-10-07T17:06:37.100Z",
   "display": {
     "hero": "DatePicker/Modal"
   },
@@ -679701,7 +680145,7 @@
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "m3-catalog-p2-88cd9b323bf0",
+    "runtimeId": "m3-catalog-p2-6a83458b69e6",
     "protocolVersion": 2,
     "integritySha256": "7d2e4542aa3cf069d305d323c1c7b98b2bcb9cdf9f5d3b53d6731d5a1eab1dfc"
   },
