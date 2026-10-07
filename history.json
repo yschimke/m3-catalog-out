@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "477858eb40840eb3e911a34c67587bcc17a0d279",
+    "generatedFrom": "5c06e7d7208639dbdb7f5dd768be4f52b6b26c1a",
     "previews": {
         "catalog/ee.schimke.m3catalog.adaptive.AdaptiveLayoutsKt.ListDetailPaneScaffoldSticker_Compact Dark": {
             "path": "renders/catalog/ListDetailPaneScaffoldSticker_Compact_Dark-05021a95.png",
@@ -38716,6 +38716,36 @@
             "unstable": false,
             "flapCount": 0
         },
+        "catalog/ee.schimke.m3catalog.sections.MenusKt.DropdownMenuGroupSticker_Dark": {
+            "path": "renders/catalog/DropdownMenuGroupSticker_Dark-48dd1315.png",
+            "versions": [
+                {
+                    "blob": "e3afbfe335360a77a3751fe359898c83d3b28e63",
+                    "commit": "5c06e7d7208639dbdb7f5dd768be4f52b6b26c1a",
+                    "date": "2026-10-07T16:28:35Z",
+                    "sourceSha": "6a83458b",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.m3catalog.sections.MenusKt.DropdownMenuGroupSticker_Light": {
+            "path": "renders/catalog/DropdownMenuGroupSticker_Light-d48d4cea.png",
+            "versions": [
+                {
+                    "blob": "2eb9463b0451b821483404adb1c63edce9e400fb",
+                    "commit": "5c06e7d7208639dbdb7f5dd768be4f52b6b26c1a",
+                    "date": "2026-10-07T16:28:35Z",
+                    "sourceSha": "6a83458b",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
         "catalog/ee.schimke.m3catalog.sections.NavigationBarsKt.ShortNavigationBarSticker_Dark": {
             "path": "renders/catalog/ShortNavigationBarSticker_Dark-ca03dd89.png",
             "versions": [
@@ -38884,6 +38914,13 @@
             "path": "renders/catalog/NavigationRailSticker_Dark-a9ef0f0e.png",
             "versions": [
                 {
+                    "blob": "61b7ccb993478bc224d60dd97a2c94b860c22ca2",
+                    "commit": "5c06e7d7208639dbdb7f5dd768be4f52b6b26c1a",
+                    "date": "2026-10-07T16:28:35Z",
+                    "sourceSha": "6a83458b",
+                    "commits": 1
+                },
+                {
                     "blob": "a9c5081067708d057f41678226b6274271a81094",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
                     "date": "2026-09-23T06:31:43Z",
@@ -38891,13 +38928,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_cell-alignment-middle-nav-items-4-58016-36888": {
             "path": "renders/catalog/NavigationRailSticker_Dark_VARIANT_cell_alignment_middle_nav_items_4_58016_36888-a2637a26.png",
             "versions": [
+                {
+                    "blob": "6f243d59739c57540f0826dc9f437bed2a592f9f",
+                    "commit": "5c06e7d7208639dbdb7f5dd768be4f52b6b26c1a",
+                    "date": "2026-10-07T16:28:35Z",
+                    "sourceSha": "6a83458b",
+                    "commits": 1
+                },
                 {
                     "blob": "06ec12e20ce29a7d06e4538da5715145f8aaf9e6",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
@@ -38906,13 +38950,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_four": {
             "path": "renders/catalog/NavigationRailSticker_Dark_VARIANT_four-2a1f40d7.png",
             "versions": [
+                {
+                    "blob": "2c354cb0fc20c753cc22c03d49b00ba3d8925639",
+                    "commit": "5c06e7d7208639dbdb7f5dd768be4f52b6b26c1a",
+                    "date": "2026-10-07T16:28:35Z",
+                    "sourceSha": "6a83458b",
+                    "commits": 1
+                },
                 {
                     "blob": "9b80c3c445c761cdbb742bf3e8b296d3bfb931f4",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
@@ -38921,13 +38972,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_labels-none": {
             "path": "renders/catalog/NavigationRailSticker_Dark_VARIANT_labels_none-1489dbf5.png",
             "versions": [
+                {
+                    "blob": "f12bca2fb0b6cbe74c7a5b274973e232293f0f58",
+                    "commit": "5c06e7d7208639dbdb7f5dd768be4f52b6b26c1a",
+                    "date": "2026-10-07T16:28:35Z",
+                    "sourceSha": "6a83458b",
+                    "commits": 1
+                },
                 {
                     "blob": "5b3f017593480205d019c9bfbb234d09b96c4766",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
@@ -38936,13 +38994,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_middle": {
             "path": "renders/catalog/NavigationRailSticker_Dark_VARIANT_middle-103c1d15.png",
             "versions": [
+                {
+                    "blob": "217cba9cf0cb67c38a6370895923f6df748263a6",
+                    "commit": "5c06e7d7208639dbdb7f5dd768be4f52b6b26c1a",
+                    "date": "2026-10-07T16:28:35Z",
+                    "sourceSha": "6a83458b",
+                    "commits": 1
+                },
                 {
                     "blob": "9cd73b5e059024727f11bbe0201b9bd9b175a172",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
@@ -38951,13 +39016,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_no-fab": {
             "path": "renders/catalog/NavigationRailSticker_Dark_VARIANT_no_fab-a930fd36.png",
             "versions": [
+                {
+                    "blob": "e2c0d8ee7bba79028875ad33a89a2b7fe36cb5e7",
+                    "commit": "5c06e7d7208639dbdb7f5dd768be4f52b6b26c1a",
+                    "date": "2026-10-07T16:28:35Z",
+                    "sourceSha": "6a83458b",
+                    "commits": 1
+                },
                 {
                     "blob": "231354432d24493c6e3f83fdcc955d85b7e64471",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
@@ -38966,13 +39038,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_no-menu": {
             "path": "renders/catalog/NavigationRailSticker_Dark_VARIANT_no_menu-77c49ff1.png",
             "versions": [
+                {
+                    "blob": "1dc856e9bf27f44321915fcf2e0ee26874d6c77b",
+                    "commit": "5c06e7d7208639dbdb7f5dd768be4f52b6b26c1a",
+                    "date": "2026-10-07T16:28:35Z",
+                    "sourceSha": "6a83458b",
+                    "commits": 1
+                },
                 {
                     "blob": "a2e9ca3c7a525188201b63578db45c10bbda1f10",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
@@ -38981,13 +39060,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Dark_VARIANT_no-menu-fab": {
             "path": "renders/catalog/NavigationRailSticker_Dark_VARIANT_no_menu_fab-b621ae39.png",
             "versions": [
+                {
+                    "blob": "d05b26c629288aa21a66be73e18bafaeb6a0a1d8",
+                    "commit": "5c06e7d7208639dbdb7f5dd768be4f52b6b26c1a",
+                    "date": "2026-10-07T16:28:35Z",
+                    "sourceSha": "6a83458b",
+                    "commits": 1
+                },
                 {
                     "blob": "b9644b7f954abce76d928c77205a3303c59295e1",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
@@ -38996,13 +39082,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light": {
             "path": "renders/catalog/NavigationRailSticker_Light-195ff75b.png",
             "versions": [
+                {
+                    "blob": "e9288e2403db57a99bcc1907aa6ff35a8d532acc",
+                    "commit": "5c06e7d7208639dbdb7f5dd768be4f52b6b26c1a",
+                    "date": "2026-10-07T16:28:35Z",
+                    "sourceSha": "6a83458b",
+                    "commits": 1
+                },
                 {
                     "blob": "e573e1d3903611c3fcc00be01588d0b0db02f2a9",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
@@ -39011,13 +39104,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_cell-alignment-middle-nav-items-4-58016-36888": {
             "path": "renders/catalog/NavigationRailSticker_Light_VARIANT_cell_alignment_middle_nav_items_4_58016_3688-06e54f1c.png",
             "versions": [
+                {
+                    "blob": "c3c2aad20011968380fcf4cc94bb02b42d4aa0f2",
+                    "commit": "5c06e7d7208639dbdb7f5dd768be4f52b6b26c1a",
+                    "date": "2026-10-07T16:28:35Z",
+                    "sourceSha": "6a83458b",
+                    "commits": 1
+                },
                 {
                     "blob": "80b4213140f87c5ba4a01aac8464f66cc7d1f761",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
@@ -39026,13 +39126,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_four": {
             "path": "renders/catalog/NavigationRailSticker_Light_VARIANT_four-88b17927.png",
             "versions": [
+                {
+                    "blob": "b2e0fd9c0f50ab821557e5e1783739f5fdbe586e",
+                    "commit": "5c06e7d7208639dbdb7f5dd768be4f52b6b26c1a",
+                    "date": "2026-10-07T16:28:35Z",
+                    "sourceSha": "6a83458b",
+                    "commits": 1
+                },
                 {
                     "blob": "25f49e9d1dc30de5d3f68c90f30deebd1a582dd5",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
@@ -39041,13 +39148,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_labels-none": {
             "path": "renders/catalog/NavigationRailSticker_Light_VARIANT_labels_none-56db905d.png",
             "versions": [
+                {
+                    "blob": "6d7f549f98247e8acd927d4b12f58e1d23112aee",
+                    "commit": "5c06e7d7208639dbdb7f5dd768be4f52b6b26c1a",
+                    "date": "2026-10-07T16:28:35Z",
+                    "sourceSha": "6a83458b",
+                    "commits": 1
+                },
                 {
                     "blob": "f3c52a2695c56c43c0442e1753b0bb53b634939b",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
@@ -39056,13 +39170,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_middle": {
             "path": "renders/catalog/NavigationRailSticker_Light_VARIANT_middle-d4acd4f8.png",
             "versions": [
+                {
+                    "blob": "27a8efee416ec277120495895104c351ea41a586",
+                    "commit": "5c06e7d7208639dbdb7f5dd768be4f52b6b26c1a",
+                    "date": "2026-10-07T16:28:35Z",
+                    "sourceSha": "6a83458b",
+                    "commits": 1
+                },
                 {
                     "blob": "87dedcfd73f02ca60c5ae4a378d8ba3c198a4de0",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
@@ -39071,13 +39192,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_no-fab": {
             "path": "renders/catalog/NavigationRailSticker_Light_VARIANT_no_fab-c9b9d637.png",
             "versions": [
+                {
+                    "blob": "2c756d756c5e008ccfbf898b8adc194199facc0e",
+                    "commit": "5c06e7d7208639dbdb7f5dd768be4f52b6b26c1a",
+                    "date": "2026-10-07T16:28:35Z",
+                    "sourceSha": "6a83458b",
+                    "commits": 1
+                },
                 {
                     "blob": "9a4bb70f735fc97a4d1e34d73b7850ecb97046e5",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
@@ -39086,13 +39214,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_no-menu": {
             "path": "renders/catalog/NavigationRailSticker_Light_VARIANT_no_menu-92f089f8.png",
             "versions": [
+                {
+                    "blob": "a7b57331a78127c36fda15ae32bbd6e0c6928bb3",
+                    "commit": "5c06e7d7208639dbdb7f5dd768be4f52b6b26c1a",
+                    "date": "2026-10-07T16:28:35Z",
+                    "sourceSha": "6a83458b",
+                    "commits": 1
+                },
                 {
                     "blob": "a5cd9ceea172ab40bb1ca841f1dbf0bf813c2310",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
@@ -39101,13 +39236,20 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
         "catalog/ee.schimke.m3catalog.sections.NavigationRailsKt.NavigationRailSticker_Light_VARIANT_no-menu-fab": {
             "path": "renders/catalog/NavigationRailSticker_Light_VARIANT_no_menu_fab-a637f795.png",
             "versions": [
+                {
+                    "blob": "31b88cf16adc8d9351492d076eddbbad9b53c99b",
+                    "commit": "5c06e7d7208639dbdb7f5dd768be4f52b6b26c1a",
+                    "date": "2026-10-07T16:28:35Z",
+                    "sourceSha": "6a83458b",
+                    "commits": 1
+                },
                 {
                     "blob": "801b4989429e10cb7496d6019a9ff39936afecd0",
                     "commit": "5cf637051cd898fd2ca5790af7c272892da52d8b",
@@ -39116,7 +39258,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
