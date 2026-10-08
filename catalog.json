@@ -680125,7 +680125,7 @@
     "org.jetbrains.compose.material3.adaptive:adaptive-navigation"
   ],
   "renderer": "compose-preview 2.35.1",
-  "generatedAt": "2026-10-08T12:13:08.666Z",
+  "generatedAt": "2026-10-08T13:13:13.510Z",
   "display": {
     "hero": "DatePicker/Modal"
   },
@@ -680145,9 +680145,9 @@
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "m3-catalog-p2-f543c4372009",
+    "runtimeId": "m3-catalog-p2-f4b125231b6e",
     "protocolVersion": 2,
-    "integritySha256": "1ed6b898c1ecc99bc322a5cb47f700927d7c521de52e01b647796abf0d9a9af5"
+    "integritySha256": "642b2ddff9497c611b5742dcb8c5fb72a22d068fb407e02778e31d40275c702a"
   },
   "source": {
     "repo": "yschimke/m3-catalog",
