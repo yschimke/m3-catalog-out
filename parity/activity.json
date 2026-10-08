@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-07T20:22:25.852Z",
+  "generatedAt": "2026-10-08T10:26:18.776Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "f543c437200964a982b706cc142d5e84d6d17c0e",
+        "subject": "chore(deps): update compose-ai-tools to v2.35.1 (#520)",
+        "at": "2026-10-08T10:23:51Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "892758226586351b11f66b10702cb868950525f3",
+        "subject": "feat: two-way bind selection controls to design state on the canvas (#519)",
+        "at": "2026-10-08T11:17:43+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "86b2d543280635e1062ec95ba1340d3095fd602c",
+        "subject": "ci: add the Conventional Commit title check (#518)",
+        "at": "2026-10-07T21:57:36+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9e1075d3804eb43b2e2e038af3c2bc29cf32e160",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.20.0 (#517)",
@@ -458,30 +482,6 @@
         "sha": "5d96a432f53ac3b4921b890f20a0afdf849b53c3",
         "subject": "feat(glimmer-samples): render the vendored samples in the kit's typeface (#460)",
         "at": "2026-09-16T07:56:12+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c71d660969124ad1ec3254b967a22bdf7fb3bce5",
-        "subject": "feat(glimmer): declare the catalog's font properties as render assertions (#457)",
-        "at": "2026-09-16T07:31:44+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3357de81e1d8b4b34a99f8803f778ce174e10d4a",
-        "subject": "fix(ci): scope each design-artifacts lane against what it last rendered (#452)",
-        "at": "2026-09-16T07:05:49+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4d7d890b2ce8b86fac4900d5b84f8c3dcdbc1341",
-        "subject": "docs(glimmer): record the Google Sans Flex weight-axis fix with renders (#451)",
-        "at": "2026-09-16T06:50:58+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
