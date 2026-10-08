@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-08T12:05:01.026Z",
+  "generatedAt": "2026-10-08T13:50:02.404Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "70420f924d48c9c822e2067339308f9d9713110e",
+        "subject": "ci: build the ui-builder renderer against compose-ui-builder #582 (#522)",
+        "at": "2026-10-08T14:44:55+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f4b125231b6ec5a0b5b48fe924cfba6d79ba174b",
         "subject": "refactor: use the SDK's changeBoundState for two-way bound controls (#521)",
@@ -474,14 +482,6 @@
         "sha": "edcae6518f0fc7da3fb6ff42895f3b3308a63873",
         "subject": "fix(time picker): the library's own headline and mode toggle (#454)",
         "at": "2026-09-16T07:57:08+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3aca3bb9eefb7aec0a123ad14e67fbd043f00dca",
-        "subject": "fix(bottom app bar): stop overriding the padding that already matched the kit (#453)",
-        "at": "2026-09-16T07:56:41+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
