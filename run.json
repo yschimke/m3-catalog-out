@@ -1,10 +1,10 @@
 {
   "formatVersion": 1,
-  "sourceCommit": "f543c437200964a982b706cc142d5e84d6d17c0e",
+  "sourceCommit": "f4b125231b6ec5a0b5b48fe924cfba6d79ba174b",
   "direction": "design-led",
   "status": "warn",
   "blocked": false,
-  "cacheKey": "e21a2be3bcd8f8abdb362035b5b4a1ae4248f400c3fdefb8dc5c17e21a085bea",
+  "cacheKey": "09ab9a86acb991d6591caa160cde0c1f7aa35e66a0b8d2c3b3240bcebb9eda30",
   "entries": [
     {
       "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Badges.kt#NumberBadge",
