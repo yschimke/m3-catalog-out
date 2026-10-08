@@ -1127,7 +1127,7 @@
             "end": 10,
             "bottom": 10
           },
-          "cornerRadius": 8
+          "cornerRadius": 8.19
         }
       ],
       "group": "Border",
@@ -1714,7 +1714,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 332,
+            "y": 335,
             "width": 115,
             "height": 165
           },
@@ -1729,7 +1729,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 616,
+            "y": 598,
             "width": 115,
             "height": 165
           },
@@ -1744,7 +1744,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 908,
+            "y": 906,
             "width": 115,
             "height": 165
           },
@@ -1774,7 +1774,7 @@
         {
           "bounds": {
             "x": 218,
-            "y": 369,
+            "y": 374,
             "width": 115,
             "height": 165
           },
@@ -1789,7 +1789,7 @@
         {
           "bounds": {
             "x": 218,
-            "y": 682,
+            "y": 642,
             "width": 115,
             "height": 165
           },
@@ -1804,7 +1804,7 @@
         {
           "bounds": {
             "x": 218,
-            "y": 971,
+            "y": 921,
             "width": 115,
             "height": 165
           },
@@ -1821,7 +1821,7 @@
             "x": 375,
             "y": 61,
             "width": 113,
-            "height": 210
+            "height": 220
           },
           "label": "Ln: 2\nPs: 0",
           "padding": {
@@ -1834,9 +1834,9 @@
         {
           "bounds": {
             "x": 375,
-            "y": 340,
+            "y": 371,
             "width": 113,
-            "height": 210
+            "height": 220
           },
           "label": "Ln: 2\nPs: 1",
           "padding": {
@@ -1849,9 +1849,9 @@
         {
           "bounds": {
             "x": 375,
-            "y": 619,
+            "y": 668,
             "width": 113,
-            "height": 202
+            "height": 220
           },
           "label": "Ln: 2\nPs: 2",
           "padding": {
@@ -1864,9 +1864,9 @@
         {
           "bounds": {
             "x": 375,
-            "y": 890,
+            "y": 965,
             "width": 113,
-            "height": 218
+            "height": 220
           },
           "label": "Ln: 2\nPs: 3",
           "padding": {
@@ -1934,7 +1934,7 @@
         },
         {
           "bounds": {
-            "x": 305,
+            "x": 300,
             "y": 61,
             "width": 118,
             "height": 110
@@ -1949,7 +1949,7 @@
         },
         {
           "bounds": {
-            "x": 557,
+            "x": 544,
             "y": 61,
             "width": 118,
             "height": 110
@@ -1964,7 +1964,7 @@
         },
         {
           "bounds": {
-            "x": 838,
+            "x": 819,
             "y": 61,
             "width": 118,
             "height": 110
@@ -1994,7 +1994,7 @@
         },
         {
           "bounds": {
-            "x": 308,
+            "x": 336,
             "y": 245,
             "width": 118,
             "height": 110
@@ -2009,7 +2009,7 @@
         },
         {
           "bounds": {
-            "x": 562,
+            "x": 622,
             "y": 245,
             "width": 118,
             "height": 110
@@ -2024,10 +2024,10 @@
         },
         {
           "bounds": {
-            "x": 814,
+            "x": 908,
             "y": 245,
-            "width": 118,
-            "height": 110
+            "width": 78,
+            "height": 115
           },
           "label": "Ln: 1\nPs: 3",
           "padding": {
@@ -2054,7 +2054,7 @@
         },
         {
           "bounds": {
-            "x": 300,
+            "x": 313,
             "y": 429,
             "width": 118,
             "height": 61
@@ -2069,7 +2069,7 @@
         },
         {
           "bounds": {
-            "x": 575,
+            "x": 599,
             "y": 429,
             "width": 118,
             "height": 61
@@ -2084,7 +2084,7 @@
         },
         {
           "bounds": {
-            "x": 816,
+            "x": 864,
             "y": 429,
             "width": 118,
             "height": 61
@@ -3098,7 +3098,7 @@
           "variant": "ideal",
           "path": "images/flowcolumn-simpleflowcolumn_equalwidth/ideal__default.png",
           "state": "default",
-          "width": 557,
+          "width": 572,
           "height": 1001,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/flowcolumn-simpleflowcolumn_equalwidth__ideal__default",
           "previewId": "ee.schimke.uisamplescatalog.SamplePreviewsKt.SimpleFlowColumn_EqualWidthPreview",
@@ -3111,10 +3111,10 @@
           "bounds": {
             "x": 61,
             "y": 61,
-            "width": 160,
+            "width": 112,
             "height": 55
           },
-          "label": "XZmt1",
+          "label": "vM9i",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3126,10 +3126,10 @@
           "bounds": {
             "x": 61,
             "y": 377,
-            "width": 30,
+            "width": 114,
             "height": 55
           },
-          "label": "n",
+          "label": "rCCx",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3141,10 +3141,10 @@
           "bounds": {
             "x": 61,
             "y": 693,
-            "width": 124,
+            "width": 103,
             "height": 55
           },
-          "label": "KK6K",
+          "label": "pP0J",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3154,12 +3154,12 @@
         },
         {
           "bounds": {
-            "x": 263,
+            "x": 217,
             "y": 61,
-            "width": 41,
+            "width": 88,
             "height": 55
           },
-          "label": "M",
+          "label": "vEh",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3169,12 +3169,12 @@
         },
         {
           "bounds": {
-            "x": 263,
+            "x": 217,
             "y": 377,
-            "width": 57,
+            "width": 49,
             "height": 55
           },
-          "label": "rFi",
+          "label": "ra",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3184,12 +3184,12 @@
         },
         {
           "bounds": {
-            "x": 263,
+            "x": 217,
             "y": 693,
-            "width": 60,
+            "width": 98,
             "height": 55
           },
-          "label": "Vy",
+          "label": "5Q2",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3199,12 +3199,12 @@
         },
         {
           "bounds": {
-            "x": 365,
+            "x": 357,
             "y": 61,
-            "width": 14,
+            "width": 138,
             "height": 55
           },
-          "label": "I",
+          "label": "e3Hqi",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3214,12 +3214,12 @@
         },
         {
           "bounds": {
-            "x": 365,
+            "x": 357,
             "y": 377,
-            "width": 180,
+            "width": 85,
             "height": 55
           },
-          "label": "m1EWy",
+          "label": "zBk",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3229,12 +3229,12 @@
         },
         {
           "bounds": {
-            "x": 365,
+            "x": 357,
             "y": 693,
-            "width": 122,
+            "width": 28,
             "height": 55
           },
-          "label": "q6Kg",
+          "label": "v",
           "padding": {
             "start": 3,
             "top": 3,
@@ -4341,7 +4341,7 @@
             "width": 247,
             "height": 165
           },
-          "label": "3gDN1cYjTZ2ydq6UbiX",
+          "label": "1k9OSqeD12ezNrF3E4",
           "padding": {
             "start": 3,
             "top": 3,
@@ -4354,9 +4354,9 @@
             "x": 350,
             "y": 61,
             "width": 247,
-            "height": 165
+            "height": 110
           },
-          "label": "tsGmwHXhh6B8STzht",
+          "label": "Dt0y8qGJ8x",
           "padding": {
             "start": 3,
             "top": 3,
@@ -4368,55 +4368,10 @@
           "bounds": {
             "x": 639,
             "y": 61,
-            "width": 247,
-            "height": 330
-          },
-          "label": "hhXhiPId478AIZ69odKecCMH8m9Mr4PMNDhGGISDtno",
-          "padding": {
-            "start": 3,
-            "top": 3,
-            "end": 3,
-            "bottom": 3
-          }
-        },
-        {
-          "bounds": {
-            "x": 61,
-            "y": 460,
-            "width": 247,
-            "height": 275
-          },
-          "label": "C8yt5s4bibKjBYSqinduq5E3NhNisxNHtxA",
-          "padding": {
-            "start": 3,
-            "top": 3,
-            "end": 3,
-            "bottom": 3
-          }
-        },
-        {
-          "bounds": {
-            "x": 350,
-            "y": 460,
-            "width": 247,
-            "height": 385
-          },
-          "label": "tLQNeVo5idqqjWI2h87hGls2V2FPDeMtqEDHA6dzppCJGkYnX",
-          "padding": {
-            "start": 3,
-            "top": 3,
-            "end": 3,
-            "bottom": 3
-          }
-        },
-        {
-          "bounds": {
-            "x": 639,
-            "y": 460,
             "width": 247,
             "height": 220
           },
-          "label": "847lnlvJlRRP93DYCEgX0y2HvACR4Kr1",
+          "label": "VAnPifECicTqEBaEvTJPtcuHTuX3",
           "padding": {
             "start": 3,
             "top": 3,
@@ -4427,11 +4382,11 @@
         {
           "bounds": {
             "x": 61,
-            "y": 914,
+            "y": 350,
             "width": 247,
-            "height": 330
+            "height": 110
           },
-          "label": "VMt929OvnU1wh0NSmK4ePHsUkXScpxBAsKNc3Bd4",
+          "label": "Ef4QlcXFOYOnhZ",
           "padding": {
             "start": 3,
             "top": 3,
@@ -4442,11 +4397,11 @@
         {
           "bounds": {
             "x": 350,
-            "y": 914,
+            "y": 350,
             "width": 247,
-            "height": 165
+            "height": 275
           },
-          "label": "vGA4ImIl07I1c0yypc7pbKsP",
+          "label": "0kP1AnIjX89HbEBEnVjZ4k0V7akOCR3m",
           "padding": {
             "start": 3,
             "top": 3,
@@ -4457,11 +4412,56 @@
         {
           "bounds": {
             "x": 639,
-            "y": 914,
+            "y": 350,
             "width": 247,
-            "height": 385
+            "height": 220
           },
-          "label": "9xArbORioZawv6soVKMRaBnyCr86WVOsgofML0uaRXHVDdmL",
+          "label": "3Lr8CfNzPtgell5dAxM5C10rEz0ephJjW",
+          "padding": {
+            "start": 3,
+            "top": 3,
+            "end": 3,
+            "bottom": 3
+          }
+        },
+        {
+          "bounds": {
+            "x": 61,
+            "y": 694,
+            "width": 247,
+            "height": 275
+          },
+          "label": "eHJk2kzBAiKfIEUVyG9QrqbxpDEwVfebU",
+          "padding": {
+            "start": 3,
+            "top": 3,
+            "end": 3,
+            "bottom": 3
+          }
+        },
+        {
+          "bounds": {
+            "x": 350,
+            "y": 694,
+            "width": 247,
+            "height": 220
+          },
+          "label": "VhYpvAYgFFLh7BwaAoigL7j4W",
+          "padding": {
+            "start": 3,
+            "top": 3,
+            "end": 3,
+            "bottom": 3
+          }
+        },
+        {
+          "bounds": {
+            "x": 639,
+            "y": 694,
+            "width": 247,
+            "height": 220
+          },
+          "label": "2Iqd0nRIAouQtzMD8cZnZ9A1W7x",
           "padding": {
             "start": 3,
             "top": 3,
@@ -12170,8 +12170,8 @@
   "library": [
     "org.jetbrains.compose.foundation:foundation"
   ],
-  "renderer": "compose-preview 2.35.0",
-  "generatedAt": "2026-10-07T20:23:47.188Z",
+  "renderer": "compose-preview 2.35.1",
+  "generatedAt": "2026-10-08T10:27:38.690Z",
   "display": {
     "role": "samples"
   },
