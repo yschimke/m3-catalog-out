@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-08T10:26:18.776Z",
+  "generatedAt": "2026-10-08T12:04:21.593Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "f4b125231b6ec5a0b5b48fe924cfba6d79ba174b",
+        "subject": "refactor: use the SDK's changeBoundState for two-way bound controls (#521)",
+        "at": "2026-10-08T12:53:59+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f543c437200964a982b706cc142d5e84d6d17c0e",
         "subject": "chore(deps): update compose-ai-tools to v2.35.1 (#520)",
@@ -474,14 +482,6 @@
         "sha": "3aca3bb9eefb7aec0a123ad14e67fbd043f00dca",
         "subject": "fix(bottom app bar): stop overriding the padding that already matched the kit (#453)",
         "at": "2026-09-16T07:56:41+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5d96a432f53ac3b4921b890f20a0afdf849b53c3",
-        "subject": "feat(glimmer-samples): render the vendored samples in the kit's typeface (#460)",
-        "at": "2026-09-16T07:56:12+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
