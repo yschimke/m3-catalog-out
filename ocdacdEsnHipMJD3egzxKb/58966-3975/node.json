@@ -21,6 +21,13 @@
             "localID": -1
           }
         },
+        "slotSettings": {
+          "stretchChildOnInsert": false,
+          "displayEmptyByDefault": false,
+          "minChildren": null,
+          "maxChildren": null,
+          "allowPreferredValuesOnly": false
+        },
         "preferredValues": []
       },
       "List 2 content#59292:7": {
@@ -31,6 +38,13 @@
             "localID": -1
           }
         },
+        "slotSettings": {
+          "stretchChildOnInsert": false,
+          "displayEmptyByDefault": false,
+          "minChildren": null,
+          "maxChildren": null,
+          "allowPreferredValuesOnly": false
+        },
         "preferredValues": []
       },
       "List 3 content#59292:14": {
@@ -40,6 +54,13 @@
             "sessionID": -1,
             "localID": -1
           }
+        },
+        "slotSettings": {
+          "stretchChildOnInsert": false,
+          "displayEmptyByDefault": false,
+          "minChildren": null,
+          "maxChildren": null,
+          "allowPreferredValuesOnly": false
         },
         "preferredValues": []
       },
