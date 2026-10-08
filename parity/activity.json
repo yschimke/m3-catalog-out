@@ -1,6 +1,6 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-08T13:30:41.262Z",
+  "generatedAt": "2026-10-08T14:41:36.758Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
@@ -318,20 +318,6 @@
         "components": [
           "TimePicker/Input",
           "TimePicker/Dial"
-        ]
-      },
-      {
-        "sha": "3aca3bb9eefb7aec0a123ad14e67fbd043f00dca",
-        "subject": "fix(bottom app bar): stop overriding the padding that already matched the kit (#453)",
-        "at": "2026-09-16T07:56:41+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [
-          "bottomappbar-standard__ideal__default__light__compact",
-          "bottomappbar-standard__ideal__four-actions__compact",
-          "bottomappbar-standard__ideal__two-actions__compact"
-        ],
-        "components": [
-          "BottomAppBar/Standard"
         ]
       }
     ]
