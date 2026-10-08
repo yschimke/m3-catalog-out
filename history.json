@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "4ed780a8b0649d0404a782994694973eb7433acc",
+    "generatedFrom": "bf605e047f9b3dac4ba9796eb2819ce24665dd15",
     "previews": {
         "catalog/ee.schimke.m3catalog.adaptive.AdaptiveLayoutsKt.ListDetailPaneScaffoldSticker_Compact Dark": {
             "path": "renders/catalog/ListDetailPaneScaffoldSticker_Compact_Dark-05021a95.png",
@@ -67658,6 +67658,13 @@
             "path": "renders/ui-samples-catalog/BorderSampleWithDynamicDataPreview-0ed69384.png",
             "versions": [
                 {
+                    "blob": "bb94086ee1e62b08e9f7eec4539f46675bae861a",
+                    "commit": "bf605e047f9b3dac4ba9796eb2819ce24665dd15",
+                    "date": "2026-10-08T10:36:14Z",
+                    "sourceSha": "f543c437",
+                    "commits": 1
+                },
+                {
                     "blob": "5b34b85e0c1d2df89b08145434bbf4a8442f4870",
                     "commit": "4ed780a8b0649d0404a782994694973eb7433acc",
                     "date": "2026-10-07T19:46:35Z",
@@ -67721,7 +67728,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 9,
+            "observations": 10,
             "unstable": false,
             "flapCount": 0
         },
@@ -67924,6 +67931,13 @@
             "path": "renders/ui-samples-catalog/ContextualFlowColumn_ItemPositionPreview-29d68bcc.png",
             "versions": [
                 {
+                    "blob": "8a46d8bbe12e7a353d0ad15730e2104eb8fef75a",
+                    "commit": "bf605e047f9b3dac4ba9796eb2819ce24665dd15",
+                    "date": "2026-10-08T10:36:14Z",
+                    "sourceSha": "f543c437",
+                    "commits": 1
+                },
+                {
                     "blob": "de39d558f1777e4671369b25a5a6165229a4186a",
                     "commit": "4ed780a8b0649d0404a782994694973eb7433acc",
                     "date": "2026-10-07T19:46:35Z",
@@ -67987,7 +68001,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 9,
+            "observations": 10,
             "unstable": false,
             "flapCount": 0
         },
@@ -68009,6 +68023,13 @@
         "ui-samples-catalog/ee.schimke.uisamplescatalog.SamplePreviewsKt.ContextualFlowRow_ItemPositionPreview": {
             "path": "renders/ui-samples-catalog/ContextualFlowRow_ItemPositionPreview-69d0b766.png",
             "versions": [
+                {
+                    "blob": "01644542e8141a3dbd719efd6d28910150ca7b48",
+                    "commit": "bf605e047f9b3dac4ba9796eb2819ce24665dd15",
+                    "date": "2026-10-08T10:36:14Z",
+                    "sourceSha": "f543c437",
+                    "commits": 1
+                },
                 {
                     "blob": "2a254541d81a615dc26e6cc455ff0fd6e1426709",
                     "commit": "4ed780a8b0649d0404a782994694973eb7433acc",
@@ -68073,7 +68094,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 9,
+            "observations": 10,
             "unstable": false,
             "flapCount": 0
         },
@@ -69476,6 +69497,13 @@
             "path": "renders/ui-samples-catalog/SimpleFlowColumn_EqualWidthPreview-9a454f7d.png",
             "versions": [
                 {
+                    "blob": "9022f2c6f6c8d0fc73a3fa46d7b8346ac743a184",
+                    "commit": "bf605e047f9b3dac4ba9796eb2819ce24665dd15",
+                    "date": "2026-10-08T10:36:14Z",
+                    "sourceSha": "f543c437",
+                    "commits": 1
+                },
+                {
                     "blob": "3b799cea5d94d158ddccd49779cb74a6749fa72e",
                     "commit": "4ed780a8b0649d0404a782994694973eb7433acc",
                     "date": "2026-10-07T19:46:35Z",
@@ -69539,7 +69567,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 9,
+            "observations": 10,
             "unstable": false,
             "flapCount": 0
         },
@@ -69591,6 +69619,13 @@
         "ui-samples-catalog/ee.schimke.uisamplescatalog.SamplePreviewsKt.SimpleFlowRow_EqualHeightPreview": {
             "path": "renders/ui-samples-catalog/SimpleFlowRow_EqualHeightPreview-a0589206.png",
             "versions": [
+                {
+                    "blob": "860e2acb278128f7c9c5afb8ac86dfc9a6e2e3f5",
+                    "commit": "bf605e047f9b3dac4ba9796eb2819ce24665dd15",
+                    "date": "2026-10-08T10:36:14Z",
+                    "sourceSha": "f543c437",
+                    "commits": 1
+                },
                 {
                     "blob": "6bb8f394e486c4b5e3ec69f2fd70c3e05578566a",
                     "commit": "4ed780a8b0649d0404a782994694973eb7433acc",
@@ -69655,7 +69690,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 9,
+            "observations": 10,
             "unstable": false,
             "flapCount": 0
         },
