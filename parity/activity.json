@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-08T13:51:37.997Z",
+  "generatedAt": "2026-10-09T08:10:29.158Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "75bc20a7f2fef6f4e9437b2ece261ba87780f441",
+        "subject": "chore(deps): update compose-ai-tools to v2.36.0 (#524)",
+        "at": "2026-10-09T08:03:40Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "a86c4463c8e22a6fd14281e6b806db2f640b0293",
+        "subject": "feat(ui-builder): publish m3/variable-font-text as a catalog builtin (#523)",
+        "at": "2026-10-09T09:00:56+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "70420f924d48c9c822e2067339308f9d9713110e",
         "subject": "ci: build the ui-builder renderer against compose-ui-builder #582 (#522)",
@@ -467,22 +483,6 @@
         "subject": "fix(deps): update compose-preview-daemon (#462)",
         "at": "2026-09-16T20:13:00Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "045574fe44aeb6e703e13a7050fc088af58c3691",
-        "subject": "feat(parity): register the differences the stickers draw over, with their bugs (#459)",
-        "at": "2026-09-16T07:57:19+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "edcae6518f0fc7da3fb6ff42895f3b3308a63873",
-        "subject": "fix(time picker): the library's own headline and mode toggle (#454)",
-        "at": "2026-09-16T07:57:08+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
