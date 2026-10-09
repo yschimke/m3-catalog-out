@@ -1,6 +1,6 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-08T14:41:36.758Z",
+  "generatedAt": "2026-10-09T08:59:34.497Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
@@ -301,23 +301,6 @@
         "components": [
           "NavigationRail/Standard",
           "NavigationRail/Wide"
-        ]
-      },
-      {
-        "sha": "edcae6518f0fc7da3fb6ff42895f3b3308a63873",
-        "subject": "fix(time picker): the library's own headline and mode toggle (#454)",
-        "at": "2026-09-16T07:57:08+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [
-          "timepicker-input__ideal__default__light",
-          "timepicker-input__ideal__12-hour",
-          "timepicker-dial__ideal__default__light",
-          "timepicker-dial__ideal__12-hour",
-          "timepicker-dial__ideal__default__light__compact__layout-horizontal"
-        ],
-        "components": [
-          "TimePicker/Input",
-          "TimePicker/Dial"
         ]
       }
     ]
