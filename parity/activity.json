@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-09T23:14:03.185Z",
+  "generatedAt": "2026-10-09T23:51:43.887Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "2ce0895bff2ca59d4a8597ccf3af9b0eb575bce1",
+        "subject": "fix(ci): publish when only the design guidelines change (#530)",
+        "at": "2026-10-10T00:27:10+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8e83b89363018f148ecfe9a81684870ceb3a3f9a",
+        "subject": "feat(ui-builder): publish snackbar-host and the hello template, and seed templates on the builder's device so owning m3-catalog changes no design (#529)",
+        "at": "2026-10-10T00:18:42+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "11ae0abd59a4c98ac8ae320834aeb6c4cf0c8df6",
         "subject": "ci: republish when only ui-builder.guidelines.json changes (#528)",
@@ -466,22 +482,6 @@
         "sha": "812f67233c5bcc59a35dd5d416aba00403863f67",
         "subject": "chore(deps): update compose-ai-tools to v2.18.1 (#468)",
         "at": "2026-09-17T18:17:46Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "042f20ba247ccb38dc4452dc557575ae4b569468",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:preview-annotations to v3.8.1 (#469)",
-        "at": "2026-09-17T17:54:51Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5a54c94e02b4179ce6fdeb7ed4cae35dc92a7b47",
-        "subject": "fix(deps): update compose-preview-daemon to v3.8.0 (#467)",
-        "at": "2026-09-17T03:13:46Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
