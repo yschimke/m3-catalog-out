@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T10:50:26.138Z",
+  "generatedAt": "2026-10-10T10:58:40.233Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "25177e3d5479a9df3d95bcc7df12c867955a33b2",
+        "subject": "feat: add adaptive inbox UID reference pilot (#538)",
+        "at": "2026-10-10T11:53:42+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "5325db9ae36e658d2eabd6f25561855dffa8a75a",
         "subject": "chore(deps): update compose-ai-tools to v2.40.0 (#539)",
@@ -474,14 +482,6 @@
         "sha": "7eafb4b0892f43c6781b3b5c8424a5cb356aeb43",
         "subject": "chore(deps): update dependency com.android.library to v9.4.1 (#480)",
         "at": "2026-09-21T00:16:59Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d0b73ee239648d19112f6d62adb2020958487a4a",
-        "subject": "chore(deps): pin dependency java-jdk to 21.0.12+8.0.lts (#479)",
-        "at": "2026-09-21T00:07:57Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
