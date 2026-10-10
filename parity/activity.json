@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T16:58:23.292Z",
+  "generatedAt": "2026-10-10T18:05:56.581Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "f4b8b546fc0c84bc40bfe909f9f9f26e77cb2036",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.26.0 (#548)",
+        "at": "2026-10-10T17:59:44Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "54e3139d987e5891a5b8b6a3a08ca17a9389bb61",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.2 (#547)",
@@ -475,14 +483,6 @@
         "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.22.0 (#487)",
         "at": "2026-09-22T13:19:29Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ccafd94b8356051dcf79ed2c36573c5d900e10ed",
-        "subject": "ci: avoid fetching generated blobs for attribution scans (#486)",
-        "at": "2026-09-22T14:14:15+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
