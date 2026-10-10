@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T16:31:30.970Z",
+  "generatedAt": "2026-10-10T16:58:23.292Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "54e3139d987e5891a5b8b6a3a08ca17a9389bb61",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.2 (#547)",
+        "at": "2026-10-10T16:21:11Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9b5bf500470522679a065b9f75eea3fd3621afcd",
         "subject": "fix(deps): compose-ai-tools 2.42.0 (#546)",
@@ -475,14 +483,6 @@
         "subject": "ci: avoid fetching generated blobs for attribution scans (#486)",
         "at": "2026-09-22T14:14:15+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "423ca9fd3030200b57ede60c9554a9ac5d51c99f",
-        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.21.2 (#485)",
-        "at": "2026-09-22T11:55:59Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
