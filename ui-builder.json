@@ -1178,7 +1178,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             }
         }
     },
