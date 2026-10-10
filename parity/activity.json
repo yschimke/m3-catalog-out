@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T13:05:55.920Z",
+  "generatedAt": "2026-10-10T16:31:30.970Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "9b5bf500470522679a065b9f75eea3fd3621afcd",
+        "subject": "fix(deps): compose-ai-tools 2.42.0 (#546)",
+        "at": "2026-10-10T17:10:43+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "58b216483d6a5a1d2082f7e14ac19bca7c225132",
+        "subject": "feat(guidelines): Material 3 and M3 Expressive rules, checked on every PR (#543)",
+        "at": "2026-10-10T15:56:28+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "35b7bffe582183480ee6e8ad6fb20dbf59c20d4a",
+        "subject": "docs: require explicit user requests for merging PRs (#545)",
+        "at": "2026-10-10T15:15:52+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "98712e07b8d7766bb66fbee3d12340dee9fc1c24",
         "subject": "chore(deps): update compose-ai-tools to v2.41.0 (#542)",
@@ -459,30 +483,6 @@
         "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.21.2 (#485)",
         "at": "2026-09-22T11:55:59Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a96cbd9feb380bc893082eaa5b84211fccbb081c",
-        "subject": "feat: declare M3 source export adapter (#484)",
-        "at": "2026-09-22T11:59:32+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "55ea9ccf46d167e62f98f6ea875cc4ecab23fada",
-        "subject": "chore: pin catalog runtime SDK (#483)",
-        "at": "2026-09-21T11:08:45+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "791925a8df8a207389d1e1ed65bc3d96080c52f9",
-        "subject": "fix(ui-builder): preserve search content and state (#482)",
-        "at": "2026-09-21T07:32:15+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
