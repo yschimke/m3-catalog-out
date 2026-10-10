@@ -5210,7 +5210,7 @@
                     "weight"
                 ],
                 "insertContent": null,
-                "shelfRole": null
+                "shelfRole": "Scaffold"
             },
             "m3/horizontal-centered-hero-carousel": {
                 "record": "catalog/androidx.compose.material3.carousel.CarouselKt.HorizontalCenteredHeroCarousel",
