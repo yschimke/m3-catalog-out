@@ -51,7 +51,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/alert-dialog": {
                 "record": "samples-catalog/androidx.compose.material3.AlertDialog_skikoKt.AlertDialog",
@@ -71,7 +72,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/app-bar-column": {
                 "record": "samples-catalog/androidx.compose.material3.AppBarColumnKt.AppBarColumn",
@@ -91,7 +93,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/bottom-app-bar": {
                 "record": "samples-catalog/androidx.compose.material3.AppBarKt.BottomAppBar",
@@ -111,7 +114,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/center-aligned-top-app-bar": {
                 "record": "samples-catalog/androidx.compose.material3.AppBarKt.CenterAlignedTopAppBar",
@@ -131,7 +135,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/flexible-bottom-app-bar": {
                 "record": "samples-catalog/androidx.compose.material3.AppBarKt.FlexibleBottomAppBar",
@@ -151,7 +156,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/large-flexible-top-app-bar": {
                 "record": "samples-catalog/androidx.compose.material3.AppBarKt.LargeFlexibleTopAppBar",
@@ -171,7 +177,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/large-top-app-bar": {
                 "record": "samples-catalog/androidx.compose.material3.AppBarKt.LargeTopAppBar",
@@ -191,7 +198,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/medium-flexible-top-app-bar": {
                 "record": "samples-catalog/androidx.compose.material3.AppBarKt.MediumFlexibleTopAppBar",
@@ -211,7 +219,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/medium-top-app-bar": {
                 "record": "samples-catalog/androidx.compose.material3.AppBarKt.MediumTopAppBar",
@@ -231,7 +240,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/top-app-bar": {
                 "record": "samples-catalog/androidx.compose.material3.AppBarKt.TopAppBar",
@@ -251,7 +261,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/two-rows-top-app-bar": {
                 "record": "samples-catalog/androidx.compose.material3.AppBarKt.TwoRowsTopAppBar",
@@ -271,7 +282,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/app-bar-row": {
                 "record": "samples-catalog/androidx.compose.material3.AppBarRowKt.AppBarRow",
@@ -291,7 +303,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/badge": {
                 "record": "samples-catalog/androidx.compose.material3.BadgeKt.Badge",
@@ -311,7 +324,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/badged-box": {
                 "record": "samples-catalog/androidx.compose.material3.BadgeKt.BadgedBox",
@@ -331,7 +345,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/drag-handle": {
                 "record": "samples-catalog/androidx.compose.material3.BottomSheetDefaults.DragHandle",
@@ -351,7 +366,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/bottom-sheet": {
                 "record": "samples-catalog/androidx.compose.material3.BottomSheetKt.BottomSheet",
@@ -371,7 +387,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/bottom-sheet-scaffold": {
                 "record": "samples-catalog/androidx.compose.material3.BottomSheetScaffoldKt.BottomSheetScaffold",
@@ -391,7 +408,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/overflow-indicator": {
                 "record": "samples-catalog/androidx.compose.material3.ButtonGroupDefaults.OverflowIndicator",
@@ -411,7 +429,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/button-group": {
                 "record": "samples-catalog/androidx.compose.material3.ButtonGroupKt.ButtonGroup",
@@ -431,7 +450,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/button": {
                 "record": "samples-catalog/androidx.compose.material3.ButtonKt.Button",
@@ -451,7 +471,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/elevated-button": {
                 "record": "samples-catalog/androidx.compose.material3.ButtonKt.ElevatedButton",
@@ -471,7 +492,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/filled-tonal-button": {
                 "record": "samples-catalog/androidx.compose.material3.ButtonKt.FilledTonalButton",
@@ -491,7 +513,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/outlined-button": {
                 "record": "samples-catalog/androidx.compose.material3.ButtonKt.OutlinedButton",
@@ -511,7 +534,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/text-button": {
                 "record": "samples-catalog/androidx.compose.material3.ButtonKt.TextButton",
@@ -531,7 +555,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/card": {
                 "record": "samples-catalog/androidx.compose.material3.CardKt.Card",
@@ -551,7 +576,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/elevated-card": {
                 "record": "samples-catalog/androidx.compose.material3.CardKt.ElevatedCard",
@@ -571,7 +597,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/outlined-card": {
                 "record": "samples-catalog/androidx.compose.material3.CardKt.OutlinedCard",
@@ -591,7 +618,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/checkbox": {
                 "record": "samples-catalog/androidx.compose.material3.CheckboxKt.Checkbox",
@@ -611,7 +639,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/tri-state-checkbox": {
                 "record": "samples-catalog/androidx.compose.material3.CheckboxKt.TriStateCheckbox",
@@ -631,7 +660,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/assist-chip": {
                 "record": "samples-catalog/androidx.compose.material3.ChipKt.AssistChip",
@@ -651,7 +681,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/elevated-assist-chip": {
                 "record": "samples-catalog/androidx.compose.material3.ChipKt.ElevatedAssistChip",
@@ -671,7 +702,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/elevated-filter-chip": {
                 "record": "samples-catalog/androidx.compose.material3.ChipKt.ElevatedFilterChip",
@@ -691,7 +723,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/elevated-suggestion-chip": {
                 "record": "samples-catalog/androidx.compose.material3.ChipKt.ElevatedSuggestionChip",
@@ -711,7 +744,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/filter-chip": {
                 "record": "samples-catalog/androidx.compose.material3.ChipKt.FilterChip",
@@ -731,7 +765,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/input-chip": {
                 "record": "samples-catalog/androidx.compose.material3.ChipKt.InputChip",
@@ -751,7 +786,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/suggestion-chip": {
                 "record": "samples-catalog/androidx.compose.material3.ChipKt.SuggestionChip",
@@ -771,7 +807,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/horizontal-divider": {
                 "record": "samples-catalog/androidx.compose.material3.DividerKt.HorizontalDivider",
@@ -791,7 +828,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/vertical-divider": {
                 "record": "samples-catalog/androidx.compose.material3.DividerKt.VerticalDivider",
@@ -811,7 +849,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/vertical-drag-handle": {
                 "record": "samples-catalog/androidx.compose.material3.DragHandleKt.VerticalDragHandle",
@@ -831,7 +870,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/exposed-dropdown-menu": {
                 "record": "samples-catalog/androidx.compose.material3.ExposedDropdownMenuBoxScope.ExposedDropdownMenu",
@@ -851,7 +891,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/trailing-icon": {
                 "record": "samples-catalog/androidx.compose.material3.ExposedDropdownMenuDefaults.TrailingIcon",
@@ -871,7 +912,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/exposed-dropdown-menu-box": {
                 "record": "samples-catalog/androidx.compose.material3.ExposedDropdownMenuKt.ExposedDropdownMenuBox",
@@ -891,7 +933,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/extended-floating-action-button": {
                 "record": "samples-catalog/androidx.compose.material3.FloatingActionButtonKt.ExtendedFloatingActionButton",
@@ -911,7 +954,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/floating-action-button": {
                 "record": "samples-catalog/androidx.compose.material3.FloatingActionButtonKt.FloatingActionButton",
@@ -931,7 +975,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/large-extended-floating-action-button": {
                 "record": "samples-catalog/androidx.compose.material3.FloatingActionButtonKt.LargeExtendedFloatingActionButton",
@@ -951,7 +996,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/large-floating-action-button": {
                 "record": "samples-catalog/androidx.compose.material3.FloatingActionButtonKt.LargeFloatingActionButton",
@@ -971,7 +1017,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/medium-extended-floating-action-button": {
                 "record": "samples-catalog/androidx.compose.material3.FloatingActionButtonKt.MediumExtendedFloatingActionButton",
@@ -991,7 +1038,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/medium-floating-action-button": {
                 "record": "samples-catalog/androidx.compose.material3.FloatingActionButtonKt.MediumFloatingActionButton",
@@ -1011,7 +1059,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/small-extended-floating-action-button": {
                 "record": "samples-catalog/androidx.compose.material3.FloatingActionButtonKt.SmallExtendedFloatingActionButton",
@@ -1031,7 +1080,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/small-floating-action-button": {
                 "record": "samples-catalog/androidx.compose.material3.FloatingActionButtonKt.SmallFloatingActionButton",
@@ -1051,7 +1101,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/vibrant-floating-action-button": {
                 "record": "samples-catalog/androidx.compose.material3.FloatingToolbarDefaults.VibrantFloatingActionButton",
@@ -1071,7 +1122,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/horizontal-floating-toolbar": {
                 "record": "samples-catalog/androidx.compose.material3.FloatingToolbarKt.HorizontalFloatingToolbar",
@@ -1091,7 +1143,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/vertical-floating-toolbar": {
                 "record": "samples-catalog/androidx.compose.material3.FloatingToolbarKt.VerticalFloatingToolbar",
@@ -1111,7 +1164,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/filled-icon-button": {
                 "record": "samples-catalog/androidx.compose.material3.IconButtonKt.FilledIconButton",
@@ -1131,7 +1185,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/filled-icon-toggle-button": {
                 "record": "samples-catalog/androidx.compose.material3.IconButtonKt.FilledIconToggleButton",
@@ -1151,7 +1206,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/filled-tonal-icon-button": {
                 "record": "samples-catalog/androidx.compose.material3.IconButtonKt.FilledTonalIconButton",
@@ -1171,7 +1227,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/filled-tonal-icon-toggle-button": {
                 "record": "samples-catalog/androidx.compose.material3.IconButtonKt.FilledTonalIconToggleButton",
@@ -1191,7 +1248,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/icon-button": {
                 "record": "samples-catalog/androidx.compose.material3.IconButtonKt.IconButton",
@@ -1211,7 +1269,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/icon-toggle-button": {
                 "record": "samples-catalog/androidx.compose.material3.IconButtonKt.IconToggleButton",
@@ -1231,7 +1290,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/outlined-icon-button": {
                 "record": "samples-catalog/androidx.compose.material3.IconButtonKt.OutlinedIconButton",
@@ -1251,7 +1311,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/outlined-icon-toggle-button": {
                 "record": "samples-catalog/androidx.compose.material3.IconButtonKt.OutlinedIconToggleButton",
@@ -1271,7 +1332,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/icon": {
                 "record": "samples-catalog/androidx.compose.material3.IconKt.Icon",
@@ -1291,7 +1353,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/label": {
                 "record": "samples-catalog/androidx.compose.material3.LabelKt.Label",
@@ -1311,7 +1374,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/list-item": {
                 "record": "samples-catalog/androidx.compose.material3.ListItemKt.ListItem",
@@ -1331,7 +1395,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/segmented-list-item": {
                 "record": "samples-catalog/androidx.compose.material3.ListItemKt.SegmentedListItem",
@@ -1351,7 +1416,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/contained-loading-indicator": {
                 "record": "samples-catalog/androidx.compose.material3.LoadingIndicatorKt.ContainedLoadingIndicator",
@@ -1371,7 +1437,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/loading-indicator": {
                 "record": "samples-catalog/androidx.compose.material3.LoadingIndicatorKt.LoadingIndicator",
@@ -1391,7 +1458,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/dropdown-menu-item": {
                 "record": "samples-catalog/androidx.compose.material3.MenuKt.DropdownMenuItem",
@@ -1411,7 +1479,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/modal-bottom-sheet": {
                 "record": "samples-catalog/androidx.compose.material3.ModalBottomSheetKt.ModalBottomSheet",
@@ -1431,7 +1500,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/navigation-bar": {
                 "record": "samples-catalog/androidx.compose.material3.NavigationBarKt.NavigationBar",
@@ -1451,7 +1521,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/navigation-bar-item": {
                 "record": "samples-catalog/androidx.compose.material3.NavigationBarKt.NavigationBarItem",
@@ -1471,7 +1542,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/dismissible-drawer-sheet": {
                 "record": "samples-catalog/androidx.compose.material3.NavigationDrawerKt.DismissibleDrawerSheet",
@@ -1491,7 +1563,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/dismissible-navigation-drawer": {
                 "record": "samples-catalog/androidx.compose.material3.NavigationDrawerKt.DismissibleNavigationDrawer",
@@ -1511,7 +1584,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/modal-drawer-sheet": {
                 "record": "samples-catalog/androidx.compose.material3.NavigationDrawerKt.ModalDrawerSheet",
@@ -1531,7 +1605,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/modal-navigation-drawer": {
                 "record": "samples-catalog/androidx.compose.material3.NavigationDrawerKt.ModalNavigationDrawer",
@@ -1551,7 +1626,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/navigation-drawer-item": {
                 "record": "samples-catalog/androidx.compose.material3.NavigationDrawerKt.NavigationDrawerItem",
@@ -1571,7 +1647,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/permanent-drawer-sheet": {
                 "record": "samples-catalog/androidx.compose.material3.NavigationDrawerKt.PermanentDrawerSheet",
@@ -1591,7 +1668,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/permanent-navigation-drawer": {
                 "record": "samples-catalog/androidx.compose.material3.NavigationDrawerKt.PermanentNavigationDrawer",
@@ -1611,7 +1689,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/navigation-rail": {
                 "record": "samples-catalog/androidx.compose.material3.NavigationRailKt.NavigationRail",
@@ -1631,7 +1710,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/navigation-rail-item": {
                 "record": "samples-catalog/androidx.compose.material3.NavigationRailKt.NavigationRailItem",
@@ -1651,7 +1731,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/outlined-text-field": {
                 "record": "samples-catalog/androidx.compose.material3.OutlinedTextFieldKt.OutlinedTextField",
@@ -1671,7 +1752,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/circular-progress-indicator": {
                 "record": "samples-catalog/androidx.compose.material3.ProgressIndicatorKt.CircularProgressIndicator",
@@ -1691,7 +1773,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/linear-progress-indicator": {
                 "record": "samples-catalog/androidx.compose.material3.ProgressIndicatorKt.LinearProgressIndicator",
@@ -1711,7 +1794,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/radio-button": {
                 "record": "samples-catalog/androidx.compose.material3.RadioButtonKt.RadioButton",
@@ -1731,7 +1815,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/scaffold": {
                 "record": "samples-catalog/androidx.compose.material3.ScaffoldKt.Scaffold",
@@ -1751,7 +1836,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/scrim": {
                 "record": "samples-catalog/androidx.compose.material3.ScrimKt.Scrim",
@@ -1771,7 +1857,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/scroll-field": {
                 "record": "samples-catalog/androidx.compose.material3.ScrollFieldKt.ScrollField",
@@ -1791,7 +1878,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/input-field": {
                 "record": "samples-catalog/androidx.compose.material3.SearchBarDefaults.InputField",
@@ -1811,7 +1899,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/app-bar-with-search": {
                 "record": "samples-catalog/androidx.compose.material3.SearchBarKt.AppBarWithSearch",
@@ -1831,7 +1920,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/expanded-docked-search-bar-with-gap": {
                 "record": "samples-catalog/androidx.compose.material3.SearchBarKt.ExpandedDockedSearchBarWithGap",
@@ -1851,7 +1941,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/expanded-full-screen-contained-search-bar": {
                 "record": "samples-catalog/androidx.compose.material3.SearchBarKt.ExpandedFullScreenContainedSearchBar",
@@ -1871,7 +1962,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/expanded-full-screen-search-bar": {
                 "record": "samples-catalog/androidx.compose.material3.SearchBarKt.ExpandedFullScreenSearchBar",
@@ -1891,7 +1983,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/search-bar": {
                 "record": "samples-catalog/androidx.compose.material3.SearchBarKt.SearchBar",
@@ -1911,7 +2004,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/multi-choice-segmented-button-row": {
                 "record": "samples-catalog/androidx.compose.material3.SegmentedButtonKt.MultiChoiceSegmentedButtonRow",
@@ -1931,7 +2025,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/segmented-button": {
                 "record": "samples-catalog/androidx.compose.material3.SegmentedButtonKt.SegmentedButton",
@@ -1951,7 +2046,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/single-choice-segmented-button-row": {
                 "record": "samples-catalog/androidx.compose.material3.SegmentedButtonKt.SingleChoiceSegmentedButtonRow",
@@ -1971,7 +2067,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/short-navigation-bar": {
                 "record": "samples-catalog/androidx.compose.material3.ShortNavigationBarKt.ShortNavigationBar",
@@ -1991,7 +2088,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/short-navigation-bar-item": {
                 "record": "samples-catalog/androidx.compose.material3.ShortNavigationBarKt.ShortNavigationBarItem",
@@ -2011,7 +2109,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/dropdown-menu": {
                 "record": "samples-catalog/androidx.compose.material3.SkikoMenu_skikoKt.DropdownMenu",
@@ -2031,7 +2130,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/centered-track": {
                 "record": "samples-catalog/androidx.compose.material3.SliderDefaults.CenteredTrack",
@@ -2051,7 +2151,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/thumb": {
                 "record": "samples-catalog/androidx.compose.material3.SliderDefaults.Thumb",
@@ -2071,7 +2172,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/track": {
                 "record": "samples-catalog/androidx.compose.material3.SliderDefaults.Track",
@@ -2091,7 +2193,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/range-slider": {
                 "record": "samples-catalog/androidx.compose.material3.SliderKt.RangeSlider",
@@ -2111,7 +2214,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/slider": {
                 "record": "samples-catalog/androidx.compose.material3.SliderKt.Slider",
@@ -2131,7 +2235,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/vertical-slider": {
                 "record": "samples-catalog/androidx.compose.material3.SliderKt.VerticalSlider",
@@ -2151,7 +2256,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/snackbar-host": {
                 "record": "samples-catalog/androidx.compose.material3.SnackbarHostKt.SnackbarHost",
@@ -2171,7 +2277,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/snackbar": {
                 "record": "samples-catalog/androidx.compose.material3.SnackbarKt.Snackbar",
@@ -2191,7 +2298,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/elevated-leading-button": {
                 "record": "samples-catalog/androidx.compose.material3.SplitButtonDefaults.ElevatedLeadingButton",
@@ -2211,7 +2319,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/elevated-trailing-button": {
                 "record": "samples-catalog/androidx.compose.material3.SplitButtonDefaults.ElevatedTrailingButton",
@@ -2231,7 +2340,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/leading-button": {
                 "record": "samples-catalog/androidx.compose.material3.SplitButtonDefaults.LeadingButton",
@@ -2251,7 +2361,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/outlined-leading-button": {
                 "record": "samples-catalog/androidx.compose.material3.SplitButtonDefaults.OutlinedLeadingButton",
@@ -2271,7 +2382,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/outlined-trailing-button": {
                 "record": "samples-catalog/androidx.compose.material3.SplitButtonDefaults.OutlinedTrailingButton",
@@ -2291,7 +2403,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/tonal-leading-button": {
                 "record": "samples-catalog/androidx.compose.material3.SplitButtonDefaults.TonalLeadingButton",
@@ -2311,7 +2424,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/tonal-trailing-button": {
                 "record": "samples-catalog/androidx.compose.material3.SplitButtonDefaults.TonalTrailingButton",
@@ -2331,7 +2445,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/trailing-button": {
                 "record": "samples-catalog/androidx.compose.material3.SplitButtonDefaults.TrailingButton",
@@ -2351,7 +2466,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/split-button-layout": {
                 "record": "samples-catalog/androidx.compose.material3.SplitButtonKt.SplitButtonLayout",
@@ -2371,7 +2487,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/surface": {
                 "record": "samples-catalog/androidx.compose.material3.SurfaceKt.Surface",
@@ -2391,7 +2508,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/swipe-to-dismiss-box": {
                 "record": "samples-catalog/androidx.compose.material3.SwipeToDismissBoxKt.SwipeToDismissBox",
@@ -2411,7 +2529,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/switch": {
                 "record": "samples-catalog/androidx.compose.material3.SwitchKt.Switch",
@@ -2431,7 +2550,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/leading-icon-tab": {
                 "record": "samples-catalog/androidx.compose.material3.TabKt.LeadingIconTab",
@@ -2451,7 +2571,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/tab": {
                 "record": "samples-catalog/androidx.compose.material3.TabKt.Tab",
@@ -2471,7 +2592,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/primary-scrollable-tab-row": {
                 "record": "samples-catalog/androidx.compose.material3.TabRowKt.PrimaryScrollableTabRow",
@@ -2491,7 +2613,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/primary-tab-row": {
                 "record": "samples-catalog/androidx.compose.material3.TabRowKt.PrimaryTabRow",
@@ -2511,7 +2634,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/secondary-scrollable-tab-row": {
                 "record": "samples-catalog/androidx.compose.material3.TabRowKt.SecondaryScrollableTabRow",
@@ -2531,7 +2655,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/secondary-tab-row": {
                 "record": "samples-catalog/androidx.compose.material3.TabRowKt.SecondaryTabRow",
@@ -2551,7 +2676,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/text-field": {
                 "record": "samples-catalog/androidx.compose.material3.TextFieldKt.TextField",
@@ -2571,7 +2697,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/provide-text-style": {
                 "record": "samples-catalog/androidx.compose.material3.TextKt.ProvideTextStyle",
@@ -2591,7 +2718,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/text": {
                 "record": "samples-catalog/androidx.compose.material3.TextKt.Text",
@@ -2611,7 +2739,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/elevated-toggle-button": {
                 "record": "samples-catalog/androidx.compose.material3.ToggleButtonKt.ElevatedToggleButton",
@@ -2631,7 +2760,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/outlined-toggle-button": {
                 "record": "samples-catalog/androidx.compose.material3.ToggleButtonKt.OutlinedToggleButton",
@@ -2651,7 +2781,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/toggle-button": {
                 "record": "samples-catalog/androidx.compose.material3.ToggleButtonKt.ToggleButton",
@@ -2671,7 +2802,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/tonal-toggle-button": {
                 "record": "samples-catalog/androidx.compose.material3.ToggleButtonKt.TonalToggleButton",
@@ -2691,7 +2823,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/plain-tooltip": {
                 "record": "samples-catalog/androidx.compose.material3.TooltipKt.PlainTooltip",
@@ -2711,7 +2844,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/tooltip-box": {
                 "record": "samples-catalog/androidx.compose.material3.TooltipKt.TooltipBox",
@@ -2731,7 +2865,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/circular-wavy-progress-indicator": {
                 "record": "samples-catalog/androidx.compose.material3.WavyProgressIndicatorKt.CircularWavyProgressIndicator",
@@ -2751,7 +2886,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/linear-wavy-progress-indicator": {
                 "record": "samples-catalog/androidx.compose.material3.WavyProgressIndicatorKt.LinearWavyProgressIndicator",
@@ -2771,7 +2907,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/modal-wide-navigation-rail": {
                 "record": "samples-catalog/androidx.compose.material3.WideNavigationRailKt.ModalWideNavigationRail",
@@ -2791,7 +2928,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/wide-navigation-rail": {
                 "record": "samples-catalog/androidx.compose.material3.WideNavigationRailKt.WideNavigationRail",
@@ -2811,7 +2949,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/wide-navigation-rail-item": {
                 "record": "samples-catalog/androidx.compose.material3.WideNavigationRailKt.WideNavigationRailItem",
@@ -2831,7 +2970,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/levitated-pane-scrim": {
                 "record": "samples-catalog/androidx.compose.material3.adaptive.layout.LevitatedPaneScrimKt.LevitatedPaneScrim",
@@ -2851,7 +2991,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/list-detail-pane-scaffold": {
                 "record": "samples-catalog/androidx.compose.material3.adaptive.layout.ListDetailPaneScaffoldKt.ListDetailPaneScaffold",
@@ -2871,7 +3012,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/animated-pane": {
                 "record": "samples-catalog/androidx.compose.material3.adaptive.layout.PaneKt.AnimatedPane",
@@ -2891,7 +3033,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/supporting-pane-scaffold": {
                 "record": "samples-catalog/androidx.compose.material3.adaptive.layout.SupportingPaneScaffoldKt.SupportingPaneScaffold",
@@ -2911,7 +3054,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/back-button": {
                 "record": "samples-catalog/androidx.compose.material3.adaptive.samples.ThreePaneScaffoldSampleKt.BackButton",
@@ -2931,7 +3075,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/basic-screen": {
                 "record": "samples-catalog/androidx.compose.material3.adaptive.samples.ThreePaneScaffoldSampleKt.BasicScreen",
@@ -2951,7 +3096,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/detail-pane-content": {
                 "record": "samples-catalog/androidx.compose.material3.adaptive.samples.ThreePaneScaffoldSampleKt.DetailPaneContent",
@@ -2971,7 +3117,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/extra-pane-content": {
                 "record": "samples-catalog/androidx.compose.material3.adaptive.samples.ThreePaneScaffoldSampleKt.ExtraPaneContent",
@@ -2991,7 +3138,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/list-card": {
                 "record": "samples-catalog/androidx.compose.material3.adaptive.samples.ThreePaneScaffoldSampleKt.ListCard",
@@ -3011,7 +3159,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/list-pane-content": {
                 "record": "samples-catalog/androidx.compose.material3.adaptive.samples.ThreePaneScaffoldSampleKt.ListPaneContent",
@@ -3031,7 +3180,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/main-pane-content": {
                 "record": "samples-catalog/androidx.compose.material3.adaptive.samples.ThreePaneScaffoldSampleKt.MainPaneContent",
@@ -3051,7 +3201,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/supporting-pane-content": {
                 "record": "samples-catalog/androidx.compose.material3.adaptive.samples.ThreePaneScaffoldSampleKt.SupportingPaneContent",
@@ -3071,7 +3222,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/indicator": {
                 "record": "samples-catalog/androidx.compose.material3.pulltorefresh.PullToRefreshDefaults.Indicator",
@@ -3091,7 +3243,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/indicator-box": {
                 "record": "samples-catalog/androidx.compose.material3.pulltorefresh.PullToRefreshDefaults.IndicatorBox",
@@ -3111,7 +3264,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/pull-to-refresh-box": {
                 "record": "samples-catalog/androidx.compose.material3.pulltorefresh.PullToRefreshKt.PullToRefreshBox",
@@ -3131,7 +3285,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/leading-content": {
                 "record": "samples-catalog/androidx.compose.material3.samples.FloatingToolbarSamplesKt.LeadingContent",
@@ -3151,7 +3306,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/trailing-content": {
                 "record": "samples-catalog/androidx.compose.material3.samples.FloatingToolbarSamplesKt.TrailingContent",
@@ -3171,7 +3327,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/sample-actions": {
                 "record": "samples-catalog/androidx.compose.material3.samples.SearchBarSamplesKt.SampleActions",
@@ -3191,7 +3348,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/sample-leading-icon": {
                 "record": "samples-catalog/androidx.compose.material3.samples.SearchBarSamplesKt.SampleLeadingIcon",
@@ -3211,7 +3369,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/sample-navigation-icon": {
                 "record": "samples-catalog/androidx.compose.material3.samples.SearchBarSamplesKt.SampleNavigationIcon",
@@ -3231,7 +3390,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/sample-search-results": {
                 "record": "samples-catalog/androidx.compose.material3.samples.SearchBarSamplesKt.SampleSearchResults",
@@ -3251,7 +3411,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/sample-trailing-icon": {
                 "record": "samples-catalog/androidx.compose.material3.samples.SearchBarSamplesKt.SampleTrailingIcon",
@@ -3271,7 +3432,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/fancy-animated-indicator-with-modifier": {
                 "record": "samples-catalog/androidx.compose.material3.samples.TabSamplesKt.FancyAnimatedIndicatorWithModifier",
@@ -3291,7 +3453,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/fancy-indicator": {
                 "record": "samples-catalog/androidx.compose.material3.samples.TabSamplesKt.FancyIndicator",
@@ -3311,7 +3474,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             },
             "m3-samples/fancy-tab": {
                 "record": "samples-catalog/androidx.compose.material3.samples.TabSamplesKt.FancyTab",
@@ -3331,7 +3495,8 @@
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
-                "insertContent": null
+                "insertContent": null,
+                "shelfRole": null
             }
         }
     },
