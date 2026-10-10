@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T00:05:40.149Z",
+  "generatedAt": "2026-10-10T02:00:56.329Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "e97a9ffa8960591a4b560a9e12d28c44ed8fad9b",
+        "subject": "chore(deps): update compose-ai-tools to v2.39.1 (#534)",
+        "at": "2026-10-10T01:56:24Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "eb3d3b1da9cb125703b8a04614d3bbfe64a69529",
         "subject": "chore(deps): update compose-ai-tools to v2.39.0 (#531)",
@@ -475,14 +483,6 @@
         "subject": "docs: record the one UI builder template design this repo is due (#472)",
         "at": "2026-09-17T20:43:15+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "eb89018c063046cf0738823a43dca25fcc8403da",
-        "subject": "fix(deps): update compose-preview-daemon to v3.8.3 (#470)",
-        "at": "2026-09-17T18:40:33Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
