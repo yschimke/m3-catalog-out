@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T02:00:56.329Z",
+  "generatedAt": "2026-10-10T02:06:17.698Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "199d8f3dcbd5c86fcf03b71e150390b28c69ae08",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.24.0 (#532)",
+        "at": "2026-10-10T01:56:28Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "e97a9ffa8960591a4b560a9e12d28c44ed8fad9b",
         "subject": "chore(deps): update compose-ai-tools to v2.39.1 (#534)",
@@ -475,14 +483,6 @@
         "subject": "chore(deps): update compose-ai-tools to v2.19.0 (#474)",
         "at": "2026-09-20T11:07:20Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8af43e14434fbbb58e9a44b566ba693b992bc890",
-        "subject": "docs: record the one UI builder template design this repo is due (#472)",
-        "at": "2026-09-17T20:43:15+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
