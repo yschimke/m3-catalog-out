@@ -1714,7 +1714,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 369,
+            "y": 358,
             "width": 115,
             "height": 165
           },
@@ -1729,7 +1729,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 682,
+            "y": 629,
             "width": 115,
             "height": 165
           },
@@ -1744,7 +1744,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 963,
+            "y": 892,
             "width": 115,
             "height": 165
           },
@@ -1774,7 +1774,7 @@
         {
           "bounds": {
             "x": 218,
-            "y": 374,
+            "y": 342,
             "width": 115,
             "height": 165
           },
@@ -1789,7 +1789,7 @@
         {
           "bounds": {
             "x": 218,
-            "y": 669,
+            "y": 642,
             "width": 115,
             "height": 165
           },
@@ -1804,7 +1804,7 @@
         {
           "bounds": {
             "x": 218,
-            "y": 982,
+            "y": 955,
             "width": 115,
             "height": 165
           },
@@ -1821,7 +1821,7 @@
             "x": 375,
             "y": 61,
             "width": 113,
-            "height": 220
+            "height": 205
           },
           "label": "Ln: 2\nPs: 0",
           "padding": {
@@ -1834,9 +1834,9 @@
         {
           "bounds": {
             "x": 375,
-            "y": 366,
+            "y": 335,
             "width": 113,
-            "height": 207
+            "height": 220
           },
           "label": "Ln: 2\nPs: 1",
           "padding": {
@@ -1849,7 +1849,7 @@
         {
           "bounds": {
             "x": 375,
-            "y": 642,
+            "y": 643,
             "width": 113,
             "height": 220
           },
@@ -1864,9 +1864,9 @@
         {
           "bounds": {
             "x": 375,
-            "y": 950,
+            "y": 940,
             "width": 113,
-            "height": 220
+            "height": 194
           },
           "label": "Ln: 2\nPs: 3",
           "padding": {
@@ -1949,7 +1949,7 @@
         },
         {
           "bounds": {
-            "x": 585,
+            "x": 564,
             "y": 61,
             "width": 118,
             "height": 110
@@ -1964,7 +1964,7 @@
         },
         {
           "bounds": {
-            "x": 839,
+            "x": 826,
             "y": 61,
             "width": 118,
             "height": 110
@@ -1994,7 +1994,7 @@
         },
         {
           "bounds": {
-            "x": 323,
+            "x": 336,
             "y": 245,
             "width": 118,
             "height": 110
@@ -2009,7 +2009,7 @@
         },
         {
           "bounds": {
-            "x": 596,
+            "x": 622,
             "y": 245,
             "width": 118,
             "height": 110
@@ -2024,10 +2024,10 @@
         },
         {
           "bounds": {
-            "x": 837,
+            "x": 908,
             "y": 245,
-            "width": 118,
-            "height": 110
+            "width": 78,
+            "height": 115
           },
           "label": "Ln: 1\nPs: 3",
           "padding": {
@@ -2054,7 +2054,7 @@
         },
         {
           "bounds": {
-            "x": 344,
+            "x": 315,
             "y": 429,
             "width": 118,
             "height": 61
@@ -2069,7 +2069,7 @@
         },
         {
           "bounds": {
-            "x": 625,
+            "x": 596,
             "y": 429,
             "width": 118,
             "height": 61
@@ -2084,9 +2084,9 @@
         },
         {
           "bounds": {
-            "x": 864,
+            "x": 879,
             "y": 429,
-            "width": 118,
+            "width": 107,
             "height": 61
           },
           "label": "Ln: 2\nPs: 3",
@@ -3098,7 +3098,7 @@
           "variant": "ideal",
           "path": "images/flowcolumn-simpleflowcolumn_equalwidth/ideal__default.png",
           "state": "default",
-          "width": 503,
+          "width": 585,
           "height": 1001,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/flowcolumn-simpleflowcolumn_equalwidth__ideal__default",
           "previewId": "ee.schimke.uisamplescatalog.SamplePreviewsKt.SimpleFlowColumn_EqualWidthPreview",
@@ -3111,10 +3111,10 @@
           "bounds": {
             "x": 61,
             "y": 61,
-            "width": 44,
+            "width": 77,
             "height": 55
           },
-          "label": "pj",
+          "label": "Ufz",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3126,10 +3126,10 @@
           "bounds": {
             "x": 61,
             "y": 377,
-            "width": 142,
+            "width": 93,
             "height": 55
           },
-          "label": "Pni9M",
+          "label": "2R5",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3141,10 +3141,10 @@
           "bounds": {
             "x": 61,
             "y": 693,
-            "width": 80,
+            "width": 134,
             "height": 55
           },
-          "label": "Rfp",
+          "label": "ZMp7",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3154,12 +3154,12 @@
         },
         {
           "bounds": {
-            "x": 245,
+            "x": 237,
             "y": 61,
-            "width": 74,
+            "width": 65,
             "height": 55
           },
-          "label": "my",
+          "label": "xG",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3169,12 +3169,12 @@
         },
         {
           "bounds": {
-            "x": 245,
+            "x": 237,
             "y": 377,
-            "width": 118,
+            "width": 106,
             "height": 55
           },
-          "label": "Y4Y9",
+          "label": "cIHh",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3184,12 +3184,12 @@
         },
         {
           "bounds": {
-            "x": 245,
+            "x": 237,
             "y": 693,
-            "width": 47,
+            "width": 148,
             "height": 55
           },
-          "label": "m",
+          "label": "xunjm",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3199,12 +3199,12 @@
         },
         {
           "bounds": {
-            "x": 405,
+            "x": 427,
             "y": 61,
-            "width": 137,
+            "width": 68,
             "height": 55
           },
-          "label": "jUEpY",
+          "label": "4Q",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3214,12 +3214,12 @@
         },
         {
           "bounds": {
-            "x": 405,
+            "x": 427,
             "y": 377,
-            "width": 102,
+            "width": 66,
             "height": 55
           },
-          "label": "6Rw",
+          "label": "pH",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3229,12 +3229,12 @@
         },
         {
           "bounds": {
-            "x": 405,
+            "x": 427,
             "y": 693,
-            "width": 102,
+            "width": 76,
             "height": 55
           },
-          "label": "o5iE",
+          "label": "Api",
           "padding": {
             "start": 3,
             "top": 3,
@@ -4326,7 +4326,7 @@
           "path": "images/flowrow-simpleflowrow_equalheight/ideal__default.png",
           "state": "default",
           "width": 1050,
-          "height": 1085,
+          "height": 1305,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/flowrow-simpleflowrow_equalheight__ideal__default",
           "previewId": "ee.schimke.uisamplescatalog.SamplePreviewsKt.SimpleFlowRow_EqualHeightPreview",
           "density": 2.625
@@ -4339,9 +4339,54 @@
             "x": 61,
             "y": 61,
             "width": 247,
+            "height": 110
+          },
+          "label": "hYB7ZJGXpIj",
+          "padding": {
+            "start": 3,
+            "top": 3,
+            "end": 3,
+            "bottom": 3
+          }
+        },
+        {
+          "bounds": {
+            "x": 350,
+            "y": 61,
+            "width": 247,
+            "height": 330
+          },
+          "label": "ExPTV2bXjsrKSH8uSdkBwy7aY293qFGl7Fj0V9dGkjIcF",
+          "padding": {
+            "start": 3,
+            "top": 3,
+            "end": 3,
+            "bottom": 3
+          }
+        },
+        {
+          "bounds": {
+            "x": 639,
+            "y": 61,
+            "width": 247,
+            "height": 165
+          },
+          "label": "YCQtyWP14aSqZGjIL",
+          "padding": {
+            "start": 3,
+            "top": 3,
+            "end": 3,
+            "bottom": 3
+          }
+        },
+        {
+          "bounds": {
+            "x": 61,
+            "y": 460,
+            "width": 247,
             "height": 220
           },
-          "label": "DiOlzJ52u3MOj012ANwMSvlPfz2KoqK",
+          "label": "nDxKYwZz2ty6IgTvibuY0GdcAV3Qm",
           "padding": {
             "start": 3,
             "top": 3,
@@ -4352,11 +4397,11 @@
         {
           "bounds": {
             "x": 350,
-            "y": 61,
+            "y": 460,
             "width": 247,
-            "height": 165
+            "height": 110
           },
-          "label": "8faGv6tnIRfBgQ6y7Rwb",
+          "label": "lFi6JMXeENqh2q",
           "padding": {
             "start": 3,
             "top": 3,
@@ -4367,11 +4412,11 @@
         {
           "bounds": {
             "x": 639,
-            "y": 61,
+            "y": 460,
             "width": 247,
             "height": 110
           },
-          "label": "V1UKGVBmyrd1",
+          "label": "pf8aoZiG3zBSnnBTy",
           "padding": {
             "start": 3,
             "top": 3,
@@ -4382,11 +4427,11 @@
         {
           "bounds": {
             "x": 61,
-            "y": 350,
+            "y": 749,
             "width": 247,
-            "height": 385
+            "height": 165
           },
-          "label": "AMvNCAu8rs5pIqBLKIFiYSHahvHC4DVw1A2hJwzmXGDPGGb1",
+          "label": "aCbeCtg5dr5XoMiDQ",
           "padding": {
             "start": 3,
             "top": 3,
@@ -4397,11 +4442,11 @@
         {
           "bounds": {
             "x": 350,
-            "y": 350,
+            "y": 749,
             "width": 247,
-            "height": 385
+            "height": 165
           },
-          "label": "FbWZgBuJDQhSevwBDLs5bBp5LxPYbzFv3gAZa966GWX0sfj0",
+          "label": "UVtfwYR8SDqmeJaY48tga",
           "padding": {
             "start": 3,
             "top": 3,
@@ -4412,56 +4457,11 @@
         {
           "bounds": {
             "x": 639,
-            "y": 350,
-            "width": 247,
-            "height": 165
-          },
-          "label": "OJjoW3Iw51GBilIv7sjApGJFlN",
-          "padding": {
-            "start": 3,
-            "top": 3,
-            "end": 3,
-            "bottom": 3
-          }
-        },
-        {
-          "bounds": {
-            "x": 61,
-            "y": 804,
-            "width": 247,
-            "height": 110
-          },
-          "label": "w87T00YeE5yW",
-          "padding": {
-            "start": 3,
-            "top": 3,
-            "end": 3,
-            "bottom": 3
-          }
-        },
-        {
-          "bounds": {
-            "x": 350,
-            "y": 804,
+            "y": 749,
             "width": 247,
             "height": 275
           },
-          "label": "oiPkpgsg0O83t2Kf3wBpXhBvfrSlUkirxd0H3c",
-          "padding": {
-            "start": 3,
-            "top": 3,
-            "end": 3,
-            "bottom": 3
-          }
-        },
-        {
-          "bounds": {
-            "x": 639,
-            "y": 804,
-            "width": 247,
-            "height": 165
-          },
-          "label": "sKSrxzZ2OqYX1ALyO",
+          "label": "hFdU16hik9ZqZM5wy7wToKHxS4ufFGhLm",
           "padding": {
             "start": 3,
             "top": 3,
@@ -12171,7 +12171,7 @@
     "org.jetbrains.compose.foundation:foundation"
   ],
   "renderer": "compose-preview 2.39.2",
-  "generatedAt": "2026-10-10T10:29:26.714Z",
+  "generatedAt": "2026-10-10T10:50:07.742Z",
   "display": {
     "role": "samples"
   },
