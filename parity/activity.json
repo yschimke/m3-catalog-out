@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T11:18:53.268Z",
+  "generatedAt": "2026-10-10T13:05:55.920Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "98712e07b8d7766bb66fbee3d12340dee9fc1c24",
+        "subject": "chore(deps): update compose-ai-tools to v2.41.0 (#542)",
+        "at": "2026-10-10T12:47:57Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b6f8d25ce841810937a32268ce33e7dfecf77b3a",
+        "subject": "fix(ui-builder): state navigation-suite-scaffold's shelf role, so owning m3 keeps it a Scaffold (#541)",
+        "at": "2026-10-10T13:38:52+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "6c4a7258ca138e8ad161abf274fd042438e61812",
         "subject": "chore(deps): update dependency ee.schimke.composeai.preview to v2.40.0 (#540)",
@@ -467,22 +483,6 @@
         "subject": "fix(ui-builder): preserve search content and state (#482)",
         "at": "2026-09-21T07:32:15+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9decada815eb8aa9b3114baf9a801b9835d99e14",
-        "subject": "feat(ui-builder): deliver Material 3 runtime (#478)",
-        "at": "2026-09-21T07:16:15+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4f0717217eb10f35f4216d58b98cb18ba23ea4a7",
-        "subject": "chore(deps): update dependency java-jdk to v21.0.12+101.0.lts (#481)",
-        "at": "2026-09-21T00:38:54Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
