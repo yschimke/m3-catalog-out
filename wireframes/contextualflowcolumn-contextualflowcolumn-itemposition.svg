@@ -14,32 +14,32 @@
     <rect x="53" y="53" width="445" height="1994" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="53" y="53" width="131" height="231" fill="#00FF00" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <rect x="53" y="53" width="131" height="234" fill="#00FF00" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
     <text x="56" y="65" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF00FF00</text>
   </g>
   <g>
     <rect x="61" y="61" width="115" height="165" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="53" y="337" width="131" height="231" fill="#FFFF00" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="56" y="349" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FFFFFF00</text>
+    <rect x="53" y="340" width="131" height="236" fill="#FFFF00" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="56" y="352" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FFFFFF00</text>
   </g>
   <g>
-    <rect x="61" y="345" width="115" height="165" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="61" y="348" width="115" height="165" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="53" y="621" width="131" height="255" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="56" y="633" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
+    <rect x="53" y="629" width="131" height="228" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="56" y="641" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
   </g>
   <g>
-    <rect x="61" y="629" width="115" height="165" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="61" y="637" width="115" height="165" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="53" y="929" width="131" height="247" fill="#00FFFF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="56" y="941" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF00FFFF</text>
+    <rect x="53" y="910" width="131" height="231" fill="#00FFFF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="56" y="922" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF00FFFF</text>
   </g>
   <g>
-    <rect x="61" y="937" width="115" height="165" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="61" y="918" width="115" height="165" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
     <rect x="210" y="53" width="131" height="242" fill="#00FF00" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
@@ -49,52 +49,52 @@
     <rect x="218" y="61" width="115" height="165" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="210" y="348" width="131" height="231" fill="#FFFF00" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <rect x="210" y="348" width="131" height="218" fill="#FFFF00" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
     <text x="213" y="360" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FFFFFF00</text>
   </g>
   <g>
     <rect x="218" y="356" width="115" height="165" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="210" y="632" width="131" height="247" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="213" y="644" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
+    <rect x="210" y="619" width="131" height="249" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="213" y="631" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
   </g>
   <g>
-    <rect x="218" y="640" width="115" height="165" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="218" y="627" width="115" height="165" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="210" y="932" width="131" height="236" fill="#00FFFF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="213" y="944" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF00FFFF</text>
+    <rect x="210" y="921" width="131" height="257" fill="#00FFFF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="213" y="933" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF00FFFF</text>
   </g>
   <g>
-    <rect x="218" y="940" width="115" height="165" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="218" y="929" width="115" height="165" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="367" y="53" width="129" height="257" fill="#00FF00" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <rect x="367" y="53" width="129" height="213" fill="#00FF00" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
     <text x="370" y="65" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF00FF00</text>
   </g>
   <g>
-    <rect x="375" y="61" width="113" height="220" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="375" y="61" width="113" height="197" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="367" y="363" width="129" height="210" fill="#FFFF00" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="370" y="375" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FFFFFF00</text>
+    <rect x="367" y="319" width="129" height="236" fill="#FFFF00" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="370" y="331" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FFFFFF00</text>
   </g>
   <g>
-    <rect x="375" y="371" width="113" height="194" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="375" y="327" width="113" height="220" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="367" y="626" width="129" height="221" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="370" y="638" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
+    <rect x="367" y="608" width="129" height="244" fill="#0000FF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="370" y="620" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF0000FF</text>
   </g>
   <g>
-    <rect x="375" y="634" width="113" height="205" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="375" y="616" width="113" height="220" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
   <g>
-    <rect x="367" y="900" width="129" height="236" fill="#00FFFF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
-    <text x="370" y="912" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF00FFFF</text>
+    <rect x="367" y="905" width="129" height="255" fill="#00FFFF" fill-opacity="1" stroke="#B0813B" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="370" y="917" font-family="system-ui, sans-serif" font-size="9" fill="#B0813B">#FF00FFFF</text>
   </g>
   <g>
-    <rect x="375" y="908" width="113" height="220" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+    <rect x="375" y="913" width="113" height="220" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
   </g>
 </svg>
