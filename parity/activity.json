@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-09T23:51:43.887Z",
+  "generatedAt": "2026-10-10T00:05:40.149Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "eb3d3b1da9cb125703b8a04614d3bbfe64a69529",
+        "subject": "chore(deps): update compose-ai-tools to v2.39.0 (#531)",
+        "at": "2026-10-09T23:34:42Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "cbfb0d18168ac8be35b89167dc450143f3752031",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.0 (#533)",
+        "at": "2026-10-09T23:34:33Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "2ce0895bff2ca59d4a8597ccf3af9b0eb575bce1",
         "subject": "fix(ci): publish when only the design guidelines change (#530)",
@@ -466,22 +482,6 @@
         "sha": "eb89018c063046cf0738823a43dca25fcc8403da",
         "subject": "fix(deps): update compose-preview-daemon to v3.8.3 (#470)",
         "at": "2026-09-17T18:40:33Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3d205f2e8c3b81ec32eea142596780b62e2fbb4c",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:data-glimmer-environment-connector to v3.8.3 (#471)",
-        "at": "2026-09-17T18:35:43Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "812f67233c5bcc59a35dd5d416aba00403863f67",
-        "subject": "chore(deps): update compose-ai-tools to v2.18.1 (#468)",
-        "at": "2026-09-17T18:17:46Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
