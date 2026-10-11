@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T16:58:06.182Z",
+  "generatedAt": "2026-10-11T17:03:28.365Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "544ad3223a88b6ecee38bb48c7705f322a4366af",
+        "subject": "chore(deps): update compose-ai-tools to v2.47.0 (#566)",
+        "at": "2026-10-11T16:51:05Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "c529d8a9e5c18d8d7181e24654baa25058f1a273",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.30.0 (#567)",
@@ -474,14 +482,6 @@
         "sha": "31c7e59ea724fb35118c68fb60f39b0603256f14",
         "subject": "fix(ci): pin download-artifact correctly and pass the token for run-id (#506)",
         "at": "2026-10-01T08:05:37+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "86b3dc5ceb0411c0b8d99857d3e026d13cf44ff9",
-        "subject": "feat: declare render assertions for the M3 catalog render (#504)",
-        "at": "2026-09-30T18:25:29+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
