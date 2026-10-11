@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T09:16:29.745Z",
+  "generatedAt": "2026-10-11T10:09:39.809Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "7112a27601f66d00b49dd4ec2c4de607fc71af36",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.28.0 (#559)",
+        "at": "2026-10-11T09:41:27Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "5bddb2e996e75ac0862695006738da2bfbd7ebd7",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.27.0 (#558)",
@@ -474,14 +482,6 @@
         "sha": "78afe50e37ace5e9d1661bf7b3de534093326faf",
         "subject": "feat(ui-builder): the navigation suite and scrollable tab row on the builder shelf (#499)",
         "at": "2026-09-25T12:11:17+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b61e5f6eb82872a251fed516255d7b32efba7066",
-        "subject": "fix(ui-builder): let a search field's query be text as well as a state read (#498)",
-        "at": "2026-09-24T21:21:45+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
