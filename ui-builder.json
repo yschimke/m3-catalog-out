@@ -1179,7 +1179,8 @@
                 "slotCapabilities": null,
                 "modifierCapabilities": null,
                 "insertContent": null,
-                "shelfRole": null
+                "shelfRole": null,
+                "exportProjection": null
             }
         },
         "designTokens": null
