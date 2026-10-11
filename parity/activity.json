@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T00:34:53.799Z",
+  "generatedAt": "2026-10-11T09:16:29.745Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "5bddb2e996e75ac0862695006738da2bfbd7ebd7",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.27.0 (#558)",
+        "at": "2026-10-11T08:46:55Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "abf34b968041ae2beec86c0ac99e4ec55bdcc257",
+        "subject": "docs: tell automated reviewers not to report commit attribution (#557)",
+        "at": "2026-10-11T08:52:19+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4c7c8747840489d73534afc40b76759f429c0ab5",
+        "subject": "fix(ui-samples): seed the five random foundation samples so their renders stop flipping (#556)",
+        "at": "2026-10-11T08:01:55+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b7e816a5481cc76601c62d8133a3895d5726f0ca",
+        "subject": "fix(ui-builder): pin the typed date picker's fallback and shelve snackbar-host under Snackbar (#554)",
+        "at": "2026-10-11T07:47:23+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "87427f7c7281e561a78886258dd595a2555fe015",
         "subject": "feat(catalog): complete parallel Kotlin generation for M3 samples (#555)",
@@ -450,38 +482,6 @@
         "sha": "b61e5f6eb82872a251fed516255d7b32efba7066",
         "subject": "fix(ui-builder): let a search field's query be text as well as a state read (#498)",
         "at": "2026-09-24T21:21:45+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "df0725ef6ca232b6aebc72ea14d329d52bab5323",
-        "subject": "ci: publish generated branches to m3-catalog-out (#496)",
-        "at": "2026-09-24T21:14:05+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "112d101b26f835b01b0c9f706f6990d7a3bb9446",
-        "subject": "fix: isolate preview publishing credentials (#494)",
-        "at": "2026-09-23T12:17:49+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5054092ca8237154581efb0f0e9cad2b0f065472",
-        "subject": "build: publish preview branches to output repository (#493)",
-        "at": "2026-09-23T07:28:58+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "77b0860a975ef9f73efb6dbb80b0afa0a69a36e3",
-        "subject": "build: publish parity artifacts to output repository (#492)",
-        "at": "2026-09-23T06:58:12+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
