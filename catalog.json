@@ -331,8 +331,8 @@
     "org.jetbrains.compose.material3:material3",
     "org.jetbrains.compose.material3.adaptive:adaptive-layout"
   ],
-  "renderer": "compose-preview 2.47.0",
-  "generatedAt": "2026-10-11T21:42:08.906Z",
+  "renderer": "compose-preview 2.50.0",
+  "generatedAt": "2026-10-11T21:59:17.206Z",
   "display": {
     "hero": "BoxSticker"
   },
