@@ -3,8 +3,8 @@
 <defs>
   <linearGradient id="gs-0" x1="0" y1="0" x2="1.43" y2="0">
     <stop offset="0" stop-color="#0000FF"/>
-    <stop offset="0.5" stop-color="#FF0000"/>
-    <stop offset="1" stop-color="#000000"/>
+    <stop offset="0.5" stop-color="#00FFFF"/>
+    <stop offset="1" stop-color="#FF0000"/>
   </linearGradient>
 </defs>
 <g transform="translate(0, 0)">
@@ -34,7 +34,7 @@
         </g>
       </g>
       <g id="Empty">
-        <rect x="36" y="280" width="286" height="33" rx="14.0" ry="14.0" fill="none" stroke="url(#gs-0)" stroke-width="10.5"/>
+        <rect x="34" y="278" width="290" height="37" rx="18.5" ry="18.5" fill="none" stroke="url(#gs-0)" stroke-width="5.25"/>
         <text x="31" y="288.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Dynamic border</text>
       </g>
     </g>

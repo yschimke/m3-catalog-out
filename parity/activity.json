@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-10T23:00:44.477Z",
+  "generatedAt": "2026-10-11T00:33:36.836Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "87427f7c7281e561a78886258dd595a2555fe015",
+        "subject": "feat(catalog): complete parallel Kotlin generation for M3 samples (#555)",
+        "at": "2026-10-11T01:01:45+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b28bc91af77a638e77826fa265ed23fc0c8d7c76",
+        "subject": "feat: add parallel Kotlin-authored M3 samples policy (#553)",
+        "at": "2026-10-10T23:52:50+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "4346bd936fd9691269ece61b6844b3a2999ca8ac",
         "subject": "fix(deps): compose-ai-tools 2.43.0 (#551)",
@@ -467,22 +483,6 @@
         "subject": "build: publish parity artifacts to output repository (#492)",
         "at": "2026-09-23T06:58:12+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fe1e1524eb78f0c864e2cf5360b11d02abaeb3b5",
-        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.22.2 (#491)",
-        "at": "2026-09-22T23:28:00Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c364d15197f67a07c38fecd5ce6f49b94dfc35d6",
-        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.22.1 (#490)",
-        "at": "2026-09-22T23:29:30+01:00",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }

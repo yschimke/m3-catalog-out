@@ -1127,7 +1127,7 @@
             "end": 10,
             "bottom": 10
           },
-          "cornerRadius": 3.28
+          "cornerRadius": 8.19
         }
       ],
       "group": "Border",
@@ -1714,7 +1714,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 348,
+            "y": 350,
             "width": 115,
             "height": 165
           },
@@ -1729,7 +1729,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 616,
+            "y": 629,
             "width": 115,
             "height": 165
           },
@@ -1744,7 +1744,7 @@
         {
           "bounds": {
             "x": 61,
-            "y": 924,
+            "y": 897,
             "width": 115,
             "height": 165
           },
@@ -1774,7 +1774,7 @@
         {
           "bounds": {
             "x": 218,
-            "y": 345,
+            "y": 340,
             "width": 115,
             "height": 165
           },
@@ -1789,7 +1789,7 @@
         {
           "bounds": {
             "x": 218,
-            "y": 611,
+            "y": 637,
             "width": 115,
             "height": 165
           },
@@ -1804,7 +1804,7 @@
         {
           "bounds": {
             "x": 218,
-            "y": 924,
+            "y": 921,
             "width": 115,
             "height": 165
           },
@@ -1821,7 +1821,7 @@
             "x": 375,
             "y": 61,
             "width": 113,
-            "height": 220
+            "height": 212
           },
           "label": "Ln: 2\nPs: 0",
           "padding": {
@@ -1834,9 +1834,9 @@
         {
           "bounds": {
             "x": 375,
-            "y": 358,
+            "y": 342,
             "width": 113,
-            "height": 202
+            "height": 220
           },
           "label": "Ln: 2\nPs: 1",
           "padding": {
@@ -1849,7 +1849,7 @@
         {
           "bounds": {
             "x": 375,
-            "y": 629,
+            "y": 642,
             "width": 113,
             "height": 220
           },
@@ -1864,9 +1864,9 @@
         {
           "bounds": {
             "x": 375,
-            "y": 939,
+            "y": 937,
             "width": 113,
-            "height": 205
+            "height": 220
           },
           "label": "Ln: 2\nPs: 3",
           "padding": {
@@ -1949,7 +1949,7 @@
         },
         {
           "bounds": {
-            "x": 628,
+            "x": 607,
             "y": 61,
             "width": 118,
             "height": 110
@@ -1964,10 +1964,10 @@
         },
         {
           "bounds": {
-            "x": 867,
+            "x": 869,
             "y": 61,
-            "width": 118,
-            "height": 110
+            "width": 117,
+            "height": 115
           },
           "label": "Ln: 0\nPs: 3",
           "padding": {
@@ -1994,7 +1994,7 @@
         },
         {
           "bounds": {
-            "x": 313,
+            "x": 310,
             "y": 245,
             "width": 118,
             "height": 110
@@ -2009,7 +2009,7 @@
         },
         {
           "bounds": {
-            "x": 588,
+            "x": 551,
             "y": 245,
             "width": 118,
             "height": 110
@@ -2024,7 +2024,7 @@
         },
         {
           "bounds": {
-            "x": 863,
+            "x": 826,
             "y": 245,
             "width": 118,
             "height": 110
@@ -2054,7 +2054,7 @@
         },
         {
           "bounds": {
-            "x": 310,
+            "x": 297,
             "y": 429,
             "width": 118,
             "height": 61
@@ -2069,7 +2069,7 @@
         },
         {
           "bounds": {
-            "x": 588,
+            "x": 541,
             "y": 429,
             "width": 118,
             "height": 61
@@ -2084,7 +2084,7 @@
         },
         {
           "bounds": {
-            "x": 835,
+            "x": 801,
             "y": 429,
             "width": 118,
             "height": 61
@@ -3098,7 +3098,7 @@
           "variant": "ideal",
           "path": "images/flowcolumn-simpleflowcolumn_equalwidth/ideal__default.png",
           "state": "default",
-          "width": 608,
+          "width": 614,
           "height": 1001,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/flowcolumn-simpleflowcolumn_equalwidth__ideal__default",
           "previewId": "ee.schimke.uisamplescatalog.SamplePreviewsKt.SimpleFlowColumn_EqualWidthPreview",
@@ -3111,10 +3111,10 @@
           "bounds": {
             "x": 61,
             "y": 61,
-            "width": 158,
+            "width": 73,
             "height": 55
           },
-          "label": "KSNRP",
+          "label": "J9T",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3126,10 +3126,10 @@
           "bounds": {
             "x": 61,
             "y": 377,
-            "width": 96,
+            "width": 14,
             "height": 55
           },
-          "label": "B9R",
+          "label": "J",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3141,10 +3141,10 @@
           "bounds": {
             "x": 61,
             "y": 693,
-            "width": 28,
+            "width": 50,
             "height": 55
           },
-          "label": "F",
+          "label": "5r",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3154,12 +3154,12 @@
         },
         {
           "bounds": {
-            "x": 261,
+            "x": 176,
             "y": 61,
-            "width": 143,
+            "width": 38,
             "height": 55
           },
-          "label": "Rdz2z",
+          "label": "O",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3169,12 +3169,12 @@
         },
         {
           "bounds": {
-            "x": 261,
+            "x": 176,
             "y": 377,
-            "width": 120,
+            "width": 65,
             "height": 55
           },
-          "label": "gFgV",
+          "label": "jrA",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3184,12 +3184,12 @@
         },
         {
           "bounds": {
-            "x": 261,
+            "x": 176,
             "y": 693,
-            "width": 106,
+            "width": 108,
             "height": 55
           },
-          "label": "9Zlh",
+          "label": "RW0",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3199,12 +3199,12 @@
         },
         {
           "bounds": {
-            "x": 446,
+            "x": 326,
             "y": 61,
-            "width": 30,
+            "width": 122,
             "height": 55
           },
-          "label": "E",
+          "label": "5Os5",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3214,12 +3214,12 @@
         },
         {
           "bounds": {
-            "x": 446,
+            "x": 326,
             "y": 377,
-            "width": 100,
+            "width": 55,
             "height": 55
           },
-          "label": "Jp0c",
+          "label": "us",
           "padding": {
             "start": 3,
             "top": 3,
@@ -3229,12 +3229,12 @@
         },
         {
           "bounds": {
-            "x": 446,
+            "x": 326,
             "y": 693,
-            "width": 41,
+            "width": 63,
             "height": 55
           },
-          "label": "M",
+          "label": "0A",
           "padding": {
             "start": 3,
             "top": 3,
@@ -4326,7 +4326,7 @@
           "path": "images/flowrow-simpleflowrow_equalheight/ideal__default.png",
           "state": "default",
           "width": 1050,
-          "height": 1140,
+          "height": 920,
           "livePreview": "https://preview.coo.ee/compose-ui-samples/p/flowrow-simpleflowrow_equalheight__ideal__default",
           "previewId": "ee.schimke.uisamplescatalog.SamplePreviewsKt.SimpleFlowRow_EqualHeightPreview",
           "density": 2.625
@@ -4339,9 +4339,9 @@
             "x": 61,
             "y": 61,
             "width": 247,
-            "height": 110
+            "height": 165
           },
-          "label": "lQcFVCFOoOI2A",
+          "label": "YkqLWvnKDNLBbd2ogbi6D",
           "padding": {
             "start": 3,
             "top": 3,
@@ -4353,40 +4353,40 @@
           "bounds": {
             "x": 350,
             "y": 61,
+            "width": 247,
+            "height": 275
+          },
+          "label": "AJ29uKrlDp0JWPQQ7hn5DGsWx8KCumqlg",
+          "padding": {
+            "start": 3,
+            "top": 3,
+            "end": 3,
+            "bottom": 3
+          }
+        },
+        {
+          "bounds": {
+            "x": 639,
+            "y": 61,
+            "width": 247,
+            "height": 165
+          },
+          "label": "ellxEfke9wre2AEc60ofl4F",
+          "padding": {
+            "start": 3,
+            "top": 3,
+            "end": 3,
+            "bottom": 3
+          }
+        },
+        {
+          "bounds": {
+            "x": 61,
+            "y": 405,
             "width": 247,
             "height": 330
           },
-          "label": "ipvIlVa4UqCokZnooOkCD8km2UX2UwA5RP1Ewc2vg2Xn",
-          "padding": {
-            "start": 3,
-            "top": 3,
-            "end": 3,
-            "bottom": 3
-          }
-        },
-        {
-          "bounds": {
-            "x": 639,
-            "y": 61,
-            "width": 247,
-            "height": 275
-          },
-          "label": "XAmsmU7U4meRQ7essvx0iExUPcmqJ98kJKi",
-          "padding": {
-            "start": 3,
-            "top": 3,
-            "end": 3,
-            "bottom": 3
-          }
-        },
-        {
-          "bounds": {
-            "x": 61,
-            "y": 460,
-            "width": 247,
-            "height": 220
-          },
-          "label": "QR5Yg3JWVeUGIlKlIW8EMGh2p",
+          "label": "sv803nVYW4cFZocIaG0WfoLVNTtJPv85RWE0XpxtYyJ11W",
           "padding": {
             "start": 3,
             "top": 3,
@@ -4397,71 +4397,71 @@
         {
           "bounds": {
             "x": 350,
-            "y": 460,
-            "width": 247,
-            "height": 220
-          },
-          "label": "4aUL453aXMeCslXeebX23MNam8GKJL0",
-          "padding": {
-            "start": 3,
-            "top": 3,
-            "end": 3,
-            "bottom": 3
-          }
-        },
-        {
-          "bounds": {
-            "x": 639,
-            "y": 460,
-            "width": 247,
-            "height": 220
-          },
-          "label": "CCk6bkmKtGYivBYYGKYj4Cj9D89jZk7O",
-          "padding": {
-            "start": 3,
-            "top": 3,
-            "end": 3,
-            "bottom": 3
-          }
-        },
-        {
-          "bounds": {
-            "x": 61,
-            "y": 749,
-            "width": 247,
-            "height": 220
-          },
-          "label": "ME1akd21gGuDIU4pO91lLJN1oroqXK",
-          "padding": {
-            "start": 3,
-            "top": 3,
-            "end": 3,
-            "bottom": 3
-          }
-        },
-        {
-          "bounds": {
-            "x": 350,
-            "y": 749,
-            "width": 247,
-            "height": 275
-          },
-          "label": "5dbOSoVQQq2fflLvQB0E8Lkf0l55Sajolmdigl",
-          "padding": {
-            "start": 3,
-            "top": 3,
-            "end": 3,
-            "bottom": 3
-          }
-        },
-        {
-          "bounds": {
-            "x": 639,
-            "y": 749,
+            "y": 405,
             "width": 247,
             "height": 385
           },
-          "label": "iryhtu8BCoC5QNx8Z7pXrgD9sAacdqLS5lOXS10QmWypxtwF1",
+          "label": "jLldWOpwU7XJQz16YbtJTgaW0Q7as0T2QbhVk2nsNqhyCDNEFb",
+          "padding": {
+            "start": 3,
+            "top": 3,
+            "end": 3,
+            "bottom": 3
+          }
+        },
+        {
+          "bounds": {
+            "x": 639,
+            "y": 405,
+            "width": 247,
+            "height": 330
+          },
+          "label": "kntLLcef0aALRmVMrsor1b58EDrGmYYI3tfs5W8PCXkq",
+          "padding": {
+            "start": 3,
+            "top": 3,
+            "end": 3,
+            "bottom": 3
+          }
+        },
+        {
+          "bounds": {
+            "x": 61,
+            "y": 859,
+            "width": 247,
+            "height": 275
+          },
+          "label": "CwzbUyqgmj2NpoAeyLC5bijz0iqFYarxt3yM1J5Q",
+          "padding": {
+            "start": 3,
+            "top": 3,
+            "end": 3,
+            "bottom": 3
+          }
+        },
+        {
+          "bounds": {
+            "x": 350,
+            "y": 859,
+            "width": 247,
+            "height": 275
+          },
+          "label": "hRF5tSkNH3W55AnhVHs666WzHotN6Fh4",
+          "padding": {
+            "start": 3,
+            "top": 3,
+            "end": 3,
+            "bottom": 3
+          }
+        },
+        {
+          "bounds": {
+            "x": 639,
+            "y": 859,
+            "width": 247,
+            "height": 165
+          },
+          "label": "C6pCbadPel2HR9vash3G",
           "padding": {
             "start": 3,
             "top": 3,
@@ -12171,7 +12171,7 @@
     "org.jetbrains.compose.foundation:foundation"
   ],
   "renderer": "compose-preview 2.43.0",
-  "generatedAt": "2026-10-10T23:00:31.857Z",
+  "generatedAt": "2026-10-11T00:33:21.451Z",
   "display": {
     "role": "samples"
   },
