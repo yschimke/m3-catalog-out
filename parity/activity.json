@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T18:01:54.140Z",
+  "generatedAt": "2026-10-11T21:46:03.221Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "34a79785b1b6eaf6f2ab8f9dc193920f988e0640",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.3 (#573)",
+        "at": "2026-10-11T21:16:20Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "cbac7a7cf85c6d1857d68bcd0629e187568a9769",
+        "subject": "feat(prototype): interaction cells on a UI builder document sticker (#570)",
+        "at": "2026-10-11T21:10:22+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "56dbc84a515830132bdc6e7339ae13885b8a8c8f",
+        "subject": "fix(catalog): give the preview daemon 2 GB so the semantics bundle publishes again (#569)",
+        "at": "2026-10-11T20:44:01+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "1b0ea2ad6b4bb30fafa1edfb59b61f1d48c17a2b",
         "subject": "feat(prototype): Card stickers defined as one UI builder document (#565)",
@@ -459,30 +483,6 @@
         "subject": "feat: add list-detail adaptive starter (#511)",
         "at": "2026-10-04T14:16:41+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ff20bca86066ef65895aa8f65699b9155a8736bd",
-        "subject": "feat: add adaptive UI builder starters and pane sizing controls (#510)",
-        "at": "2026-10-04T12:32:57+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1db7302f82b0d5460ef3a4548aefd3001025327e",
-        "subject": "chore(deps): update compose-ai-tools to v2.32.1 (#508)",
-        "at": "2026-10-02T22:42:14Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a719d1f86143852586f8ccb6562216160f79b7f2",
-        "subject": "fix(deps): update compose-preview-daemon to v3.12.0 (#509)",
-        "at": "2026-10-02T11:21:44Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
