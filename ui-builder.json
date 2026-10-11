@@ -566,7 +566,7 @@
             "m3/snackbar-host": {
                 "role": "overlay",
                 "displayName": "Snackbar host",
-                "group": "Communication",
+                "group": "Snackbar",
                 "canvas": "m3/snackbar-host",
                 "unrolled": null,
                 "traits": [
