@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T15:02:48.518Z",
+  "generatedAt": "2026-10-11T17:00:06.270Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "c529d8a9e5c18d8d7181e24654baa25058f1a273",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.30.0 (#567)",
+        "at": "2026-10-11T16:50:33Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "d9391e21397c6c381aabc4e3c956215dc61b3050",
         "subject": "chore(deps): update compose-ai-tools to v2.46.0 (#564)",
@@ -474,14 +482,6 @@
         "sha": "86b3dc5ceb0411c0b8d99857d3e026d13cf44ff9",
         "subject": "feat: declare render assertions for the M3 catalog render (#504)",
         "at": "2026-09-30T18:25:29+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fa6118748d322dde433a81c9f12045d4eb1cc36f",
-        "subject": "docs: point delivery-branch links at m3-catalog-out (#503)",
-        "at": "2026-09-30T18:23:48+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
