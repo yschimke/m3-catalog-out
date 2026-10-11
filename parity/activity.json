@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T14:16:05.916Z",
+  "generatedAt": "2026-10-11T15:00:19.669Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "d9391e21397c6c381aabc4e3c956215dc61b3050",
+        "subject": "chore(deps): update compose-ai-tools to v2.46.0 (#564)",
+        "at": "2026-10-11T14:55:39Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8bf8dd10e035e4074f4cbeb8c6f40ec1cfb5d8e4",
+        "subject": "feat(policy): one m3/card and one m3/icon-button with a style property (#563)",
+        "at": "2026-10-11T15:52:28+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "369992ac004ce088d0d66862bc940e3d0ddd3fbf",
         "subject": "fix(deps): update compose-ai-tools to v2.45.0 (#561)",
@@ -467,22 +483,6 @@
         "subject": "docs: point delivery-branch links at m3-catalog-out (#503)",
         "at": "2026-09-30T18:23:48+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d5d0c08c9e8e1499deee05b239792870d122f91b",
-        "subject": "chore(deps): update compose-ai-tools (#505)",
-        "at": "2026-09-30T16:54:59Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2671dab73796884ac1446b6211982c972357fa0f",
-        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.22.4 (#497)",
-        "at": "2026-09-26T19:48:49Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
