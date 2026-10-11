@@ -680124,8 +680124,8 @@
     "org.jetbrains.compose.material3.adaptive:adaptive-layout",
     "org.jetbrains.compose.material3.adaptive:adaptive-navigation"
   ],
-  "renderer": "compose-preview 2.42.0",
-  "generatedAt": "2026-10-10T22:29:07.959Z",
+  "renderer": "compose-preview 2.43.0",
+  "generatedAt": "2026-10-11T00:02:59.626Z",
   "display": {
     "hero": "DatePicker/Modal"
   },
@@ -680146,7 +680146,7 @@
   "uiBuilderGuidelinesFile": "ui-builder.guidelines.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "m3-catalog-p2-c8f9e1eb7518",
+    "runtimeId": "m3-catalog-p2-4346bd936fd9",
     "protocolVersion": 2,
     "integritySha256": "26a315c69b6923570efb5310ff4fabb6b568e9249fe952c6ed7b7252b70009e2"
   },
