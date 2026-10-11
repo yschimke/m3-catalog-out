@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-11T17:03:28.365Z",
+  "generatedAt": "2026-10-11T17:43:16.848Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "3b67e7c9383584a3b82e60a9ab9bbe9ffea45eff",
+        "subject": "chore(deps): update compose-ai-tools to v2.48.0 (#568)",
+        "at": "2026-10-11T17:14:12Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "544ad3223a88b6ecee38bb48c7705f322a4366af",
         "subject": "chore(deps): update compose-ai-tools to v2.47.0 (#566)",
@@ -474,14 +482,6 @@
         "sha": "12ae674b2f84c0e7a6d212e67778b20993f93b1a",
         "subject": "fix(deps): update compose-ai-tools to v2.32.0 (#507)",
         "at": "2026-10-02T12:04:32+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "31c7e59ea724fb35118c68fb60f39b0603256f14",
-        "subject": "fix(ci): pin download-artifact correctly and pass the token for run-id (#506)",
-        "at": "2026-10-01T08:05:37+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
