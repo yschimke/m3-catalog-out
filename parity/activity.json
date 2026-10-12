@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T14:27:24.939Z",
+  "generatedAt": "2026-10-12T15:04:39.665Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "b8cd52256ee844a09687743238047c1279ad75f0",
+        "subject": "fix(samples): link the bare IconButton samples to IconButton/Standard (#582)",
+        "at": "2026-10-12T15:54:49+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "28ebf72f2c171ff6ed8c29ffa280f4352927897b",
         "subject": "fix(guidelines): allow paired semantic domain colours alongside theme roles (#585)",
@@ -475,14 +483,6 @@
         "subject": "chore(deps): update compose-ai-tools to v2.36.0 (#524)",
         "at": "2026-10-09T08:03:40Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "a86c4463c8e22a6fd14281e6b806db2f640b0293",
-        "subject": "feat(ui-builder): publish m3/variable-font-text as a catalog builtin (#523)",
-        "at": "2026-10-09T09:00:56+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
