@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T17:10:51.950Z",
+  "generatedAt": "2026-10-12T17:29:24.480Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "992d141f1c08ae09039d4c8ec48ab0dc0c0501a3",
+        "subject": "fix(deps): update compose-ai-tools to v2.54.0 (#586)",
+        "at": "2026-10-12T17:19:43Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ea5cd9e199845db789cec1024c1c5e55b150593c",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.16.0 (#587)",
+        "at": "2026-10-12T17:18:47Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "19ac6b5bedbbdb1d9f31d6958b2f955336185304",
         "subject": "feat(typed): export the M3 typed pilot through real-record projections and publish it (#580)",
@@ -466,22 +482,6 @@
         "sha": "28d233dffaef97d32067608544ab205f85eb2607",
         "subject": "feat(ui-builder): publish the theme host's typefaces and the icon's symbol axes for a catalog-owned m3-catalog (#527)",
         "at": "2026-10-09T20:20:21+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2dd2c7d8536bdf7606a50f4d13e21094527cb0ec",
-        "subject": "chore(deps): update compose-ai-tools to v2.37.0 (#526)",
-        "at": "2026-10-09T13:06:35Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e588d36f971616e0bb6374d40b57e50abd7384d5",
-        "subject": "feat: publish adaptive design guidelines for the UI builder's check (#525)",
-        "at": "2026-10-09T09:29:20+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
