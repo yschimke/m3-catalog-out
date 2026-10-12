@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T03:24:57.380Z",
+  "generatedAt": "2026-10-12T03:42:38.729Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "bb9409eab9d1c95d3ca620b283c23062ac0adbf2",
+        "subject": "chore(deps): update ci toolchain (#577)",
+        "at": "2026-10-12T02:38:04Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b9993988237c3cd225c9b62b085aa30d0306889e",
+        "subject": "fix(deps): update dependency androidx.annotation:annotation to v1.11.0 (#579)",
+        "at": "2026-10-12T02:34:43Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "eb4be5b0fe4ac876f1709c623832a4def5242aa9",
         "subject": "chore(deps): update kotlin to v2.4.21 (#578)",
@@ -466,22 +482,6 @@
         "sha": "9e1075d3804eb43b2e2e038af3c2bc29cf32e160",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.20.0 (#517)",
         "at": "2026-10-07T21:07:12+01:00",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d739682a2d1c202e8a24f90065143b5a0ed83a41",
-        "subject": "chore: drop setup-repo-protection.sh for the shared repo policy (#515)",
-        "at": "2026-10-07T20:56:33+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "23a794c64a433da1b8db7065551f6dc728df62f6",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.14.1 (#516)",
-        "at": "2026-10-07T19:31:47Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
