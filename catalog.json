@@ -34190,8 +34190,8 @@
   "library": [
     "org.jetbrains.compose.material3:material3"
   ],
-  "renderer": "compose-preview 2.50.0",
-  "generatedAt": "2026-10-11T22:13:30.649Z",
+  "renderer": "compose-preview 2.51.0",
+  "generatedAt": "2026-10-12T01:49:16.939Z",
   "display": {
     "role": "samples"
   },
