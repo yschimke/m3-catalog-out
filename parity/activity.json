@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T15:04:39.665Z",
+  "generatedAt": "2026-10-12T17:10:51.950Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "19ac6b5bedbbdb1d9f31d6958b2f955336185304",
+        "subject": "feat(typed): export the M3 typed pilot through real-record projections and publish it (#580)",
+        "at": "2026-10-12T18:04:54+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "b8cd52256ee844a09687743238047c1279ad75f0",
         "subject": "fix(samples): link the bare IconButton samples to IconButton/Standard (#582)",
@@ -475,14 +483,6 @@
         "subject": "feat: publish adaptive design guidelines for the UI builder's check (#525)",
         "at": "2026-10-09T09:29:20+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "75bc20a7f2fef6f4e9437b2ece261ba87780f441",
-        "subject": "chore(deps): update compose-ai-tools to v2.36.0 (#524)",
-        "at": "2026-10-09T08:03:40Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
