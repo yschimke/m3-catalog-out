@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T08:37:50.018Z",
+  "generatedAt": "2026-10-12T09:45:31.879Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "6065fff84e432197883817f407abd148a3749522",
+        "subject": "fix(samples): map a plain IconButton to the Standard cell (#581)",
+        "at": "2026-10-12T10:23:02+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "4cb4f1b2090ae7240123c495c39c70671a82c886",
         "subject": "feat(catalog): cut 50 of 59 stickers over to generated UI builder components (#571)",
@@ -474,14 +482,6 @@
         "sha": "892758226586351b11f66b10702cb868950525f3",
         "subject": "feat: two-way bind selection controls to design state on the canvas (#519)",
         "at": "2026-10-08T11:17:43+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "86b2d543280635e1062ec95ba1340d3095fd602c",
-        "subject": "ci: add the Conventional Commit title check (#518)",
-        "at": "2026-10-07T21:57:36+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
