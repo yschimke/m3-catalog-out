@@ -1,0 +1,3841 @@
+{
+    "schema": "compose-ui-builder-catalog/v1",
+    "catalog": {
+        "id": "m3-catalog-typed-pilot",
+        "title": "Material 3 — typed catalog",
+        "platform": "mobile",
+        "platformLabel": "Mobile",
+        "module": "catalog-typed-adapters",
+        "variant": "jvm"
+    },
+    "record": {
+        "file": "components.json",
+        "schemaVersion": 2,
+        "components": 40
+    },
+    "statusSemantics": {
+        "platform": "mobile",
+        "platformLabel": "Mobile",
+        "componentIdPrefix": "m3/",
+        "previewSurfaces": {
+            "wasm": {
+                "fidelity": "approximate",
+                "reason": "The builder's canvas is Compose Multiplatform for Wasm and links its own Material 3, not this catalog's Android artifacts. For the components it has an adapter for the picture is close; where it has none it draws a placeholder. Layout, spacing and typography are near enough to design with and are not what ships."
+            },
+            "native": {
+                "fidelity": "authoritative",
+                "backend": "android",
+                "reason": "The generated Kotlin compiled against this module's own classpath and rendered under Robolectric — the same lane that produces this catalog's stickers."
+            }
+        },
+        "browserPreview": null,
+        "componentMenu": {
+            "groupOrder": [
+                "Bottom app bar",
+                "Navigation bar",
+                "Navigation rail",
+                "Search",
+                "Tabs",
+                "Top app bar",
+                "Buttons",
+                "FAB",
+                "Icon buttons",
+                "Icons",
+                "Segmented buttons",
+                "Split button",
+                "Toggle buttons",
+                "Toolbars",
+                "Checkbox",
+                "Chips",
+                "Date pickers",
+                "Menus",
+                "Radio button",
+                "Sliders",
+                "Switch",
+                "Time pickers",
+                "Text fields",
+                "Bottom sheets",
+                "Surfaces",
+                "Cards",
+                "Carousel",
+                "Dialogs",
+                "Divider",
+                "Lists",
+                "Side sheets",
+                "Badges",
+                "Loading indicator",
+                "Progress indicators",
+                "Snackbar",
+                "Tooltips",
+                "Color",
+                "Shapes",
+                "Typography"
+            ],
+            "components": {
+                "m3/button": {
+                    "group": "Buttons"
+                },
+                "m3/card": {
+                    "group": "Cards"
+                },
+                "m3/center-aligned-top-app-bar": {
+                    "group": "Top app bar"
+                },
+                "m3/checkbox": {
+                    "group": "Checkbox"
+                },
+                "m3/date-picker": {
+                    "group": "Date pickers"
+                },
+                "m3/dialog": {
+                    "group": "Dialogs"
+                },
+                "m3/filter-chip": {
+                    "group": "Chips"
+                },
+                "m3/floating-action-button": {
+                    "group": "FAB"
+                },
+                "m3/horizontal-divider": {
+                    "group": "Divider"
+                },
+                "m3/horizontal-floating-toolbar": {
+                    "group": "Toolbars"
+                },
+                "m3/icon": {
+                    "group": "Icons"
+                },
+                "m3/icon-button": {
+                    "group": "Icon buttons"
+                },
+                "m3/list-item": {
+                    "group": "Lists"
+                },
+                "m3/primary-tab-row": {
+                    "group": "Tabs"
+                },
+                "m3/linear-progress-indicator": {
+                    "group": "Progress indicators"
+                },
+                "m3/circular-progress-indicator": {
+                    "group": "Progress indicators"
+                },
+                "m3/provide-text-style": {
+                    "group": "Typography"
+                },
+                "m3/radio-button": {
+                    "group": "Radio button"
+                },
+                "m3/search-bar": {
+                    "group": "Search"
+                },
+                "m3/search-input-field": {
+                    "group": "Search"
+                },
+                "m3/slider": {
+                    "group": "Sliders"
+                },
+                "m3/surface": {
+                    "group": "Surfaces"
+                },
+                "m3/switch": {
+                    "group": "Switch"
+                },
+                "m3/tab": {
+                    "group": "Tabs"
+                },
+                "m3/text": {
+                    "group": "Typography"
+                },
+                "m3/text-field": {
+                    "group": "Text fields"
+                },
+                "m3/outlined-text-field": {
+                    "group": "Text fields"
+                },
+                "m3/time-picker": {
+                    "group": "Time pickers"
+                },
+                "m3/navigation-suite-item": {
+                    "group": "Navigation bar"
+                },
+                "m3/navigation-suite-scaffold": {
+                    "group": "Navigation bar"
+                },
+                "m3/primary-scrollable-tab-row": {
+                    "group": "Tabs"
+                }
+            }
+        },
+        "frame": {
+            "adapter": "frame/rect",
+            "seedDevice": "id:pixel_6"
+        },
+        "code": null,
+        "composeSourceExport": {
+            "adapter": "compose-component-records",
+            "version": 1
+        },
+        "templates": [
+            "ui-builder/designs/blank.json",
+            "ui-builder/designs/hello.json",
+            "ui-builder/designs/adaptive-navigation.json",
+            "ui-builder/designs/supporting-pane.json",
+            "ui-builder/designs/list-detail.json",
+            "ui-builder/designs/adaptive-feed.json"
+        ],
+        "newDesign": null,
+        "colorTokens": {
+            "roles": [
+                "background",
+                "surface",
+                "surfaceContainer",
+                "surfaceContainerLow",
+                "surfaceContainerHigh",
+                "surfaceContainerHighest",
+                "primary",
+                "onPrimary",
+                "tertiary",
+                "onTertiary",
+                "onSurface",
+                "onSurfaceVariant",
+                "outlineVariant",
+                "transparent"
+            ]
+        },
+        "assetRegistry": null,
+        "supersedes": {
+            "m3/card": {
+                "componentId": "m3/card",
+                "properties": {
+                    "variant": "style"
+                }
+            },
+            "m3/elevated-card": {
+                "componentId": "m3/card",
+                "setProperties": {
+                    "style": "elevated"
+                }
+            },
+            "m3/outlined-card": {
+                "componentId": "m3/card",
+                "setProperties": {
+                    "style": "outlined"
+                }
+            },
+            "m3/icon-button": {
+                "componentId": "m3/icon-button",
+                "properties": {
+                    "variant": "style"
+                }
+            },
+            "m3/filled-icon-button": {
+                "componentId": "m3/icon-button",
+                "setProperties": {
+                    "style": "filled"
+                }
+            },
+            "m3/filled-tonal-icon-button": {
+                "componentId": "m3/icon-button",
+                "setProperties": {
+                    "style": "tonal"
+                }
+            },
+            "m3/outlined-icon-button": {
+                "componentId": "m3/icon-button",
+                "setProperties": {
+                    "style": "outlined"
+                }
+            },
+            "m3/progress-indicator": {
+                "componentId": "m3/linear-progress-indicator",
+                "variants": {
+                    "property": "variant",
+                    "components": {
+                        "linear": "m3/linear-progress-indicator",
+                        "circular": "m3/circular-progress-indicator"
+                    }
+                }
+            },
+            "m3/text-field": {
+                "componentId": "m3/text-field",
+                "variants": {
+                    "property": "variant",
+                    "components": {
+                        "filled": "m3/text-field",
+                        "outlined": "m3/outlined-text-field"
+                    }
+                }
+            }
+        },
+        "builtins": {
+            "m3/variable-font-text": {
+                "role": "list-item",
+                "displayName": "Variable font text",
+                "group": "Typography",
+                "canvas": "m3/variable-font-text",
+                "unrolled": null,
+                "traits": [
+                    "TextContent"
+                ],
+                "slots": {},
+                "properties": [
+                    {
+                        "name": "text",
+                        "jsonType": "string",
+                        "required": true,
+                        "notes": "A literal: the outline is worked out from the font when the design exports, so the text cannot change at run time."
+                    },
+                    {
+                        "name": "font",
+                        "jsonType": "string",
+                        "allowedValues": [
+                            "robotoFlex",
+                            "googleSansFlex"
+                        ],
+                        "notes": "The variable font the text is drawn from. Absent is Roboto Flex."
+                    },
+                    {
+                        "name": "wght",
+                        "jsonType": [
+                            "number",
+                            "object"
+                        ],
+                        "notes": "The `wght` axis: weight, 100–1000 in Roboto Flex and 1–1000 in Google Sans Flex. A literal holds it; a `state` read of a decimal variable animates it. Unset is the font's own 400."
+                    },
+                    {
+                        "name": "wdth",
+                        "jsonType": [
+                            "number",
+                            "object"
+                        ],
+                        "notes": "The `wdth` axis: width, 25–151 (100 is normal). A literal or a `state` read of a decimal variable. Unset is 100."
+                    },
+                    {
+                        "name": "slnt",
+                        "jsonType": [
+                            "number",
+                            "object"
+                        ],
+                        "notes": "The `slnt` axis: slant, -10–0 degrees. A literal or a `state` read of a decimal variable. Unset is upright."
+                    },
+                    {
+                        "name": "rond",
+                        "jsonType": [
+                            "number",
+                            "object"
+                        ],
+                        "notes": "The `ROND` axis: roundness, 0–100, which only Google Sans Flex has. A literal or a `state` read of a decimal variable. Unset is 0."
+                    },
+                    {
+                        "name": "fontSizeSp",
+                        "jsonType": "number",
+                        "notes": "The text's size. Absent is 32."
+                    },
+                    {
+                        "name": "color",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is refused at commit."
+                    }
+                ],
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "implementation": null,
+                "shelfRole": "Leaf",
+                "wasm": {
+                    "platformSupported": null,
+                    "adapterStatus": null,
+                    "notes": "flexpress's VariableFontText draws the text from the font's outlines, its axes free to move. flexpress runs on the JVM only, so the canvas draws a stand-in: Text in the vendored variable font, instanced at the same axes."
+                },
+                "code": {
+                    "symbol": "VariableFontText",
+                    "imports": [
+                        "ee.schimke.flexpress.compose.VariableFontText"
+                    ]
+                },
+                "svg": null
+            },
+            "m3/snackbar-host": {
+                "role": "overlay",
+                "displayName": "Snackbar host",
+                "group": "Snackbar",
+                "canvas": "m3/snackbar-host",
+                "unrolled": null,
+                "traits": [
+                    "SnackbarHost"
+                ],
+                "slots": {
+                    "snackbar": {
+                        "acceptedRoles": [
+                            "Container",
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "AnyContent"
+                        ],
+                        "ordered": false,
+                        "max": 1
+                    }
+                },
+                "properties": [
+                    {
+                        "name": "visible",
+                        "jsonType": "boolean",
+                        "required": true,
+                        "notes": "Whether the host shows its snackbar. The scaffold's `snackbarHost` slot keeps the host's identity while it is hidden."
+                    },
+                    {
+                        "name": "message",
+                        "jsonType": "string"
+                    },
+                    {
+                        "name": "actionLabel",
+                        "jsonType": [
+                            "string",
+                            "null"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "size",
+                    "fillMaxWidth",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "implementation": null,
+                "shelfRole": "Container",
+                "wasm": {
+                    "platformSupported": null,
+                    "adapterStatus": null,
+                    "notes": "No SnackbarHost sticker exists to record: m3-catalog's Snackbar.kt treats the host as a dispatcher and composes snackbars directly. Published so a design holding the scaffold's `snackbarHost` slot keeps validating once the catalog is owned."
+                },
+                "code": {
+                    "symbol": "SnackbarHost",
+                    "imports": [
+                        "androidx.compose.material3.SnackbarHost",
+                        "androidx.compose.material3.rememberSnackbarHostState"
+                    ]
+                },
+                "svg": null
+            }
+        },
+        "components": {
+            "m3/button": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3Button",
+                "catalogId": null,
+                "displayName": "Button",
+                "canvas": "m3/button",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "Action",
+                    "ToolbarItem"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "style",
+                        "jsonType": "string",
+                        "required": true,
+                        "allowedValues": [
+                            "filled",
+                            "filledTonal",
+                            "text",
+                            "fab"
+                        ]
+                    },
+                    {
+                        "name": "enabled",
+                        "jsonType": "boolean"
+                    },
+                    {
+                        "name": "selected",
+                        "jsonType": [
+                            "boolean",
+                            "string",
+                            "object"
+                        ],
+                        "notes": "A flag, or a `stateEquals` read of a declared state variable — which is an object, and why `object` is one of the accepted types."
+                    },
+                    {
+                        "name": "containerColor",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is refused at commit."
+                    },
+                    {
+                        "name": "onClickAction",
+                        "jsonType": [
+                            "object",
+                            "null"
+                        ]
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "content",
+                        "cardinality": {
+                            "min": 1
+                        },
+                        "ordered": true,
+                        "acceptedRoles": [
+                            "Leaf",
+                            "Container"
+                        ],
+                        "acceptedTraits": [
+                            "AnyContent"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "size",
+                    "fillMaxWidth",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/card": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3Card",
+                "catalogId": null,
+                "displayName": "Card",
+                "canvas": "m3/card",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "GridItem",
+                    "CarouselItem",
+                    "ListItem",
+                    "OverlayContent"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "style",
+                        "jsonType": "string",
+                        "allowedValues": [
+                            "filled",
+                            "elevated",
+                            "outlined"
+                        ],
+                        "notes": "Which Material 3 card: `filled` (Card, the default), `elevated` (ElevatedCard) or `outlined` (OutlinedCard). One builder component with the style as a property, as `m3/button` is; the catalog keeps a sticker per style."
+                    },
+                    {
+                        "name": "containerColor",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is refused at commit."
+                    },
+                    {
+                        "name": "shape",
+                        "jsonType": "string"
+                    },
+                    {
+                        "name": "stableKey",
+                        "jsonType": "string"
+                    },
+                    {
+                        "name": "elevationDp",
+                        "jsonType": "number"
+                    },
+                    {
+                        "name": "onClickAction",
+                        "jsonType": [
+                            "object",
+                            "null"
+                        ]
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "content",
+                        "cardinality": {
+                            "min": 1
+                        },
+                        "ordered": true,
+                        "acceptedRoles": [
+                            "Container",
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "AnyContent"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "size",
+                    "fillMaxWidth",
+                    "padding",
+                    "clip",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "background",
+                    "border",
+                    "shadow",
+                    "wrapContentSize",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": {
+                    "variantProperty": "style",
+                    "targets": [
+                        {
+                            "record": "m3-catalog-typed-pilot/androidx.compose.material3.CardKt.Card",
+                            "parameters": {
+                                "colors": {
+                                    "call": "androidx.compose.material3.CardDefaults.cardColors",
+                                    "type": "androidx.compose.material3.CardColors",
+                                    "arguments": {
+                                        "containerColor": {
+                                            "property": "containerColor",
+                                            "codec": {
+                                                "color": {
+                                                    "scheme": "androidx.compose.material3.MaterialTheme",
+                                                    "members": [
+                                                        "colorScheme"
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "elevation": {
+                                    "call": "androidx.compose.material3.CardDefaults.cardElevation",
+                                    "type": "androidx.compose.material3.CardElevation",
+                                    "arguments": {
+                                        "defaultElevation": {
+                                            "property": "elevationDp",
+                                            "codec": {
+                                                "unit": {
+                                                    "unit": "dp"
+                                                }
+                                            },
+                                            "omitWhen": -1
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "record": "m3-catalog-typed-pilot/androidx.compose.material3.CardKt.Card",
+                            "variants": [
+                                "filled"
+                            ],
+                            "parameters": {
+                                "colors": {
+                                    "call": "androidx.compose.material3.CardDefaults.cardColors",
+                                    "type": "androidx.compose.material3.CardColors",
+                                    "arguments": {
+                                        "containerColor": {
+                                            "property": "containerColor",
+                                            "codec": {
+                                                "color": {
+                                                    "scheme": "androidx.compose.material3.MaterialTheme",
+                                                    "members": [
+                                                        "colorScheme"
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "elevation": {
+                                    "call": "androidx.compose.material3.CardDefaults.cardElevation",
+                                    "type": "androidx.compose.material3.CardElevation",
+                                    "arguments": {
+                                        "defaultElevation": {
+                                            "property": "elevationDp",
+                                            "codec": {
+                                                "unit": {
+                                                    "unit": "dp"
+                                                }
+                                            },
+                                            "omitWhen": -1
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "record": "m3-catalog-typed-pilot/androidx.compose.material3.CardKt.ElevatedCard",
+                            "variants": [
+                                "elevated"
+                            ],
+                            "parameters": {
+                                "colors": {
+                                    "call": "androidx.compose.material3.CardDefaults.elevatedCardColors",
+                                    "type": "androidx.compose.material3.CardColors",
+                                    "arguments": {
+                                        "containerColor": {
+                                            "property": "containerColor",
+                                            "codec": {
+                                                "color": {
+                                                    "scheme": "androidx.compose.material3.MaterialTheme",
+                                                    "members": [
+                                                        "colorScheme"
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "elevation": {
+                                    "call": "androidx.compose.material3.CardDefaults.elevatedCardElevation",
+                                    "type": "androidx.compose.material3.CardElevation",
+                                    "arguments": {
+                                        "defaultElevation": {
+                                            "property": "elevationDp",
+                                            "codec": {
+                                                "unit": {
+                                                    "unit": "dp"
+                                                }
+                                            },
+                                            "omitWhen": -1
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "record": "m3-catalog-typed-pilot/androidx.compose.material3.CardKt.OutlinedCard",
+                            "variants": [
+                                "outlined"
+                            ],
+                            "parameters": {
+                                "colors": {
+                                    "call": "androidx.compose.material3.CardDefaults.outlinedCardColors",
+                                    "type": "androidx.compose.material3.CardColors",
+                                    "arguments": {
+                                        "containerColor": {
+                                            "property": "containerColor",
+                                            "codec": {
+                                                "color": {
+                                                    "scheme": "androidx.compose.material3.MaterialTheme",
+                                                    "members": [
+                                                        "colorScheme"
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "elevation": {
+                                    "call": "androidx.compose.material3.CardDefaults.outlinedCardElevation",
+                                    "type": "androidx.compose.material3.CardElevation",
+                                    "arguments": {
+                                        "defaultElevation": {
+                                            "property": "elevationDp",
+                                            "codec": {
+                                                "unit": {
+                                                    "unit": "dp"
+                                                }
+                                            },
+                                            "omitWhen": -1
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "m3/center-aligned-top-app-bar": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3CenterAlignedTopAppBar",
+                "catalogId": null,
+                "displayName": "Top app bar",
+                "canvas": "m3/center-aligned-top-app-bar",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "TopBar",
+                    "ScreenContent"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "containerColor",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is refused at commit."
+                    },
+                    {
+                        "name": "scrolledContainerColor",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is refused at commit."
+                    },
+                    {
+                        "name": "scrollBehavior",
+                        "jsonType": "string",
+                        "allowedValues": [
+                            "pinned",
+                            "enterAlways",
+                            "exitUntilCollapsed"
+                        ],
+                        "notes": "Reaches the generated Kotlin as the matching TopAppBarDefaults behavior. The canvas draws the bar pinned whatever this says: a scroll behavior is driven by a nested-scroll connection the document has no scaffold to carry."
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "title",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "TextContent"
+                        ]
+                    },
+                    {
+                        "name": "navigationIcon",
+                        "ordered": true,
+                        "cardinality": {
+                            "min": 0
+                        },
+                        "acceptedRoles": [
+                            "Scaffold",
+                            "Container",
+                            "Leaf"
+                        ]
+                    },
+                    {
+                        "name": "actions",
+                        "ordered": true,
+                        "cardinality": {
+                            "min": 0
+                        },
+                        "acceptedRoles": [
+                            "Scaffold",
+                            "Container",
+                            "Leaf"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "fillMaxWidth",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/checkbox": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3Checkbox",
+                "catalogId": null,
+                "displayName": "Checkbox",
+                "canvas": "m3/checkbox",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "SelectionControl",
+                    "Action"
+                ],
+                "slots": {},
+                "stateCallbacks": {
+                    "onCheckedChange": "checked:boolean"
+                },
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "checked",
+                        "jsonType": [
+                            "boolean",
+                            "string",
+                            "object"
+                        ],
+                        "notes": "A flag, or a `stateEquals` read of a declared state variable — the same shape a filter chip's `selected` takes."
+                    },
+                    {
+                        "name": "enabled",
+                        "jsonType": "boolean"
+                    }
+                ],
+                "slotCapabilities": [],
+                "modifierCapabilities": [
+                    "size",
+                    "padding",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/date-picker": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3DatePicker",
+                "catalogId": null,
+                "displayName": "Date picker",
+                "canvas": "m3/date-picker",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "PickerContent",
+                    "DateContent"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "mode",
+                        "jsonType": "string",
+                        "required": true,
+                        "allowedValues": [
+                            "picker",
+                            "input"
+                        ],
+                        "notes": "Material's own DisplayMode: the calendar, or the typed date field."
+                    },
+                    {
+                        "name": "selectedDate",
+                        "jsonType": "string",
+                        "required": true,
+                        "notes": "ISO-8601 `YYYY-MM-DD`. Pinned rather than read from the clock so a render is the same picture on every day."
+                    },
+                    {
+                        "name": "showModeToggle",
+                        "jsonType": "boolean"
+                    }
+                ],
+                "slotCapabilities": [],
+                "modifierCapabilities": [
+                    "size",
+                    "fillMaxWidth",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/dialog": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3Dialog",
+                "catalogId": null,
+                "displayName": "Dialog",
+                "canvas": "m3/dialog",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "DialogContent",
+                    "OverlayContent"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "containerColor",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is refused at commit."
+                    },
+                    {
+                        "name": "tonalElevationDp",
+                        "jsonType": "number"
+                    },
+                    {
+                        "name": "shapeDp",
+                        "jsonType": "number"
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "icon",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "IconContent"
+                        ]
+                    },
+                    {
+                        "name": "title",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "TextContent"
+                        ]
+                    },
+                    {
+                        "name": "text",
+                        "cardinality": {},
+                        "ordered": true,
+                        "acceptedRoles": [
+                            "Container",
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "AnyContent"
+                        ]
+                    },
+                    {
+                        "name": "dismissButton",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Container"
+                        ],
+                        "acceptedTraits": [
+                            "Action"
+                        ]
+                    },
+                    {
+                        "name": "confirmButton",
+                        "cardinality": {
+                            "min": 1,
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Container"
+                        ],
+                        "acceptedTraits": [
+                            "Action"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "size",
+                    "fillMaxWidth",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "background",
+                    "border",
+                    "shadow",
+                    "wrapContentSize",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/filter-chip": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3FilterChip",
+                "catalogId": null,
+                "displayName": "Filter chip",
+                "canvas": "m3/filter-chip",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "SelectionControl",
+                    "ListItem"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "selected",
+                        "jsonType": [
+                            "boolean",
+                            "string",
+                            "object"
+                        ],
+                        "required": true,
+                        "notes": "A flag, or a `stateEquals` read of a declared state variable — which is an object, and why `object` is one of the accepted types."
+                    },
+                    {
+                        "name": "enabled",
+                        "jsonType": "boolean"
+                    },
+                    {
+                        "name": "shape",
+                        "jsonType": "string"
+                    },
+                    {
+                        "name": "onClickAction",
+                        "jsonType": [
+                            "object",
+                            "null"
+                        ]
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "label",
+                        "cardinality": {
+                            "min": 1,
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "TextContent"
+                        ]
+                    },
+                    {
+                        "name": "leadingIcon",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "AnyContent"
+                        ]
+                    },
+                    {
+                        "name": "trailingIcon",
+                        "ordered": true,
+                        "cardinality": {
+                            "min": 0
+                        },
+                        "acceptedRoles": [
+                            "Scaffold",
+                            "Container",
+                            "Leaf"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "size",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/floating-action-button": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3FloatingActionButton",
+                "catalogId": null,
+                "displayName": null,
+                "canvas": "m3/floating-action-button",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [],
+                "slotCapabilities": [
+                    {
+                        "name": "content",
+                        "ordered": true,
+                        "cardinality": {
+                            "min": 0
+                        },
+                        "acceptedRoles": [
+                            "Scaffold",
+                            "Container",
+                            "Leaf"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/horizontal-divider": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3HorizontalDivider",
+                "catalogId": null,
+                "displayName": "Horizontal divider",
+                "canvas": "m3/horizontal-divider",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "DividerContent"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "thicknessDp",
+                        "jsonType": "number"
+                    },
+                    {
+                        "name": "color",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is refused at commit."
+                    }
+                ],
+                "slotCapabilities": [],
+                "modifierCapabilities": [
+                    "size",
+                    "fillMaxWidth",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/horizontal-floating-toolbar": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3HorizontalFloatingToolbar",
+                "catalogId": null,
+                "displayName": "Horizontal floating toolbar",
+                "canvas": "m3/horizontal-floating-toolbar",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "ToolbarContent",
+                    "OverlayContent"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "expanded",
+                        "jsonType": "boolean"
+                    },
+                    {
+                        "name": "containerColor",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is refused at commit."
+                    },
+                    {
+                        "name": "contentPadding",
+                        "jsonType": "object"
+                    },
+                    {
+                        "name": "alignment",
+                        "jsonType": "string"
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "content",
+                        "cardinality": {
+                            "min": 1
+                        },
+                        "ordered": true,
+                        "acceptedRoles": [
+                            "Container",
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "ToolbarItem"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "size",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/icon": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3Icon",
+                "catalogId": null,
+                "displayName": "Icon",
+                "canvas": "m3/icon",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "IconContent"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "iconKey",
+                        "jsonType": "string",
+                        "required": true,
+                        "notes": "The key that resolves to a vector, and still required: it is what the canvas and the Compose export draw from. iconName and the axes beside it are recorded for the outline registry and become what is drawn once every lane reads it."
+                    },
+                    {
+                        "name": "iconName",
+                        "jsonType": "string",
+                        "notes": "A Material Symbols name, such as search or chevron_right. One name is one icon: the face and the axes below are properties of this node rather than different icons. The host resolves the name against the pinned font and records the outline in the design's assets, so what the canvas draws is what an export and an offline render draw."
+                    },
+                    {
+                        "name": "iconStyle",
+                        "jsonType": "string",
+                        "allowedValues": [
+                            "outlined",
+                            "rounded",
+                            "sharp"
+                        ],
+                        "notes": "Which Material Symbols face draws the name. The three are corner treatments of one drawing, not three icons."
+                    },
+                    {
+                        "name": "iconFill",
+                        "jsonType": "number",
+                        "notes": "The FILL axis: 0 is the stroked drawing, 1 the solid one. Continuous, so a value between them is a partly filled icon."
+                    },
+                    {
+                        "name": "iconWeight",
+                        "jsonType": "number",
+                        "notes": "The wght axis, 100 to 700. The face's own default is 400."
+                    },
+                    {
+                        "name": "iconGrade",
+                        "jsonType": "number",
+                        "notes": "The GRAD axis, -25 to 200. Weight at a fixed footprint: it thickens the stroke without changing how much room the icon takes."
+                    },
+                    {
+                        "name": "iconOpticalSize",
+                        "jsonType": "number",
+                        "notes": "The opsz axis, 20 to 48. The size the drawing is tuned for, which is not the size it is drawn at - that is sizeDp."
+                    },
+                    {
+                        "name": "iconAutoMirror",
+                        "jsonType": "boolean",
+                        "notes": "Whether the icon flips in a right-to-left layout. A property because the font has no idea: an arrow is one glyph, and nothing in it says which way it points relative to the reader."
+                    },
+                    {
+                        "name": "contentDescription",
+                        "jsonType": [
+                            "string",
+                            "null"
+                        ]
+                    },
+                    {
+                        "name": "sizeDp",
+                        "jsonType": "number"
+                    },
+                    {
+                        "name": "color",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is refused at commit."
+                    }
+                ],
+                "slotCapabilities": [],
+                "modifierCapabilities": [
+                    "size",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": {
+                    "targets": [
+                        {
+                            "record": "m3-catalog-typed-pilot/androidx.compose.material3.IconKt.Icon",
+                            "parameters": {
+                                "imageVector": {
+                                    "property": "iconKey",
+                                    "codec": "materialIcon"
+                                },
+                                "contentDescription": {
+                                    "property": "contentDescription",
+                                    "codec": "text"
+                                },
+                                "tint": {
+                                    "property": "color",
+                                    "codec": {
+                                        "color": {
+                                            "scheme": "androidx.compose.material3.MaterialTheme",
+                                            "members": [
+                                                "colorScheme"
+                                            ]
+                                        }
+                                    }
+                                }
+                            },
+                            "modifier": [
+                                {
+                                    "call": "androidx.compose.foundation.layout.size",
+                                    "arguments": [
+                                        {
+                                            "property": "sizeDp",
+                                            "codec": {
+                                                "unit": {
+                                                    "unit": "dp",
+                                                    "positive": true
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "m3/icon-button": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3IconButton",
+                "catalogId": null,
+                "displayName": "Icon button",
+                "canvas": "m3/icon-button",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "Action",
+                    "OverlayControl",
+                    "ToolbarItem"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "style",
+                        "jsonType": "string",
+                        "allowedValues": [
+                            "standard",
+                            "filled",
+                            "tonal",
+                            "outlined"
+                        ],
+                        "notes": "Which Material 3 icon button: `standard` (IconButton, the default), `filled` (FilledIconButton), `tonal` (FilledTonalIconButton) or `outlined` (OutlinedIconButton). One builder component with the style as a property, as `m3/button` is; the catalog keeps a sticker per style."
+                    },
+                    {
+                        "name": "enabled",
+                        "jsonType": "boolean"
+                    },
+                    {
+                        "name": "selected",
+                        "jsonType": "boolean"
+                    },
+                    {
+                        "name": "alignment",
+                        "jsonType": "string"
+                    },
+                    {
+                        "name": "contentDescription",
+                        "jsonType": [
+                            "string",
+                            "null"
+                        ]
+                    },
+                    {
+                        "name": "sizeDp",
+                        "jsonType": "number"
+                    },
+                    {
+                        "name": "onClickAction",
+                        "jsonType": [
+                            "object",
+                            "null"
+                        ]
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "content",
+                        "cardinality": {
+                            "min": 1,
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "IconContent"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "size",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/list-item": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3ListItem",
+                "catalogId": null,
+                "displayName": "List item",
+                "canvas": "m3/list-item",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "ListItem",
+                    "GridItem"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "startAccentColor",
+                        "jsonType": "string",
+                        "notes": "A 3dp bar down the leading edge, drawn behind the item. Empty draws none. A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is refused at commit."
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "headline",
+                        "cardinality": {
+                            "min": 1,
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "TextContent"
+                        ]
+                    },
+                    {
+                        "name": "supporting",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Container",
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "AnyContent"
+                        ]
+                    },
+                    {
+                        "name": "trailing",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Container",
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "AnyContent"
+                        ]
+                    },
+                    {
+                        "name": "leading",
+                        "ordered": true,
+                        "cardinality": {
+                            "min": 0
+                        },
+                        "acceptedRoles": [
+                            "Scaffold",
+                            "Container",
+                            "Leaf"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "fillMaxWidth",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/primary-tab-row": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3PrimaryTabRow",
+                "catalogId": null,
+                "displayName": "Tab row",
+                "canvas": "m3/primary-tab-row",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "TabBar",
+                    "OrderedContent"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "selectedIndex",
+                        "jsonType": [
+                            "integer",
+                            "object"
+                        ],
+                        "required": true,
+                        "notes": "An index, or a `state` read of a declared `int` variable — which is an object, and why `object` is one of the accepted types. It is the variable the tabs write."
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "tabs",
+                        "cardinality": {
+                            "min": 1
+                        },
+                        "ordered": true,
+                        "acceptedRoles": [
+                            "Container"
+                        ],
+                        "acceptedTraits": [
+                            "TabItem"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "fillMaxWidth",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/linear-progress-indicator": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3LinearProgressIndicator",
+                "catalogId": null,
+                "displayName": "Linear progress indicator",
+                "canvas": "m3/linear-progress-indicator",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "Feedback",
+                    "Decoration"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "progress",
+                        "jsonType": [
+                            "number",
+                            "object"
+                        ],
+                        "notes": "0..1, a literal or a `state` read. Absent means the indeterminate indicator — Material's own distinction between a progress you know and one you do not."
+                    },
+                    {
+                        "name": "indeterminate",
+                        "jsonType": "boolean",
+                        "notes": "Draws the running animation rather than a value. Pinned to its first frame on the canvas, because a render that animates is a render that cannot be diffed."
+                    }
+                ],
+                "slotCapabilities": [],
+                "modifierCapabilities": [
+                    "size",
+                    "fillMaxWidth",
+                    "padding",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/circular-progress-indicator": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3CircularProgressIndicator",
+                "catalogId": null,
+                "displayName": "Circular progress indicator",
+                "canvas": "m3/circular-progress-indicator",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "Feedback",
+                    "Decoration"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "progress",
+                        "jsonType": [
+                            "number",
+                            "object"
+                        ],
+                        "notes": "0..1, a literal or a `state` read. Absent means the indeterminate indicator — Material's own distinction between a progress you know and one you do not."
+                    },
+                    {
+                        "name": "indeterminate",
+                        "jsonType": "boolean",
+                        "notes": "Draws the running animation rather than a value. Pinned to its first frame on the canvas, because a render that animates is a render that cannot be diffed."
+                    }
+                ],
+                "slotCapabilities": [],
+                "modifierCapabilities": [
+                    "size",
+                    "fillMaxWidth",
+                    "padding",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/provide-text-style": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3ProvideTextStyle",
+                "catalogId": null,
+                "displayName": null,
+                "canvas": "m3/provide-text-style",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "style",
+                        "jsonType": "string",
+                        "required": false
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "content",
+                        "ordered": true,
+                        "cardinality": {
+                            "min": 0
+                        },
+                        "acceptedRoles": [
+                            "Scaffold",
+                            "Container",
+                            "Leaf"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/radio-button": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3RadioButton",
+                "catalogId": null,
+                "displayName": "Radio button",
+                "canvas": "m3/radio-button",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "SelectionControl",
+                    "Action"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "selected",
+                        "jsonType": [
+                            "boolean",
+                            "string",
+                            "object"
+                        ],
+                        "notes": "A flag, or a `stateEquals` read of a declared state variable — which is what makes a group of them pick one option between them."
+                    },
+                    {
+                        "name": "enabled",
+                        "jsonType": "boolean"
+                    }
+                ],
+                "slotCapabilities": [],
+                "modifierCapabilities": [
+                    "size",
+                    "padding",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/search-bar": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3SearchBar",
+                "catalogId": null,
+                "displayName": "Search bar",
+                "canvas": "m3/search-bar",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "TopBar",
+                    "SearchContent"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "expanded",
+                        "jsonType": "boolean",
+                        "required": true
+                    },
+                    {
+                        "name": "shapeDp",
+                        "jsonType": "number"
+                    },
+                    {
+                        "name": "tonalElevationDp",
+                        "jsonType": "number"
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "inputField",
+                        "cardinality": {
+                            "min": 1,
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Container"
+                        ],
+                        "acceptedTraits": [
+                            "SearchInput"
+                        ]
+                    },
+                    {
+                        "name": "expandedContent",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Container"
+                        ],
+                        "acceptedTraits": [
+                            "AnyContent"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "size",
+                    "fillMaxWidth",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/search-input-field": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3SearchInputField",
+                "catalogId": null,
+                "displayName": "Search input field",
+                "canvas": "m3/search-input-field",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "SearchInput",
+                    "TextInput"
+                ],
+                "slots": {},
+                "stateCallbacks": {
+                    "onValueChange": "value:string"
+                },
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "value",
+                        "jsonType": [
+                            "object",
+                            "string"
+                        ],
+                        "required": true
+                    },
+                    {
+                        "name": "enabled",
+                        "jsonType": "boolean"
+                    },
+                    {
+                        "name": "readOnly",
+                        "jsonType": "boolean"
+                    },
+                    {
+                        "name": "onQueryChangeAction",
+                        "jsonType": [
+                            "object",
+                            "null"
+                        ]
+                    },
+                    {
+                        "name": "onSearchAction",
+                        "jsonType": [
+                            "object",
+                            "null"
+                        ]
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "placeholder",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "TextContent"
+                        ]
+                    },
+                    {
+                        "name": "leadingIcon",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Container",
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "IconContent",
+                            "Action"
+                        ]
+                    },
+                    {
+                        "name": "trailingIcon",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Container",
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "IconContent",
+                            "Action"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "size",
+                    "fillMaxWidth",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/slider": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3Slider",
+                "catalogId": null,
+                "displayName": "Slider",
+                "canvas": "m3/slider",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "SelectionControl",
+                    "FormField"
+                ],
+                "slots": {},
+                "stateCallbacks": {
+                    "onValueChange": "value:number"
+                },
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "value",
+                        "jsonType": [
+                            "number",
+                            "object"
+                        ],
+                        "required": true,
+                        "notes": "A literal, or a `state` read of a declared decimal variable — which is what makes dragging the canvas change the design's state rather than the slider's own memory."
+                    },
+                    {
+                        "name": "valueFrom",
+                        "jsonType": "number"
+                    },
+                    {
+                        "name": "valueTo",
+                        "jsonType": "number"
+                    },
+                    {
+                        "name": "steps",
+                        "jsonType": "integer",
+                        "notes": "Discrete stops between the ends, as Material counts them: 0 is a continuous slider."
+                    },
+                    {
+                        "name": "enabled",
+                        "jsonType": "boolean"
+                    }
+                ],
+                "slotCapabilities": [],
+                "modifierCapabilities": [
+                    "size",
+                    "fillMaxWidth",
+                    "padding",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/surface": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3Surface",
+                "catalogId": null,
+                "displayName": "Surface",
+                "canvas": "m3/surface",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "ScreenContent",
+                    "PaneContent",
+                    "GridItem",
+                    "ListItem",
+                    "RemoteAuthorable"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "containerColor",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is refused at commit. Painted across the area the surface is measured to, and no further. A root surface with no size modifier wraps its content, so its containerColor is the frame's ground only when the root fills the frame (fillMaxSize); the ground outside it comes from environment.theme. The export reports ROOT_SURFACE_DOES_NOT_FILL_FRAME when a coloured root does not."
+                    },
+                    {
+                        "name": "contentColor",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is refused at commit."
+                    },
+                    {
+                        "name": "shapeDp",
+                        "jsonType": "number"
+                    },
+                    {
+                        "name": "tonalElevationDp",
+                        "jsonType": "number"
+                    },
+                    {
+                        "name": "themePrimaryColor",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is refused at commit."
+                    },
+                    {
+                        "name": "themeBackgroundColor",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is refused at commit."
+                    },
+                    {
+                        "name": "themeSurfaceColor",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is refused at commit."
+                    },
+                    {
+                        "name": "themeContentColor",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is refused at commit."
+                    },
+                    {
+                        "name": "themeTypeScale",
+                        "jsonType": "number"
+                    },
+                    {
+                        "name": "themeCornerRadiusDp",
+                        "jsonType": "number"
+                    },
+                    {
+                        "name": "themeDisplayTypeface",
+                        "jsonType": "string",
+                        "notes": "The font family for the display roles (displayLarge, displayMedium, displaySmall) of everything this theme host contains. A family name: one of the editor's vendored faces or any Google Fonts family (\"Space Grotesk\", \"Michroma\"); a `google:` prefix is accepted. Generated code sets it as a `GoogleFont` family on the theme's typography. Unset keeps the platform's own face for these roles."
+                    },
+                    {
+                        "name": "themeHeadlineTypeface",
+                        "jsonType": "string",
+                        "notes": "The font family for the headline roles (headlineLarge, headlineMedium, headlineSmall) of everything this theme host contains. A family name: one of the editor's vendored faces or any Google Fonts family (\"Space Grotesk\", \"Michroma\"); a `google:` prefix is accepted. Generated code sets it as a `GoogleFont` family on the theme's typography. Unset keeps the platform's own face for these roles."
+                    },
+                    {
+                        "name": "themeTitleTypeface",
+                        "jsonType": "string",
+                        "notes": "The font family for the title roles (titleLarge, titleMedium, titleSmall) of everything this theme host contains. A family name: one of the editor's vendored faces or any Google Fonts family (\"Space Grotesk\", \"Michroma\"); a `google:` prefix is accepted. Generated code sets it as a `GoogleFont` family on the theme's typography. Unset keeps the platform's own face for these roles."
+                    },
+                    {
+                        "name": "themeBodyTypeface",
+                        "jsonType": "string",
+                        "notes": "The font family for the body roles (bodyLarge, bodyMedium, bodySmall) of everything this theme host contains. A family name: one of the editor's vendored faces or any Google Fonts family (\"Space Grotesk\", \"Michroma\"); a `google:` prefix is accepted. Generated code sets it as a `GoogleFont` family on the theme's typography. Unset keeps the platform's own face for these roles."
+                    },
+                    {
+                        "name": "themeLabelTypeface",
+                        "jsonType": "string",
+                        "notes": "The font family for the label roles (labelLarge, labelMedium, labelSmall) of everything this theme host contains. A family name: one of the editor's vendored faces or any Google Fonts family (\"Space Grotesk\", \"Michroma\"); a `google:` prefix is accepted. Generated code sets it as a `GoogleFont` family on the theme's typography. Unset keeps the platform's own face for these roles."
+                    },
+                    {
+                        "name": "themeTextStyle",
+                        "jsonType": "string",
+                        "allowedValues": [
+                            "displayLarge",
+                            "displayMedium",
+                            "displaySmall",
+                            "headlineLarge",
+                            "headlineMedium",
+                            "headlineSmall",
+                            "titleLarge",
+                            "titleMedium",
+                            "titleSmall",
+                            "bodyLarge",
+                            "bodyMedium",
+                            "bodySmall",
+                            "labelLarge",
+                            "labelMedium",
+                            "labelSmall"
+                        ],
+                        "notes": "The type role a text with no `style` of its own is set in, for everything this theme host contains — and with it that role's size and typeface. Both themes default to `bodyLarge`; choose `labelLarge` for a design whose plain text is mostly labels, or a display role for one that is mostly figures. Generated code provides it as `ProvideTextStyle(MaterialTheme.typography.<role>)` inside the theme."
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "content",
+                        "cardinality": {},
+                        "ordered": true,
+                        "acceptedRoles": [
+                            "Scaffold",
+                            "Container",
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "AnyContent"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "size",
+                    "fillMaxSize",
+                    "fillMaxWidth",
+                    "padding",
+                    "clip",
+                    "matchParentSize",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "fillMaxHeight",
+                    "background",
+                    "border",
+                    "shadow",
+                    "wrapContentSize",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/switch": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3Switch",
+                "catalogId": null,
+                "displayName": "Switch",
+                "canvas": "m3/switch",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "SelectionControl",
+                    "Action"
+                ],
+                "slots": {},
+                "stateCallbacks": {
+                    "onCheckedChange": "checked:boolean"
+                },
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "checked",
+                        "jsonType": [
+                            "boolean",
+                            "string",
+                            "object"
+                        ],
+                        "notes": "A flag, or a `stateEquals` read of a declared state variable — which is an object, and why `object` is one of the accepted types."
+                    },
+                    {
+                        "name": "enabled",
+                        "jsonType": "boolean"
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "thumbContent",
+                        "ordered": true,
+                        "cardinality": {
+                            "min": 0
+                        },
+                        "acceptedRoles": [
+                            "Scaffold",
+                            "Container",
+                            "Leaf"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "size",
+                    "padding",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/tab": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3Tab",
+                "catalogId": null,
+                "displayName": "Tab",
+                "canvas": "m3/tab",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "TabItem",
+                    "SelectionControl"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "selected",
+                        "jsonType": [
+                            "boolean",
+                            "string",
+                            "object"
+                        ],
+                        "required": true,
+                        "notes": "A flag, or a `stateEquals` read of a declared state variable — the same shapes `m3/filter-chip` accepts, and for the same reason: a tab whose selection cannot be read from state is a tab that cannot be selected."
+                    },
+                    {
+                        "name": "enabled",
+                        "jsonType": "boolean",
+                        "required": false
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "text",
+                        "cardinality": {
+                            "min": 1,
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "TextContent"
+                        ]
+                    },
+                    {
+                        "name": "icon",
+                        "ordered": true,
+                        "cardinality": {
+                            "min": 0
+                        },
+                        "acceptedRoles": [
+                            "Scaffold",
+                            "Container",
+                            "Leaf"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/text": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3Text",
+                "catalogId": null,
+                "displayName": "Text",
+                "canvas": "m3/text",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "TextContent",
+                    "RemoteAuthorable"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "text",
+                        "jsonType": "string",
+                        "required": true
+                    },
+                    {
+                        "name": "style",
+                        "jsonType": "string",
+                        "allowedValues": [
+                            "displayLarge",
+                            "displayMedium",
+                            "displaySmall",
+                            "headlineLarge",
+                            "headlineMedium",
+                            "headlineSmall",
+                            "titleLarge",
+                            "titleMedium",
+                            "titleSmall",
+                            "bodyLarge",
+                            "bodyMedium",
+                            "bodySmall",
+                            "labelLarge",
+                            "labelMedium",
+                            "labelSmall"
+                        ]
+                    },
+                    {
+                        "name": "fontWeight",
+                        "jsonType": "string",
+                        "allowedValues": [
+                            "normal",
+                            "medium",
+                            "semiBold",
+                            "bold"
+                        ]
+                    },
+                    {
+                        "name": "fontStyle",
+                        "jsonType": "string",
+                        "allowedValues": [
+                            "normal",
+                            "italic"
+                        ]
+                    },
+                    {
+                        "name": "color",
+                        "jsonType": "string",
+                        "notes": "A colour, written as {\"type\":\"color\",\"value\":\"#RRGGBB\"} or as {\"type\":\"colorToken\",\"value\":\"primary\"} naming one of statusSemantics.colorTokens. A string wrapper, or a role the canvas does not draw, is refused at commit."
+                    },
+                    {
+                        "name": "fontSizeSp",
+                        "jsonType": "number"
+                    },
+                    {
+                        "name": "lineHeightSp",
+                        "jsonType": "number"
+                    },
+                    {
+                        "name": "letterSpacingSp",
+                        "jsonType": "number"
+                    },
+                    {
+                        "name": "minLines",
+                        "jsonType": "integer"
+                    },
+                    {
+                        "name": "maxLines",
+                        "jsonType": "integer"
+                    },
+                    {
+                        "name": "softWrap",
+                        "jsonType": "boolean"
+                    },
+                    {
+                        "name": "overflow",
+                        "jsonType": "string",
+                        "allowedValues": [
+                            "clip",
+                            "ellipsis",
+                            "visible"
+                        ]
+                    },
+                    {
+                        "name": "textAlign",
+                        "jsonType": "string",
+                        "allowedValues": [
+                            "start",
+                            "center",
+                            "end",
+                            "justify"
+                        ]
+                    },
+                    {
+                        "name": "textDecoration",
+                        "jsonType": "string",
+                        "allowedValues": [
+                            "none",
+                            "underline",
+                            "lineThrough"
+                        ]
+                    },
+                    {
+                        "name": "alignment",
+                        "jsonType": "string",
+                        "allowedValues": [
+                            "topStart",
+                            "topCenter",
+                            "topEnd",
+                            "centerStart",
+                            "center",
+                            "centerEnd",
+                            "bottomStart",
+                            "bottomCenter",
+                            "bottomEnd"
+                        ]
+                    },
+                    {
+                        "name": "weight",
+                        "jsonType": "number"
+                    }
+                ],
+                "slotCapabilities": [],
+                "modifierCapabilities": [
+                    "size",
+                    "fillMaxWidth",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": {
+                    "targets": [
+                        {
+                            "record": "m3-catalog-typed-pilot/androidx.compose.material3.TextKt.Text",
+                            "parameters": {
+                                "text": {
+                                    "property": "text",
+                                    "codec": "text"
+                                },
+                                "style": {
+                                    "property": "style",
+                                    "codec": {
+                                        "token": {
+                                            "root": "androidx.compose.material3.MaterialTheme",
+                                            "members": [
+                                                "typography"
+                                            ],
+                                            "type": "androidx.compose.ui.text.TextStyle",
+                                            "tokens": [
+                                                "bodyLarge",
+                                                "bodyMedium",
+                                                "bodySmall",
+                                                "displayLarge",
+                                                "displayMedium",
+                                                "displaySmall",
+                                                "headlineLarge",
+                                                "headlineMedium",
+                                                "headlineSmall",
+                                                "labelLarge",
+                                                "labelMedium",
+                                                "labelSmall",
+                                                "titleLarge",
+                                                "titleMedium",
+                                                "titleSmall"
+                                            ]
+                                        }
+                                    }
+                                },
+                                "color": {
+                                    "property": "color",
+                                    "codec": {
+                                        "color": {
+                                            "scheme": "androidx.compose.material3.MaterialTheme",
+                                            "members": [
+                                                "colorScheme"
+                                            ]
+                                        }
+                                    }
+                                },
+                                "fontWeight": {
+                                    "property": "fontWeight",
+                                    "codec": {
+                                        "enum": {
+                                            "type": "androidx.compose.ui.text.font.FontWeight",
+                                            "members": {
+                                                "normal": "androidx.compose.ui.text.font.FontWeight.Normal",
+                                                "medium": "androidx.compose.ui.text.font.FontWeight.Medium",
+                                                "semiBold": "androidx.compose.ui.text.font.FontWeight.SemiBold",
+                                                "bold": "androidx.compose.ui.text.font.FontWeight.Bold"
+                                            }
+                                        }
+                                    }
+                                },
+                                "fontStyle": {
+                                    "property": "fontStyle",
+                                    "codec": {
+                                        "enum": {
+                                            "type": "androidx.compose.ui.text.font.FontStyle",
+                                            "members": {
+                                                "normal": "androidx.compose.ui.text.font.FontStyle.Normal",
+                                                "italic": "androidx.compose.ui.text.font.FontStyle.Italic"
+                                            }
+                                        }
+                                    }
+                                },
+                                "fontSize": {
+                                    "property": "fontSizeSp",
+                                    "codec": {
+                                        "unit": {
+                                            "unit": "sp",
+                                            "positive": true
+                                        }
+                                    }
+                                },
+                                "lineHeight": {
+                                    "property": "lineHeightSp",
+                                    "codec": {
+                                        "unit": {
+                                            "unit": "sp",
+                                            "positive": true
+                                        }
+                                    }
+                                },
+                                "letterSpacing": {
+                                    "property": "letterSpacingSp",
+                                    "codec": {
+                                        "unit": {
+                                            "unit": "sp"
+                                        }
+                                    },
+                                    "omitWhen": 1.4E-45
+                                },
+                                "textDecoration": {
+                                    "property": "textDecoration",
+                                    "codec": {
+                                        "enum": {
+                                            "type": "androidx.compose.ui.text.style.TextDecoration",
+                                            "members": {
+                                                "none": "androidx.compose.ui.text.style.TextDecoration.None",
+                                                "underline": "androidx.compose.ui.text.style.TextDecoration.Underline",
+                                                "lineThrough": "androidx.compose.ui.text.style.TextDecoration.LineThrough"
+                                            }
+                                        }
+                                    },
+                                    "omitWhen": "none"
+                                },
+                                "textAlign": {
+                                    "property": "textAlign",
+                                    "codec": {
+                                        "enum": {
+                                            "type": "androidx.compose.ui.text.style.TextAlign",
+                                            "members": {
+                                                "start": "androidx.compose.ui.text.style.TextAlign.Start",
+                                                "center": "androidx.compose.ui.text.style.TextAlign.Center",
+                                                "end": "androidx.compose.ui.text.style.TextAlign.End",
+                                                "justify": "androidx.compose.ui.text.style.TextAlign.Justify"
+                                            }
+                                        }
+                                    }
+                                },
+                                "minLines": {
+                                    "property": "minLines",
+                                    "codec": "whole",
+                                    "omitWhen": 1
+                                },
+                                "maxLines": {
+                                    "property": "maxLines",
+                                    "codec": "whole",
+                                    "omitWhen": 2147483647
+                                },
+                                "softWrap": {
+                                    "property": "softWrap",
+                                    "codec": "bool",
+                                    "omitWhen": true
+                                },
+                                "overflow": {
+                                    "property": "overflow",
+                                    "codec": {
+                                        "enum": {
+                                            "type": "androidx.compose.ui.text.style.TextOverflow",
+                                            "members": {
+                                                "clip": "androidx.compose.ui.text.style.TextOverflow.Clip",
+                                                "ellipsis": "androidx.compose.ui.text.style.TextOverflow.Ellipsis",
+                                                "visible": "androidx.compose.ui.text.style.TextOverflow.Visible"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "m3/text-field": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3TextField",
+                "catalogId": null,
+                "displayName": "Text field",
+                "canvas": "m3/text-field",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "TextInput",
+                    "FormField"
+                ],
+                "slots": {},
+                "stateCallbacks": {
+                    "onValueChange": "value:string"
+                },
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "value",
+                        "jsonType": [
+                            "string",
+                            "object"
+                        ],
+                        "notes": "A literal, or a `state` read of a declared variable — the same shape a search input's `value` takes, and what makes typing in the canvas change the design's state rather than a field's own memory."
+                    },
+                    {
+                        "name": "enabled",
+                        "jsonType": "boolean"
+                    },
+                    {
+                        "name": "readOnly",
+                        "jsonType": "boolean"
+                    },
+                    {
+                        "name": "singleLine",
+                        "jsonType": "boolean"
+                    },
+                    {
+                        "name": "isError",
+                        "jsonType": "boolean"
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "label",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "TextContent"
+                        ]
+                    },
+                    {
+                        "name": "placeholder",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "TextContent"
+                        ]
+                    },
+                    {
+                        "name": "supportingText",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "TextContent"
+                        ]
+                    },
+                    {
+                        "name": "leadingIcon",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Container",
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "IconContent",
+                            "Action"
+                        ]
+                    },
+                    {
+                        "name": "trailingIcon",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Container",
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "IconContent",
+                            "Action"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "size",
+                    "fillMaxWidth",
+                    "padding",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/outlined-text-field": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3OutlinedTextField",
+                "catalogId": null,
+                "displayName": "Outlined text field",
+                "canvas": "m3/outlined-text-field",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "TextInput",
+                    "FormField"
+                ],
+                "slots": {},
+                "stateCallbacks": {
+                    "onValueChange": "value:string"
+                },
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "value",
+                        "jsonType": [
+                            "string",
+                            "object"
+                        ],
+                        "notes": "A literal, or a `state` read of a declared variable — the same shape a search input's `value` takes, and what makes typing in the canvas change the design's state rather than a field's own memory."
+                    },
+                    {
+                        "name": "enabled",
+                        "jsonType": "boolean"
+                    },
+                    {
+                        "name": "readOnly",
+                        "jsonType": "boolean"
+                    },
+                    {
+                        "name": "singleLine",
+                        "jsonType": "boolean"
+                    },
+                    {
+                        "name": "isError",
+                        "jsonType": "boolean"
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "label",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "TextContent"
+                        ]
+                    },
+                    {
+                        "name": "placeholder",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "TextContent"
+                        ]
+                    },
+                    {
+                        "name": "supportingText",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "TextContent"
+                        ]
+                    },
+                    {
+                        "name": "leadingIcon",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Container",
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "IconContent",
+                            "Action"
+                        ]
+                    },
+                    {
+                        "name": "trailingIcon",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Container",
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "IconContent",
+                            "Action"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "size",
+                    "fillMaxWidth",
+                    "padding",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/time-picker": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3TimePicker",
+                "catalogId": null,
+                "displayName": "Time picker",
+                "canvas": "m3/time-picker",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "PickerContent",
+                    "TimeContent"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "mode",
+                        "jsonType": "string",
+                        "required": true,
+                        "allowedValues": [
+                            "dial",
+                            "input"
+                        ],
+                        "notes": "The clock face, or the two typed fields Material calls TimeInput — two composables over one state, spelled as one component the way `m3/progress-indicator` spells linear and circular."
+                    },
+                    {
+                        "name": "hour",
+                        "jsonType": "integer",
+                        "required": true,
+                        "notes": "0..23 whatever `is24Hour` says: the state holds a 24-hour clock and renders it in the chosen one."
+                    },
+                    {
+                        "name": "minute",
+                        "jsonType": "integer",
+                        "required": true
+                    },
+                    {
+                        "name": "is24Hour",
+                        "jsonType": "boolean"
+                    }
+                ],
+                "slotCapabilities": [],
+                "modifierCapabilities": [
+                    "size",
+                    "fillMaxWidth",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/sticker": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3Sticker",
+                "catalogId": null,
+                "displayName": null,
+                "canvas": "m3/sticker",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": "the catalog's own preview frame, not a Material component: every sticker is drawn inside one, the Design Kit publishes no node for it, and nobody places one in a design.",
+                "propertyCapabilities": [],
+                "slotCapabilities": [
+                    {
+                        "name": "content",
+                        "ordered": true,
+                        "cardinality": {
+                            "min": 0
+                        },
+                        "acceptedRoles": [
+                            "Scaffold",
+                            "Container",
+                            "Leaf"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/material-expressive-theme": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3MaterialExpressiveTheme",
+                "catalogId": null,
+                "displayName": null,
+                "canvas": "m3/material-expressive-theme",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": "the theme scope every preview is wrapped in, not a component a design places. A design's theme is the document's, not a node's.",
+                "propertyCapabilities": [],
+                "slotCapabilities": [
+                    {
+                        "name": "content",
+                        "ordered": true,
+                        "cardinality": {
+                            "min": 0
+                        },
+                        "acceptedRoles": [
+                            "Scaffold",
+                            "Container",
+                            "Leaf"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/navigation-suite-item": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3NavigationSuiteItem",
+                "catalogId": null,
+                "displayName": "Navigation item",
+                "canvas": "m3/navigation-suite-item",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "NavigationItem",
+                    "SelectionControl"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "selected",
+                        "jsonType": [
+                            "boolean",
+                            "string",
+                            "object"
+                        ],
+                        "required": true,
+                        "notes": "A flag, or a `stateEquals` read of a declared state variable — the shapes `m3/tab` accepts, for the same reason."
+                    },
+                    {
+                        "name": "enabled",
+                        "jsonType": "boolean",
+                        "required": false
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "icon",
+                        "cardinality": {
+                            "min": 1,
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Leaf"
+                        ]
+                    },
+                    {
+                        "name": "label",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Leaf"
+                        ],
+                        "acceptedTraits": [
+                            "TextContent"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": {
+                    "targets": [
+                        {
+                            "record": "m3-catalog-typed-pilot/androidx.compose.material3.adaptive.navigationsuite.NavigationSuiteScaffoldKt.NavigationSuiteItem",
+                            "events": {
+                                "click": "onClick"
+                            },
+                            "parameters": {
+                                "selected": {
+                                    "property": "selected",
+                                    "codec": "bool"
+                                },
+                                "enabled": {
+                                    "property": "enabled",
+                                    "codec": "bool",
+                                    "omitWhen": true
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "m3/navigation-suite-scaffold": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3NavigationSuiteScaffold",
+                "catalogId": null,
+                "displayName": "Navigation suite",
+                "canvas": "m3/navigation-suite-scaffold",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "ScreenContent",
+                    "AdaptiveNavigation"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "containerColor",
+                        "jsonType": "string",
+                        "required": false
+                    },
+                    {
+                        "name": "contentColor",
+                        "jsonType": "string",
+                        "required": false
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "navigationItems",
+                        "cardinality": {
+                            "min": 1
+                        },
+                        "ordered": true,
+                        "acceptedRoles": [
+                            "Container"
+                        ],
+                        "acceptedTraits": [
+                            "NavigationItem"
+                        ]
+                    },
+                    {
+                        "name": "primaryAction",
+                        "cardinality": {
+                            "max": 1
+                        },
+                        "ordered": false,
+                        "acceptedRoles": [
+                            "Container",
+                            "Leaf"
+                        ]
+                    },
+                    {
+                        "name": "content",
+                        "cardinality": {
+                            "min": 1
+                        },
+                        "ordered": true,
+                        "acceptedRoles": [
+                            "Container",
+                            "Scaffold",
+                            "Leaf"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "size",
+                    "fillMaxSize",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "fillMaxHeight",
+                    "background",
+                    "border",
+                    "shadow",
+                    "wrapContentSize",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": "Scaffold",
+                "exportProjection": {
+                    "targets": [
+                        {
+                            "record": "m3-catalog-typed-pilot/androidx.compose.material3.adaptive.navigationsuite.NavigationSuiteScaffoldKt.NavigationSuiteScaffold",
+                            "slots": {
+                                "primaryAction": "primaryActionContent"
+                            },
+                            "parameters": {
+                                "containerColor": {
+                                    "property": "containerColor",
+                                    "codec": {
+                                        "color": {
+                                            "scheme": "androidx.compose.material3.MaterialTheme",
+                                            "members": [
+                                                "colorScheme"
+                                            ]
+                                        }
+                                    }
+                                },
+                                "contentColor": {
+                                    "property": "contentColor",
+                                    "codec": {
+                                        "color": {
+                                            "scheme": "androidx.compose.material3.MaterialTheme",
+                                            "members": [
+                                                "colorScheme"
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "m3/primary-scrollable-tab-row": {
+                "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3PrimaryScrollableTabRow",
+                "catalogId": null,
+                "displayName": "Scrollable tab row",
+                "canvas": "m3/primary-scrollable-tab-row",
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [
+                    "TabBar",
+                    "OrderedContent"
+                ],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": null,
+                "propertyCapabilities": [
+                    {
+                        "name": "selectedIndex",
+                        "jsonType": [
+                            "integer",
+                            "object"
+                        ],
+                        "required": true,
+                        "notes": "An index, or a `state` read of a declared `int` variable — the shapes `m3/primary-tab-row` accepts. It is the variable the tabs write."
+                    },
+                    {
+                        "name": "containerColor",
+                        "jsonType": "string",
+                        "required": false
+                    },
+                    {
+                        "name": "contentColor",
+                        "jsonType": "string",
+                        "required": false
+                    },
+                    {
+                        "name": "edgePaddingDp",
+                        "jsonType": "number",
+                        "required": false
+                    },
+                    {
+                        "name": "minTabWidthDp",
+                        "jsonType": "number",
+                        "required": false
+                    }
+                ],
+                "slotCapabilities": [
+                    {
+                        "name": "tabs",
+                        "cardinality": {
+                            "min": 1
+                        },
+                        "ordered": true,
+                        "acceptedRoles": [
+                            "Container"
+                        ],
+                        "acceptedTraits": [
+                            "TabItem"
+                        ]
+                    }
+                ],
+                "modifierCapabilities": [
+                    "fillMaxWidth",
+                    "padding",
+                    "alpha",
+                    "offset",
+                    "rotate",
+                    "scale",
+                    "zIndex",
+                    "testTag",
+                    "width",
+                    "height",
+                    "widthIn",
+                    "heightIn",
+                    "aspectRatio",
+                    "align",
+                    "alignHorizontal",
+                    "alignVertical",
+                    "weight"
+                ],
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/export-text": {
+                "record": "m3-catalog-typed-pilot/androidx.compose.material3.TextKt.Text",
+                "catalogId": null,
+                "displayName": null,
+                "canvas": null,
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": "an export target of m3/text",
+                "propertyCapabilities": null,
+                "slotCapabilities": null,
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/export-icon": {
+                "record": "m3-catalog-typed-pilot/androidx.compose.material3.IconKt.Icon",
+                "catalogId": null,
+                "displayName": null,
+                "canvas": null,
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": "an export target of m3/icon",
+                "propertyCapabilities": null,
+                "slotCapabilities": null,
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/export-card": {
+                "record": "m3-catalog-typed-pilot/androidx.compose.material3.CardKt.Card",
+                "catalogId": null,
+                "displayName": null,
+                "canvas": null,
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": "an export target of m3/card",
+                "propertyCapabilities": null,
+                "slotCapabilities": null,
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/export-elevatedcard": {
+                "record": "m3-catalog-typed-pilot/androidx.compose.material3.CardKt.ElevatedCard",
+                "catalogId": null,
+                "displayName": null,
+                "canvas": null,
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": "an export target of m3/card",
+                "propertyCapabilities": null,
+                "slotCapabilities": null,
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/export-outlinedcard": {
+                "record": "m3-catalog-typed-pilot/androidx.compose.material3.CardKt.OutlinedCard",
+                "catalogId": null,
+                "displayName": null,
+                "canvas": null,
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": "an export target of m3/card",
+                "propertyCapabilities": null,
+                "slotCapabilities": null,
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/export-navigationsuiteitem": {
+                "record": "m3-catalog-typed-pilot/androidx.compose.material3.adaptive.navigationsuite.NavigationSuiteScaffoldKt.NavigationSuiteItem",
+                "catalogId": null,
+                "displayName": null,
+                "canvas": null,
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": "an export target of m3/navigation-suite-item",
+                "propertyCapabilities": null,
+                "slotCapabilities": null,
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/export-navigationsuitescaffold": {
+                "record": "m3-catalog-typed-pilot/androidx.compose.material3.adaptive.navigationsuite.NavigationSuiteScaffoldKt.NavigationSuiteScaffold",
+                "catalogId": null,
+                "displayName": null,
+                "canvas": null,
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": "an export target of m3/navigation-suite-scaffold",
+                "propertyCapabilities": null,
+                "slotCapabilities": null,
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            }
+        },
+        "designTokens": null
+    },
+    "diagnostics": [
+        {
+            "code": "component.excluded",
+            "subject": "m3/sticker",
+            "message": "kept off the builder's shelf: the catalog's own preview frame, not a Material component: every sticker is drawn inside one, the Design Kit publishes no node for it, and nobody places one in a design."
+        },
+        {
+            "code": "component.excluded",
+            "subject": "m3/material-expressive-theme",
+            "message": "kept off the builder's shelf: the theme scope every preview is wrapped in, not a component a design places. A design's theme is the document's, not a node's."
+        },
+        {
+            "code": "component.excluded",
+            "subject": "m3/export-text",
+            "message": "kept off the builder's shelf: an export target of m3/text"
+        },
+        {
+            "code": "component.excluded",
+            "subject": "m3/export-icon",
+            "message": "kept off the builder's shelf: an export target of m3/icon"
+        },
+        {
+            "code": "component.excluded",
+            "subject": "m3/export-card",
+            "message": "kept off the builder's shelf: an export target of m3/card"
+        },
+        {
+            "code": "component.excluded",
+            "subject": "m3/export-elevatedcard",
+            "message": "kept off the builder's shelf: an export target of m3/card"
+        },
+        {
+            "code": "component.excluded",
+            "subject": "m3/export-outlinedcard",
+            "message": "kept off the builder's shelf: an export target of m3/card"
+        },
+        {
+            "code": "component.excluded",
+            "subject": "m3/export-navigationsuiteitem",
+            "message": "kept off the builder's shelf: an export target of m3/navigation-suite-item"
+        },
+        {
+            "code": "component.excluded",
+            "subject": "m3/export-navigationsuitescaffold",
+            "message": "kept off the builder's shelf: an export target of m3/navigation-suite-scaffold"
+        }
+    ]
+}
