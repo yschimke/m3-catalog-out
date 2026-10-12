@@ -51844,6 +51844,43 @@
       }
     },
     {
+      "id": "textfield-filled__ideal__cell-style-filled-state-error-text-configurations-label-text-leading-icon-false-trailing-icon-true-52798-25654",
+      "previewId": "textfield-filled__ideal__cell-style-filled-state-error-text-configurations-label-text-leading-icon-false-trailing-icon-true-52798-25654",
+      "label": "TextField/Filled — figma",
+      "tier": "secondary",
+      "slot": {
+        "state": "cell-style-filled-state-error-text-configurations-label-text-leading-icon-false-trailing-icon-true-52798-25654"
+      },
+      "raster": {
+        "path": "references/textfield-filled__ideal__cell-style-filled-state-error-text-configurations-label-text-leading-icon-false-trailing-icon-true-52798-25654.png",
+        "width": 551,
+        "height": 200,
+        "density": 2.625,
+        "sha256": "6af045187b5fcb38d96f900d8c64c45e4fe6d125c5852b49bbf3993206580b98",
+        "transform": {
+          "scaleX": 0.998188,
+          "scaleY": 1,
+          "offsetX": 0,
+          "offsetY": 2
+        }
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/TextFields.kt#FilledTextField",
+          "preview": "FilledTextField",
+          "componentId": "TextField/Filled"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/52798:25654"
+      },
+      "match": {
+        "percent": 92.37,
+        "changedPercent": 11.42,
+        "scoreVersion": 3,
+        "geometry": 3
+      }
+    },
+    {
       "id": "textfield-filled__ideal__cell-style-filled-state-error-text-configurations-label-text-leading-icon-true-trailing-icon-false-52798-25720",
       "previewId": "textfield-filled__ideal__cell-style-filled-state-error-text-configurations-label-text-leading-icon-true-trailing-icon-false-52798-25720",
       "label": "TextField/Filled — figma",
