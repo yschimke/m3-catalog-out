@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T01:51:05.568Z",
+  "generatedAt": "2026-10-12T03:12:25.551Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "eb4be5b0fe4ac876f1709c623832a4def5242aa9",
+        "subject": "chore(deps): update kotlin to v2.4.21 (#578)",
+        "at": "2026-10-12T02:32:48Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "95ef0234c2ec7308b37eed08ba8eeedba77785ed",
         "subject": "chore(deps): update compose-ai-tools to v2.51.0 (#576)",
@@ -475,14 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.14.1 (#516)",
         "at": "2026-10-07T19:31:47Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6a83458b69e683d50009dcbb1c1f7d0a1c773dfa",
-        "subject": "fix: map grouped menu and collapsed rail to their expressive APIs, let buttons grow at large font scale (#514)",
-        "at": "2026-10-07T17:18:13+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
