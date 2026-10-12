@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T10:08:02.082Z",
+  "generatedAt": "2026-10-12T14:24:50.387Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "28ebf72f2c171ff6ed8c29ffa280f4352927897b",
+        "subject": "fix(guidelines): allow paired semantic domain colours alongside theme roles (#585)",
+        "at": "2026-10-12T14:10:55+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "be43d24f7ab91196689173406cb94d6fe14b23dc",
         "subject": "ci(design-artifacts): scope and supersede inside the reusable workflow (#575)",
@@ -474,14 +482,6 @@
         "sha": "a86c4463c8e22a6fd14281e6b806db2f640b0293",
         "subject": "feat(ui-builder): publish m3/variable-font-text as a catalog builtin (#523)",
         "at": "2026-10-09T09:00:56+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "70420f924d48c9c822e2067339308f9d9713110e",
-        "subject": "ci: build the ui-builder renderer against compose-ui-builder #582 (#522)",
-        "at": "2026-10-08T14:44:55+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
