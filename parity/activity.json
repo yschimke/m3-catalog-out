@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T17:29:07.898Z",
+  "generatedAt": "2026-10-12T19:40:08.982Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "4c1c00e70354ee00bba6b3a13cd97dee540e547a",
+        "subject": "chore(deps): update compose-ai-tools to v2.55.0 (#589)",
+        "at": "2026-10-12T19:32:54Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "992d141f1c08ae09039d4c8ec48ab0dc0c0501a3",
         "subject": "fix(deps): update compose-ai-tools to v2.54.0 (#586)",
@@ -474,14 +482,6 @@
         "sha": "11ae0abd59a4c98ac8ae320834aeb6c4cf0c8df6",
         "subject": "ci: republish when only ui-builder.guidelines.json changes (#528)",
         "at": "2026-10-10T00:05:55+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "28d233dffaef97d32067608544ab205f85eb2607",
-        "subject": "feat(ui-builder): publish the theme host's typefaces and the icon's symbol axes for a catalog-owned m3-catalog (#527)",
-        "at": "2026-10-09T20:20:21+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
