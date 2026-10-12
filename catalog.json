@@ -12170,8 +12170,8 @@
   "library": [
     "org.jetbrains.compose.foundation:foundation"
   ],
-  "renderer": "compose-preview 2.50.0",
-  "generatedAt": "2026-10-11T22:09:20.815Z",
+  "renderer": "compose-preview 2.51.0",
+  "generatedAt": "2026-10-12T01:50:47.275Z",
   "display": {
     "role": "samples"
   },
