@@ -11,7 +11,7 @@
     "record": {
         "file": "components.json",
         "schemaVersion": 2,
-        "components": 112
+        "components": 111
     },
     "statusSemantics": {
         "platform": "mobile",
@@ -386,9 +386,6 @@
                 },
                 "m3/horizontal-uncontained-carousel": {
                     "group": "Carousel"
-                },
-                "m3/current-scheme": {
-                    "group": "Color"
                 }
             }
         },
@@ -5056,28 +5053,6 @@
                 "shelfRole": null,
                 "exportProjection": null
             },
-            "m3/current-scheme": {
-                "record": "catalog/ee.schimke.m3catalog.CatalogSchemeChoice$Companion.currentScheme",
-                "catalogId": null,
-                "displayName": null,
-                "canvas": null,
-                "canvasMapping": null,
-                "unrolled": null,
-                "nativeOnly": false,
-                "traits": [],
-                "slots": {},
-                "stateCallbacks": {},
-                "starter": {},
-                "variantProperty": null,
-                "variants": {},
-                "excluded": null,
-                "propertyCapabilities": null,
-                "slotCapabilities": null,
-                "modifierCapabilities": null,
-                "insertContent": null,
-                "shelfRole": null,
-                "exportProjection": null
-            },
             "m3/sticker": {
                 "record": "catalog/ee.schimke.m3catalog.CatalogThemeKt.Sticker",
                 "catalogId": null,
@@ -5524,11 +5499,6 @@
         {
             "code": "component.canvas.unclaimed",
             "subject": "m3/horizontal-uncontained-carousel",
-            "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
-        },
-        {
-            "code": "component.canvas.unclaimed",
-            "subject": "m3/current-scheme",
             "message": "no canvas adapter claimed, so it draws as a placeholder. That is the honest default and needs no fixing; it is reported so a shelf drawn entirely in placeholders is visible rather than mysterious."
         },
         {

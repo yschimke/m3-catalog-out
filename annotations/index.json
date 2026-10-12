@@ -71157,6 +71157,154 @@
         }
       }
     ],
+    "fab-extended__ideal__default__light__size-medium": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 12,
+          "y": 0,
+          "width": 346,
+          "height": 190
+        },
+        "label": "r 20px",
+        "detail": {
+          "cornerRadius": "20",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 12,
+          "y": 0,
+          "width": 346,
+          "height": 190
+        },
+        "label": "pad 26px · gap 12px · r 20px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "26",
+          "padding.top": "26",
+          "padding.end": "26",
+          "padding.bottom": "26",
+          "gap": "12",
+          "cornerRadius": "20",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 74,
+          "y": 62,
+          "width": 66,
+          "height": 66
+        },
+        "label": "≈pad 2px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 168,
+          "y": 62,
+          "width": 128,
+          "height": 66
+        },
+        "label": "m3/title/large 22px/28",
+        "role": "Label",
+        "detail": {
+          "token": "m3/title/large",
+          "unit": "px",
+          "fontSize": "22",
+          "lineHeight": "28",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      }
+    ],
+    "fab-extended__ideal__default__light__size-large": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1,
+          "y": 0,
+          "width": 404,
+          "height": 232
+        },
+        "label": "r 28px",
+        "detail": {
+          "cornerRadius": "28",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1,
+          "y": 0,
+          "width": 404,
+          "height": 232
+        },
+        "label": "pad 30px/28px · gap 16px · r 28px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "28",
+          "padding.top": "30",
+          "padding.end": "28",
+          "padding.bottom": "30",
+          "gap": "16",
+          "cornerRadius": "28",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 69,
+          "y": 73,
+          "width": 87,
+          "height": 87
+        },
+        "label": "≈pad 3px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "3",
+          "padding.top": "3",
+          "padding.end": "3",
+          "padding.bottom": "3",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 195,
+          "y": 77,
+          "width": 143,
+          "height": 77
+        },
+        "label": "m3/headline/small 24px/32",
+        "role": "Label",
+        "detail": {
+          "token": "m3/headline/small",
+          "unit": "px",
+          "fontSize": "24",
+          "lineHeight": "32",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      }
+    ],
     "fab-extended__ideal__cell-size-large-color-primary-container-state-focused-57998-43186": [
       {
         "kind": "layout",
@@ -76531,154 +76679,6 @@
         }
       }
     ],
-    "fab-extended__ideal__default__light__size-medium": [
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 12,
-          "y": 0,
-          "width": 346,
-          "height": 190
-        },
-        "label": "r 20px",
-        "detail": {
-          "cornerRadius": "20",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 12,
-          "y": 0,
-          "width": 346,
-          "height": 190
-        },
-        "label": "pad 26px · gap 12px · r 20px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "26",
-          "padding.top": "26",
-          "padding.end": "26",
-          "padding.bottom": "26",
-          "gap": "12",
-          "cornerRadius": "20",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 74,
-          "y": 62,
-          "width": 66,
-          "height": 66
-        },
-        "label": "≈pad 2px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 168,
-          "y": 62,
-          "width": 128,
-          "height": 66
-        },
-        "label": "m3/title/large 22px/28",
-        "role": "Label",
-        "detail": {
-          "token": "m3/title/large",
-          "unit": "px",
-          "fontSize": "22",
-          "lineHeight": "28",
-          "fontWeight": "400",
-          "fontFamily": "Roboto"
-        }
-      }
-    ],
-    "fab-extended__ideal__default__light__size-large": [
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1,
-          "y": 0,
-          "width": 404,
-          "height": 232
-        },
-        "label": "r 28px",
-        "detail": {
-          "cornerRadius": "28",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1,
-          "y": 0,
-          "width": 404,
-          "height": 232
-        },
-        "label": "pad 30px/28px · gap 16px · r 28px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "28",
-          "padding.top": "30",
-          "padding.end": "28",
-          "padding.bottom": "30",
-          "gap": "16",
-          "cornerRadius": "28",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 69,
-          "y": 73,
-          "width": 87,
-          "height": 87
-        },
-        "label": "≈pad 3px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "3",
-          "padding.top": "3",
-          "padding.end": "3",
-          "padding.bottom": "3",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 195,
-          "y": 77,
-          "width": 143,
-          "height": 77
-        },
-        "label": "m3/headline/small 24px/32",
-        "role": "Label",
-        "detail": {
-          "token": "m3/headline/small",
-          "unit": "px",
-          "fontSize": "24",
-          "lineHeight": "32",
-          "fontWeight": "400",
-          "fontFamily": "Roboto"
-        }
-      }
-    ],
     "fab-standard__ideal__default__light": [
       {
         "kind": "layout",
@@ -76728,6 +76728,114 @@
           "padding.top": "2",
           "padding.end": "2",
           "padding.bottom": "2",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      }
+    ],
+    "fab-standard__ideal__default__light__size-medium": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 210,
+          "height": 210
+        },
+        "label": "r 20px",
+        "detail": {
+          "cornerRadius": "20",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 210,
+          "height": 210
+        },
+        "label": "pad 26px · r 20px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "26",
+          "padding.top": "26",
+          "padding.end": "26",
+          "padding.bottom": "26",
+          "cornerRadius": "20",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 68,
+          "y": 68,
+          "width": 74,
+          "height": 74
+        },
+        "label": "≈pad 2px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      }
+    ],
+    "fab-standard__ideal__default__light__size-large": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 252,
+          "height": 252
+        },
+        "label": "r 28px",
+        "detail": {
+          "cornerRadius": "28",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 252,
+          "height": 252
+        },
+        "label": "pad 30px · r 28px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "30",
+          "padding.top": "30",
+          "padding.end": "30",
+          "padding.bottom": "30",
+          "cornerRadius": "28",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 79,
+          "y": 79,
+          "width": 95,
+          "height": 95
+        },
+        "label": "≈pad 3px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "3",
+          "padding.top": "3",
+          "padding.end": "3",
+          "padding.bottom": "3",
           "unit": "px",
           "spacingSource": "derived"
         }
@@ -80724,114 +80832,6 @@
           "padding.top": "2",
           "padding.end": "2",
           "padding.bottom": "2",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      }
-    ],
-    "fab-standard__ideal__default__light__size-medium": [
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 0,
-          "y": 0,
-          "width": 210,
-          "height": 210
-        },
-        "label": "r 20px",
-        "detail": {
-          "cornerRadius": "20",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 0,
-          "y": 0,
-          "width": 210,
-          "height": 210
-        },
-        "label": "pad 26px · r 20px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "26",
-          "padding.top": "26",
-          "padding.end": "26",
-          "padding.bottom": "26",
-          "cornerRadius": "20",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 68,
-          "y": 68,
-          "width": 74,
-          "height": 74
-        },
-        "label": "≈pad 2px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      }
-    ],
-    "fab-standard__ideal__default__light__size-large": [
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 0,
-          "y": 0,
-          "width": 252,
-          "height": 252
-        },
-        "label": "r 28px",
-        "detail": {
-          "cornerRadius": "28",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 0,
-          "y": 0,
-          "width": 252,
-          "height": 252
-        },
-        "label": "pad 30px · r 28px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "30",
-          "padding.top": "30",
-          "padding.end": "30",
-          "padding.bottom": "30",
-          "cornerRadius": "28",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 79,
-          "y": 79,
-          "width": 95,
-          "height": 95
-        },
-        "label": "≈pad 3px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "3",
-          "padding.top": "3",
-          "padding.end": "3",
-          "padding.bottom": "3",
           "unit": "px",
           "spacingSource": "derived"
         }
@@ -132069,226 +132069,6 @@
         }
       }
     ],
-    "progress-linear__ideal__cell-type-wave-thickness-4-dp-progress-0-58005-8074__compact": [
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1,
-          "y": 0,
-          "width": 1061,
-          "height": 32
-        },
-        "label": "gap 6px",
-        "detail": {
-          "gap": "6",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1,
-          "y": 0,
-          "width": 1061,
-          "height": 32
-        },
-        "label": "≈pad 4px/0px",
-        "role": "Track",
-        "detail": {
-          "padding.start": "0",
-          "padding.top": "4",
-          "padding.end": "0",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1,
-          "y": 11,
-          "width": 1061,
-          "height": 11
-        },
-        "label": "r 2px",
-        "role": "Track shape",
-        "detail": {
-          "cornerRadius": "2",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1046,
-          "y": 5,
-          "width": 16,
-          "height": 21
-        },
-        "label": "≈pad t 2px e 0px b 2px s 2px",
-        "role": "Stop",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "0",
-          "padding.bottom": "2",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1051,
-          "y": 11,
-          "width": 11,
-          "height": 11
-        },
-        "label": "r 26px",
-        "role": "Stop shape",
-        "detail": {
-          "cornerRadius": "26",
-          "unit": "px"
-        }
-      }
-    ],
-    "progress-linear__ideal__empty__compact": [
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1,
-          "y": 0,
-          "width": 1061,
-          "height": 32
-        },
-        "label": "gap 6px",
-        "detail": {
-          "gap": "6",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1,
-          "y": 0,
-          "width": 1061,
-          "height": 32
-        },
-        "label": "≈pad 4px/0px",
-        "role": "Track",
-        "detail": {
-          "padding.start": "0",
-          "padding.top": "4",
-          "padding.end": "0",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1,
-          "y": 11,
-          "width": 1061,
-          "height": 11
-        },
-        "label": "r 2px",
-        "role": "Track shape",
-        "detail": {
-          "cornerRadius": "2",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1046,
-          "y": 5,
-          "width": 16,
-          "height": 21
-        },
-        "label": "≈pad t 2px e 0px b 2px s 2px",
-        "role": "Stop",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "0",
-          "padding.bottom": "2",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1051,
-          "y": 11,
-          "width": 11,
-          "height": 11
-        },
-        "label": "r 26px",
-        "role": "Stop shape",
-        "detail": {
-          "cornerRadius": "26",
-          "unit": "px"
-        }
-      }
-    ],
-    "progress-linear__ideal__full__compact": [
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1,
-          "y": 0,
-          "width": 1061,
-          "height": 32
-        },
-        "label": "pad e 2px s 2px · gap 6px",
-        "detail": {
-          "padding.start": "2",
-          "padding.end": "2",
-          "gap": "6",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 6,
-          "y": 0,
-          "width": 1050,
-          "height": 32
-        },
-        "label": "≈pad 6px/0px",
-        "role": "Segment",
-        "detail": {
-          "padding.start": "0",
-          "padding.top": "6",
-          "padding.end": "0",
-          "padding.bottom": "6",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 6,
-          "y": 16,
-          "width": 1050,
-          "height": 0
-        },
-        "label": "r 24px",
-        "role": "wave-increment",
-        "detail": {
-          "cornerRadius": "24",
-          "unit": "px"
-        }
-      }
-    ],
     "progress-linear__ideal__default__light__compact__type-wave": [
       {
         "kind": "layout",
@@ -132745,6 +132525,226 @@
         "role": "Stop shape",
         "detail": {
           "cornerRadius": "26",
+          "unit": "px"
+        }
+      }
+    ],
+    "progress-linear__ideal__cell-type-wave-thickness-4-dp-progress-0-58005-8074__compact": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1,
+          "y": 0,
+          "width": 1061,
+          "height": 32
+        },
+        "label": "gap 6px",
+        "detail": {
+          "gap": "6",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1,
+          "y": 0,
+          "width": 1061,
+          "height": 32
+        },
+        "label": "≈pad 4px/0px",
+        "role": "Track",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "4",
+          "padding.end": "0",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1,
+          "y": 11,
+          "width": 1061,
+          "height": 11
+        },
+        "label": "r 2px",
+        "role": "Track shape",
+        "detail": {
+          "cornerRadius": "2",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1046,
+          "y": 5,
+          "width": 16,
+          "height": 21
+        },
+        "label": "≈pad t 2px e 0px b 2px s 2px",
+        "role": "Stop",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "0",
+          "padding.bottom": "2",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1051,
+          "y": 11,
+          "width": 11,
+          "height": 11
+        },
+        "label": "r 26px",
+        "role": "Stop shape",
+        "detail": {
+          "cornerRadius": "26",
+          "unit": "px"
+        }
+      }
+    ],
+    "progress-linear__ideal__empty__compact": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1,
+          "y": 0,
+          "width": 1061,
+          "height": 32
+        },
+        "label": "gap 6px",
+        "detail": {
+          "gap": "6",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1,
+          "y": 0,
+          "width": 1061,
+          "height": 32
+        },
+        "label": "≈pad 4px/0px",
+        "role": "Track",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "4",
+          "padding.end": "0",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1,
+          "y": 11,
+          "width": 1061,
+          "height": 11
+        },
+        "label": "r 2px",
+        "role": "Track shape",
+        "detail": {
+          "cornerRadius": "2",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1046,
+          "y": 5,
+          "width": 16,
+          "height": 21
+        },
+        "label": "≈pad t 2px e 0px b 2px s 2px",
+        "role": "Stop",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "0",
+          "padding.bottom": "2",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1051,
+          "y": 11,
+          "width": 11,
+          "height": 11
+        },
+        "label": "r 26px",
+        "role": "Stop shape",
+        "detail": {
+          "cornerRadius": "26",
+          "unit": "px"
+        }
+      }
+    ],
+    "progress-linear__ideal__full__compact": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1,
+          "y": 0,
+          "width": 1061,
+          "height": 32
+        },
+        "label": "pad e 2px s 2px · gap 6px",
+        "detail": {
+          "padding.start": "2",
+          "padding.end": "2",
+          "gap": "6",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 6,
+          "y": 0,
+          "width": 1050,
+          "height": 32
+        },
+        "label": "≈pad 6px/0px",
+        "role": "Segment",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "6",
+          "padding.end": "0",
+          "padding.bottom": "6",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 6,
+          "y": 16,
+          "width": 1050,
+          "height": 0
+        },
+        "label": "r 24px",
+        "role": "wave-increment",
+        "detail": {
+          "cornerRadius": "24",
           "unit": "px"
         }
       }
@@ -152044,6 +152044,912 @@
         }
       }
     ],
+    "tabs-primary__ideal__default__light__configuration-scrollable": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 945,
+          "height": 123
+        },
+        "label": "pad s 52px",
+        "role": "Tab group",
+        "detail": {
+          "padding.start": "52",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 137,
+          "y": 0,
+          "width": 236,
+          "height": 123
+        },
+        "label": "pad e 16px s 16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.end": "16",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 207,
+          "y": 0,
+          "width": 97,
+          "height": 123
+        },
+        "label": "pad t 14px b 14px · gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "padding.top": "14",
+          "padding.bottom": "14",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 207,
+          "y": 87,
+          "width": 97,
+          "height": 37
+        },
+        "label": "≈pad t 11px e 2px b 0px s 2px",
+        "role": "Indicator",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "11",
+          "padding.end": "2",
+          "padding.bottom": "0",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 281,
+          "y": 55,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 373,
+          "y": 0,
+          "width": 236,
+          "height": 123
+        },
+        "label": "pad e 16px s 16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.end": "16",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 433,
+          "y": 0,
+          "width": 118,
+          "height": 123
+        },
+        "label": "pad t 14px b 14px · gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "padding.top": "14",
+          "padding.bottom": "14",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 507,
+          "y": 55,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 609,
+          "y": 0,
+          "width": 236,
+          "height": 123
+        },
+        "label": "pad e 16px s 16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.end": "16",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 680,
+          "y": 0,
+          "width": 97,
+          "height": 123
+        },
+        "label": "pad t 14px b 14px · gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "padding.top": "14",
+          "padding.bottom": "14",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 753,
+          "y": 55,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 845,
+          "y": 0,
+          "width": 236,
+          "height": 123
+        },
+        "label": "pad e 16px s 16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.end": "16",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 932,
+          "y": 0,
+          "width": 63,
+          "height": 123
+        },
+        "label": "pad t 14px b 14px · gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "padding.top": "14",
+          "padding.bottom": "14",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1005,
+          "y": 55,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 945,
+          "y": 0,
+          "width": 236,
+          "height": 123
+        },
+        "label": "pad e 16px s 16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.end": "16",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1032,
+          "y": 0,
+          "width": 63,
+          "height": 123
+        },
+        "label": "pad t 14px b 14px · gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "padding.top": "14",
+          "padding.bottom": "14",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1105,
+          "y": 55,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1181,
+          "y": 0,
+          "width": 236,
+          "height": 123
+        },
+        "label": "pad e 16px s 16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.end": "16",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1268,
+          "y": 0,
+          "width": 63,
+          "height": 123
+        },
+        "label": "pad t 14px b 14px · gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "padding.top": "14",
+          "padding.bottom": "14",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1341,
+          "y": 55,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1418,
+          "y": 0,
+          "width": 236,
+          "height": 123
+        },
+        "label": "pad e 16px s 16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.end": "16",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1504,
+          "y": 0,
+          "width": 63,
+          "height": 123
+        },
+        "label": "pad t 14px b 14px · gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "padding.top": "14",
+          "padding.bottom": "14",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1578,
+          "y": 55,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1654,
+          "y": 0,
+          "width": 236,
+          "height": 123
+        },
+        "label": "pad e 16px s 16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.end": "16",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1740,
+          "y": 0,
+          "width": 63,
+          "height": 123
+        },
+        "label": "pad t 14px b 14px · gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "padding.top": "14",
+          "padding.bottom": "14",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1814,
+          "y": 55,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1890,
+          "y": 0,
+          "width": 236,
+          "height": 123
+        },
+        "label": "pad e 16px s 16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.end": "16",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1977,
+          "y": 0,
+          "width": 63,
+          "height": 123
+        },
+        "label": "pad t 14px b 14px · gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "padding.top": "14",
+          "padding.bottom": "14",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 2050,
+          "y": 55,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 2126,
+          "y": 0,
+          "width": 236,
+          "height": 123
+        },
+        "label": "pad e 16px s 16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.end": "16",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 2213,
+          "y": 0,
+          "width": 63,
+          "height": 123
+        },
+        "label": "pad t 14px b 14px · gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "padding.top": "14",
+          "padding.bottom": "14",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 2286,
+          "y": 55,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 2363,
+          "y": 0,
+          "width": 236,
+          "height": 123
+        },
+        "label": "pad e 16px s 16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.end": "16",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 2449,
+          "y": 0,
+          "width": 63,
+          "height": 123
+        },
+        "label": "pad t 14px b 14px · gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "padding.top": "14",
+          "padding.bottom": "14",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 2523,
+          "y": 55,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 2599,
+          "y": 0,
+          "width": 236,
+          "height": 123
+        },
+        "label": "pad e 16px s 16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.end": "16",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 2685,
+          "y": 0,
+          "width": 63,
+          "height": 123
+        },
+        "label": "pad t 14px b 14px · gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "padding.top": "14",
+          "padding.bottom": "14",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 2759,
+          "y": 55,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 123,
+          "width": 945,
+          "height": 3
+        },
+        "label": "≈pad t 1px e 0px s 0px",
+        "role": "Divider",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "1",
+          "padding.end": "0",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 207,
+          "y": 37,
+          "width": 97,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Video",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 433,
+          "y": 37,
+          "width": 118,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Photos",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 680,
+          "y": 37,
+          "width": 97,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Audio",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 932,
+          "y": 37,
+          "width": 63,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Tab",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 1032,
+          "y": 37,
+          "width": 63,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Tab",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 1268,
+          "y": 37,
+          "width": 63,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Tab",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 1504,
+          "y": 37,
+          "width": 63,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Tab",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 1740,
+          "y": 37,
+          "width": 63,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Tab",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 1977,
+          "y": 37,
+          "width": 63,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Tab",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 2213,
+          "y": 37,
+          "width": 63,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Tab",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 2449,
+          "y": 37,
+          "width": 63,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Tab",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 2685,
+          "y": 37,
+          "width": 63,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Tab",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      }
+    ],
     "tabs-primary__ideal__cell-configuration-scrollable-style-primary-layout-icon-only-54563-40078": [
       {
         "kind": "layout",
@@ -154101,912 +155007,6 @@
         }
       }
     ],
-    "tabs-primary__ideal__default__light__configuration-scrollable": [
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 0,
-          "y": 0,
-          "width": 945,
-          "height": 123
-        },
-        "label": "pad s 52px",
-        "role": "Tab group",
-        "detail": {
-          "padding.start": "52",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 137,
-          "y": 0,
-          "width": 236,
-          "height": 123
-        },
-        "label": "pad e 16px s 16px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "16",
-          "padding.end": "16",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 207,
-          "y": 0,
-          "width": 97,
-          "height": 123
-        },
-        "label": "pad t 14px b 14px · gap 4px",
-        "role": "Tab Contents",
-        "detail": {
-          "padding.top": "14",
-          "padding.bottom": "14",
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 207,
-          "y": 87,
-          "width": 97,
-          "height": 37
-        },
-        "label": "≈pad t 11px e 2px b 0px s 2px",
-        "role": "Indicator",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "11",
-          "padding.end": "2",
-          "padding.bottom": "0",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 281,
-          "y": 55,
-          "width": 16,
-          "height": 16
-        },
-        "label": "pad 2px · r 100px",
-        "role": "Badges",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 373,
-          "y": 0,
-          "width": 236,
-          "height": 123
-        },
-        "label": "pad e 16px s 16px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "16",
-          "padding.end": "16",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 433,
-          "y": 0,
-          "width": 118,
-          "height": 123
-        },
-        "label": "pad t 14px b 14px · gap 4px",
-        "role": "Tab Contents",
-        "detail": {
-          "padding.top": "14",
-          "padding.bottom": "14",
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 507,
-          "y": 55,
-          "width": 16,
-          "height": 16
-        },
-        "label": "pad 2px · r 100px",
-        "role": "Badges",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 609,
-          "y": 0,
-          "width": 236,
-          "height": 123
-        },
-        "label": "pad e 16px s 16px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "16",
-          "padding.end": "16",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 680,
-          "y": 0,
-          "width": 97,
-          "height": 123
-        },
-        "label": "pad t 14px b 14px · gap 4px",
-        "role": "Tab Contents",
-        "detail": {
-          "padding.top": "14",
-          "padding.bottom": "14",
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 753,
-          "y": 55,
-          "width": 16,
-          "height": 16
-        },
-        "label": "pad 2px · r 100px",
-        "role": "Badges",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 845,
-          "y": 0,
-          "width": 236,
-          "height": 123
-        },
-        "label": "pad e 16px s 16px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "16",
-          "padding.end": "16",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 932,
-          "y": 0,
-          "width": 63,
-          "height": 123
-        },
-        "label": "pad t 14px b 14px · gap 4px",
-        "role": "Tab Contents",
-        "detail": {
-          "padding.top": "14",
-          "padding.bottom": "14",
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1005,
-          "y": 55,
-          "width": 16,
-          "height": 16
-        },
-        "label": "pad 2px · r 100px",
-        "role": "Badges",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 945,
-          "y": 0,
-          "width": 236,
-          "height": 123
-        },
-        "label": "pad e 16px s 16px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "16",
-          "padding.end": "16",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1032,
-          "y": 0,
-          "width": 63,
-          "height": 123
-        },
-        "label": "pad t 14px b 14px · gap 4px",
-        "role": "Tab Contents",
-        "detail": {
-          "padding.top": "14",
-          "padding.bottom": "14",
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1105,
-          "y": 55,
-          "width": 16,
-          "height": 16
-        },
-        "label": "pad 2px · r 100px",
-        "role": "Badges",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1181,
-          "y": 0,
-          "width": 236,
-          "height": 123
-        },
-        "label": "pad e 16px s 16px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "16",
-          "padding.end": "16",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1268,
-          "y": 0,
-          "width": 63,
-          "height": 123
-        },
-        "label": "pad t 14px b 14px · gap 4px",
-        "role": "Tab Contents",
-        "detail": {
-          "padding.top": "14",
-          "padding.bottom": "14",
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1341,
-          "y": 55,
-          "width": 16,
-          "height": 16
-        },
-        "label": "pad 2px · r 100px",
-        "role": "Badges",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1418,
-          "y": 0,
-          "width": 236,
-          "height": 123
-        },
-        "label": "pad e 16px s 16px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "16",
-          "padding.end": "16",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1504,
-          "y": 0,
-          "width": 63,
-          "height": 123
-        },
-        "label": "pad t 14px b 14px · gap 4px",
-        "role": "Tab Contents",
-        "detail": {
-          "padding.top": "14",
-          "padding.bottom": "14",
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1578,
-          "y": 55,
-          "width": 16,
-          "height": 16
-        },
-        "label": "pad 2px · r 100px",
-        "role": "Badges",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1654,
-          "y": 0,
-          "width": 236,
-          "height": 123
-        },
-        "label": "pad e 16px s 16px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "16",
-          "padding.end": "16",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1740,
-          "y": 0,
-          "width": 63,
-          "height": 123
-        },
-        "label": "pad t 14px b 14px · gap 4px",
-        "role": "Tab Contents",
-        "detail": {
-          "padding.top": "14",
-          "padding.bottom": "14",
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1814,
-          "y": 55,
-          "width": 16,
-          "height": 16
-        },
-        "label": "pad 2px · r 100px",
-        "role": "Badges",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1890,
-          "y": 0,
-          "width": 236,
-          "height": 123
-        },
-        "label": "pad e 16px s 16px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "16",
-          "padding.end": "16",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1977,
-          "y": 0,
-          "width": 63,
-          "height": 123
-        },
-        "label": "pad t 14px b 14px · gap 4px",
-        "role": "Tab Contents",
-        "detail": {
-          "padding.top": "14",
-          "padding.bottom": "14",
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 2050,
-          "y": 55,
-          "width": 16,
-          "height": 16
-        },
-        "label": "pad 2px · r 100px",
-        "role": "Badges",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 2126,
-          "y": 0,
-          "width": 236,
-          "height": 123
-        },
-        "label": "pad e 16px s 16px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "16",
-          "padding.end": "16",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 2213,
-          "y": 0,
-          "width": 63,
-          "height": 123
-        },
-        "label": "pad t 14px b 14px · gap 4px",
-        "role": "Tab Contents",
-        "detail": {
-          "padding.top": "14",
-          "padding.bottom": "14",
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 2286,
-          "y": 55,
-          "width": 16,
-          "height": 16
-        },
-        "label": "pad 2px · r 100px",
-        "role": "Badges",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 2363,
-          "y": 0,
-          "width": 236,
-          "height": 123
-        },
-        "label": "pad e 16px s 16px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "16",
-          "padding.end": "16",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 2449,
-          "y": 0,
-          "width": 63,
-          "height": 123
-        },
-        "label": "pad t 14px b 14px · gap 4px",
-        "role": "Tab Contents",
-        "detail": {
-          "padding.top": "14",
-          "padding.bottom": "14",
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 2523,
-          "y": 55,
-          "width": 16,
-          "height": 16
-        },
-        "label": "pad 2px · r 100px",
-        "role": "Badges",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 2599,
-          "y": 0,
-          "width": 236,
-          "height": 123
-        },
-        "label": "pad e 16px s 16px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "16",
-          "padding.end": "16",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 2685,
-          "y": 0,
-          "width": 63,
-          "height": 123
-        },
-        "label": "pad t 14px b 14px · gap 4px",
-        "role": "Tab Contents",
-        "detail": {
-          "padding.top": "14",
-          "padding.bottom": "14",
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 2759,
-          "y": 55,
-          "width": 16,
-          "height": 16
-        },
-        "label": "pad 2px · r 100px",
-        "role": "Badges",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 0,
-          "y": 123,
-          "width": 945,
-          "height": 3
-        },
-        "label": "≈pad t 1px e 0px s 0px",
-        "role": "Divider",
-        "detail": {
-          "padding.start": "0",
-          "padding.top": "1",
-          "padding.end": "0",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 207,
-          "y": 37,
-          "width": 97,
-          "height": 53
-        },
-        "label": "m3/title/small 14px/20",
-        "role": "Video",
-        "detail": {
-          "token": "m3/title/small",
-          "unit": "px",
-          "fontSize": "14",
-          "lineHeight": "20",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 433,
-          "y": 37,
-          "width": 118,
-          "height": 53
-        },
-        "label": "m3/title/small 14px/20",
-        "role": "Photos",
-        "detail": {
-          "token": "m3/title/small",
-          "unit": "px",
-          "fontSize": "14",
-          "lineHeight": "20",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 680,
-          "y": 37,
-          "width": 97,
-          "height": 53
-        },
-        "label": "m3/title/small 14px/20",
-        "role": "Audio",
-        "detail": {
-          "token": "m3/title/small",
-          "unit": "px",
-          "fontSize": "14",
-          "lineHeight": "20",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 932,
-          "y": 37,
-          "width": 63,
-          "height": 53
-        },
-        "label": "m3/title/small 14px/20",
-        "role": "Tab",
-        "detail": {
-          "token": "m3/title/small",
-          "unit": "px",
-          "fontSize": "14",
-          "lineHeight": "20",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 1032,
-          "y": 37,
-          "width": 63,
-          "height": 53
-        },
-        "label": "m3/title/small 14px/20",
-        "role": "Tab",
-        "detail": {
-          "token": "m3/title/small",
-          "unit": "px",
-          "fontSize": "14",
-          "lineHeight": "20",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 1268,
-          "y": 37,
-          "width": 63,
-          "height": 53
-        },
-        "label": "m3/title/small 14px/20",
-        "role": "Tab",
-        "detail": {
-          "token": "m3/title/small",
-          "unit": "px",
-          "fontSize": "14",
-          "lineHeight": "20",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 1504,
-          "y": 37,
-          "width": 63,
-          "height": 53
-        },
-        "label": "m3/title/small 14px/20",
-        "role": "Tab",
-        "detail": {
-          "token": "m3/title/small",
-          "unit": "px",
-          "fontSize": "14",
-          "lineHeight": "20",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 1740,
-          "y": 37,
-          "width": 63,
-          "height": 53
-        },
-        "label": "m3/title/small 14px/20",
-        "role": "Tab",
-        "detail": {
-          "token": "m3/title/small",
-          "unit": "px",
-          "fontSize": "14",
-          "lineHeight": "20",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 1977,
-          "y": 37,
-          "width": 63,
-          "height": 53
-        },
-        "label": "m3/title/small 14px/20",
-        "role": "Tab",
-        "detail": {
-          "token": "m3/title/small",
-          "unit": "px",
-          "fontSize": "14",
-          "lineHeight": "20",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 2213,
-          "y": 37,
-          "width": 63,
-          "height": 53
-        },
-        "label": "m3/title/small 14px/20",
-        "role": "Tab",
-        "detail": {
-          "token": "m3/title/small",
-          "unit": "px",
-          "fontSize": "14",
-          "lineHeight": "20",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 2449,
-          "y": 37,
-          "width": 63,
-          "height": 53
-        },
-        "label": "m3/title/small 14px/20",
-        "role": "Tab",
-        "detail": {
-          "token": "m3/title/small",
-          "unit": "px",
-          "fontSize": "14",
-          "lineHeight": "20",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 2685,
-          "y": 37,
-          "width": 63,
-          "height": 53
-        },
-        "label": "m3/title/small 14px/20",
-        "role": "Tab",
-        "detail": {
-          "token": "m3/title/small",
-          "unit": "px",
-          "fontSize": "14",
-          "lineHeight": "20",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      }
-    ],
     "tabs-secondary__ideal__default__light": [
       {
         "kind": "layout",
@@ -155367,551 +155367,6 @@
         "bounds": {
           "x": 819,
           "y": 37,
-          "width": 63,
-          "height": 53
-        },
-        "label": "m3/title/small 14px/20",
-        "role": "Tab",
-        "detail": {
-          "token": "m3/title/small",
-          "unit": "px",
-          "fontSize": "14",
-          "lineHeight": "20",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      }
-    ],
-    "tabs-secondary__ideal__icon-label": [
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 0,
-          "y": 31,
-          "width": 315,
-          "height": 123
-        },
-        "label": "pad 12px/16px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "16",
-          "padding.top": "12",
-          "padding.end": "16",
-          "padding.bottom": "12",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 68,
-          "y": 63,
-          "width": 181,
-          "height": 60
-        },
-        "label": "gap 4px",
-        "role": "Tab Contents",
-        "detail": {
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 68,
-          "y": 63,
-          "width": 181,
-          "height": 63
-        },
-        "label": "gap 8px",
-        "role": "Icon and label",
-        "detail": {
-          "gap": "8",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 68,
-          "y": 63,
-          "width": 63,
-          "height": 63
-        },
-        "label": "≈pad 4px/2px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "4",
-          "padding.end": "2",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 226,
-          "y": 86,
-          "width": 16,
-          "height": 16
-        },
-        "label": "pad 2px · r 100px",
-        "role": "Badges",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 315,
-          "y": 31,
-          "width": 315,
-          "height": 123
-        },
-        "label": "pad 12px/16px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "16",
-          "padding.top": "12",
-          "padding.end": "16",
-          "padding.bottom": "12",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 373,
-          "y": 63,
-          "width": 202,
-          "height": 60
-        },
-        "label": "gap 4px",
-        "role": "Tab Contents",
-        "detail": {
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 373,
-          "y": 63,
-          "width": 202,
-          "height": 63
-        },
-        "label": "gap 8px",
-        "role": "Icon and label",
-        "detail": {
-          "gap": "8",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 373,
-          "y": 63,
-          "width": 63,
-          "height": 63
-        },
-        "label": "≈pad 3px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "3",
-          "padding.top": "3",
-          "padding.end": "3",
-          "padding.bottom": "3",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 530,
-          "y": 86,
-          "width": 16,
-          "height": 16
-        },
-        "label": "pad 2px · r 100px",
-        "role": "Badges",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 630,
-          "y": 31,
-          "width": 315,
-          "height": 123
-        },
-        "label": "pad 12px/16px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "16",
-          "padding.top": "12",
-          "padding.end": "16",
-          "padding.bottom": "12",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 698,
-          "y": 63,
-          "width": 181,
-          "height": 60
-        },
-        "label": "gap 4px",
-        "role": "Tab Contents",
-        "detail": {
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 698,
-          "y": 63,
-          "width": 181,
-          "height": 63
-        },
-        "label": "gap 8px",
-        "role": "Icon and label",
-        "detail": {
-          "gap": "8",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 698,
-          "y": 63,
-          "width": 63,
-          "height": 63
-        },
-        "label": "≈pad 3px/6px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "6",
-          "padding.top": "3",
-          "padding.end": "6",
-          "padding.bottom": "3",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 856,
-          "y": 86,
-          "width": 16,
-          "height": 16
-        },
-        "label": "pad 2px · r 100px",
-        "role": "Badges",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 709,
-          "y": 31,
-          "width": 236,
-          "height": 123
-        },
-        "label": "pad 12px/16px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "16",
-          "padding.top": "12",
-          "padding.end": "16",
-          "padding.bottom": "12",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 753,
-          "y": 63,
-          "width": 147,
-          "height": 60
-        },
-        "label": "gap 4px",
-        "role": "Tab Contents",
-        "detail": {
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 753,
-          "y": 63,
-          "width": 147,
-          "height": 63
-        },
-        "label": "gap 8px",
-        "role": "Icon and label",
-        "detail": {
-          "gap": "8",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 753,
-          "y": 63,
-          "width": 63,
-          "height": 63
-        },
-        "label": "≈pad 2px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 911,
-          "y": 86,
-          "width": 16,
-          "height": 16
-        },
-        "label": "pad 2px · r 100px",
-        "role": "Badges",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 756,
-          "y": 31,
-          "width": 189,
-          "height": 123
-        },
-        "label": "pad 12px/16px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "16",
-          "padding.top": "12",
-          "padding.end": "16",
-          "padding.bottom": "12",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 777,
-          "y": 63,
-          "width": 147,
-          "height": 60
-        },
-        "label": "gap 4px",
-        "role": "Tab Contents",
-        "detail": {
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 777,
-          "y": 63,
-          "width": 147,
-          "height": 63
-        },
-        "label": "gap 8px",
-        "role": "Icon and label",
-        "detail": {
-          "gap": "8",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 777,
-          "y": 63,
-          "width": 63,
-          "height": 63
-        },
-        "label": "≈pad 2px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 935,
-          "y": 86,
-          "width": 16,
-          "height": 16
-        },
-        "label": "pad 2px · r 100px",
-        "role": "Badges",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 0,
-          "y": 154,
-          "width": 945,
-          "height": 3
-        },
-        "label": "≈pad t 1px e 0px s 0px",
-        "role": "Divider",
-        "detail": {
-          "padding.start": "0",
-          "padding.top": "1",
-          "padding.end": "0",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 152,
-          "y": 68,
-          "width": 97,
-          "height": 53
-        },
-        "label": "m3/title/small 14px/20",
-        "role": "Video",
-        "detail": {
-          "token": "m3/title/small",
-          "unit": "px",
-          "fontSize": "14",
-          "lineHeight": "20",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 457,
-          "y": 68,
-          "width": 118,
-          "height": 53
-        },
-        "label": "m3/title/small 14px/20",
-        "role": "Photos",
-        "detail": {
-          "token": "m3/title/small",
-          "unit": "px",
-          "fontSize": "14",
-          "lineHeight": "20",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 782,
-          "y": 68,
-          "width": 97,
-          "height": 53
-        },
-        "label": "m3/title/small 14px/20",
-        "role": "Audio",
-        "detail": {
-          "token": "m3/title/small",
-          "unit": "px",
-          "fontSize": "14",
-          "lineHeight": "20",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 837,
-          "y": 68,
-          "width": 63,
-          "height": 53
-        },
-        "label": "m3/title/small 14px/20",
-        "role": "Tab",
-        "detail": {
-          "token": "m3/title/small",
-          "unit": "px",
-          "fontSize": "14",
-          "lineHeight": "20",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 861,
-          "y": 68,
           "width": 63,
           "height": 53
         },
@@ -156799,6 +156254,551 @@
         "bounds": {
           "x": 2685,
           "y": 37,
+          "width": 63,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Tab",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      }
+    ],
+    "tabs-secondary__ideal__icon-label": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 31,
+          "width": 315,
+          "height": 123
+        },
+        "label": "pad 12px/16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "12",
+          "padding.end": "16",
+          "padding.bottom": "12",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 68,
+          "y": 63,
+          "width": 181,
+          "height": 60
+        },
+        "label": "gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 68,
+          "y": 63,
+          "width": 181,
+          "height": 63
+        },
+        "label": "gap 8px",
+        "role": "Icon and label",
+        "detail": {
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 68,
+          "y": 63,
+          "width": 63,
+          "height": 63
+        },
+        "label": "≈pad 4px/2px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "4",
+          "padding.end": "2",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 226,
+          "y": 86,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 315,
+          "y": 31,
+          "width": 315,
+          "height": 123
+        },
+        "label": "pad 12px/16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "12",
+          "padding.end": "16",
+          "padding.bottom": "12",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 373,
+          "y": 63,
+          "width": 202,
+          "height": 60
+        },
+        "label": "gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 373,
+          "y": 63,
+          "width": 202,
+          "height": 63
+        },
+        "label": "gap 8px",
+        "role": "Icon and label",
+        "detail": {
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 373,
+          "y": 63,
+          "width": 63,
+          "height": 63
+        },
+        "label": "≈pad 3px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "3",
+          "padding.top": "3",
+          "padding.end": "3",
+          "padding.bottom": "3",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 530,
+          "y": 86,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 630,
+          "y": 31,
+          "width": 315,
+          "height": 123
+        },
+        "label": "pad 12px/16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "12",
+          "padding.end": "16",
+          "padding.bottom": "12",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 698,
+          "y": 63,
+          "width": 181,
+          "height": 60
+        },
+        "label": "gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 698,
+          "y": 63,
+          "width": 181,
+          "height": 63
+        },
+        "label": "gap 8px",
+        "role": "Icon and label",
+        "detail": {
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 698,
+          "y": 63,
+          "width": 63,
+          "height": 63
+        },
+        "label": "≈pad 3px/6px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "6",
+          "padding.top": "3",
+          "padding.end": "6",
+          "padding.bottom": "3",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 856,
+          "y": 86,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 709,
+          "y": 31,
+          "width": 236,
+          "height": 123
+        },
+        "label": "pad 12px/16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "12",
+          "padding.end": "16",
+          "padding.bottom": "12",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 753,
+          "y": 63,
+          "width": 147,
+          "height": 60
+        },
+        "label": "gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 753,
+          "y": 63,
+          "width": 147,
+          "height": 63
+        },
+        "label": "gap 8px",
+        "role": "Icon and label",
+        "detail": {
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 753,
+          "y": 63,
+          "width": 63,
+          "height": 63
+        },
+        "label": "≈pad 2px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 911,
+          "y": 86,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 756,
+          "y": 31,
+          "width": 189,
+          "height": 123
+        },
+        "label": "pad 12px/16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "12",
+          "padding.end": "16",
+          "padding.bottom": "12",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 777,
+          "y": 63,
+          "width": 147,
+          "height": 60
+        },
+        "label": "gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 777,
+          "y": 63,
+          "width": 147,
+          "height": 63
+        },
+        "label": "gap 8px",
+        "role": "Icon and label",
+        "detail": {
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 777,
+          "y": 63,
+          "width": 63,
+          "height": 63
+        },
+        "label": "≈pad 2px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 935,
+          "y": 86,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 154,
+          "width": 945,
+          "height": 3
+        },
+        "label": "≈pad t 1px e 0px s 0px",
+        "role": "Divider",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "1",
+          "padding.end": "0",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 152,
+          "y": 68,
+          "width": 97,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Video",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 457,
+          "y": 68,
+          "width": 118,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Photos",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 782,
+          "y": 68,
+          "width": 97,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Audio",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 837,
+          "y": 68,
+          "width": 63,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Tab",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 861,
+          "y": 68,
           "width": 63,
           "height": 53
         },
@@ -176404,1094 +176404,6 @@
         }
       }
     ],
-    "timepicker-dial__ideal__12-hour": [
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 0,
-          "y": 63,
-          "width": 861,
-          "height": 1365
-        },
-        "label": "gap 20px · r 28px",
-        "detail": {
-          "gap": "20",
-          "cornerRadius": "28",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 0,
-          "y": 63,
-          "width": 861,
-          "height": 105
-        },
-        "label": "pad t 24px e 24px s 24px · gap 10px",
-        "role": "Header",
-        "detail": {
-          "padding.start": "24",
-          "padding.top": "24",
-          "padding.end": "24",
-          "gap": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 0,
-          "y": 221,
-          "width": 861,
-          "height": 977
-        },
-        "label": "pad e 24px s 24px · gap 36px",
-        "role": "Input Selection",
-        "detail": {
-          "padding.start": "24",
-          "padding.end": "24",
-          "gap": "36",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 63,
-          "y": 221,
-          "width": 735,
-          "height": 210
-        },
-        "label": "gap 12px",
-        "role": "Input",
-        "detail": {
-          "gap": "12",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 63,
-          "y": 221,
-          "width": 252,
-          "height": 210
-        },
-        "label": "gap 7px",
-        "role": "Hour Input",
-        "detail": {
-          "gap": "7",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 63,
-          "y": 221,
-          "width": 252,
-          "height": 210
-        },
-        "label": "gap 7px · r 8px",
-        "role": "selected",
-        "detail": {
-          "gap": "7",
-          "cornerRadius": "8",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 58,
-          "y": 215,
-          "width": 263,
-          "height": 221
-        },
-        "label": "r 10px",
-        "role": "Focus indicator",
-        "detail": {
-          "cornerRadius": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 378,
-          "y": 221,
-          "width": 252,
-          "height": 210
-        },
-        "label": "gap 7px · r 8px",
-        "role": "Minute Input",
-        "detail": {
-          "gap": "7",
-          "cornerRadius": "8",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 378,
-          "y": 221,
-          "width": 252,
-          "height": 210
-        },
-        "label": "gap 10px · r 8px",
-        "role": "default",
-        "detail": {
-          "gap": "10",
-          "cornerRadius": "8",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 373,
-          "y": 215,
-          "width": 263,
-          "height": 221
-        },
-        "label": "r 10px",
-        "role": "Focus indicator",
-        "detail": {
-          "cornerRadius": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 662,
-          "y": 221,
-          "width": 137,
-          "height": 210
-        },
-        "label": "r 8px",
-        "role": "Period Selector",
-        "detail": {
-          "cornerRadius": "8",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 662,
-          "y": 221,
-          "width": 137,
-          "height": 105
-        },
-        "label": "pad 8px/10px · gap 10px",
-        "role": "state-layer",
-        "detail": {
-          "padding.start": "10",
-          "padding.top": "8",
-          "padding.end": "10",
-          "padding.bottom": "8",
-          "gap": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 662,
-          "y": 326,
-          "width": 137,
-          "height": 105
-        },
-        "label": "gap 10px",
-        "role": "PM",
-        "detail": {
-          "gap": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 662,
-          "y": 326,
-          "width": 137,
-          "height": 105
-        },
-        "label": "pad 8px/10px",
-        "role": "state-layer",
-        "detail": {
-          "padding.start": "10",
-          "padding.top": "8",
-          "padding.end": "10",
-          "padding.bottom": "8",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 95,
-          "y": 525,
-          "width": 672,
-          "height": 672
-        },
-        "label": "≈pad 2px · r 500px",
-        "role": "Clock face - 12 hour",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "cornerRadius": "500",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 368,
-          "y": 530,
-          "width": 126,
-          "height": 126
-        },
-        "label": "gap 10px",
-        "role": "state-layer",
-        "detail": {
-          "gap": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 236,
-          "y": 567,
-          "width": 126,
-          "height": 126
-        },
-        "label": "gap 10px",
-        "role": "state-layer",
-        "detail": {
-          "gap": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 137,
-          "y": 667,
-          "width": 126,
-          "height": 126
-        },
-        "label": "gap 10px",
-        "role": "state-layer",
-        "detail": {
-          "gap": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 100,
-          "y": 798,
-          "width": 126,
-          "height": 126
-        },
-        "label": "gap 10px",
-        "role": "state-layer",
-        "detail": {
-          "gap": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 137,
-          "y": 929,
-          "width": 126,
-          "height": 126
-        },
-        "label": "gap 10px",
-        "role": "state-layer",
-        "detail": {
-          "gap": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 236,
-          "y": 1029,
-          "width": 126,
-          "height": 126
-        },
-        "label": "≈pad b 21px s 23px",
-        "role": ".Building Blocks/hour-line",
-        "detail": {
-          "padding.start": "23",
-          "padding.bottom": "21",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 236,
-          "y": 1029,
-          "width": 126,
-          "height": 126
-        },
-        "label": "r 100px",
-        "role": "container",
-        "detail": {
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 236,
-          "y": 1029,
-          "width": 126,
-          "height": 126
-        },
-        "label": "gap 10px",
-        "role": "state-layer",
-        "detail": {
-          "gap": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 368,
-          "y": 1066,
-          "width": 126,
-          "height": 126
-        },
-        "label": "gap 10px",
-        "role": "state-layer",
-        "detail": {
-          "gap": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 499,
-          "y": 1029,
-          "width": 126,
-          "height": 126
-        },
-        "label": "gap 10px",
-        "role": "state-layer",
-        "detail": {
-          "gap": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 599,
-          "y": 929,
-          "width": 126,
-          "height": 126
-        },
-        "label": "gap 10px",
-        "role": "state-layer",
-        "detail": {
-          "gap": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 635,
-          "y": 798,
-          "width": 126,
-          "height": 126
-        },
-        "label": "gap 10px",
-        "role": "state-layer",
-        "detail": {
-          "gap": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 599,
-          "y": 667,
-          "width": 126,
-          "height": 126
-        },
-        "label": "gap 10px",
-        "role": "state-layer",
-        "detail": {
-          "gap": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 499,
-          "y": 567,
-          "width": 126,
-          "height": 126
-        },
-        "label": "gap 10px",
-        "role": "state-layer",
-        "detail": {
-          "gap": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 0,
-          "y": 1250,
-          "width": 861,
-          "height": 179
-        },
-        "label": "pad e 24px b 20px s 12px · gap 120px",
-        "role": "Actions",
-        "detail": {
-          "padding.start": "12",
-          "padding.end": "24",
-          "padding.bottom": "20",
-          "gap": "120",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 32,
-          "y": 1250,
-          "width": 126,
-          "height": 126
-        },
-        "label": "≈pad 4px",
-        "role": "Icon button - standard",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "4",
-          "padding.end": "4",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 42,
-          "y": 1260,
-          "width": 105,
-          "height": 105
-        },
-        "label": "r 100px",
-        "role": "Content",
-        "detail": {
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 42,
-          "y": 1260,
-          "width": 105,
-          "height": 105
-        },
-        "label": "≈pad 8px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "8",
-          "padding.top": "8",
-          "padding.end": "8",
-          "padding.bottom": "8",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 63,
-          "y": 1281,
-          "width": 63,
-          "height": 63
-        },
-        "label": "≈pad 5px/2px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "5",
-          "padding.end": "2",
-          "padding.bottom": "5",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 444,
-          "y": 1250,
-          "width": 354,
-          "height": 126
-        },
-        "label": "gap 8px",
-        "role": "Actions",
-        "detail": {
-          "gap": "8",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 444,
-          "y": 1250,
-          "width": 200,
-          "height": 126
-        },
-        "label": "≈pad 4px/0px",
-        "role": "Secondary button",
-        "detail": {
-          "padding.start": "0",
-          "padding.top": "4",
-          "padding.end": "0",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 444,
-          "y": 1260,
-          "width": 200,
-          "height": 105
-        },
-        "label": "r 100px",
-        "role": "Content",
-        "detail": {
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 444,
-          "y": 1260,
-          "width": 200,
-          "height": 105
-        },
-        "label": "pad 10px/16px · gap 8px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "16",
-          "padding.top": "10",
-          "padding.end": "16",
-          "padding.bottom": "10",
-          "gap": "8",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 486,
-          "y": 1286,
-          "width": 53,
-          "height": 53
-        },
-        "label": "≈pad 2px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 664,
-          "y": 1250,
-          "width": 134,
-          "height": 126
-        },
-        "label": "≈pad 4px/0px",
-        "role": "Primary button",
-        "detail": {
-          "padding.start": "0",
-          "padding.top": "4",
-          "padding.end": "0",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 664,
-          "y": 1260,
-          "width": 134,
-          "height": 105
-        },
-        "label": "r 100px",
-        "role": "Content",
-        "detail": {
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 664,
-          "y": 1260,
-          "width": 134,
-          "height": 105
-        },
-        "label": "pad 10px/16px · gap 8px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "16",
-          "padding.top": "10",
-          "padding.end": "16",
-          "padding.bottom": "10",
-          "gap": "8",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 706,
-          "y": 1286,
-          "width": 53,
-          "height": 53
-        },
-        "label": "≈pad 2px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 63,
-          "y": 126,
-          "width": 173,
-          "height": 42
-        },
-        "label": "m3/label/medium 12px/16",
-        "role": "Select time",
-        "detail": {
-          "token": "m3/label/medium",
-          "unit": "px",
-          "fontSize": "12",
-          "lineHeight": "16",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 63,
-          "y": 221,
-          "width": 252,
-          "height": 210
-        },
-        "label": "m3/display/large 57px/64",
-        "role": "07",
-        "detail": {
-          "token": "m3/display/large",
-          "unit": "px",
-          "fontSize": "57",
-          "lineHeight": "64",
-          "fontWeight": "400",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 315,
-          "y": 221,
-          "width": 63,
-          "height": 210
-        },
-        "label": "text 57px/64",
-        "role": ":",
-        "detail": {
-          "token": "text",
-          "unit": "px",
-          "fontSize": "57",
-          "lineHeight": "64",
-          "fontWeight": "400",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 378,
-          "y": 221,
-          "width": 255,
-          "height": 210
-        },
-        "label": "m3/display/large 57px/64",
-        "role": "00",
-        "detail": {
-          "token": "m3/display/large",
-          "unit": "px",
-          "fontSize": "57",
-          "lineHeight": "64",
-          "fontWeight": "400",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 698,
-          "y": 242,
-          "width": 66,
-          "height": 63
-        },
-        "label": "text 16px/24",
-        "role": "AM",
-        "detail": {
-          "token": "text",
-          "unit": "px",
-          "fontSize": "16",
-          "lineHeight": "24",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 698,
-          "y": 347,
-          "width": 66,
-          "height": 63
-        },
-        "label": "text 16px/24",
-        "role": "PM",
-        "detail": {
-          "token": "text",
-          "unit": "px",
-          "fontSize": "16",
-          "lineHeight": "24",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 407,
-          "y": 562,
-          "width": 50,
-          "height": 63
-        },
-        "label": "m3/body/large 16px/24",
-        "role": "12",
-        "detail": {
-          "token": "m3/body/large",
-          "unit": "px",
-          "fontSize": "16",
-          "lineHeight": "24",
-          "fontWeight": "400",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 276,
-          "y": 599,
-          "width": 50,
-          "height": 63
-        },
-        "label": "m3/body/large 16px/24",
-        "role": "11",
-        "detail": {
-          "token": "m3/body/large",
-          "unit": "px",
-          "fontSize": "16",
-          "lineHeight": "24",
-          "fontWeight": "400",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 176,
-          "y": 698,
-          "width": 50,
-          "height": 63
-        },
-        "label": "m3/body/large 16px/24",
-        "role": "10",
-        "detail": {
-          "token": "m3/body/large",
-          "unit": "px",
-          "fontSize": "16",
-          "lineHeight": "24",
-          "fontWeight": "400",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 152,
-          "y": 830,
-          "width": 24,
-          "height": 63
-        },
-        "label": "m3/body/large 16px/24",
-        "role": "9",
-        "detail": {
-          "token": "m3/body/large",
-          "unit": "px",
-          "fontSize": "16",
-          "lineHeight": "24",
-          "fontWeight": "400",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 189,
-          "y": 961,
-          "width": 24,
-          "height": 63
-        },
-        "label": "m3/body/large 16px/24",
-        "role": "8",
-        "detail": {
-          "token": "m3/body/large",
-          "unit": "px",
-          "fontSize": "16",
-          "lineHeight": "24",
-          "fontWeight": "400",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 289,
-          "y": 1061,
-          "width": 24,
-          "height": 63
-        },
-        "label": "m3/body/large 16px/24",
-        "role": "7",
-        "detail": {
-          "token": "m3/body/large",
-          "unit": "px",
-          "fontSize": "16",
-          "lineHeight": "24",
-          "fontWeight": "400",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 420,
-          "y": 1097,
-          "width": 24,
-          "height": 63
-        },
-        "label": "m3/body/large 16px/24",
-        "role": "6",
-        "detail": {
-          "token": "m3/body/large",
-          "unit": "px",
-          "fontSize": "16",
-          "lineHeight": "24",
-          "fontWeight": "400",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 551,
-          "y": 1061,
-          "width": 24,
-          "height": 63
-        },
-        "label": "m3/body/large 16px/24",
-        "role": "5",
-        "detail": {
-          "token": "m3/body/large",
-          "unit": "px",
-          "fontSize": "16",
-          "lineHeight": "24",
-          "fontWeight": "400",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 651,
-          "y": 961,
-          "width": 24,
-          "height": 63
-        },
-        "label": "m3/body/large 16px/24",
-        "role": "4",
-        "detail": {
-          "token": "m3/body/large",
-          "unit": "px",
-          "fontSize": "16",
-          "lineHeight": "24",
-          "fontWeight": "400",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 688,
-          "y": 830,
-          "width": 24,
-          "height": 63
-        },
-        "label": "m3/body/large 16px/24",
-        "role": "3",
-        "detail": {
-          "token": "m3/body/large",
-          "unit": "px",
-          "fontSize": "16",
-          "lineHeight": "24",
-          "fontWeight": "400",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 651,
-          "y": 698,
-          "width": 24,
-          "height": 63
-        },
-        "label": "m3/body/large 16px/24",
-        "role": "2",
-        "detail": {
-          "token": "m3/body/large",
-          "unit": "px",
-          "fontSize": "16",
-          "lineHeight": "24",
-          "fontWeight": "400",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 551,
-          "y": 599,
-          "width": 24,
-          "height": 63
-        },
-        "label": "m3/body/large 16px/24",
-        "role": "1",
-        "detail": {
-          "token": "m3/body/large",
-          "unit": "px",
-          "fontSize": "16",
-          "lineHeight": "24",
-          "fontWeight": "400",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 486,
-          "y": 1286,
-          "width": 116,
-          "height": 53
-        },
-        "label": "m3/label/large 14px/20",
-        "role": "Cancel",
-        "detail": {
-          "token": "m3/label/large",
-          "unit": "px",
-          "fontSize": "14",
-          "lineHeight": "20",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 706,
-          "y": 1286,
-          "width": 50,
-          "height": 53
-        },
-        "label": "m3/label/large 14px/20",
-        "role": "OK",
-        "detail": {
-          "token": "m3/label/large",
-          "unit": "px",
-          "fontSize": "14",
-          "lineHeight": "20",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      }
-    ],
     "timepicker-dial__ideal__default__light__compact__layout-horizontal": [
       {
         "kind": "layout",
@@ -178874,6 +177786,1094 @@
           "y": 916,
           "width": 49,
           "height": 51
+        },
+        "label": "m3/label/large 14px/20",
+        "role": "OK",
+        "detail": {
+          "token": "m3/label/large",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      }
+    ],
+    "timepicker-dial__ideal__12-hour": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 63,
+          "width": 861,
+          "height": 1365
+        },
+        "label": "gap 20px · r 28px",
+        "detail": {
+          "gap": "20",
+          "cornerRadius": "28",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 63,
+          "width": 861,
+          "height": 105
+        },
+        "label": "pad t 24px e 24px s 24px · gap 10px",
+        "role": "Header",
+        "detail": {
+          "padding.start": "24",
+          "padding.top": "24",
+          "padding.end": "24",
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 221,
+          "width": 861,
+          "height": 977
+        },
+        "label": "pad e 24px s 24px · gap 36px",
+        "role": "Input Selection",
+        "detail": {
+          "padding.start": "24",
+          "padding.end": "24",
+          "gap": "36",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 63,
+          "y": 221,
+          "width": 735,
+          "height": 210
+        },
+        "label": "gap 12px",
+        "role": "Input",
+        "detail": {
+          "gap": "12",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 63,
+          "y": 221,
+          "width": 252,
+          "height": 210
+        },
+        "label": "gap 7px",
+        "role": "Hour Input",
+        "detail": {
+          "gap": "7",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 63,
+          "y": 221,
+          "width": 252,
+          "height": 210
+        },
+        "label": "gap 7px · r 8px",
+        "role": "selected",
+        "detail": {
+          "gap": "7",
+          "cornerRadius": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 58,
+          "y": 215,
+          "width": 263,
+          "height": 221
+        },
+        "label": "r 10px",
+        "role": "Focus indicator",
+        "detail": {
+          "cornerRadius": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 378,
+          "y": 221,
+          "width": 252,
+          "height": 210
+        },
+        "label": "gap 7px · r 8px",
+        "role": "Minute Input",
+        "detail": {
+          "gap": "7",
+          "cornerRadius": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 378,
+          "y": 221,
+          "width": 252,
+          "height": 210
+        },
+        "label": "gap 10px · r 8px",
+        "role": "default",
+        "detail": {
+          "gap": "10",
+          "cornerRadius": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 373,
+          "y": 215,
+          "width": 263,
+          "height": 221
+        },
+        "label": "r 10px",
+        "role": "Focus indicator",
+        "detail": {
+          "cornerRadius": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 662,
+          "y": 221,
+          "width": 137,
+          "height": 210
+        },
+        "label": "r 8px",
+        "role": "Period Selector",
+        "detail": {
+          "cornerRadius": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 662,
+          "y": 221,
+          "width": 137,
+          "height": 105
+        },
+        "label": "pad 8px/10px · gap 10px",
+        "role": "state-layer",
+        "detail": {
+          "padding.start": "10",
+          "padding.top": "8",
+          "padding.end": "10",
+          "padding.bottom": "8",
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 662,
+          "y": 326,
+          "width": 137,
+          "height": 105
+        },
+        "label": "gap 10px",
+        "role": "PM",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 662,
+          "y": 326,
+          "width": 137,
+          "height": 105
+        },
+        "label": "pad 8px/10px",
+        "role": "state-layer",
+        "detail": {
+          "padding.start": "10",
+          "padding.top": "8",
+          "padding.end": "10",
+          "padding.bottom": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 95,
+          "y": 525,
+          "width": 672,
+          "height": 672
+        },
+        "label": "≈pad 2px · r 500px",
+        "role": "Clock face - 12 hour",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "500",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 368,
+          "y": 530,
+          "width": 126,
+          "height": 126
+        },
+        "label": "gap 10px",
+        "role": "state-layer",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 236,
+          "y": 567,
+          "width": 126,
+          "height": 126
+        },
+        "label": "gap 10px",
+        "role": "state-layer",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 137,
+          "y": 667,
+          "width": 126,
+          "height": 126
+        },
+        "label": "gap 10px",
+        "role": "state-layer",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 100,
+          "y": 798,
+          "width": 126,
+          "height": 126
+        },
+        "label": "gap 10px",
+        "role": "state-layer",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 137,
+          "y": 929,
+          "width": 126,
+          "height": 126
+        },
+        "label": "gap 10px",
+        "role": "state-layer",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 236,
+          "y": 1029,
+          "width": 126,
+          "height": 126
+        },
+        "label": "≈pad b 21px s 23px",
+        "role": ".Building Blocks/hour-line",
+        "detail": {
+          "padding.start": "23",
+          "padding.bottom": "21",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 236,
+          "y": 1029,
+          "width": 126,
+          "height": 126
+        },
+        "label": "r 100px",
+        "role": "container",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 236,
+          "y": 1029,
+          "width": 126,
+          "height": 126
+        },
+        "label": "gap 10px",
+        "role": "state-layer",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 368,
+          "y": 1066,
+          "width": 126,
+          "height": 126
+        },
+        "label": "gap 10px",
+        "role": "state-layer",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 499,
+          "y": 1029,
+          "width": 126,
+          "height": 126
+        },
+        "label": "gap 10px",
+        "role": "state-layer",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 599,
+          "y": 929,
+          "width": 126,
+          "height": 126
+        },
+        "label": "gap 10px",
+        "role": "state-layer",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 635,
+          "y": 798,
+          "width": 126,
+          "height": 126
+        },
+        "label": "gap 10px",
+        "role": "state-layer",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 599,
+          "y": 667,
+          "width": 126,
+          "height": 126
+        },
+        "label": "gap 10px",
+        "role": "state-layer",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 499,
+          "y": 567,
+          "width": 126,
+          "height": 126
+        },
+        "label": "gap 10px",
+        "role": "state-layer",
+        "detail": {
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 1250,
+          "width": 861,
+          "height": 179
+        },
+        "label": "pad e 24px b 20px s 12px · gap 120px",
+        "role": "Actions",
+        "detail": {
+          "padding.start": "12",
+          "padding.end": "24",
+          "padding.bottom": "20",
+          "gap": "120",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 32,
+          "y": 1250,
+          "width": 126,
+          "height": 126
+        },
+        "label": "≈pad 4px",
+        "role": "Icon button - standard",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 42,
+          "y": 1260,
+          "width": 105,
+          "height": 105
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 42,
+          "y": 1260,
+          "width": 105,
+          "height": 105
+        },
+        "label": "≈pad 8px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "8",
+          "padding.top": "8",
+          "padding.end": "8",
+          "padding.bottom": "8",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 63,
+          "y": 1281,
+          "width": 63,
+          "height": 63
+        },
+        "label": "≈pad 5px/2px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "5",
+          "padding.end": "2",
+          "padding.bottom": "5",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 444,
+          "y": 1250,
+          "width": 354,
+          "height": 126
+        },
+        "label": "gap 8px",
+        "role": "Actions",
+        "detail": {
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 444,
+          "y": 1250,
+          "width": 200,
+          "height": 126
+        },
+        "label": "≈pad 4px/0px",
+        "role": "Secondary button",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "4",
+          "padding.end": "0",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 444,
+          "y": 1260,
+          "width": 200,
+          "height": 105
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 444,
+          "y": 1260,
+          "width": 200,
+          "height": 105
+        },
+        "label": "pad 10px/16px · gap 8px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "10",
+          "padding.end": "16",
+          "padding.bottom": "10",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 486,
+          "y": 1286,
+          "width": 53,
+          "height": 53
+        },
+        "label": "≈pad 2px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 664,
+          "y": 1250,
+          "width": 134,
+          "height": 126
+        },
+        "label": "≈pad 4px/0px",
+        "role": "Primary button",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "4",
+          "padding.end": "0",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 664,
+          "y": 1260,
+          "width": 134,
+          "height": 105
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 664,
+          "y": 1260,
+          "width": 134,
+          "height": 105
+        },
+        "label": "pad 10px/16px · gap 8px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "10",
+          "padding.end": "16",
+          "padding.bottom": "10",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 706,
+          "y": 1286,
+          "width": 53,
+          "height": 53
+        },
+        "label": "≈pad 2px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 63,
+          "y": 126,
+          "width": 173,
+          "height": 42
+        },
+        "label": "m3/label/medium 12px/16",
+        "role": "Select time",
+        "detail": {
+          "token": "m3/label/medium",
+          "unit": "px",
+          "fontSize": "12",
+          "lineHeight": "16",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 63,
+          "y": 221,
+          "width": 252,
+          "height": 210
+        },
+        "label": "m3/display/large 57px/64",
+        "role": "07",
+        "detail": {
+          "token": "m3/display/large",
+          "unit": "px",
+          "fontSize": "57",
+          "lineHeight": "64",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 315,
+          "y": 221,
+          "width": 63,
+          "height": 210
+        },
+        "label": "text 57px/64",
+        "role": ":",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "57",
+          "lineHeight": "64",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 378,
+          "y": 221,
+          "width": 255,
+          "height": 210
+        },
+        "label": "m3/display/large 57px/64",
+        "role": "00",
+        "detail": {
+          "token": "m3/display/large",
+          "unit": "px",
+          "fontSize": "57",
+          "lineHeight": "64",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 698,
+          "y": 242,
+          "width": 66,
+          "height": 63
+        },
+        "label": "text 16px/24",
+        "role": "AM",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "16",
+          "lineHeight": "24",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 698,
+          "y": 347,
+          "width": 66,
+          "height": 63
+        },
+        "label": "text 16px/24",
+        "role": "PM",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "16",
+          "lineHeight": "24",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 407,
+          "y": 562,
+          "width": 50,
+          "height": 63
+        },
+        "label": "m3/body/large 16px/24",
+        "role": "12",
+        "detail": {
+          "token": "m3/body/large",
+          "unit": "px",
+          "fontSize": "16",
+          "lineHeight": "24",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 276,
+          "y": 599,
+          "width": 50,
+          "height": 63
+        },
+        "label": "m3/body/large 16px/24",
+        "role": "11",
+        "detail": {
+          "token": "m3/body/large",
+          "unit": "px",
+          "fontSize": "16",
+          "lineHeight": "24",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 176,
+          "y": 698,
+          "width": 50,
+          "height": 63
+        },
+        "label": "m3/body/large 16px/24",
+        "role": "10",
+        "detail": {
+          "token": "m3/body/large",
+          "unit": "px",
+          "fontSize": "16",
+          "lineHeight": "24",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 152,
+          "y": 830,
+          "width": 24,
+          "height": 63
+        },
+        "label": "m3/body/large 16px/24",
+        "role": "9",
+        "detail": {
+          "token": "m3/body/large",
+          "unit": "px",
+          "fontSize": "16",
+          "lineHeight": "24",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 189,
+          "y": 961,
+          "width": 24,
+          "height": 63
+        },
+        "label": "m3/body/large 16px/24",
+        "role": "8",
+        "detail": {
+          "token": "m3/body/large",
+          "unit": "px",
+          "fontSize": "16",
+          "lineHeight": "24",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 289,
+          "y": 1061,
+          "width": 24,
+          "height": 63
+        },
+        "label": "m3/body/large 16px/24",
+        "role": "7",
+        "detail": {
+          "token": "m3/body/large",
+          "unit": "px",
+          "fontSize": "16",
+          "lineHeight": "24",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 420,
+          "y": 1097,
+          "width": 24,
+          "height": 63
+        },
+        "label": "m3/body/large 16px/24",
+        "role": "6",
+        "detail": {
+          "token": "m3/body/large",
+          "unit": "px",
+          "fontSize": "16",
+          "lineHeight": "24",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 551,
+          "y": 1061,
+          "width": 24,
+          "height": 63
+        },
+        "label": "m3/body/large 16px/24",
+        "role": "5",
+        "detail": {
+          "token": "m3/body/large",
+          "unit": "px",
+          "fontSize": "16",
+          "lineHeight": "24",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 651,
+          "y": 961,
+          "width": 24,
+          "height": 63
+        },
+        "label": "m3/body/large 16px/24",
+        "role": "4",
+        "detail": {
+          "token": "m3/body/large",
+          "unit": "px",
+          "fontSize": "16",
+          "lineHeight": "24",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 688,
+          "y": 830,
+          "width": 24,
+          "height": 63
+        },
+        "label": "m3/body/large 16px/24",
+        "role": "3",
+        "detail": {
+          "token": "m3/body/large",
+          "unit": "px",
+          "fontSize": "16",
+          "lineHeight": "24",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 651,
+          "y": 698,
+          "width": 24,
+          "height": 63
+        },
+        "label": "m3/body/large 16px/24",
+        "role": "2",
+        "detail": {
+          "token": "m3/body/large",
+          "unit": "px",
+          "fontSize": "16",
+          "lineHeight": "24",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 551,
+          "y": 599,
+          "width": 24,
+          "height": 63
+        },
+        "label": "m3/body/large 16px/24",
+        "role": "1",
+        "detail": {
+          "token": "m3/body/large",
+          "unit": "px",
+          "fontSize": "16",
+          "lineHeight": "24",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 486,
+          "y": 1286,
+          "width": 116,
+          "height": 53
+        },
+        "label": "m3/label/large 14px/20",
+        "role": "Cancel",
+        "detail": {
+          "token": "m3/label/large",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 706,
+          "y": 1286,
+          "width": 50,
+          "height": 53
         },
         "label": "m3/label/large 14px/20",
         "role": "OK",
@@ -212965,468 +212965,6 @@
         }
       }
     ],
-    "toolbar-horizontalfloating__ideal__vibrant": [
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 0,
-          "y": 0,
-          "width": 499,
-          "height": 190
-        },
-        "label": "pad 12px/8px · gap 4px · r 32px",
-        "detail": {
-          "padding.start": "8",
-          "padding.top": "12",
-          "padding.end": "8",
-          "padding.bottom": "12",
-          "gap": "4",
-          "cornerRadius": "32",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 24,
-          "y": 24,
-          "width": 451,
-          "height": 143
-        },
-        "label": "gap 4px",
-        "role": "Content (vibrant)",
-        "detail": {
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 24,
-          "y": 24,
-          "width": 143,
-          "height": 143
-        },
-        "label": "≈pad 4px",
-        "role": "Slot 01",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "4",
-          "padding.end": "4",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 36,
-          "y": 36,
-          "width": 119,
-          "height": 119
-        },
-        "label": "r 100px",
-        "role": "Content",
-        "detail": {
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 36,
-          "y": 36,
-          "width": 119,
-          "height": 119
-        },
-        "label": "pad 10px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "10",
-          "padding.top": "10",
-          "padding.end": "10",
-          "padding.bottom": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 59,
-          "y": 59,
-          "width": 71,
-          "height": 71
-        },
-        "label": "≈pad t 2px e 4px b 2px s 2px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "4",
-          "padding.bottom": "2",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 178,
-          "y": 24,
-          "width": 143,
-          "height": 143
-        },
-        "label": "≈pad 4px",
-        "role": "Slot 02",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "4",
-          "padding.end": "4",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 190,
-          "y": 36,
-          "width": 119,
-          "height": 119
-        },
-        "label": "r 100px",
-        "role": "Content",
-        "detail": {
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 190,
-          "y": 36,
-          "width": 119,
-          "height": 119
-        },
-        "label": "pad 10px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "10",
-          "padding.top": "10",
-          "padding.end": "10",
-          "padding.bottom": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 214,
-          "y": 59,
-          "width": 71,
-          "height": 71
-        },
-        "label": "≈pad 2px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 333,
-          "y": 24,
-          "width": 143,
-          "height": 143
-        },
-        "label": "≈pad 4px",
-        "role": "Slot 03",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "4",
-          "padding.end": "4",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 345,
-          "y": 36,
-          "width": 119,
-          "height": 119
-        },
-        "label": "r 100px",
-        "role": "Content",
-        "detail": {
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 345,
-          "y": 36,
-          "width": 119,
-          "height": 119
-        },
-        "label": "pad 10px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "10",
-          "padding.top": "10",
-          "padding.end": "10",
-          "padding.bottom": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 368,
-          "y": 59,
-          "width": 71,
-          "height": 71
-        },
-        "label": "≈pad 4px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "4",
-          "padding.end": "4",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 487,
-          "y": 24,
-          "width": 143,
-          "height": 143
-        },
-        "label": "≈pad 4px",
-        "role": "Slot 04",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "4",
-          "padding.end": "4",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 499,
-          "y": 36,
-          "width": 119,
-          "height": 119
-        },
-        "label": "r 100px",
-        "role": "Content",
-        "detail": {
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 499,
-          "y": 36,
-          "width": 119,
-          "height": 119
-        },
-        "label": "pad 10px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "10",
-          "padding.top": "10",
-          "padding.end": "10",
-          "padding.bottom": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 523,
-          "y": 59,
-          "width": 71,
-          "height": 71
-        },
-        "label": "≈pad 3px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "3",
-          "padding.top": "3",
-          "padding.end": "3",
-          "padding.bottom": "3",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 487,
-          "y": 24,
-          "width": 143,
-          "height": 143
-        },
-        "label": "≈pad 4px",
-        "role": "Slot 05",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "4",
-          "padding.end": "4",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 499,
-          "y": 36,
-          "width": 119,
-          "height": 119
-        },
-        "label": "r 100px",
-        "role": "Content",
-        "detail": {
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 499,
-          "y": 36,
-          "width": 119,
-          "height": 119
-        },
-        "label": "pad 10px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "10",
-          "padding.top": "10",
-          "padding.end": "10",
-          "padding.bottom": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 523,
-          "y": 59,
-          "width": 71,
-          "height": 71
-        },
-        "label": "≈pad 4px/10px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "10",
-          "padding.top": "4",
-          "padding.end": "10",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 487,
-          "y": 24,
-          "width": 143,
-          "height": 143
-        },
-        "label": "≈pad 4px",
-        "role": "Slot 06",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "4",
-          "padding.end": "4",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 499,
-          "y": 36,
-          "width": 119,
-          "height": 119
-        },
-        "label": "r 100px",
-        "role": "Content",
-        "detail": {
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 499,
-          "y": 36,
-          "width": 119,
-          "height": 119
-        },
-        "label": "pad 10px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "10",
-          "padding.top": "10",
-          "padding.end": "10",
-          "padding.bottom": "10",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 523,
-          "y": 59,
-          "width": 71,
-          "height": 71
-        },
-        "label": "≈pad 3px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "3",
-          "padding.top": "3",
-          "padding.end": "3",
-          "padding.bottom": "3",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      }
-    ],
     "toolbar-horizontalfloating__ideal__default__light__orientation-vertical": [
       {
         "kind": "layout",
@@ -213876,6 +213414,468 @@
           "y": 622,
           "width": 85,
           "height": 85
+        },
+        "label": "≈pad 3px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "3",
+          "padding.top": "3",
+          "padding.end": "3",
+          "padding.bottom": "3",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      }
+    ],
+    "toolbar-horizontalfloating__ideal__vibrant": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 499,
+          "height": 190
+        },
+        "label": "pad 12px/8px · gap 4px · r 32px",
+        "detail": {
+          "padding.start": "8",
+          "padding.top": "12",
+          "padding.end": "8",
+          "padding.bottom": "12",
+          "gap": "4",
+          "cornerRadius": "32",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 24,
+          "y": 24,
+          "width": 451,
+          "height": 143
+        },
+        "label": "gap 4px",
+        "role": "Content (vibrant)",
+        "detail": {
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 24,
+          "y": 24,
+          "width": 143,
+          "height": 143
+        },
+        "label": "≈pad 4px",
+        "role": "Slot 01",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 36,
+          "y": 36,
+          "width": 119,
+          "height": 119
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 36,
+          "y": 36,
+          "width": 119,
+          "height": 119
+        },
+        "label": "pad 10px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "10",
+          "padding.top": "10",
+          "padding.end": "10",
+          "padding.bottom": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 59,
+          "y": 59,
+          "width": 71,
+          "height": 71
+        },
+        "label": "≈pad t 2px e 4px b 2px s 2px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "4",
+          "padding.bottom": "2",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 178,
+          "y": 24,
+          "width": 143,
+          "height": 143
+        },
+        "label": "≈pad 4px",
+        "role": "Slot 02",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 190,
+          "y": 36,
+          "width": 119,
+          "height": 119
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 190,
+          "y": 36,
+          "width": 119,
+          "height": 119
+        },
+        "label": "pad 10px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "10",
+          "padding.top": "10",
+          "padding.end": "10",
+          "padding.bottom": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 214,
+          "y": 59,
+          "width": 71,
+          "height": 71
+        },
+        "label": "≈pad 2px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 333,
+          "y": 24,
+          "width": 143,
+          "height": 143
+        },
+        "label": "≈pad 4px",
+        "role": "Slot 03",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 345,
+          "y": 36,
+          "width": 119,
+          "height": 119
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 345,
+          "y": 36,
+          "width": 119,
+          "height": 119
+        },
+        "label": "pad 10px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "10",
+          "padding.top": "10",
+          "padding.end": "10",
+          "padding.bottom": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 368,
+          "y": 59,
+          "width": 71,
+          "height": 71
+        },
+        "label": "≈pad 4px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 487,
+          "y": 24,
+          "width": 143,
+          "height": 143
+        },
+        "label": "≈pad 4px",
+        "role": "Slot 04",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 499,
+          "y": 36,
+          "width": 119,
+          "height": 119
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 499,
+          "y": 36,
+          "width": 119,
+          "height": 119
+        },
+        "label": "pad 10px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "10",
+          "padding.top": "10",
+          "padding.end": "10",
+          "padding.bottom": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 523,
+          "y": 59,
+          "width": 71,
+          "height": 71
+        },
+        "label": "≈pad 3px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "3",
+          "padding.top": "3",
+          "padding.end": "3",
+          "padding.bottom": "3",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 487,
+          "y": 24,
+          "width": 143,
+          "height": 143
+        },
+        "label": "≈pad 4px",
+        "role": "Slot 05",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 499,
+          "y": 36,
+          "width": 119,
+          "height": 119
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 499,
+          "y": 36,
+          "width": 119,
+          "height": 119
+        },
+        "label": "pad 10px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "10",
+          "padding.top": "10",
+          "padding.end": "10",
+          "padding.bottom": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 523,
+          "y": 59,
+          "width": 71,
+          "height": 71
+        },
+        "label": "≈pad 4px/10px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "10",
+          "padding.top": "4",
+          "padding.end": "10",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 487,
+          "y": 24,
+          "width": 143,
+          "height": 143
+        },
+        "label": "≈pad 4px",
+        "role": "Slot 06",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 499,
+          "y": 36,
+          "width": 119,
+          "height": 119
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 499,
+          "y": 36,
+          "width": 119,
+          "height": 119
+        },
+        "label": "pad 10px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "10",
+          "padding.top": "10",
+          "padding.end": "10",
+          "padding.bottom": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 523,
+          "y": 59,
+          "width": 71,
+          "height": 71
         },
         "label": "≈pad 3px",
         "role": "Icon",
@@ -214749,660 +214749,6 @@
           "lineHeight": "24",
           "fontWeight": "400",
           "fontFamily": "Roboto"
-        }
-      }
-    ],
-    "topappbar-small__ideal__on-scroll__compact": [
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 0,
-          "y": 0,
-          "width": 1082,
-          "height": 168
-        },
-        "label": "pad 8px/4px · gap 4px",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "8",
-          "padding.end": "4",
-          "padding.bottom": "8",
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 11,
-          "y": 21,
-          "width": 126,
-          "height": 126
-        },
-        "label": "≈pad 4px",
-        "role": "Leading icon",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "4",
-          "padding.end": "4",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 21,
-          "y": 32,
-          "width": 105,
-          "height": 105
-        },
-        "label": "r 100px",
-        "role": "Content",
-        "detail": {
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 21,
-          "y": 32,
-          "width": 105,
-          "height": 105
-        },
-        "label": "≈pad 8px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "8",
-          "padding.top": "8",
-          "padding.end": "8",
-          "padding.bottom": "8",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 42,
-          "y": 53,
-          "width": 63,
-          "height": 63
-        },
-        "label": "≈pad 4px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "4",
-          "padding.end": "4",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 945,
-          "y": 21,
-          "width": 126,
-          "height": 126
-        },
-        "label": "≈pad 4px",
-        "role": "Trailing action 3",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "4",
-          "padding.end": "4",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 956,
-          "y": 32,
-          "width": 105,
-          "height": 105
-        },
-        "label": "r 100px",
-        "role": "Content",
-        "detail": {
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 956,
-          "y": 32,
-          "width": 105,
-          "height": 105
-        },
-        "label": "≈pad 8px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "8",
-          "padding.top": "8",
-          "padding.end": "8",
-          "padding.bottom": "8",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 977,
-          "y": 53,
-          "width": 63,
-          "height": 63
-        },
-        "label": "≈pad 2px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1071,
-          "y": 21,
-          "width": 126,
-          "height": 126
-        },
-        "label": "≈pad 4px",
-        "role": "Trailing action 2",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "4",
-          "padding.end": "4",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1082,
-          "y": 32,
-          "width": 105,
-          "height": 105
-        },
-        "label": "r 100px",
-        "role": "Content",
-        "detail": {
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1082,
-          "y": 32,
-          "width": 105,
-          "height": 105
-        },
-        "label": "≈pad 8px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "8",
-          "padding.top": "8",
-          "padding.end": "8",
-          "padding.bottom": "8",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1103,
-          "y": 53,
-          "width": 63,
-          "height": 63
-        },
-        "label": "≈pad 2px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 945,
-          "y": 21,
-          "width": 126,
-          "height": 126
-        },
-        "label": "≈pad 4px",
-        "role": "Trailing action 1",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "4",
-          "padding.end": "4",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 956,
-          "y": 32,
-          "width": 105,
-          "height": 105
-        },
-        "label": "r 100px",
-        "role": "Content",
-        "detail": {
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 956,
-          "y": 32,
-          "width": 105,
-          "height": 105
-        },
-        "label": "≈pad 8px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "8",
-          "padding.top": "8",
-          "padding.end": "8",
-          "padding.bottom": "8",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 977,
-          "y": 53,
-          "width": 63,
-          "height": 63
-        },
-        "label": "≈pad 3px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "3",
-          "padding.top": "3",
-          "padding.end": "3",
-          "padding.bottom": "3",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 147,
-          "y": 47,
-          "width": 788,
-          "height": 74
-        },
-        "label": "m3/title/large 22px/28",
-        "role": "Label",
-        "detail": {
-          "token": "m3/title/large",
-          "unit": "px",
-          "fontSize": "22",
-          "lineHeight": "28",
-          "fontWeight": "400",
-          "fontFamily": "Roboto"
-        }
-      },
-      {
-        "kind": "typography",
-        "bounds": {
-          "x": 147,
-          "y": 121,
-          "width": 1387,
-          "height": 42
-        },
-        "label": "m3/label/medium 12px/16",
-        "role": "Supporting text",
-        "detail": {
-          "token": "m3/label/medium",
-          "unit": "px",
-          "fontSize": "12",
-          "lineHeight": "16",
-          "fontWeight": "500",
-          "fontFamily": "Roboto"
-        }
-      }
-    ],
-    "topappbar-small__ideal__small-image__compact": [
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 0,
-          "y": 0,
-          "width": 1082,
-          "height": 168
-        },
-        "label": "pad 8px/4px · gap 4px",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "8",
-          "padding.end": "4",
-          "padding.bottom": "8",
-          "gap": "4",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 11,
-          "y": 21,
-          "width": 126,
-          "height": 126
-        },
-        "label": "≈pad 4px",
-        "role": "Leading icon",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "4",
-          "padding.end": "4",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 21,
-          "y": 32,
-          "width": 105,
-          "height": 105
-        },
-        "label": "r 100px",
-        "role": "Content",
-        "detail": {
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 21,
-          "y": 32,
-          "width": 105,
-          "height": 105
-        },
-        "label": "≈pad 8px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "8",
-          "padding.top": "8",
-          "padding.end": "8",
-          "padding.bottom": "8",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 42,
-          "y": 53,
-          "width": 63,
-          "height": 63
-        },
-        "label": "≈pad 4px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "4",
-          "padding.end": "4",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 945,
-          "y": 21,
-          "width": 126,
-          "height": 126
-        },
-        "label": "≈pad 4px",
-        "role": "Trailing action 3",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "4",
-          "padding.end": "4",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 956,
-          "y": 32,
-          "width": 105,
-          "height": 105
-        },
-        "label": "r 100px",
-        "role": "Content",
-        "detail": {
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 956,
-          "y": 32,
-          "width": 105,
-          "height": 105
-        },
-        "label": "≈pad 8px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "8",
-          "padding.top": "8",
-          "padding.end": "8",
-          "padding.bottom": "8",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 977,
-          "y": 53,
-          "width": 63,
-          "height": 63
-        },
-        "label": "≈pad 2px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1071,
-          "y": 21,
-          "width": 126,
-          "height": 126
-        },
-        "label": "≈pad 4px",
-        "role": "Trailing action 2",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "4",
-          "padding.end": "4",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1082,
-          "y": 32,
-          "width": 105,
-          "height": 105
-        },
-        "label": "r 100px",
-        "role": "Content",
-        "detail": {
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1082,
-          "y": 32,
-          "width": 105,
-          "height": 105
-        },
-        "label": "≈pad 8px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "8",
-          "padding.top": "8",
-          "padding.end": "8",
-          "padding.bottom": "8",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 1103,
-          "y": 53,
-          "width": 63,
-          "height": 63
-        },
-        "label": "≈pad 2px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "2",
-          "padding.top": "2",
-          "padding.end": "2",
-          "padding.bottom": "2",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 945,
-          "y": 21,
-          "width": 126,
-          "height": 126
-        },
-        "label": "≈pad 4px",
-        "role": "Trailing action 1",
-        "detail": {
-          "padding.start": "4",
-          "padding.top": "4",
-          "padding.end": "4",
-          "padding.bottom": "4",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 956,
-          "y": 32,
-          "width": 105,
-          "height": 105
-        },
-        "label": "r 100px",
-        "role": "Content",
-        "detail": {
-          "cornerRadius": "100",
-          "unit": "px"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 956,
-          "y": 32,
-          "width": 105,
-          "height": 105
-        },
-        "label": "≈pad 8px",
-        "role": "State-layer",
-        "detail": {
-          "padding.start": "8",
-          "padding.top": "8",
-          "padding.end": "8",
-          "padding.bottom": "8",
-          "unit": "px",
-          "spacingSource": "derived"
-        }
-      },
-      {
-        "kind": "layout",
-        "bounds": {
-          "x": 977,
-          "y": 53,
-          "width": 63,
-          "height": 63
-        },
-        "label": "≈pad 3px",
-        "role": "Icon",
-        "detail": {
-          "padding.start": "3",
-          "padding.top": "3",
-          "padding.end": "3",
-          "padding.bottom": "3",
-          "unit": "px",
-          "spacingSource": "derived"
         }
       }
     ],
@@ -216334,6 +215680,660 @@
           "lineHeight": "24",
           "fontWeight": "500",
           "fontFamily": "Roboto"
+        }
+      }
+    ],
+    "topappbar-small__ideal__on-scroll__compact": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1082,
+          "height": 168
+        },
+        "label": "pad 8px/4px · gap 4px",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "8",
+          "padding.end": "4",
+          "padding.bottom": "8",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 11,
+          "y": 21,
+          "width": 126,
+          "height": 126
+        },
+        "label": "≈pad 4px",
+        "role": "Leading icon",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 21,
+          "y": 32,
+          "width": 105,
+          "height": 105
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 21,
+          "y": 32,
+          "width": 105,
+          "height": 105
+        },
+        "label": "≈pad 8px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "8",
+          "padding.top": "8",
+          "padding.end": "8",
+          "padding.bottom": "8",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 42,
+          "y": 53,
+          "width": 63,
+          "height": 63
+        },
+        "label": "≈pad 4px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 945,
+          "y": 21,
+          "width": 126,
+          "height": 126
+        },
+        "label": "≈pad 4px",
+        "role": "Trailing action 3",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 956,
+          "y": 32,
+          "width": 105,
+          "height": 105
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 956,
+          "y": 32,
+          "width": 105,
+          "height": 105
+        },
+        "label": "≈pad 8px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "8",
+          "padding.top": "8",
+          "padding.end": "8",
+          "padding.bottom": "8",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 977,
+          "y": 53,
+          "width": 63,
+          "height": 63
+        },
+        "label": "≈pad 2px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1071,
+          "y": 21,
+          "width": 126,
+          "height": 126
+        },
+        "label": "≈pad 4px",
+        "role": "Trailing action 2",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1082,
+          "y": 32,
+          "width": 105,
+          "height": 105
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1082,
+          "y": 32,
+          "width": 105,
+          "height": 105
+        },
+        "label": "≈pad 8px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "8",
+          "padding.top": "8",
+          "padding.end": "8",
+          "padding.bottom": "8",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1103,
+          "y": 53,
+          "width": 63,
+          "height": 63
+        },
+        "label": "≈pad 2px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 945,
+          "y": 21,
+          "width": 126,
+          "height": 126
+        },
+        "label": "≈pad 4px",
+        "role": "Trailing action 1",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 956,
+          "y": 32,
+          "width": 105,
+          "height": 105
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 956,
+          "y": 32,
+          "width": 105,
+          "height": 105
+        },
+        "label": "≈pad 8px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "8",
+          "padding.top": "8",
+          "padding.end": "8",
+          "padding.bottom": "8",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 977,
+          "y": 53,
+          "width": 63,
+          "height": 63
+        },
+        "label": "≈pad 3px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "3",
+          "padding.top": "3",
+          "padding.end": "3",
+          "padding.bottom": "3",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 147,
+          "y": 47,
+          "width": 788,
+          "height": 74
+        },
+        "label": "m3/title/large 22px/28",
+        "role": "Label",
+        "detail": {
+          "token": "m3/title/large",
+          "unit": "px",
+          "fontSize": "22",
+          "lineHeight": "28",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 147,
+          "y": 121,
+          "width": 1387,
+          "height": 42
+        },
+        "label": "m3/label/medium 12px/16",
+        "role": "Supporting text",
+        "detail": {
+          "token": "m3/label/medium",
+          "unit": "px",
+          "fontSize": "12",
+          "lineHeight": "16",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      }
+    ],
+    "topappbar-small__ideal__small-image__compact": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 0,
+          "y": 0,
+          "width": 1082,
+          "height": 168
+        },
+        "label": "pad 8px/4px · gap 4px",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "8",
+          "padding.end": "4",
+          "padding.bottom": "8",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 11,
+          "y": 21,
+          "width": 126,
+          "height": 126
+        },
+        "label": "≈pad 4px",
+        "role": "Leading icon",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 21,
+          "y": 32,
+          "width": 105,
+          "height": 105
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 21,
+          "y": 32,
+          "width": 105,
+          "height": 105
+        },
+        "label": "≈pad 8px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "8",
+          "padding.top": "8",
+          "padding.end": "8",
+          "padding.bottom": "8",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 42,
+          "y": 53,
+          "width": 63,
+          "height": 63
+        },
+        "label": "≈pad 4px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 945,
+          "y": 21,
+          "width": 126,
+          "height": 126
+        },
+        "label": "≈pad 4px",
+        "role": "Trailing action 3",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 956,
+          "y": 32,
+          "width": 105,
+          "height": 105
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 956,
+          "y": 32,
+          "width": 105,
+          "height": 105
+        },
+        "label": "≈pad 8px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "8",
+          "padding.top": "8",
+          "padding.end": "8",
+          "padding.bottom": "8",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 977,
+          "y": 53,
+          "width": 63,
+          "height": 63
+        },
+        "label": "≈pad 2px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1071,
+          "y": 21,
+          "width": 126,
+          "height": 126
+        },
+        "label": "≈pad 4px",
+        "role": "Trailing action 2",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1082,
+          "y": 32,
+          "width": 105,
+          "height": 105
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1082,
+          "y": 32,
+          "width": 105,
+          "height": 105
+        },
+        "label": "≈pad 8px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "8",
+          "padding.top": "8",
+          "padding.end": "8",
+          "padding.bottom": "8",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 1103,
+          "y": 53,
+          "width": 63,
+          "height": 63
+        },
+        "label": "≈pad 2px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 945,
+          "y": 21,
+          "width": 126,
+          "height": 126
+        },
+        "label": "≈pad 4px",
+        "role": "Trailing action 1",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 956,
+          "y": 32,
+          "width": 105,
+          "height": 105
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 956,
+          "y": 32,
+          "width": 105,
+          "height": 105
+        },
+        "label": "≈pad 8px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "8",
+          "padding.top": "8",
+          "padding.end": "8",
+          "padding.bottom": "8",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 977,
+          "y": 53,
+          "width": 63,
+          "height": 63
+        },
+        "label": "≈pad 3px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "3",
+          "padding.top": "3",
+          "padding.end": "3",
+          "padding.bottom": "3",
+          "unit": "px",
+          "spacingSource": "derived"
         }
       }
     ],

@@ -17008,6 +17008,80 @@
       }
     },
     {
+      "id": "fab-extended__ideal__default__light__size-medium",
+      "previewId": "fab-extended__ideal__default__light__size-medium",
+      "label": "Fab/Extended — figma",
+      "tier": "secondary",
+      "slot": {
+        "size": "medium"
+      },
+      "raster": {
+        "path": "references/fab-extended__ideal__default__light__size-medium.png",
+        "width": 371,
+        "height": 210,
+        "density": 2.625,
+        "sha256": "5b2975d86b80ac06db79738253ef48645982a031244336c99b36764a75b9f543",
+        "transform": {
+          "scaleX": 0.78458,
+          "scaleY": 0.783582,
+          "offsetX": 12,
+          "offsetY": 0
+        }
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Fab.kt#ExtendedFab",
+          "preview": "ExtendedFab",
+          "componentId": "Fab/Extended"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/57998:43296"
+      },
+      "match": {
+        "percent": 38.53,
+        "changedPercent": 34.54,
+        "scoreVersion": 3,
+        "geometry": 3.7
+      }
+    },
+    {
+      "id": "fab-extended__ideal__default__light__size-large",
+      "previewId": "fab-extended__ideal__default__light__size-large",
+      "label": "Fab/Extended — figma",
+      "tier": "secondary",
+      "slot": {
+        "size": "large"
+      },
+      "raster": {
+        "path": "references/fab-extended__ideal__default__light__size-large.png",
+        "width": 406,
+        "height": 252,
+        "density": 2.625,
+        "sha256": "2f728818adfb352a6d489bce2bad92aabd3c1466ec47a2d63da60b01ed13a068",
+        "transform": {
+          "scaleX": 0.812877,
+          "scaleY": 0.812903,
+          "offsetX": 1,
+          "offsetY": 0
+        }
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Fab.kt#ExtendedFab",
+          "preview": "ExtendedFab",
+          "componentId": "Fab/Extended"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/57998:43194"
+      },
+      "match": {
+        "percent": 42.4,
+        "changedPercent": 31.35,
+        "scoreVersion": 3,
+        "geometry": 2.3
+      }
+    },
+    {
       "id": "fab-extended__ideal__cell-size-large-color-primary-container-state-focused-57998-43186",
       "previewId": "fab-extended__ideal__cell-size-large-color-primary-container-state-focused-57998-43186",
       "label": "Fab/Extended — figma",
@@ -19561,80 +19635,6 @@
       }
     },
     {
-      "id": "fab-extended__ideal__default__light__size-medium",
-      "previewId": "fab-extended__ideal__default__light__size-medium",
-      "label": "Fab/Extended — figma",
-      "tier": "secondary",
-      "slot": {
-        "size": "medium"
-      },
-      "raster": {
-        "path": "references/fab-extended__ideal__default__light__size-medium.png",
-        "width": 371,
-        "height": 210,
-        "density": 2.625,
-        "sha256": "5b2975d86b80ac06db79738253ef48645982a031244336c99b36764a75b9f543",
-        "transform": {
-          "scaleX": 0.78458,
-          "scaleY": 0.783582,
-          "offsetX": 12,
-          "offsetY": 0
-        }
-      },
-      "source": {
-        "provider": "figma",
-        "attributes": {
-          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Fab.kt#ExtendedFab",
-          "preview": "ExtendedFab",
-          "componentId": "Fab/Extended"
-        },
-        "uri": "figma:ocdacdEsnHipMJD3egzxKb/57998:43296"
-      },
-      "match": {
-        "percent": 38.53,
-        "changedPercent": 34.54,
-        "scoreVersion": 3,
-        "geometry": 3.7
-      }
-    },
-    {
-      "id": "fab-extended__ideal__default__light__size-large",
-      "previewId": "fab-extended__ideal__default__light__size-large",
-      "label": "Fab/Extended — figma",
-      "tier": "secondary",
-      "slot": {
-        "size": "large"
-      },
-      "raster": {
-        "path": "references/fab-extended__ideal__default__light__size-large.png",
-        "width": 406,
-        "height": 252,
-        "density": 2.625,
-        "sha256": "2f728818adfb352a6d489bce2bad92aabd3c1466ec47a2d63da60b01ed13a068",
-        "transform": {
-          "scaleX": 0.812877,
-          "scaleY": 0.812903,
-          "offsetX": 1,
-          "offsetY": 0
-        }
-      },
-      "source": {
-        "provider": "figma",
-        "attributes": {
-          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Fab.kt#ExtendedFab",
-          "preview": "ExtendedFab",
-          "componentId": "Fab/Extended"
-        },
-        "uri": "figma:ocdacdEsnHipMJD3egzxKb/57998:43194"
-      },
-      "match": {
-        "percent": 42.4,
-        "changedPercent": 31.35,
-        "scoreVersion": 3,
-        "geometry": 2.3
-      }
-    },
-    {
       "id": "fab-standard__ideal__default__light",
       "previewId": "fab-standard__ideal__default__light",
       "label": "Fab/Standard — figma",
@@ -19664,6 +19664,78 @@
       "match": {
         "percent": 45.99,
         "changedPercent": 48.36,
+        "scoreVersion": 3
+      }
+    },
+    {
+      "id": "fab-standard__ideal__default__light__size-medium",
+      "previewId": "fab-standard__ideal__default__light__size-medium",
+      "label": "Fab/Standard — figma",
+      "tier": "secondary",
+      "slot": {
+        "size": "medium"
+      },
+      "raster": {
+        "path": "references/fab-standard__ideal__default__light__size-medium.png",
+        "width": 210,
+        "height": 210,
+        "density": 2.625,
+        "sha256": "b12b0c583d3060a8e2f566d50250d23b8e0538c6514b6ce965f0c37cf8069f87",
+        "transform": {
+          "scaleX": 0.783582,
+          "scaleY": 0.783582,
+          "offsetX": 0,
+          "offsetY": 0
+        }
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Fab.kt#Fab",
+          "preview": "Fab",
+          "componentId": "Fab/Standard"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/57998:43580"
+      },
+      "match": {
+        "percent": 24.24,
+        "changedPercent": 37.77,
+        "scoreVersion": 3
+      }
+    },
+    {
+      "id": "fab-standard__ideal__default__light__size-large",
+      "previewId": "fab-standard__ideal__default__light__size-large",
+      "label": "Fab/Standard — figma",
+      "tier": "secondary",
+      "slot": {
+        "size": "large"
+      },
+      "raster": {
+        "path": "references/fab-standard__ideal__default__light__size-large.png",
+        "width": 252,
+        "height": 252,
+        "density": 2.625,
+        "sha256": "a67a242aeeee4e9bf34e33bd43840d6f024b7673e6bed8ad58fc03ba578a6b2f",
+        "transform": {
+          "scaleX": 0.812903,
+          "scaleY": 0.812903,
+          "offsetX": 0,
+          "offsetY": 0
+        }
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Fab.kt#Fab",
+          "preview": "Fab",
+          "componentId": "Fab/Standard"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/57998:43502"
+      },
+      "match": {
+        "percent": 28.5,
+        "changedPercent": 34.24,
         "scoreVersion": 3
       }
     },
@@ -22166,78 +22238,6 @@
       "match": {
         "percent": 46.48,
         "changedPercent": 48.35,
-        "scoreVersion": 3
-      }
-    },
-    {
-      "id": "fab-standard__ideal__default__light__size-medium",
-      "previewId": "fab-standard__ideal__default__light__size-medium",
-      "label": "Fab/Standard — figma",
-      "tier": "secondary",
-      "slot": {
-        "size": "medium"
-      },
-      "raster": {
-        "path": "references/fab-standard__ideal__default__light__size-medium.png",
-        "width": 210,
-        "height": 210,
-        "density": 2.625,
-        "sha256": "b12b0c583d3060a8e2f566d50250d23b8e0538c6514b6ce965f0c37cf8069f87",
-        "transform": {
-          "scaleX": 0.783582,
-          "scaleY": 0.783582,
-          "offsetX": 0,
-          "offsetY": 0
-        }
-      },
-      "source": {
-        "provider": "figma",
-        "attributes": {
-          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Fab.kt#Fab",
-          "preview": "Fab",
-          "componentId": "Fab/Standard"
-        },
-        "uri": "figma:ocdacdEsnHipMJD3egzxKb/57998:43580"
-      },
-      "match": {
-        "percent": 24.24,
-        "changedPercent": 37.77,
-        "scoreVersion": 3
-      }
-    },
-    {
-      "id": "fab-standard__ideal__default__light__size-large",
-      "previewId": "fab-standard__ideal__default__light__size-large",
-      "label": "Fab/Standard — figma",
-      "tier": "secondary",
-      "slot": {
-        "size": "large"
-      },
-      "raster": {
-        "path": "references/fab-standard__ideal__default__light__size-large.png",
-        "width": 252,
-        "height": 252,
-        "density": 2.625,
-        "sha256": "a67a242aeeee4e9bf34e33bd43840d6f024b7673e6bed8ad58fc03ba578a6b2f",
-        "transform": {
-          "scaleX": 0.812903,
-          "scaleY": 0.812903,
-          "offsetX": 0,
-          "offsetY": 0
-        }
-      },
-      "source": {
-        "provider": "figma",
-        "attributes": {
-          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Fab.kt#Fab",
-          "preview": "Fab",
-          "componentId": "Fab/Standard"
-        },
-        "uri": "figma:ocdacdEsnHipMJD3egzxKb/57998:43502"
-      },
-      "match": {
-        "percent": 28.5,
-        "changedPercent": 34.24,
         "scoreVersion": 3
       }
     },
@@ -44097,6 +44097,42 @@
       }
     },
     {
+      "id": "progress-circular__ideal__default__light__type-wave",
+      "previewId": "progress-circular__ideal__default__light__type-wave",
+      "label": "Progress/Circular — figma",
+      "tier": "secondary",
+      "slot": {
+        "state": "wave"
+      },
+      "raster": {
+        "path": "references/progress-circular__ideal__default__light__type-wave.png",
+        "width": 126,
+        "height": 126,
+        "density": 2.625,
+        "sha256": "ed15cce227178da1142082e221b59a2e4de5ffc3672940a305569152670451ad",
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "offsetX": 0,
+          "offsetY": 1
+        }
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/ProgressIndicators.kt#CircularProgress",
+          "preview": "CircularProgress",
+          "componentId": "Progress/Circular"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/58005:8498"
+      },
+      "match": {
+        "percent": 88.59,
+        "changedPercent": 15.54,
+        "scoreVersion": 3
+      }
+    },
+    {
       "id": "progress-circular__ideal__cell-type-wave-thickness-4-dp-progress-0-58005-8464",
       "previewId": "progress-circular__ideal__cell-type-wave-thickness-4-dp-progress-0-58005-8464",
       "label": "Progress/Circular — figma",
@@ -44205,42 +44241,6 @@
       }
     },
     {
-      "id": "progress-circular__ideal__default__light__type-wave",
-      "previewId": "progress-circular__ideal__default__light__type-wave",
-      "label": "Progress/Circular — figma",
-      "tier": "secondary",
-      "slot": {
-        "state": "wave"
-      },
-      "raster": {
-        "path": "references/progress-circular__ideal__default__light__type-wave.png",
-        "width": 126,
-        "height": 126,
-        "density": 2.625,
-        "sha256": "ed15cce227178da1142082e221b59a2e4de5ffc3672940a305569152670451ad",
-        "transform": {
-          "scaleX": 1,
-          "scaleY": 1,
-          "offsetX": 0,
-          "offsetY": 1
-        }
-      },
-      "source": {
-        "provider": "figma",
-        "attributes": {
-          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/ProgressIndicators.kt#CircularProgress",
-          "preview": "CircularProgress",
-          "componentId": "Progress/Circular"
-        },
-        "uri": "figma:ocdacdEsnHipMJD3egzxKb/58005:8498"
-      },
-      "match": {
-        "percent": 88.59,
-        "changedPercent": 15.54,
-        "scoreVersion": 3
-      }
-    },
-    {
       "id": "progress-linear__ideal__default__light__compact",
       "previewId": "progress-linear__ideal__default__light__compact",
       "label": "Progress/Linear — figma",
@@ -44270,6 +44270,36 @@
       "match": {
         "percent": 97.02,
         "changedPercent": 8.29,
+        "scoreVersion": 3
+      }
+    },
+    {
+      "id": "progress-linear__ideal__default__light__compact__type-wave",
+      "previewId": "progress-linear__ideal__default__light__compact__type-wave",
+      "label": "Progress/Linear — figma",
+      "tier": "secondary",
+      "slot": {
+        "state": "wave"
+      },
+      "raster": {
+        "path": "references/progress-linear__ideal__default__light__compact__type-wave.png",
+        "width": 1061,
+        "height": 32,
+        "density": 2.625,
+        "sha256": "02dd9fab8205b14cf98db882dfd84959f07696b534545fa614afd5fde8ed08aa"
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/ProgressIndicators.kt#LinearProgress",
+          "preview": "LinearProgress",
+          "componentId": "Progress/Linear"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/58005:8115"
+      },
+      "match": {
+        "percent": 99.75,
+        "changedPercent": 11.43,
         "scoreVersion": 3
       }
     },
@@ -44378,36 +44408,6 @@
       "match": {
         "percent": 97.43,
         "changedPercent": 7.82,
-        "scoreVersion": 3
-      }
-    },
-    {
-      "id": "progress-linear__ideal__default__light__compact__type-wave",
-      "previewId": "progress-linear__ideal__default__light__compact__type-wave",
-      "label": "Progress/Linear — figma",
-      "tier": "secondary",
-      "slot": {
-        "state": "wave"
-      },
-      "raster": {
-        "path": "references/progress-linear__ideal__default__light__compact__type-wave.png",
-        "width": 1061,
-        "height": 32,
-        "density": 2.625,
-        "sha256": "02dd9fab8205b14cf98db882dfd84959f07696b534545fa614afd5fde8ed08aa"
-      },
-      "source": {
-        "provider": "figma",
-        "attributes": {
-          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/ProgressIndicators.kt#LinearProgress",
-          "preview": "LinearProgress",
-          "componentId": "Progress/Linear"
-        },
-        "uri": "figma:ocdacdEsnHipMJD3egzxKb/58005:8115"
-      },
-      "match": {
-        "percent": 99.75,
-        "changedPercent": 11.43,
         "scoreVersion": 3
       }
     },
@@ -50932,6 +50932,36 @@
       }
     },
     {
+      "id": "tabs-primary__ideal__default__light__configuration-scrollable",
+      "previewId": "tabs-primary__ideal__default__light__configuration-scrollable",
+      "label": "Tabs/Primary — figma",
+      "tier": "secondary",
+      "slot": {
+        "state": "scrollable"
+      },
+      "raster": {
+        "path": "references/tabs-primary__ideal__default__light__configuration-scrollable.png",
+        "width": 945,
+        "height": 126,
+        "density": 2.625,
+        "sha256": "4cd98947ce34749492a1913e5a90cb43d4569766c85be770694d295bf111cebc"
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Tabs.kt#PrimaryTabs",
+          "preview": "PrimaryTabs",
+          "componentId": "Tabs/Primary"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/54563:40124"
+      },
+      "match": {
+        "percent": 99.62,
+        "changedPercent": 4.97,
+        "scoreVersion": 3
+      }
+    },
+    {
       "id": "tabs-primary__ideal__cell-configuration-scrollable-style-primary-layout-icon-only-54563-40078",
       "previewId": "tabs-primary__ideal__cell-configuration-scrollable-style-primary-layout-icon-only-54563-40078",
       "label": "Tabs/Primary — figma",
@@ -51035,36 +51065,6 @@
       }
     },
     {
-      "id": "tabs-primary__ideal__default__light__configuration-scrollable",
-      "previewId": "tabs-primary__ideal__default__light__configuration-scrollable",
-      "label": "Tabs/Primary — figma",
-      "tier": "secondary",
-      "slot": {
-        "state": "scrollable"
-      },
-      "raster": {
-        "path": "references/tabs-primary__ideal__default__light__configuration-scrollable.png",
-        "width": 945,
-        "height": 126,
-        "density": 2.625,
-        "sha256": "4cd98947ce34749492a1913e5a90cb43d4569766c85be770694d295bf111cebc"
-      },
-      "source": {
-        "provider": "figma",
-        "attributes": {
-          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Tabs.kt#PrimaryTabs",
-          "preview": "PrimaryTabs",
-          "componentId": "Tabs/Primary"
-        },
-        "uri": "figma:ocdacdEsnHipMJD3egzxKb/54563:40124"
-      },
-      "match": {
-        "percent": 99.62,
-        "changedPercent": 4.97,
-        "scoreVersion": 3
-      }
-    },
-    {
       "id": "tabs-secondary__ideal__default__light",
       "previewId": "tabs-secondary__ideal__default__light",
       "label": "Tabs/Secondary — figma",
@@ -51088,6 +51088,36 @@
       "match": {
         "percent": 92.69,
         "changedPercent": 7.35,
+        "scoreVersion": 3
+      }
+    },
+    {
+      "id": "tabs-secondary__ideal__default__light__configuration-scrollable",
+      "previewId": "tabs-secondary__ideal__default__light__configuration-scrollable",
+      "label": "Tabs/Secondary — figma",
+      "tier": "secondary",
+      "slot": {
+        "state": "scrollable"
+      },
+      "raster": {
+        "path": "references/tabs-secondary__ideal__default__light__configuration-scrollable.png",
+        "width": 945,
+        "height": 126,
+        "density": 2.625,
+        "sha256": "89d90374f05c6fdeaedd54b3c5df6193716d15b5f05bc6a6a821a9f36e40deae"
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Tabs.kt#SecondaryTabs",
+          "preview": "SecondaryTabs",
+          "componentId": "Tabs/Secondary"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/54563:40055"
+      },
+      "match": {
+        "percent": 98.35,
+        "changedPercent": 5.02,
         "scoreVersion": 3
       }
     },
@@ -51126,36 +51156,6 @@
         "changedPercent": 22.06,
         "scoreVersion": 3,
         "geometry": 27
-      }
-    },
-    {
-      "id": "tabs-secondary__ideal__default__light__configuration-scrollable",
-      "previewId": "tabs-secondary__ideal__default__light__configuration-scrollable",
-      "label": "Tabs/Secondary — figma",
-      "tier": "secondary",
-      "slot": {
-        "state": "scrollable"
-      },
-      "raster": {
-        "path": "references/tabs-secondary__ideal__default__light__configuration-scrollable.png",
-        "width": 945,
-        "height": 126,
-        "density": 2.625,
-        "sha256": "89d90374f05c6fdeaedd54b3c5df6193716d15b5f05bc6a6a821a9f36e40deae"
-      },
-      "source": {
-        "provider": "figma",
-        "attributes": {
-          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Tabs.kt#SecondaryTabs",
-          "preview": "SecondaryTabs",
-          "componentId": "Tabs/Secondary"
-        },
-        "uri": "figma:ocdacdEsnHipMJD3egzxKb/54563:40055"
-      },
-      "match": {
-        "percent": 98.35,
-        "changedPercent": 5.02,
-        "scoreVersion": 3
       }
     },
     {
@@ -54178,43 +54178,6 @@
       }
     },
     {
-      "id": "timepicker-dial__ideal__12-hour",
-      "previewId": "timepicker-dial__ideal__12-hour",
-      "label": "TimePicker/Dial — figma",
-      "tier": "secondary",
-      "slot": {
-        "state": "12-hour"
-      },
-      "raster": {
-        "path": "references/timepicker-dial__ideal__12-hour.png",
-        "width": 861,
-        "height": 1492,
-        "density": 2.625,
-        "sha256": "145c077dc08d3bf7291a22f1ade00fce1ec21d2e45d4c5693857211ab0514eb5",
-        "transform": {
-          "scaleX": 1,
-          "scaleY": 1,
-          "offsetX": 0,
-          "offsetY": 63
-        }
-      },
-      "source": {
-        "provider": "figma",
-        "attributes": {
-          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/TimePickers.kt#TimePickerSticker",
-          "preview": "TimePickerSticker",
-          "componentId": "TimePicker/Dial"
-        },
-        "uri": "figma:ocdacdEsnHipMJD3egzxKb/52949:27917"
-      },
-      "match": {
-        "percent": 82.51,
-        "changedPercent": 13.59,
-        "scoreVersion": 3,
-        "geometry": 7.4
-      }
-    },
-    {
       "id": "timepicker-dial__ideal__default__light__compact__layout-horizontal",
       "previewId": "timepicker-dial__ideal__default__light__compact__layout-horizontal",
       "label": "TimePicker/Dial — figma",
@@ -54249,6 +54212,43 @@
         "changedPercent": 12.84,
         "scoreVersion": 3,
         "geometry": 10.5
+      }
+    },
+    {
+      "id": "timepicker-dial__ideal__12-hour",
+      "previewId": "timepicker-dial__ideal__12-hour",
+      "label": "TimePicker/Dial — figma",
+      "tier": "secondary",
+      "slot": {
+        "state": "12-hour"
+      },
+      "raster": {
+        "path": "references/timepicker-dial__ideal__12-hour.png",
+        "width": 861,
+        "height": 1492,
+        "density": 2.625,
+        "sha256": "145c077dc08d3bf7291a22f1ade00fce1ec21d2e45d4c5693857211ab0514eb5",
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "offsetX": 0,
+          "offsetY": 63
+        }
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/TimePickers.kt#TimePickerSticker",
+          "preview": "TimePickerSticker",
+          "componentId": "TimePicker/Dial"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/52949:27917"
+      },
+      "match": {
+        "percent": 82.51,
+        "changedPercent": 13.59,
+        "scoreVersion": 3,
+        "geometry": 7.4
       }
     },
     {
@@ -68383,36 +68383,6 @@
       }
     },
     {
-      "id": "toolbar-horizontalfloating__ideal__vibrant",
-      "previewId": "toolbar-horizontalfloating__ideal__vibrant",
-      "label": "Toolbar/HorizontalFloating — figma",
-      "tier": "secondary",
-      "slot": {
-        "state": "vibrant"
-      },
-      "raster": {
-        "path": "references/toolbar-horizontalfloating__ideal__vibrant.png",
-        "width": 499,
-        "height": 226,
-        "density": 2.625,
-        "sha256": "0a77b3d30b9890b651b77d11981eab72581e5486c782808f9807ace6704bd701"
-      },
-      "source": {
-        "provider": "figma",
-        "attributes": {
-          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Toolbars.kt#HorizontalFloatingToolbarSticker",
-          "preview": "HorizontalFloatingToolbarSticker",
-          "componentId": "Toolbar/HorizontalFloating"
-        },
-        "uri": "figma:ocdacdEsnHipMJD3egzxKb/58467:8260"
-      },
-      "match": {
-        "percent": 68.25,
-        "changedPercent": 26.15,
-        "scoreVersion": 3
-      }
-    },
-    {
       "id": "toolbar-horizontalfloating__ideal__default__light__orientation-vertical",
       "previewId": "toolbar-horizontalfloating__ideal__default__light__orientation-vertical",
       "label": "Toolbar/HorizontalFloating — figma",
@@ -68441,6 +68411,36 @@
         "changedPercent": 22.95,
         "scoreVersion": 3,
         "geometry": 2.8
+      }
+    },
+    {
+      "id": "toolbar-horizontalfloating__ideal__vibrant",
+      "previewId": "toolbar-horizontalfloating__ideal__vibrant",
+      "label": "Toolbar/HorizontalFloating — figma",
+      "tier": "secondary",
+      "slot": {
+        "state": "vibrant"
+      },
+      "raster": {
+        "path": "references/toolbar-horizontalfloating__ideal__vibrant.png",
+        "width": 499,
+        "height": 226,
+        "density": 2.625,
+        "sha256": "0a77b3d30b9890b651b77d11981eab72581e5486c782808f9807ace6704bd701"
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Toolbars.kt#HorizontalFloatingToolbarSticker",
+          "preview": "HorizontalFloatingToolbarSticker",
+          "componentId": "Toolbar/HorizontalFloating"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/58467:8260"
+      },
+      "match": {
+        "percent": 68.25,
+        "changedPercent": 26.15,
+        "scoreVersion": 3
       }
     },
     {
@@ -68500,66 +68500,6 @@
         "changedPercent": 99.62,
         "scoreVersion": 3,
         "geometry": 2.1
-      }
-    },
-    {
-      "id": "topappbar-small__ideal__on-scroll__compact",
-      "previewId": "topappbar-small__ideal__on-scroll__compact",
-      "label": "TopAppBar/Small — figma",
-      "tier": "secondary",
-      "slot": {
-        "state": "on-scroll"
-      },
-      "raster": {
-        "path": "references/topappbar-small__ideal__on-scroll__compact.png",
-        "width": 1082,
-        "height": 168,
-        "density": 2.625,
-        "sha256": "7b9c20cebd2e36042f9b18e9e301a8882688f48bd7b24e636ccb82abb25dc883"
-      },
-      "source": {
-        "provider": "figma",
-        "attributes": {
-          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/TopAppBars.kt#SmallTopAppBar",
-          "preview": "SmallTopAppBar",
-          "componentId": "TopAppBar/Small"
-        },
-        "uri": "figma:ocdacdEsnHipMJD3egzxKb/58114:20627"
-      },
-      "match": {
-        "percent": 98.25,
-        "changedPercent": 1.66,
-        "scoreVersion": 3
-      }
-    },
-    {
-      "id": "topappbar-small__ideal__small-image__compact",
-      "previewId": "topappbar-small__ideal__small-image__compact",
-      "label": "TopAppBar/Small — figma",
-      "tier": "secondary",
-      "slot": {
-        "state": "small-image"
-      },
-      "raster": {
-        "path": "references/topappbar-small__ideal__small-image__compact.png",
-        "width": 1082,
-        "height": 168,
-        "density": 2.625,
-        "sha256": "e731de8cd180fa7bbbff1c567d306a2dc116c7ead50d75f4fe0674f2cb96ec5f"
-      },
-      "source": {
-        "provider": "figma",
-        "attributes": {
-          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/TopAppBars.kt#SmallTopAppBar",
-          "preview": "SmallTopAppBar",
-          "componentId": "TopAppBar/Small"
-        },
-        "uri": "figma:ocdacdEsnHipMJD3egzxKb/58114:20578"
-      },
-      "match": {
-        "percent": 98.19,
-        "changedPercent": 5.16,
-        "scoreVersion": 3
       }
     },
     {
@@ -68653,6 +68593,66 @@
         "changedPercent": 3.5,
         "scoreVersion": 3,
         "geometry": 12.2
+      }
+    },
+    {
+      "id": "topappbar-small__ideal__on-scroll__compact",
+      "previewId": "topappbar-small__ideal__on-scroll__compact",
+      "label": "TopAppBar/Small — figma",
+      "tier": "secondary",
+      "slot": {
+        "state": "on-scroll"
+      },
+      "raster": {
+        "path": "references/topappbar-small__ideal__on-scroll__compact.png",
+        "width": 1082,
+        "height": 168,
+        "density": 2.625,
+        "sha256": "7b9c20cebd2e36042f9b18e9e301a8882688f48bd7b24e636ccb82abb25dc883"
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/TopAppBars.kt#SmallTopAppBar",
+          "preview": "SmallTopAppBar",
+          "componentId": "TopAppBar/Small"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/58114:20627"
+      },
+      "match": {
+        "percent": 98.25,
+        "changedPercent": 1.66,
+        "scoreVersion": 3
+      }
+    },
+    {
+      "id": "topappbar-small__ideal__small-image__compact",
+      "previewId": "topappbar-small__ideal__small-image__compact",
+      "label": "TopAppBar/Small — figma",
+      "tier": "secondary",
+      "slot": {
+        "state": "small-image"
+      },
+      "raster": {
+        "path": "references/topappbar-small__ideal__small-image__compact.png",
+        "width": 1082,
+        "height": 168,
+        "density": 2.625,
+        "sha256": "e731de8cd180fa7bbbff1c567d306a2dc116c7ead50d75f4fe0674f2cb96ec5f"
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/TopAppBars.kt#SmallTopAppBar",
+          "preview": "SmallTopAppBar",
+          "componentId": "TopAppBar/Small"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/58114:20578"
+      },
+      "match": {
+        "percent": 98.19,
+        "changedPercent": 5.16,
+        "scoreVersion": 3
       }
     },
     {
