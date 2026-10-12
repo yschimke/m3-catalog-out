@@ -66210,36 +66210,6 @@
           },
           {
             "kind": "visual",
-            "severity": "warn",
-            "message": "cell-type-wave-thickness-4-dp-progress-0-58005-8464: 2.4% of pixels differ from reference",
-            "detail": {
-              "key": "cell-type-wave-thickness-4-dp-progress-0-58005-8464",
-              "score": "0.024036",
-              "diffPixels": "265"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "empty: 0.0% of pixels differ from reference",
-            "detail": {
-              "key": "empty",
-              "score": "0.000181",
-              "diffPixels": "2"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "full: 0.1% of pixels differ from reference",
-            "detail": {
-              "key": "full",
-              "score": "0.000635",
-              "diffPixels": "7"
-            }
-          },
-          {
-            "kind": "visual",
             "severity": "info",
             "message": "wave-full: reference and candidate differ slightly in size (126×129 vs 126×126); compared over their overlap",
             "detail": {
@@ -66269,6 +66239,36 @@
               "key": "wave-full",
               "score": "0.11591",
               "diffPixels": "1884"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-type-wave-thickness-4-dp-progress-0-58005-8464: 2.4% of pixels differ from reference",
+            "detail": {
+              "key": "cell-type-wave-thickness-4-dp-progress-0-58005-8464",
+              "score": "0.024036",
+              "diffPixels": "265"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "empty: 0.0% of pixels differ from reference",
+            "detail": {
+              "key": "empty",
+              "score": "0.000181",
+              "diffPixels": "2"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "full: 0.1% of pixels differ from reference",
+            "detail": {
+              "key": "full",
+              "score": "0.000635",
+              "diffPixels": "7"
             }
           }
         ]
@@ -66315,36 +66315,6 @@
           },
           {
             "kind": "visual",
-            "severity": "warn",
-            "message": "cell-type-wave-thickness-4-dp-progress-0-58005-8464: 2.4% of pixels differ from reference",
-            "detail": {
-              "key": "cell-type-wave-thickness-4-dp-progress-0-58005-8464",
-              "score": "0.024036",
-              "diffPixels": "265"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "empty: 0.0% of pixels differ from reference",
-            "detail": {
-              "key": "empty",
-              "score": "0.000181",
-              "diffPixels": "2"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "full: 0.1% of pixels differ from reference",
-            "detail": {
-              "key": "full",
-              "score": "0.000635",
-              "diffPixels": "7"
-            }
-          },
-          {
-            "kind": "visual",
             "severity": "info",
             "message": "wave-full: reference and candidate differ slightly in size (126×129 vs 126×126); compared over their overlap",
             "detail": {
@@ -66374,6 +66344,36 @@
               "key": "wave-full",
               "score": "0.11591",
               "diffPixels": "1884"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "cell-type-wave-thickness-4-dp-progress-0-58005-8464: 2.4% of pixels differ from reference",
+            "detail": {
+              "key": "cell-type-wave-thickness-4-dp-progress-0-58005-8464",
+              "score": "0.024036",
+              "diffPixels": "265"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "empty: 0.0% of pixels differ from reference",
+            "detail": {
+              "key": "empty",
+              "score": "0.000181",
+              "diffPixels": "2"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "full: 0.1% of pixels differ from reference",
+            "detail": {
+              "key": "full",
+              "score": "0.000635",
+              "diffPixels": "7"
             }
           }
         ]
@@ -66450,6 +66450,28 @@
           },
           {
             "kind": "visual",
+            "severity": "info",
+            "message": "wave-full: reference and candidate differ slightly in size (1061×31 vs 1061×32); compared over their overlap",
+            "detail": {
+              "key": "wave-full",
+              "dw": "0",
+              "dh": "-1",
+              "borderPixels": "1061",
+              "contentPixels": "531"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "wave-full: 4.7% of pixels differ from reference",
+            "detail": {
+              "key": "wave-full",
+              "score": "0.04689",
+              "diffPixels": "1592"
+            }
+          },
+          {
+            "kind": "visual",
             "severity": "warn",
             "message": "cell-type-wave-thickness-4-dp-progress-0-58005-8074: 4.7% of pixels differ from reference",
             "detail": {
@@ -66476,28 +66498,6 @@
               "key": "full",
               "score": "0.030985",
               "diffPixels": "1054"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "info",
-            "message": "wave-full: reference and candidate differ slightly in size (1061×31 vs 1061×32); compared over their overlap",
-            "detail": {
-              "key": "wave-full",
-              "dw": "0",
-              "dh": "-1",
-              "borderPixels": "1061",
-              "contentPixels": "531"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "wave-full: 4.7% of pixels differ from reference",
-            "detail": {
-              "key": "wave-full",
-              "score": "0.04689",
-              "diffPixels": "1592"
             }
           }
         ]
@@ -66574,6 +66574,28 @@
           },
           {
             "kind": "visual",
+            "severity": "info",
+            "message": "wave-full: reference and candidate differ slightly in size (1061×31 vs 1061×32); compared over their overlap",
+            "detail": {
+              "key": "wave-full",
+              "dw": "0",
+              "dh": "-1",
+              "borderPixels": "1061",
+              "contentPixels": "531"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "wave-full: 4.7% of pixels differ from reference",
+            "detail": {
+              "key": "wave-full",
+              "score": "0.04689",
+              "diffPixels": "1592"
+            }
+          },
+          {
+            "kind": "visual",
             "severity": "warn",
             "message": "cell-type-wave-thickness-4-dp-progress-0-58005-8074: 4.7% of pixels differ from reference",
             "detail": {
@@ -66600,28 +66622,6 @@
               "key": "full",
               "score": "0.030985",
               "diffPixels": "1054"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "info",
-            "message": "wave-full: reference and candidate differ slightly in size (1061×31 vs 1061×32); compared over their overlap",
-            "detail": {
-              "key": "wave-full",
-              "dw": "0",
-              "dh": "-1",
-              "borderPixels": "1061",
-              "contentPixels": "531"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "wave-full: 4.7% of pixels differ from reference",
-            "detail": {
-              "key": "wave-full",
-              "score": "0.04689",
-              "diffPixels": "1592"
             }
           }
         ]
@@ -76238,6 +76238,28 @@
           {
             "kind": "visual",
             "severity": "warn",
+            "message": "scrollable-icon-label: reference 945×168 vs candidate 945×189; compared over their 945×168 overlap, 11.1% of the frame uncovered",
+            "detail": {
+              "key": "scrollable-icon-label",
+              "dw": "0",
+              "dh": "-21",
+              "borderPixels": "19845",
+              "contentPixels": "9631"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "scrollable-icon-label: 16.5% of pixels differ from reference",
+            "detail": {
+              "key": "scrollable-icon-label",
+              "score": "0.165035",
+              "diffPixels": "29476"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
             "message": "cell-configuration-scrollable-style-primary-layout-icon-only-54563-40078: 4.5% of pixels differ from reference",
             "detail": {
               "key": "cell-configuration-scrollable-style-primary-layout-icon-only-54563-40078",
@@ -76287,28 +76309,6 @@
               "key": "icon-label",
               "score": "0.163265",
               "diffPixels": "29160"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "scrollable-icon-label: reference 945×168 vs candidate 945×189; compared over their 945×168 overlap, 11.1% of the frame uncovered",
-            "detail": {
-              "key": "scrollable-icon-label",
-              "dw": "0",
-              "dh": "-21",
-              "borderPixels": "19845",
-              "contentPixels": "9631"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "scrollable-icon-label: 16.5% of pixels differ from reference",
-            "detail": {
-              "key": "scrollable-icon-label",
-              "score": "0.165035",
-              "diffPixels": "29476"
             }
           }
         ]
@@ -76415,6 +76415,28 @@
           {
             "kind": "visual",
             "severity": "warn",
+            "message": "scrollable-icon-label: reference 945×168 vs candidate 945×189; compared over their 945×168 overlap, 11.1% of the frame uncovered",
+            "detail": {
+              "key": "scrollable-icon-label",
+              "dw": "0",
+              "dh": "-21",
+              "borderPixels": "19845",
+              "contentPixels": "9631"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "scrollable-icon-label: 16.5% of pixels differ from reference",
+            "detail": {
+              "key": "scrollable-icon-label",
+              "score": "0.165035",
+              "diffPixels": "29476"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
             "message": "cell-configuration-scrollable-style-primary-layout-icon-only-54563-40078: 4.5% of pixels differ from reference",
             "detail": {
               "key": "cell-configuration-scrollable-style-primary-layout-icon-only-54563-40078",
@@ -76464,28 +76486,6 @@
               "key": "icon-label",
               "score": "0.163265",
               "diffPixels": "29160"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "scrollable-icon-label: reference 945×168 vs candidate 945×189; compared over their 945×168 overlap, 11.1% of the frame uncovered",
-            "detail": {
-              "key": "scrollable-icon-label",
-              "dw": "0",
-              "dh": "-21",
-              "borderPixels": "19845",
-              "contentPixels": "9631"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "scrollable-icon-label: 16.5% of pixels differ from reference",
-            "detail": {
-              "key": "scrollable-icon-label",
-              "score": "0.165035",
-              "diffPixels": "29476"
             }
           }
         ]
@@ -76575,17 +76575,17 @@
           {
             "kind": "semantic",
             "severity": "warn",
-            "message": "reference variant 'icon-label' has no candidate render to compare",
+            "message": "reference variant 'scrollable' has no candidate render to compare",
             "detail": {
-              "variant": "icon-label"
+              "variant": "scrollable"
             }
           },
           {
             "kind": "semantic",
             "severity": "warn",
-            "message": "reference variant 'scrollable' has no candidate render to compare",
+            "message": "reference variant 'icon-label' has no candidate render to compare",
             "detail": {
-              "variant": "scrollable"
+              "variant": "icon-label"
             }
           },
           {
@@ -76697,17 +76697,17 @@
           {
             "kind": "semantic",
             "severity": "warn",
-            "message": "reference variant 'icon-label' has no candidate render to compare",
+            "message": "reference variant 'scrollable' has no candidate render to compare",
             "detail": {
-              "variant": "icon-label"
+              "variant": "scrollable"
             }
           },
           {
             "kind": "semantic",
             "severity": "warn",
-            "message": "reference variant 'scrollable' has no candidate render to compare",
+            "message": "reference variant 'icon-label' has no candidate render to compare",
             "detail": {
-              "variant": "scrollable"
+              "variant": "icon-label"
             }
           },
           {
@@ -82495,28 +82495,6 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "12-hour: reference 861×1365 vs candidate 861×1492; compared over their 861×1365 overlap, 8.5% of the frame uncovered",
-            "detail": {
-              "key": "12-hour",
-              "dw": "0",
-              "dh": "-127",
-              "borderPixels": "109347",
-              "contentPixels": "75029"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "12-hour: 14.4% of pixels differ from reference",
-            "detail": {
-              "key": "12-hour",
-              "score": "0.143527",
-              "diffPixels": "184376"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
             "message": "horizontal-12-hour: reference 1470×987 vs candidate 1470×1124; compared over their 1470×987 overlap, 12.2% of the frame uncovered",
             "detail": {
               "key": "horizontal-12-hour",
@@ -82534,6 +82512,28 @@
               "key": "horizontal-12-hour",
               "score": "0.185081",
               "diffPixels": "305805"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "12-hour: reference 861×1365 vs candidate 861×1492; compared over their 861×1365 overlap, 8.5% of the frame uncovered",
+            "detail": {
+              "key": "12-hour",
+              "dw": "0",
+              "dh": "-127",
+              "borderPixels": "109347",
+              "contentPixels": "75029"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "12-hour: 14.4% of pixels differ from reference",
+            "detail": {
+              "key": "12-hour",
+              "score": "0.143527",
+              "diffPixels": "184376"
             }
           }
         ]
@@ -82841,28 +82841,6 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "12-hour: reference 861×1365 vs candidate 861×1492; compared over their 861×1365 overlap, 8.5% of the frame uncovered",
-            "detail": {
-              "key": "12-hour",
-              "dw": "0",
-              "dh": "-127",
-              "borderPixels": "109347",
-              "contentPixels": "75029"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "12-hour: 14.4% of pixels differ from reference",
-            "detail": {
-              "key": "12-hour",
-              "score": "0.143527",
-              "diffPixels": "184376"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
             "message": "horizontal-12-hour: reference 1470×987 vs candidate 1470×1124; compared over their 1470×987 overlap, 12.2% of the frame uncovered",
             "detail": {
               "key": "horizontal-12-hour",
@@ -82880,6 +82858,28 @@
               "key": "horizontal-12-hour",
               "score": "0.185081",
               "diffPixels": "305805"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "12-hour: reference 861×1365 vs candidate 861×1492; compared over their 861×1365 overlap, 8.5% of the frame uncovered",
+            "detail": {
+              "key": "12-hour",
+              "dw": "0",
+              "dh": "-127",
+              "borderPixels": "109347",
+              "contentPixels": "75029"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "12-hour: 14.4% of pixels differ from reference",
+            "detail": {
+              "key": "12-hour",
+              "score": "0.143527",
+              "diffPixels": "184376"
             }
           }
         ]
@@ -98629,27 +98629,6 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "vibrant: 6.0% of aligned pixels are opaque in the reference but transparent in the candidate",
-            "detail": {
-              "key": "vibrant",
-              "alphaLossRatio": "0.059686",
-              "alphaLossPixels": "6731",
-              "alphaComparedPixels": "112774"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "vibrant: 15.9% of pixels differ from reference",
-            "detail": {
-              "key": "vibrant",
-              "score": "0.159407",
-              "diffPixels": "17977"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
             "message": "vertical-vibrant: 3.1% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "vertical-vibrant",
@@ -98666,6 +98645,27 @@
               "key": "vertical-vibrant",
               "score": "0.121819",
               "diffPixels": "13738"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "vibrant: 6.0% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "detail": {
+              "key": "vibrant",
+              "alphaLossRatio": "0.059686",
+              "alphaLossPixels": "6731",
+              "alphaComparedPixels": "112774"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "vibrant: 15.9% of pixels differ from reference",
+            "detail": {
+              "key": "vibrant",
+              "score": "0.159407",
+              "diffPixels": "17977"
             }
           }
         ]
@@ -98823,27 +98823,6 @@
           {
             "kind": "visual",
             "severity": "warn",
-            "message": "vibrant: 6.0% of aligned pixels are opaque in the reference but transparent in the candidate",
-            "detail": {
-              "key": "vibrant",
-              "alphaLossRatio": "0.059686",
-              "alphaLossPixels": "6731",
-              "alphaComparedPixels": "112774"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
-            "message": "vibrant: 15.9% of pixels differ from reference",
-            "detail": {
-              "key": "vibrant",
-              "score": "0.159407",
-              "diffPixels": "17977"
-            }
-          },
-          {
-            "kind": "visual",
-            "severity": "warn",
             "message": "vertical-vibrant: 3.1% of aligned pixels are opaque in the reference but transparent in the candidate",
             "detail": {
               "key": "vertical-vibrant",
@@ -98860,6 +98839,27 @@
               "key": "vertical-vibrant",
               "score": "0.121819",
               "diffPixels": "13738"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "vibrant: 6.0% of aligned pixels are opaque in the reference but transparent in the candidate",
+            "detail": {
+              "key": "vibrant",
+              "alphaLossRatio": "0.059686",
+              "alphaLossPixels": "6731",
+              "alphaComparedPixels": "112774"
+            }
+          },
+          {
+            "kind": "visual",
+            "severity": "warn",
+            "message": "vibrant: 15.9% of pixels differ from reference",
+            "detail": {
+              "key": "vibrant",
+              "score": "0.159407",
+              "diffPixels": "17977"
             }
           }
         ]
