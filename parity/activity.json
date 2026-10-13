@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T19:40:08.982Z",
+  "generatedAt": "2026-10-13T22:38:44.390Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "964adecb2d6fb88cda8fe4420b49810f05cc4f74",
+        "subject": "chore(uid-stickers): generate with the released exporter, compose-ui-builder 3.112.0 (#590)",
+        "at": "2026-10-13T23:01:54+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2ed3f64bd581321e12c6a41df020515f4f22e380",
+        "subject": "fix(deps): update compose-ai-tools (#592)",
+        "at": "2026-10-13T22:01:08Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4d42da2875ed8865996329450bca474b0bc83ff2",
+        "subject": "chore(deps): update actions/download-artifact action to v8.0.2 (#591)",
+        "at": "2026-10-13T22:00:27Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fbc5caed4e4445f585ef8b046d62a6b1ffbc7840",
+        "subject": "ci(renovate): drop the weekly schedule on the CI toolchain batch (#588)",
+        "at": "2026-10-12T20:37:32+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "4c1c00e70354ee00bba6b3a13cd97dee540e547a",
         "subject": "chore(deps): update compose-ai-tools to v2.55.0 (#589)",
@@ -451,38 +483,6 @@
         "subject": "chore(deps): update compose-ai-tools to v2.39.0 (#531)",
         "at": "2026-10-09T23:34:42Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "cbfb0d18168ac8be35b89167dc450143f3752031",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.0 (#533)",
-        "at": "2026-10-09T23:34:33Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "2ce0895bff2ca59d4a8597ccf3af9b0eb575bce1",
-        "subject": "fix(ci): publish when only the design guidelines change (#530)",
-        "at": "2026-10-10T00:27:10+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8e83b89363018f148ecfe9a81684870ceb3a3f9a",
-        "subject": "feat(ui-builder): publish snackbar-host and the hello template, and seed templates on the builder's device so owning m3-catalog changes no design (#529)",
-        "at": "2026-10-10T00:18:42+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "11ae0abd59a4c98ac8ae320834aeb6c4cf0c8df6",
-        "subject": "ci: republish when only ui-builder.guidelines.json changes (#528)",
-        "at": "2026-10-10T00:05:55+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
