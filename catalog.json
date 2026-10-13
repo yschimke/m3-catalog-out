@@ -6,19 +6,19 @@
     "org.jetbrains.compose.material3:material3",
     "org.jetbrains.compose.material3:material3-adaptive-navigation-suite"
   ],
-  "renderer": "typed-pilot m3-typed-pilot-4d42da2875ed",
+  "renderer": "typed-pilot m3-typed-pilot-964adecb2d6f",
   "components": [],
   "componentsFile": "components.json",
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "m3-typed-pilot-4d42da2875ed",
+    "runtimeId": "m3-typed-pilot-964adecb2d6f",
     "protocolVersion": 2,
     "integritySha256": "bd73aab4a4c43426e5b2747faa5f314cf419ddd65cb95032cddcd5bf5b5e1657"
   },
   "source": {
     "repo": "yschimke/m3-catalog",
-    "ref": "4d42da2875ed8865996329450bca474b0bc83ff2",
+    "ref": "964adecb2d6fb88cda8fe4420b49810f05cc4f74",
     "module": ":catalog-typed-adapters"
   }
 }
