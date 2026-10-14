@@ -6,19 +6,505 @@
     "org.jetbrains.compose.material3:material3",
     "org.jetbrains.compose.material3:material3-adaptive-navigation-suite"
   ],
-  "renderer": "typed-pilot m3-typed-pilot-17d3e91bcdab",
-  "components": [],
+  "renderer": "typed-catalog m3-typed-pilot-45665548c563",
+  "components": [
+    {
+      "componentId": "m3-catalog-typed-pilot/button",
+      "caption": "button",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/button/typed.png",
+          "state": "default",
+          "width": 135,
+          "height": 40
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/card",
+      "caption": "card",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/card/typed.png",
+          "state": "default",
+          "width": 104,
+          "height": 24
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/center-aligned-top-app-bar",
+      "caption": "center-aligned-top-app-bar",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/center-aligned-top-app-bar/typed.png",
+          "state": "default",
+          "width": 450,
+          "height": 64
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/checkbox",
+      "caption": "checkbox",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/checkbox/typed.png",
+          "state": "default",
+          "width": 24,
+          "height": 24
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/circular-progress-indicator",
+      "caption": "circular-progress-indicator",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/circular-progress-indicator/typed.png",
+          "state": "default",
+          "width": 40,
+          "height": 40
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/date-picker",
+      "caption": "date-picker",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/date-picker/typed.png",
+          "state": "default",
+          "width": 450,
+          "height": 512
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/dialog",
+      "caption": "dialog",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/dialog/typed.png",
+          "state": "default",
+          "width": 280,
+          "height": 200
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/filter-chip",
+      "caption": "filter-chip",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/filter-chip/typed.png",
+          "state": "default",
+          "width": 293,
+          "height": 32
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/floating-action-button",
+      "caption": "floating-action-button",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/floating-action-button/typed.png",
+          "state": "default",
+          "width": 87,
+          "height": 56
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/horizontal-divider",
+      "caption": "horizontal-divider",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/horizontal-divider/typed.png",
+          "state": "default",
+          "width": 450,
+          "height": 1
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/horizontal-floating-toolbar",
+      "caption": "horizontal-floating-toolbar",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/horizontal-floating-toolbar/typed.png",
+          "state": "default",
+          "width": 120,
+          "height": 64
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/icon-button",
+      "caption": "icon-button",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/icon-button/typed.png",
+          "state": "default",
+          "width": 48,
+          "height": 48
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/icon",
+      "caption": "icon",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/icon/typed.png",
+          "state": "default",
+          "width": 24,
+          "height": 24
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/linear-progress-indicator",
+      "caption": "linear-progress-indicator",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/linear-progress-indicator/typed.png",
+          "state": "default",
+          "width": 240,
+          "height": 14
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/list-item",
+      "caption": "list-item",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/list-item/typed.png",
+          "state": "default",
+          "width": 450,
+          "height": 72
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/material-expressive-theme",
+      "caption": "material-expressive-theme",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/material-expressive-theme/typed.png",
+          "state": "default",
+          "width": 104,
+          "height": 24
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/navigation-suite-item",
+      "caption": "navigation-suite-item",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/navigation-suite-item/typed.png",
+          "state": "default",
+          "width": 136,
+          "height": 64
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/navigation-suite-scaffold",
+      "caption": "navigation-suite-scaffold",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/navigation-suite-scaffold/typed.png",
+          "state": "default",
+          "width": 450,
+          "height": 600
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/outlined-text-field",
+      "caption": "outlined-text-field",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/outlined-text-field/typed.png",
+          "state": "default",
+          "width": 342,
+          "height": 84
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/primary-scrollable-tab-row",
+      "caption": "primary-scrollable-tab-row",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/primary-scrollable-tab-row/typed.png",
+          "state": "default",
+          "width": 450,
+          "height": 24
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/primary-tab-row",
+      "caption": "primary-tab-row",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/primary-tab-row/typed.png",
+          "state": "default",
+          "width": 450,
+          "height": 24
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/provide-text-style",
+      "caption": "provide-text-style",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/provide-text-style/typed.png",
+          "state": "default",
+          "width": 104,
+          "height": 24
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/radio-button",
+      "caption": "radio-button",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/radio-button/typed.png",
+          "state": "default",
+          "width": 24,
+          "height": 24
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/search-bar",
+      "caption": "search-bar",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/search-bar/typed.png",
+          "state": "default",
+          "width": 104,
+          "height": 32
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/search-input-field",
+      "caption": "search-input-field",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/search-input-field/typed.png",
+          "state": "default",
+          "width": 360,
+          "height": 56
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/slider",
+      "caption": "slider",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/slider/typed.png",
+          "state": "default",
+          "width": 450,
+          "height": 44
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/snackbar-host",
+      "caption": "snackbar-host",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/snackbar-host/typed.png",
+          "state": "default",
+          "width": 104,
+          "height": 24
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/sticker",
+      "caption": "sticker",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/sticker/typed.png",
+          "state": "default",
+          "width": 104,
+          "height": 24
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/surface",
+      "caption": "surface",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/surface/typed.png",
+          "state": "default",
+          "width": 104,
+          "height": 24
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/switch",
+      "caption": "switch",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/switch/typed.png",
+          "state": "default",
+          "width": 52,
+          "height": 32
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/tab",
+      "caption": "tab",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/tab/typed.png",
+          "state": "default",
+          "width": 450,
+          "height": 72
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/text-field",
+      "caption": "text-field",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/text-field/typed.png",
+          "state": "default",
+          "width": 342,
+          "height": 76
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/text",
+      "caption": "text",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/text/typed.png",
+          "state": "default",
+          "width": 98,
+          "height": 16
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/time-picker",
+      "caption": "time-picker",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/time-picker/typed.png",
+          "state": "default",
+          "width": 272,
+          "height": 396
+        }
+      ]
+    },
+    {
+      "componentId": "m3-catalog-typed-pilot/variable-font-text",
+      "caption": "variable-font-text",
+      "section": "Typed renders",
+      "images": [
+        {
+          "variant": "typed",
+          "path": "images/variable-font-text/typed.png",
+          "state": "default",
+          "width": 223,
+          "height": 37
+        }
+      ]
+    }
+  ],
   "componentsFile": "components.json",
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "m3-typed-pilot-17d3e91bcdab",
+    "runtimeId": "m3-typed-pilot-45665548c563",
     "protocolVersion": 2,
     "integritySha256": "bd73aab4a4c43426e5b2747faa5f314cf419ddd65cb95032cddcd5bf5b5e1657"
-  },
-  "source": {
-    "repo": "yschimke/m3-catalog",
-    "ref": "17d3e91bcdab5f1e4718c0fe8f87ea6f2009b9a2",
-    "module": ":catalog-typed-adapters"
   }
 }
