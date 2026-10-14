@@ -11,7 +11,7 @@
     "record": {
         "file": "components.json",
         "schemaVersion": 2,
-        "components": 40
+        "components": 44
     },
     "statusSemantics": {
         "platform": "mobile",
@@ -529,7 +529,162 @@
                 ],
                 "insertContent": null,
                 "shelfRole": null,
-                "exportProjection": null
+                "exportProjection": {
+                    "variantProperty": "style",
+                    "targets": [
+                        {
+                            "record": "m3-catalog-typed-pilot/androidx.compose.material3.ButtonKt.Button",
+                            "events": {
+                                "click": "onClick"
+                            },
+                            "parameters": {
+                                "enabled": {
+                                    "property": "enabled",
+                                    "codec": "bool",
+                                    "omitWhen": true
+                                },
+                                "colors": {
+                                    "call": "androidx.compose.material3.ButtonDefaults.buttonColors",
+                                    "type": "androidx.compose.material3.ButtonColors",
+                                    "arguments": {
+                                        "containerColor": {
+                                            "property": "containerColor",
+                                            "codec": {
+                                                "color": {
+                                                    "scheme": "androidx.compose.material3.MaterialTheme",
+                                                    "members": [
+                                                        "colorScheme"
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "record": "m3-catalog-typed-pilot/androidx.compose.material3.ButtonKt.Button",
+                            "variants": [
+                                "filled"
+                            ],
+                            "events": {
+                                "click": "onClick"
+                            },
+                            "parameters": {
+                                "enabled": {
+                                    "property": "enabled",
+                                    "codec": "bool",
+                                    "omitWhen": true
+                                },
+                                "colors": {
+                                    "call": "androidx.compose.material3.ButtonDefaults.buttonColors",
+                                    "type": "androidx.compose.material3.ButtonColors",
+                                    "arguments": {
+                                        "containerColor": {
+                                            "property": "containerColor",
+                                            "codec": {
+                                                "color": {
+                                                    "scheme": "androidx.compose.material3.MaterialTheme",
+                                                    "members": [
+                                                        "colorScheme"
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "record": "m3-catalog-typed-pilot/androidx.compose.material3.ButtonKt.FilledTonalButton",
+                            "variants": [
+                                "filledTonal"
+                            ],
+                            "events": {
+                                "click": "onClick"
+                            },
+                            "parameters": {
+                                "enabled": {
+                                    "property": "enabled",
+                                    "codec": "bool",
+                                    "omitWhen": true
+                                },
+                                "colors": {
+                                    "call": "androidx.compose.material3.ButtonDefaults.filledTonalButtonColors",
+                                    "type": "androidx.compose.material3.ButtonColors",
+                                    "arguments": {
+                                        "containerColor": {
+                                            "property": "containerColor",
+                                            "codec": {
+                                                "color": {
+                                                    "scheme": "androidx.compose.material3.MaterialTheme",
+                                                    "members": [
+                                                        "colorScheme"
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "record": "m3-catalog-typed-pilot/androidx.compose.material3.ButtonKt.TextButton",
+                            "variants": [
+                                "text"
+                            ],
+                            "events": {
+                                "click": "onClick"
+                            },
+                            "parameters": {
+                                "enabled": {
+                                    "property": "enabled",
+                                    "codec": "bool",
+                                    "omitWhen": true
+                                },
+                                "colors": {
+                                    "call": "androidx.compose.material3.ButtonDefaults.textButtonColors",
+                                    "type": "androidx.compose.material3.ButtonColors",
+                                    "arguments": {
+                                        "containerColor": {
+                                            "property": "containerColor",
+                                            "codec": {
+                                                "color": {
+                                                    "scheme": "androidx.compose.material3.MaterialTheme",
+                                                    "members": [
+                                                        "colorScheme"
+                                                    ]
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "record": "m3-catalog-typed-pilot/androidx.compose.material3.FloatingActionButtonKt.FloatingActionButton",
+                            "variants": [
+                                "fab"
+                            ],
+                            "events": {
+                                "click": "onClick"
+                            },
+                            "parameters": {
+                                "containerColor": {
+                                    "property": "containerColor",
+                                    "codec": {
+                                        "color": {
+                                            "scheme": "androidx.compose.material3.MaterialTheme",
+                                            "members": [
+                                                "colorScheme"
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
             },
             "m3/card": {
                 "record": "catalog-typed-adapters/ee.schimke.m3catalog.typed.M3ComponentsKt.M3Card",
@@ -3678,6 +3833,94 @@
                 "shelfRole": null,
                 "exportProjection": null
             },
+            "m3/export-button": {
+                "record": "m3-catalog-typed-pilot/androidx.compose.material3.ButtonKt.Button",
+                "catalogId": null,
+                "displayName": null,
+                "canvas": null,
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": "an export target of m3/button",
+                "propertyCapabilities": null,
+                "slotCapabilities": null,
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/export-filledtonalbutton": {
+                "record": "m3-catalog-typed-pilot/androidx.compose.material3.ButtonKt.FilledTonalButton",
+                "catalogId": null,
+                "displayName": null,
+                "canvas": null,
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": "an export target of m3/button",
+                "propertyCapabilities": null,
+                "slotCapabilities": null,
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/export-textbutton": {
+                "record": "m3-catalog-typed-pilot/androidx.compose.material3.ButtonKt.TextButton",
+                "catalogId": null,
+                "displayName": null,
+                "canvas": null,
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": "an export target of m3/button",
+                "propertyCapabilities": null,
+                "slotCapabilities": null,
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
+            "m3/export-floatingactionbutton": {
+                "record": "m3-catalog-typed-pilot/androidx.compose.material3.FloatingActionButtonKt.FloatingActionButton",
+                "catalogId": null,
+                "displayName": null,
+                "canvas": null,
+                "canvasMapping": null,
+                "unrolled": null,
+                "nativeOnly": false,
+                "traits": [],
+                "slots": {},
+                "stateCallbacks": {},
+                "starter": {},
+                "variantProperty": null,
+                "variants": {},
+                "excluded": "an export target of m3/button",
+                "propertyCapabilities": null,
+                "slotCapabilities": null,
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
+            },
             "m3/export-card": {
                 "record": "m3-catalog-typed-pilot/androidx.compose.material3.CardKt.Card",
                 "catalogId": null,
@@ -3811,6 +4054,26 @@
             "code": "component.excluded",
             "subject": "m3/export-icon",
             "message": "kept off the builder's shelf: an export target of m3/icon"
+        },
+        {
+            "code": "component.excluded",
+            "subject": "m3/export-button",
+            "message": "kept off the builder's shelf: an export target of m3/button"
+        },
+        {
+            "code": "component.excluded",
+            "subject": "m3/export-filledtonalbutton",
+            "message": "kept off the builder's shelf: an export target of m3/button"
+        },
+        {
+            "code": "component.excluded",
+            "subject": "m3/export-textbutton",
+            "message": "kept off the builder's shelf: an export target of m3/button"
+        },
+        {
+            "code": "component.excluded",
+            "subject": "m3/export-floatingactionbutton",
+            "message": "kept off the builder's shelf: an export target of m3/button"
         },
         {
             "code": "component.excluded",
