@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-15T07:29:56.272Z",
+  "generatedAt": "2026-10-15T11:10:01.697Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "b9c3498fe3818f10f6d6f1dccaf3764d1cd6da11",
+        "subject": "fix(deps): update compose-ai-tools (#601)",
+        "at": "2026-10-15T11:05:46Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "aa3d768517fa85e58f919d0387608297c89c5c57",
+        "subject": "chore(deps): update ci toolchain (#600)",
+        "at": "2026-10-15T07:21:06Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "e41921f9bd7ee5372013a94cc6d06ab6dd738778",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.33.0 (#602)",
@@ -466,22 +482,6 @@
         "sha": "98712e07b8d7766bb66fbee3d12340dee9fc1c24",
         "subject": "chore(deps): update compose-ai-tools to v2.41.0 (#542)",
         "at": "2026-10-10T12:47:57Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b6f8d25ce841810937a32268ce33e7dfecf77b3a",
-        "subject": "fix(ui-builder): state navigation-suite-scaffold's shelf role, so owning m3 keeps it a Scaffold (#541)",
-        "at": "2026-10-10T13:38:52+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6c4a7258ca138e8ad161abf274fd042438e61812",
-        "subject": "chore(deps): update dependency ee.schimke.composeai.preview to v2.40.0 (#540)",
-        "at": "2026-10-10T10:56:31Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
