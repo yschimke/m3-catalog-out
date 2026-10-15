@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-14T02:38:50.084Z",
+  "generatedAt": "2026-10-15T07:33:29.924Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "e41921f9bd7ee5372013a94cc6d06ab6dd738778",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.33.0 (#602)",
+        "at": "2026-10-15T07:20:46Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e003c4e674431ab87256120f62fea209b17a201e",
+        "subject": "fix(ui-builder): draw layout/scaffold, pane scaffolds, flow-row and icons in the canvas runtime (#599)",
+        "at": "2026-10-15T08:16:47+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fe8ec8b0145b690cf894abc4005ff3cb30db6a24",
+        "subject": "feat(typed): export m3/button through the real Material 3 buttons (#598)",
+        "at": "2026-10-14T22:49:58+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "45665548c563e56946f0c0008c8970f75778672b",
+        "subject": "ci(renovate): group the daemon BOM with compose-ai-tools (#596)",
+        "at": "2026-10-14T07:13:17+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b038f4373848fa8eb750beb68fb9b2c9468abd94",
+        "subject": "ci(typed-pilot): publish the M3 pilot with typed renders via the shared workflow (#595)",
+        "at": "2026-10-14T07:12:01+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "17d3e91bcdab5f1e4718c0fe8f87ea6f2009b9a2",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.31.0 (#597)",
@@ -442,46 +482,6 @@
         "sha": "6c4a7258ca138e8ad161abf274fd042438e61812",
         "subject": "chore(deps): update dependency ee.schimke.composeai.preview to v2.40.0 (#540)",
         "at": "2026-10-10T10:56:31Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "25177e3d5479a9df3d95bcc7df12c867955a33b2",
-        "subject": "feat: add adaptive inbox UID reference pilot (#538)",
-        "at": "2026-10-10T11:53:42+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5325db9ae36e658d2eabd6f25561855dffa8a75a",
-        "subject": "chore(deps): update compose-ai-tools to v2.40.0 (#539)",
-        "at": "2026-10-10T10:42:37Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "362928e4879416017e1faaf900adb8fe961bf998",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.25.0 (#537)",
-        "at": "2026-10-10T10:24:50Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8116ff648de51a3c41f79bc68b27280a6309f868",
-        "subject": "chore(deps): update compose-ai-tools to v2.39.2 (#535)",
-        "at": "2026-10-10T10:01:19Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8f737ad8d485e5d23c815b757c9eab6f022c240f",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.1 (#536)",
-        "at": "2026-10-10T10:00:30Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
