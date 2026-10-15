@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-15T11:11:49.730Z",
+  "generatedAt": "2026-10-15T17:15:58.839Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "8ce5f6f6053d413e6004ae25f6a8ed3360dee405",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.35.0 (#605)",
+        "at": "2026-10-15T17:09:31Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "b9c3498fe3818f10f6d6f1dccaf3764d1cd6da11",
         "subject": "fix(deps): update compose-ai-tools (#601)",
@@ -475,14 +483,6 @@
         "subject": "docs: require explicit user requests for merging PRs (#545)",
         "at": "2026-10-10T15:15:52+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "98712e07b8d7766bb66fbee3d12340dee9fc1c24",
-        "subject": "chore(deps): update compose-ai-tools to v2.41.0 (#542)",
-        "at": "2026-10-10T12:47:57Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
