@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":catalog"
   },
-  "generatedAt": "2026-10-15T17:20:53.769Z",
+  "generatedAt": "2026-10-17T13:09:45.953Z",
   "mappings": [
     {
       "componentId": "Badge/Number",
