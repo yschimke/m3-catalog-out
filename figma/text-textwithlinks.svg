@@ -5,7 +5,7 @@
     <g id="Box">
         <rect x="0" y="0" width="855" height="43" fill="#FFFFFF"/>
       <g id="LinksText">
-          <text x="0" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Build better apps faster with Jetpack Compose</text>
+          <text x="0" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Build better apps faster with Jetpack Compose</text>
         <g id="BoxKt">
           <image href="text-textwithlinks.figma-raster/8250.png" x="536" y="0" width="319" height="43"/>
         </g>

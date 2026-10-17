@@ -4,7 +4,7 @@
   <g id="Root">
     <g id="Column">
       <g id="Empty">
-        <text font-size="14" font-family="Roboto, sans-serif" fill="#000000"><tspan x="42" y="81" textLength="946" lengthAdjust="spacing">Note: this is configuration is better displayed</tspan><tspan x="42" y="130" textLength="507" lengthAdjust="spacing">in medium screen sizes.</tspan></text>
+        <text font-size="36.75" font-family="Roboto, sans-serif" fill="#000000"><tspan x="42" y="81" textLength="946" lengthAdjust="spacing">Note: this is configuration is better displayed</tspan><tspan x="42" y="130" textLength="507" lengthAdjust="spacing">in medium screen sizes.</tspan></text>
       </g>
       <g id="Spacer">
       </g>

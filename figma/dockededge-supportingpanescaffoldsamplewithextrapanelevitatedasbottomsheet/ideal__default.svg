@@ -9,7 +9,7 @@
           <rect x="0" y="168" width="1050" height="1932" rx="31.5" ry="31.5" fill="#F3EDF7"/>
           <g id="Column">
             <g id="Empty">
-              <text font-size="14" font-family="Roboto, sans-serif" fill="#1D1B20"><tspan x="42" y="249" textLength="945" lengthAdjust="spacing">lorem ipsum lorem ipsum lorem ipsum lorem</tspan><tspan x="42" y="298" textLength="952" lengthAdjust="spacing">ipsum lorem ipsum lorem ipsum lorem ipsum</tspan><tspan x="42" y="347" textLength="945" lengthAdjust="spacing">lorem ipsum lorem ipsum lorem ipsum lorem</tspan><tspan x="42" y="396" textLength="678" lengthAdjust="spacing">ipsum lorem ipsum lorem ipsum</tspan></text>
+              <text font-size="36.75" font-family="Roboto, sans-serif" fill="#1D1B20"><tspan x="42" y="249" textLength="945" lengthAdjust="spacing">lorem ipsum lorem ipsum lorem ipsum lorem</tspan><tspan x="42" y="298" textLength="952" lengthAdjust="spacing">ipsum lorem ipsum lorem ipsum lorem ipsum</tspan><tspan x="42" y="347" textLength="945" lengthAdjust="spacing">lorem ipsum lorem ipsum lorem ipsum lorem</tspan><tspan x="42" y="396" textLength="678" lengthAdjust="spacing">ipsum lorem ipsum lorem ipsum</tspan></text>
             </g>
             <g id="Box">
               <rect x="42" y="425" width="336" height="105" rx="52.5" ry="52.5" fill="#6750A4"/>
@@ -20,7 +20,7 @@
           </g>
         </g>
         <g id="Box">
-          <image href="ideal__default.figma-raster/16.png" x="0" y="0" width="1050" height="168"/>
+          <image href="ideal__default.figma-raster/18.png" x="0" y="0" width="1050" height="168"/>
           <g id="TopAppBar">
             <g id="Box">
             </g>

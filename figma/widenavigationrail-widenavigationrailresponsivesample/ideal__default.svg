@@ -79,13 +79,13 @@
       </g>
       <g id="Column">
         <g id="Empty">
-          <text x="294" y="55.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Is animating: false</text>
+          <text x="294" y="76.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Is animating: false</text>
         </g>
         <g id="Empty">
-          <text x="294" y="182.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">The rail is Collapsed.</text>
+          <text x="294" y="203.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">The rail is Collapsed.</text>
         </g>
         <g id="Empty">
-          <text font-size="14" font-family="Roboto, sans-serif" fill="#000000"><tspan x="294" y="335" textLength="696" lengthAdjust="spacing">Note: This demo is best shown in</tspan><tspan x="294" y="384" textLength="591" lengthAdjust="spacing">portrait mode, as landscape</tspan><tspan x="294" y="433" textLength="642" lengthAdjust="spacing">mode may result in a compact</tspan><tspan x="294" y="482" textLength="702" lengthAdjust="spacing">height in certain devices. For any</tspan><tspan x="294" y="531" textLength="688" lengthAdjust="spacing">compact screen dimensions, use</tspan><tspan x="294" y="580" textLength="532" lengthAdjust="spacing">a Navigation Bar instead.</tspan></text>
+          <text font-size="36.75" font-family="Roboto, sans-serif" fill="#000000"><tspan x="294" y="335" textLength="696" lengthAdjust="spacing">Note: This demo is best shown in</tspan><tspan x="294" y="384" textLength="591" lengthAdjust="spacing">portrait mode, as landscape</tspan><tspan x="294" y="433" textLength="642" lengthAdjust="spacing">mode may result in a compact</tspan><tspan x="294" y="482" textLength="702" lengthAdjust="spacing">height in certain devices. For any</tspan><tspan x="294" y="531" textLength="688" lengthAdjust="spacing">compact screen dimensions, use</tspan><tspan x="294" y="580" textLength="532" lengthAdjust="spacing">a Navigation Bar instead.</tspan></text>
         </g>
       </g>
     </g>
