@@ -4,34 +4,34 @@
   <g id="Root">
     <g id="LayoutNodeSubcompositionsState">
       <g id="Empty">
-        <text x="0" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item is 0</text>
+        <text x="0" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item is 0</text>
       </g>
       <g id="Empty">
-        <text x="0" y="56.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item is 1</text>
+        <text x="0" y="77.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item is 1</text>
       </g>
       <g id="Empty">
-        <text x="0" y="99.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item is 2</text>
+        <text x="0" y="120.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item is 2</text>
       </g>
       <g id="Empty">
-        <text x="0" y="142.22" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item is 3</text>
+        <text x="0" y="163.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item is 3</text>
       </g>
       <g id="Empty">
-        <text x="0" y="185.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item is 4</text>
+        <text x="0" y="206.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item is 4</text>
       </g>
       <g id="Empty">
-        <text x="0" y="228.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item is 5</text>
+        <text x="0" y="249.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item is 5</text>
       </g>
       <g id="Empty">
-        <text x="0" y="271.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Single item</text>
+        <text x="0" y="292.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Single item</text>
       </g>
       <g id="Empty">
-        <text x="0" y="314.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item at index 0 is A</text>
+        <text x="0" y="335.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item at index 0 is A</text>
       </g>
       <g id="Empty">
-        <text x="0" y="357.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item at index 1 is B</text>
+        <text x="0" y="378.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item at index 1 is B</text>
       </g>
       <g id="Empty">
-        <text x="0" y="400.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item at index 2 is C</text>
+        <text x="0" y="421.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item at index 2 is C</text>
       </g>
     </g>
   </g>

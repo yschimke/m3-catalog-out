@@ -6,49 +6,49 @@
       <g id="Box">
         <rect x="42" y="42" width="245" height="169" fill="#00FFFF"/>
         <g id="Empty">
-          <text x="105" y="118.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item 0</text>
+          <text x="105" y="139.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item 0</text>
         </g>
       </g>
       <g id="Box">
         <rect x="536" y="42" width="245" height="169" fill="#00FFFF"/>
         <g id="Empty">
-          <text x="599" y="118.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item 1</text>
+          <text x="599" y="139.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item 1</text>
         </g>
       </g>
       <g id="Box">
         <rect x="42" y="232" width="245" height="169" fill="#00FFFF"/>
         <g id="Empty">
-          <text x="105" y="308.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item 2</text>
+          <text x="105" y="329.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item 2</text>
         </g>
       </g>
       <g id="Box">
         <rect x="536" y="232" width="245" height="169" fill="#00FFFF"/>
         <g id="Empty">
-          <text x="599" y="308.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item 3</text>
+          <text x="599" y="329.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item 3</text>
         </g>
       </g>
       <g id="Box">
         <rect x="42" y="422" width="245" height="169" fill="#00FFFF"/>
         <g id="Empty">
-          <text x="105" y="498.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item 4</text>
+          <text x="105" y="519.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item 4</text>
         </g>
       </g>
       <g id="Box">
         <rect x="536" y="422" width="245" height="169" fill="#00FFFF"/>
         <g id="Empty">
-          <text x="599" y="498.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item 5</text>
+          <text x="599" y="519.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item 5</text>
         </g>
       </g>
       <g id="Box">
         <rect x="42" y="612" width="245" height="169" fill="#00FFFF"/>
         <g id="Empty">
-          <text x="105" y="688.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item 6</text>
+          <text x="105" y="709.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item 6</text>
         </g>
       </g>
       <g id="Box">
         <rect x="536" y="612" width="245" height="169" fill="#00FFFF"/>
         <g id="Empty">
-          <text x="599" y="688.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item 7</text>
+          <text x="599" y="709.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item 7</text>
         </g>
       </g>
     </g>

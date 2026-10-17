@@ -6,13 +6,13 @@
       <g id="Box">
         <rect x="0" y="0" width="263" height="131" fill="#0000FF"/>
         <g id="Empty">
-          <text font-size="14" font-family="Roboto, sans-serif" fill="#FFFFFF"><tspan x="0" y="62" textLength="153" lengthAdjust="spacing">Row: 1,</tspan><tspan x="0" y="111" textLength="215" lengthAdjust="spacing">Column: 1</tspan></text>
+          <text font-size="36.75" font-family="Roboto, sans-serif" fill="#FFFFFF"><tspan x="0" y="62" textLength="153" lengthAdjust="spacing">Row: 1,</tspan><tspan x="0" y="111" textLength="215" lengthAdjust="spacing">Column: 1</tspan></text>
         </g>
       </g>
       <g id="Box">
         <rect x="0" y="0" width="263" height="131" fill="#0000FF"/>
         <g id="Empty">
-          <text x="0" y="36.23" font-size="14" font-family="Roboto, sans-serif" fill="#FFFFFF">Row: 1, Column: 2</text>
+          <text x="0" y="57.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#FFFFFF">Row: 1, Column: 2</text>
         </g>
       </g>
     </g>

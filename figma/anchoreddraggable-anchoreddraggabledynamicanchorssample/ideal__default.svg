@@ -4,7 +4,7 @@
   <g id="Root">
     <g id="Box">
       <g id="Empty">
-        <text x="0" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Swipe to expand Drawer</text>
+        <text x="0" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Swipe to expand Drawer</text>
       </g>
       <g id="Box">
         <rect x="-712" y="11" width="712" height="105" rx="52.5" ry="52.5" fill="#6750A4"/>

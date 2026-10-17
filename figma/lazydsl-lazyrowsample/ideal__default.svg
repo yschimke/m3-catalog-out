@@ -6,25 +6,25 @@
     <g id="LayoutNodeSubcompositionsState">
       <g clip-path="url(#clip-0)">
         <g id="Empty">
-          <text x="0" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item is 0</text>
+          <text x="0" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item is 0</text>
         </g>
         <g id="Empty">
-          <text x="160" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item is 1</text>
+          <text x="160" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item is 1</text>
         </g>
         <g id="Empty">
-          <text x="320" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item is 2</text>
+          <text x="320" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item is 2</text>
         </g>
         <g id="Empty">
-          <text x="480" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item is 3</text>
+          <text x="480" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item is 3</text>
         </g>
         <g id="Empty">
-          <text x="640" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item is 4</text>
+          <text x="640" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item is 4</text>
         </g>
         <g id="Empty">
-          <text x="800" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item is 5</text>
+          <text x="800" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item is 5</text>
         </g>
         <g id="Empty">
-          <text x="960" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Single item</text>
+          <text x="960" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Single item</text>
         </g>
       </g>
     </g>

@@ -4,13 +4,13 @@
   <g id="Root">
     <g id="Column">
       <g id="Empty">
-        <text x="0" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Text 1</text>
+        <text x="0" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Text 1</text>
       </g>
       <g id="Empty">
-        <text x="0" y="56.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Text 2</text>
+        <text x="0" y="77.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Text 2</text>
       </g>
       <g id="Empty">
-        <text x="0" y="99.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">טקסט 3</text>
+        <text x="0" y="120.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">טקסט 3</text>
       </g>
     </g>
   </g>

@@ -6,19 +6,19 @@
       <rect x="0" y="0" width="496" height="221" fill="#CCCCCC"/>
       <g id="Empty">
         <rect x="0" y="0" width="69" height="43" fill="#FFFFFF"/>
-        <text x="0" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">1x1</text>
+        <text x="0" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">1x1</text>
       </g>
       <g id="Empty">
         <rect x="0" y="0" width="158" height="129" fill="#FFFF00"/>
-        <text font-size="14" font-family="Roboto, sans-serif" fill="#000000"><tspan x="0" y="39" textLength="78" lengthAdjust="spacing">2x1</tspan><tspan x="0" y="88" textLength="101" lengthAdjust="spacing">span</tspan><tspan x="0" y="137" textLength="76" lengthAdjust="spacing">row</tspan></text>
+        <text font-size="36.75" font-family="Roboto, sans-serif" fill="#000000"><tspan x="0" y="39" textLength="78" lengthAdjust="spacing">2x1</tspan><tspan x="0" y="88" textLength="101" lengthAdjust="spacing">span</tspan><tspan x="0" y="137" textLength="76" lengthAdjust="spacing">row</tspan></text>
       </g>
       <g id="Empty">
         <rect x="169" y="0" width="234" height="43" fill="#00FFFF"/>
-        <text x="169" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">1x2 span col</text>
+        <text x="169" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">1x2 span col</text>
       </g>
       <g id="Empty">
         <rect x="169" y="0" width="224" height="43" fill="#00FF00"/>
-        <text x="169" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">2x2 span all</text>
+        <text x="169" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">2x2 span all</text>
       </g>
     </g>
   </g>

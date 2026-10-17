@@ -11,7 +11,7 @@
   <g id="Root">
     <g id="Empty">
       <path d="M47,26 H435 L456,47 V48 L435,69 H47 L26,48 V47 L47,26 Z" fill="url(#gf-0)"/>
-      <text x="26" y="39.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Text with gradient back</text>
+      <text x="26" y="60.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Text with gradient back</text>
     </g>
   </g>
 </g>

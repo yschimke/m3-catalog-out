@@ -12,7 +12,7 @@
       <g id="Box">
         <rect x="5" y="131" width="1040" height="1575" fill="#FF0000"/>
         <g id="Empty">
-          <text x="5" y="144.22" font-size="14" font-family="Roboto, sans-serif" fill="#000000">0</text>
+          <text x="5" y="165.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">0</text>
         </g>
       </g>
     </g>

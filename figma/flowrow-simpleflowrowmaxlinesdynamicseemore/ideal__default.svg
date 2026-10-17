@@ -4,7 +4,7 @@
   <g id="Root">
     <g id="Box">
       <g id="Empty">
-        <text font-size="14" font-family="Roboto, sans-serif" font-weight="700" fill="#000000"><tspan x="53" y="92" textLength="884" lengthAdjust="spacing">Flow Row with total items of 40, with</tspan><tspan x="53" y="141" textLength="891" lengthAdjust="spacing">Max Lines of 2 and See More/collapse</tspan><tspan x="53" y="190" textLength="903" lengthAdjust="spacing">button, which when clicked, increases</tspan><tspan x="53" y="239" textLength="400" lengthAdjust="spacing">max lines by two</tspan></text>
+        <text font-size="36.75" font-family="Roboto, sans-serif" font-weight="700" fill="#000000"><tspan x="53" y="92" textLength="884" lengthAdjust="spacing">Flow Row with total items of 40, with</tspan><tspan x="53" y="141" textLength="891" lengthAdjust="spacing">Max Lines of 2 and See More/collapse</tspan><tspan x="53" y="190" textLength="903" lengthAdjust="spacing">button, which when clicked, increases</tspan><tspan x="53" y="239" textLength="400" lengthAdjust="spacing">max lines by two</tspan></text>
       </g>
       <g id="MultiContentMeasurePolicyImpl">
         <g id="Box">

@@ -6,18 +6,18 @@
       <g id="Box">
         <rect x="0" y="11" width="545" height="105" rx="52.5" ry="52.5" fill="#6750A4"/>
         <g id="Empty">
-          <text x="63" y="55.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Select Third Paragraph</text>
+          <text x="63" y="76.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Select Third Paragraph</text>
         </g>
       </g>
       <g id="Column">
         <g id="Empty">
-          <text x="0" y="139.22" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Paragraph 1...</text>
+          <text x="0" y="160.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Paragraph 1...</text>
         </g>
         <g id="Empty">
-          <text x="0" y="182.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Paragraph 2...</text>
+          <text x="0" y="203.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Paragraph 2...</text>
         </g>
         <g id="Empty">
-          <text x="0" y="225.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Paragraph 3...</text>
+          <text x="0" y="246.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Paragraph 3...</text>
         </g>
       </g>
     </g>

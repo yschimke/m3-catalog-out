@@ -6,25 +6,25 @@
       <g id="Box">
         <rect x="18" y="18" width="227" height="227" fill="#888888" stroke="#FFFFFF" stroke-width="13.12"/>
         <g id="Empty">
-          <text x="120" y="123.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">0</text>
+          <text x="120" y="144.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">0</text>
         </g>
       </g>
       <g id="Box">
         <rect x="281" y="18" width="227" height="227" fill="#888888" stroke="#FFFFFF" stroke-width="13.12"/>
         <g id="Empty">
-          <text x="383" y="123.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">1</text>
+          <text x="383" y="144.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">1</text>
         </g>
       </g>
       <g id="Box">
         <rect x="544" y="18" width="227" height="227" fill="#888888" stroke="#FFFFFF" stroke-width="13.12"/>
         <g id="Empty">
-          <text x="646" y="123.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">2</text>
+          <text x="646" y="144.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">2</text>
         </g>
       </g>
       <g id="Box">
         <rect x="807" y="18" width="227" height="227" fill="#888888" stroke="#FFFFFF" stroke-width="13.12"/>
         <g id="Empty">
-          <text x="909" y="123.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">3</text>
+          <text x="909" y="144.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">3</text>
         </g>
       </g>
     </g>

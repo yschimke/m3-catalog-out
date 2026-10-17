@@ -4,13 +4,13 @@
   <g id="Root">
     <g id="Row">
       <g id="Empty">
-        <text x="0" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">This is a really short text</text>
+        <text x="0" y="34.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">This is a really short text</text>
       </g>
       <g id="BoxKt">
         <rect x="523" y="0" width="3" height="215" fill="#000000"/>
       </g>
       <g id="Empty">
-        <text font-size="14" font-family="Roboto, sans-serif" fill="#000000"><tspan x="526" y="39" textLength="433" lengthAdjust="spacing">This is a much much</tspan><tspan x="526" y="88" textLength="509" lengthAdjust="spacing">much much much much</tspan><tspan x="526" y="137" textLength="509" lengthAdjust="spacing">much much much much</tspan><tspan x="526" y="186" textLength="509" lengthAdjust="spacing">much much much much</tspan><tspan x="526" y="235" textLength="491" lengthAdjust="spacing">much much longer text</tspan></text>
+        <text font-size="36.75" font-family="Roboto, sans-serif" fill="#000000"><tspan x="526" y="39" textLength="433" lengthAdjust="spacing">This is a much much</tspan><tspan x="526" y="88" textLength="509" lengthAdjust="spacing">much much much much</tspan><tspan x="526" y="137" textLength="509" lengthAdjust="spacing">much much much much</tspan><tspan x="526" y="186" textLength="509" lengthAdjust="spacing">much much much much</tspan><tspan x="526" y="235" textLength="491" lengthAdjust="spacing">much much longer text</tspan></text>
       </g>
     </g>
   </g>

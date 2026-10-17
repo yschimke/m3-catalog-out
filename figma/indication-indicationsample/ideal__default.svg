@@ -4,12 +4,12 @@
   <g id="Root">
     <g id="Column">
       <g id="Empty">
-        <text font-size="14" font-family="Roboto, sans-serif" fill="#000000"><tspan x="26" y="65" textLength="903" lengthAdjust="spacing">Click me and my neighbour will indicate as</tspan><tspan x="26" y="114" textLength="100" lengthAdjust="spacing">well!</tspan></text>
+        <text font-size="36.75" font-family="Roboto, sans-serif" fill="#000000"><tspan x="26" y="65" textLength="903" lengthAdjust="spacing">Click me and my neighbour will indicate as</tspan><tspan x="26" y="114" textLength="100" lengthAdjust="spacing">well!</tspan></text>
       </g>
       <g id="Spacer">
       </g>
       <g id="Empty">
-        <text font-size="14" font-family="Roboto, sans-serif" fill="#000000"><tspan x="26" y="186" textLength="998" lengthAdjust="spacing">I'm neighbour and I indicate when you click the</tspan><tspan x="26" y="235" textLength="203" lengthAdjust="spacing">other one</tspan></text>
+        <text font-size="36.75" font-family="Roboto, sans-serif" fill="#000000"><tspan x="26" y="186" textLength="998" lengthAdjust="spacing">I'm neighbour and I indicate when you click the</tspan><tspan x="26" y="235" textLength="203" lengthAdjust="spacing">other one</tspan></text>
       </g>
     </g>
   </g>

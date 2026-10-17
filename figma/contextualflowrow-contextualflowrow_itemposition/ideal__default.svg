@@ -4,7 +4,7 @@
   <g id="Root">
     <g id="Box">
       <g id="Empty">
-        <text font-size="14" font-family="Roboto, sans-serif" fill="#000000"><tspan x="53" y="92" textLength="236" lengthAdjust="spacing">Ln: Line No</tspan><tspan x="53" y="141" textLength="473" lengthAdjust="spacing">Ps: Position No. in Line</tspan></text>
+        <text font-size="36.75" font-family="Roboto, sans-serif" fill="#000000"><tspan x="53" y="92" textLength="236" lengthAdjust="spacing">Ln: Line No</tspan><tspan x="53" y="141" textLength="473" lengthAdjust="spacing">Ps: Position No. in Line</tspan></text>
       </g>
       <g id="LayoutNodeSubcompositionsState">
         <g id="Box">

@@ -6,19 +6,19 @@
       <g id="Box">
         <rect x="0" y="0" width="924" height="43" fill="#888888"/>
         <g id="Empty">
-          <text x="0" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Short text</text>
+          <text x="0" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Short text</text>
         </g>
       </g>
       <g id="Box">
         <rect x="0" y="43" width="924" height="43" fill="#0000FF"/>
         <g id="Empty">
-          <text font-size="14" font-family="Roboto, sans-serif" fill="#000000"><tspan x="0" y="82" textLength="884" lengthAdjust="spacing">Extremely long text giving the width of its</tspan><tspan x="0" y="131" textLength="159" lengthAdjust="spacing">siblings</tspan></text>
+          <text font-size="36.75" font-family="Roboto, sans-serif" fill="#000000"><tspan x="0" y="82" textLength="884" lengthAdjust="spacing">Extremely long text giving the width of its</tspan><tspan x="0" y="131" textLength="159" lengthAdjust="spacing">siblings</tspan></text>
         </g>
       </g>
       <g id="Box">
         <rect x="0" y="86" width="924" height="43" fill="#FF00FF"/>
         <g id="Empty">
-          <text x="0" y="99.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Medium length text</text>
+          <text x="0" y="120.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Medium length text</text>
         </g>
       </g>
     </g>

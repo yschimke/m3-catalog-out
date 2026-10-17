@@ -4,7 +4,7 @@
   <g id="Root">
     <g id="Empty">
       <rect x="31" y="31" width="436" height="33" fill="none" stroke="#FF00FF" stroke-width="10.5"/>
-      <text x="26" y="39.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Text with  square border</text>
+      <text x="26" y="60.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Text with  square border</text>
     </g>
   </g>
 </g>

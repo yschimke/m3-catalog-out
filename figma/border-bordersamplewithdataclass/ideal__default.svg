@@ -4,7 +4,7 @@
   <g id="Root">
     <g id="Empty">
       <path d="M47,29 H469 L487,47 V48 L469,66 H47 L29,48 V47 L47,29 Z" fill="none" stroke="#0000FF" stroke-width="5.25"/>
-      <text x="26" y="39.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Text with gradient border</text>
+      <text x="26" y="60.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Text with gradient border</text>
     </g>
   </g>
 </g>

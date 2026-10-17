@@ -4,7 +4,7 @@
   <g id="Root">
     <g id="Box">
       <g id="Empty">
-        <text font-size="14" font-family="Roboto, sans-serif" font-weight="700" fill="#000000"><tspan x="53" y="92" textLength="830" lengthAdjust="spacing">FlowColumn with MaxLines and +N</tspan><tspan x="53" y="141" textLength="159" lengthAdjust="spacing">button</tspan></text>
+        <text font-size="36.75" font-family="Roboto, sans-serif" font-weight="700" fill="#000000"><tspan x="53" y="92" textLength="830" lengthAdjust="spacing">FlowColumn with MaxLines and +N</tspan><tspan x="53" y="141" textLength="159" lengthAdjust="spacing">button</tspan></text>
       </g>
       <g id="MultiContentMeasurePolicyImpl">
         <g id="Box">

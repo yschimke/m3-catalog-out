@@ -7,18 +7,18 @@
         <g id="Box">
           <rect x="4" y="4" width="622" height="202" fill="none" stroke="#0000FF" stroke-width="7.87"/>
           <g id="Empty">
-            <text x="315" y="97.23" font-size="14" font-family="Roboto, sans-serif" text-anchor="middle" fill="#000000">Not pressed</text>
+            <text x="315" y="118.17" font-size="36.75" font-family="Roboto, sans-serif" text-anchor="middle" fill="#000000">Not pressed</text>
           </g>
         </g>
         <g id="Box">
           <rect x="634" y="4" width="412" height="202" fill="none" stroke="#FF0000" stroke-width="7.87"/>
           <g id="Empty">
-            <text x="840" y="97.23" font-size="14" font-family="Roboto, sans-serif" text-anchor="middle" fill="#000000">Not dragged</text>
+            <text x="840" y="118.17" font-size="36.75" font-family="Roboto, sans-serif" text-anchor="middle" fill="#000000">Not dragged</text>
           </g>
         </g>
       </g>
       <g id="Empty">
-        <text x="525" y="1147.23" font-size="14" font-family="Roboto, sans-serif" text-anchor="middle" fill="#000000">No state</text>
+        <text x="525" y="1168.17" font-size="36.75" font-family="Roboto, sans-serif" text-anchor="middle" fill="#000000">No state</text>
       </g>
     </g>
   </g>

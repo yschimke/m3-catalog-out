@@ -4,7 +4,7 @@
   <g id="Root">
     <g id="Column">
       <g id="Empty">
-        <text x="0" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Long Press to increase count. Long Press count: 0</text>
+        <text x="0" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Long Press to increase count. Long Press count: 0</text>
       </g>
       <g id="BoxKt">
         <rect x="276" y="823" width="498" height="498" fill="#0000FF" stroke="#000000" stroke-width="5.25"/>

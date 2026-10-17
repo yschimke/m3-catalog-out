@@ -6,11 +6,11 @@
       <g id="Box">
         <rect x="0" y="11" width="688" height="105" rx="52.5" ry="52.5" fill="#6750A4"/>
         <g id="Empty">
-          <text x="63" y="55.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Extend Selection to Next Word</text>
+          <text x="63" y="76.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Extend Selection to Next Word</text>
         </g>
       </g>
       <g id="Empty">
-        <text x="0" y="139.22" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Text to select: word by word</text>
+        <text x="0" y="160.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Text to select: word by word</text>
       </g>
     </g>
   </g>

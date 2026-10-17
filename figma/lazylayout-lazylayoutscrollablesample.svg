@@ -6,25 +6,25 @@
       <g id="Box">
         <rect x="0" y="0" width="263" height="263" fill="#FF0000"/>
         <g id="Empty">
-          <text x="0" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">0</text>
+          <text x="0" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">0</text>
         </g>
       </g>
       <g id="Box">
         <rect x="263" y="0" width="263" height="263" fill="#00FF00"/>
         <g id="Empty">
-          <text x="263" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">1</text>
+          <text x="263" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">1</text>
         </g>
       </g>
       <g id="Box">
         <rect x="526" y="0" width="263" height="263" fill="#FF0000"/>
         <g id="Empty">
-          <text x="526" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">2</text>
+          <text x="526" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">2</text>
         </g>
       </g>
       <g id="Box">
         <rect x="789" y="0" width="263" height="263" fill="#00FF00"/>
         <g id="Empty">
-          <text x="789" y="13.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">3</text>
+          <text x="789" y="34.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">3</text>
         </g>
       </g>
     </g>

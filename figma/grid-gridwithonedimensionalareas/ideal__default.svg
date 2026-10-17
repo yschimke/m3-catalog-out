@@ -6,25 +6,25 @@
       <g id="Box">
         <rect x="42" y="42" width="263" height="158" fill="#FF0000"/>
         <g id="Empty">
-          <text x="129" y="113.23" font-size="14" font-family="Roboto, sans-serif" fill="#FFFFFF">Logo</text>
+          <text x="129" y="134.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#FFFFFF">Logo</text>
         </g>
       </g>
       <g id="Box">
         <rect x="326" y="42" width="682" height="158" fill="#FF00FF"/>
         <g id="Empty">
-          <text x="567" y="113.23" font-size="14" font-family="Roboto, sans-serif" fill="#FFFFFF">Search Bar</text>
+          <text x="567" y="134.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#FFFFFF">Search Bar</text>
         </g>
       </g>
       <g id="Box">
         <rect x="42" y="221" width="263" height="1837" fill="#0000FF"/>
         <g id="Empty">
-          <text font-size="14" font-family="Roboto, sans-serif" fill="#FFFFFF"><tspan x="47" y="1157" textLength="160" lengthAdjust="spacing">Sidebar</tspan><tspan x="47" y="1206" textLength="115" lengthAdjust="spacing">Menu</tspan></text>
+          <text font-size="36.75" font-family="Roboto, sans-serif" fill="#FFFFFF"><tspan x="47" y="1157" textLength="160" lengthAdjust="spacing">Sidebar</tspan><tspan x="47" y="1206" textLength="115" lengthAdjust="spacing">Menu</tspan></text>
         </g>
       </g>
       <g id="Box">
         <rect x="326" y="221" width="682" height="1837" fill="#00FF00"/>
         <g id="Empty">
-          <text x="544" y="1131.23" font-size="14" font-family="Roboto, sans-serif" fill="#FFFFFF">Main Content</text>
+          <text x="544" y="1152.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#FFFFFF">Main Content</text>
         </g>
       </g>
     </g>

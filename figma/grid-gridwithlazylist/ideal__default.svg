@@ -6,13 +6,13 @@
       <g id="Box">
         <rect x="42" y="42" width="966" height="158" fill="#444444"/>
         <g id="Empty">
-          <text x="416" y="113.23" font-size="14" font-family="Roboto, sans-serif" fill="#FFFFFF">App Header</text>
+          <text x="416" y="134.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#FFFFFF">App Header</text>
         </g>
       </g>
       <g id="Box">
         <rect x="42" y="242" width="315" height="1816" fill="#CCCCCC"/>
         <g id="Empty">
-          <text x="100" y="1142.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Navigation</text>
+          <text x="100" y="1163.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Navigation</text>
         </g>
       </g>
       <clipPath id="clip-0"><rect x="399" y="242" width="609" height="1816"/></clipPath>
@@ -21,79 +21,79 @@
           <g id="Box">
             <rect x="399" y="242" width="609" height="127" fill="#E0E0FF"/>
             <g id="Empty">
-              <text x="441" y="297.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #0</text>
+              <text x="441" y="318.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #0</text>
             </g>
           </g>
           <g id="Box">
             <rect x="399" y="390" width="609" height="127" fill="#E0E0FF"/>
             <g id="Empty">
-              <text x="441" y="445.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #1</text>
+              <text x="441" y="466.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #1</text>
             </g>
           </g>
           <g id="Box">
             <rect x="399" y="538" width="609" height="127" fill="#E0E0FF"/>
             <g id="Empty">
-              <text x="441" y="593.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #2</text>
+              <text x="441" y="614.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #2</text>
             </g>
           </g>
           <g id="Box">
             <rect x="399" y="686" width="609" height="127" fill="#E0E0FF"/>
             <g id="Empty">
-              <text x="441" y="741.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #3</text>
+              <text x="441" y="762.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #3</text>
             </g>
           </g>
           <g id="Box">
             <rect x="399" y="834" width="609" height="127" fill="#E0E0FF"/>
             <g id="Empty">
-              <text x="441" y="889.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #4</text>
+              <text x="441" y="910.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #4</text>
             </g>
           </g>
           <g id="Box">
             <rect x="399" y="982" width="609" height="127" fill="#E0E0FF"/>
             <g id="Empty">
-              <text x="441" y="1037.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #5</text>
+              <text x="441" y="1058.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #5</text>
             </g>
           </g>
           <g id="Box">
             <rect x="399" y="1130" width="609" height="127" fill="#E0E0FF"/>
             <g id="Empty">
-              <text x="441" y="1185.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #6</text>
+              <text x="441" y="1206.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #6</text>
             </g>
           </g>
           <g id="Box">
             <rect x="399" y="1278" width="609" height="127" fill="#E0E0FF"/>
             <g id="Empty">
-              <text x="441" y="1333.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #7</text>
+              <text x="441" y="1354.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #7</text>
             </g>
           </g>
           <g id="Box">
             <rect x="399" y="1426" width="609" height="127" fill="#E0E0FF"/>
             <g id="Empty">
-              <text x="441" y="1481.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #8</text>
+              <text x="441" y="1502.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #8</text>
             </g>
           </g>
           <g id="Box">
             <rect x="399" y="1574" width="609" height="127" fill="#E0E0FF"/>
             <g id="Empty">
-              <text x="441" y="1629.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #9</text>
+              <text x="441" y="1650.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #9</text>
             </g>
           </g>
           <g id="Box">
             <rect x="399" y="1722" width="609" height="127" fill="#E0E0FF"/>
             <g id="Empty">
-              <text x="441" y="1777.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #10</text>
+              <text x="441" y="1798.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #10</text>
             </g>
           </g>
           <g id="Box">
             <rect x="399" y="1870" width="609" height="127" fill="#E0E0FF"/>
             <g id="Empty">
-              <text x="441" y="1925.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #11</text>
+              <text x="441" y="1946.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #11</text>
             </g>
           </g>
           <g id="Box">
             <rect x="399" y="2018" width="609" height="127" fill="#E0E0FF"/>
             <g id="Empty">
-              <text x="441" y="2073.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #12</text>
+              <text x="441" y="2094.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Scrollable Content #12</text>
             </g>
           </g>
         </g>

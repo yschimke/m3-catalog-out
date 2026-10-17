@@ -11,7 +11,7 @@
   <g id="Root">
     <g id="Column">
       <g id="Empty">
-        <text x="5" y="18.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Update border with buttons</text>
+        <text x="5" y="39.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Update border with buttons</text>
       </g>
       <g id="Row">
         <g id="Box">
@@ -35,7 +35,7 @@
       </g>
       <g id="Empty">
         <path d="M52,282 H306 L320,296 V297 L306,311 H52 L38,297 V296 L52,282 Z" fill="none" stroke="url(#gs-0)" stroke-width="13.12"/>
-        <text x="31" y="288.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Dynamic border</text>
+        <text x="31" y="309.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Dynamic border</text>
       </g>
     </g>
   </g>

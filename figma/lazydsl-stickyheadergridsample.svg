@@ -6,103 +6,103 @@
     <g id="LayoutNodeSubcompositionsState">
       <g clip-path="url(#clip-0)">
         <g id="Empty">
-          <text x="16" y="114.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 0 S=A</text>
+          <text x="16" y="135.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 0 S=A</text>
         </g>
         <g id="Empty">
-          <text x="356" y="114.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 1 S=A</text>
+          <text x="356" y="135.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 1 S=A</text>
         </g>
         <g id="Empty">
-          <text x="695" y="114.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 2 S=A</text>
+          <text x="695" y="135.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 2 S=A</text>
         </g>
         <g id="Empty">
-          <text x="16" y="282.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 3 S=A</text>
+          <text x="16" y="303.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 3 S=A</text>
         </g>
         <g id="Empty">
-          <text x="356" y="282.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 4 S=A</text>
+          <text x="356" y="303.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 4 S=A</text>
         </g>
         <g id="Empty">
-          <text x="695" y="282.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 5 S=A</text>
+          <text x="695" y="303.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 5 S=A</text>
         </g>
         <g id="Empty">
-          <text x="16" y="450.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 6 S=A</text>
+          <text x="16" y="471.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 6 S=A</text>
         </g>
         <g id="Empty">
-          <text x="356" y="450.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 7 S=A</text>
+          <text x="356" y="471.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 7 S=A</text>
         </g>
         <g id="Empty">
-          <text x="695" y="450.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 8 S=A</text>
+          <text x="695" y="471.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 8 S=A</text>
         </g>
         <g id="Empty">
-          <text x="16" y="618.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 9 S=A</text>
+          <text x="16" y="639.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 9 S=A</text>
         </g>
         <g id="Empty">
           <rect x="37" y="794" width="976" height="43" fill="#CCCCCC"/>
-          <text x="37" y="807.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Section B</text>
+          <text x="37" y="828.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Section B</text>
         </g>
         <g id="Empty">
-          <text x="16" y="871.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 0 S=B</text>
+          <text x="16" y="892.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 0 S=B</text>
         </g>
         <g id="Empty">
-          <text x="356" y="871.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 1 S=B</text>
+          <text x="356" y="892.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 1 S=B</text>
         </g>
         <g id="Empty">
-          <text x="695" y="871.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 2 S=B</text>
+          <text x="695" y="892.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 2 S=B</text>
         </g>
         <g id="Empty">
-          <text x="16" y="1039.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 3 S=B</text>
+          <text x="16" y="1060.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 3 S=B</text>
         </g>
         <g id="Empty">
-          <text x="356" y="1039.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 4 S=B</text>
+          <text x="356" y="1060.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 4 S=B</text>
         </g>
         <g id="Empty">
-          <text x="695" y="1039.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 5 S=B</text>
+          <text x="695" y="1060.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 5 S=B</text>
         </g>
         <g id="Empty">
-          <text x="16" y="1207.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 6 S=B</text>
+          <text x="16" y="1228.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 6 S=B</text>
         </g>
         <g id="Empty">
-          <text x="356" y="1207.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 7 S=B</text>
+          <text x="356" y="1228.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 7 S=B</text>
         </g>
         <g id="Empty">
-          <text x="695" y="1207.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 8 S=B</text>
+          <text x="695" y="1228.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 8 S=B</text>
         </g>
         <g id="Empty">
-          <text x="16" y="1375.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 9 S=B</text>
+          <text x="16" y="1396.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 9 S=B</text>
         </g>
         <g id="Empty">
           <rect x="37" y="1551" width="976" height="43" fill="#CCCCCC"/>
-          <text x="37" y="1564.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Section C</text>
+          <text x="37" y="1585.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Section C</text>
         </g>
         <g id="Empty">
-          <text x="16" y="1628.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 0 S=C</text>
+          <text x="16" y="1649.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 0 S=C</text>
         </g>
         <g id="Empty">
-          <text x="356" y="1628.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 1 S=C</text>
+          <text x="356" y="1649.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 1 S=C</text>
         </g>
         <g id="Empty">
-          <text x="695" y="1628.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 2 S=C</text>
+          <text x="695" y="1649.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 2 S=C</text>
         </g>
         <g id="Empty">
-          <text x="16" y="1796.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 3 S=C</text>
+          <text x="16" y="1817.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 3 S=C</text>
         </g>
         <g id="Empty">
-          <text x="356" y="1796.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 4 S=C</text>
+          <text x="356" y="1817.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 4 S=C</text>
         </g>
         <g id="Empty">
-          <text x="695" y="1796.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 5 S=C</text>
+          <text x="695" y="1817.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 5 S=C</text>
         </g>
         <g id="Empty">
-          <text x="16" y="1964.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 6 S=C</text>
+          <text x="16" y="1985.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 6 S=C</text>
         </g>
         <g id="Empty">
-          <text x="356" y="1964.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 7 S=C</text>
+          <text x="356" y="1985.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 7 S=C</text>
         </g>
         <g id="Empty">
-          <text x="695" y="1964.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item= 8 S=C</text>
+          <text x="695" y="1985.72" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item= 8 S=C</text>
         </g>
         <g id="Empty">
           <rect x="37" y="37" width="976" height="43" fill="#CCCCCC"/>
-          <text x="37" y="50.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Section A</text>
+          <text x="37" y="71.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Section A</text>
         </g>
       </g>
     </g>

@@ -17,13 +17,13 @@
       </g>
       <g id="LayoutNodeSubcompositionsState">
         <g id="Empty">
-          <text x="0" y="265.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item 1</text>
+          <text x="0" y="286.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item 1</text>
         </g>
         <g id="Empty">
-          <text x="0" y="308.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item 2</text>
+          <text x="0" y="329.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item 2</text>
         </g>
         <g id="Empty">
-          <text x="0" y="351.23" font-size="14" font-family="Roboto, sans-serif" fill="#000000">Item 3</text>
+          <text x="0" y="372.17" font-size="36.75" font-family="Roboto, sans-serif" fill="#000000">Item 3</text>
         </g>
       </g>
     </g>
