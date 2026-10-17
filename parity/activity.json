@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-17T12:59:03.752Z",
+  "generatedAt": "2026-10-17T20:35:24.214Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "41b183bab248259f09ba1daa45164929cb72401a",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.68.2 (#608)",
+        "at": "2026-10-17T20:30:32Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "4d34579db4914b96d06c7789eaa10cf5c6bbd2e3",
         "subject": "fix(deps): update compose-ai-tools (#604)",
@@ -475,14 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.2 (#547)",
         "at": "2026-10-10T16:21:11Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9b5bf500470522679a065b9f75eea3fd3621afcd",
-        "subject": "fix(deps): compose-ai-tools 2.42.0 (#546)",
-        "at": "2026-10-10T17:10:43+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
