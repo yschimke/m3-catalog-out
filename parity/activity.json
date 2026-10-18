@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-18T05:08:31.754Z",
+  "generatedAt": "2026-10-18T08:45:43.715Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "2c01e03f0eb3c526f3d3d39e97a0587f18ee4814",
+        "subject": "fix(deps): update compose-ai-tools (#610)",
+        "at": "2026-10-18T08:41:11Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "73d78c770d47eba3acda7140b972a2708d3184c3",
         "subject": "fix(deps): update compose-ai-tools (#607)",
@@ -474,14 +482,6 @@
         "sha": "435e78874ef661006293a3d88780f4aa6c051565",
         "subject": "feat: complete parallel typed M3 catalog coverage (#550)",
         "at": "2026-10-10T23:24:10+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c8f9e1eb751824aa55c753e6d7565a759c6b252d",
-        "subject": "feat: add parallel Kotlin-authored M3 catalog trial (#549)",
-        "at": "2026-10-10T22:23:42+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
