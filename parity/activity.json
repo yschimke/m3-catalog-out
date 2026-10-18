@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-17T20:33:36.281Z",
+  "generatedAt": "2026-10-18T01:10:59.673Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "269557d23b0838252a947ab58b0d9cdf01cdf9f3",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.36.0 (#609)",
+        "at": "2026-10-18T01:07:56Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "41b183bab248259f09ba1daa45164929cb72401a",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.68.2 (#608)",
@@ -474,14 +482,6 @@
         "sha": "f4b8b546fc0c84bc40bfe909f9f9f26e77cb2036",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.26.0 (#548)",
         "at": "2026-10-10T17:59:44Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "54e3139d987e5891a5b8b6a3a08ca17a9389bb61",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.2 (#547)",
-        "at": "2026-10-10T16:21:11Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
