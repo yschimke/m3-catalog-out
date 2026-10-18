@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-18T01:13:52.972Z",
+  "generatedAt": "2026-10-18T05:08:42.771Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "73d78c770d47eba3acda7140b972a2708d3184c3",
+        "subject": "fix(deps): update compose-ai-tools (#607)",
+        "at": "2026-10-18T05:04:19Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "269557d23b0838252a947ab58b0d9cdf01cdf9f3",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.36.0 (#609)",
@@ -475,14 +483,6 @@
         "subject": "feat: add parallel Kotlin-authored M3 catalog trial (#549)",
         "at": "2026-10-10T22:23:42+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f4b8b546fc0c84bc40bfe909f9f9f26e77cb2036",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.26.0 (#548)",
-        "at": "2026-10-10T17:59:44Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
