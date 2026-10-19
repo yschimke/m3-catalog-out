@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-18T20:30:01.295Z",
+  "generatedAt": "2026-10-19T00:47:01.139Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "bbee6e7ed916cbe9f1a1a4a4774b6b384911f86e",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.68.6 (#614)",
+        "at": "2026-10-19T00:43:32Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "cda77b73d36bf31d44574bcacdd4be00c8d736d8",
         "subject": "fix(deps): update compose-ai-tools (#611)",
@@ -474,14 +482,6 @@
         "sha": "87427f7c7281e561a78886258dd595a2555fe015",
         "subject": "feat(catalog): complete parallel Kotlin generation for M3 samples (#555)",
         "at": "2026-10-11T01:01:45+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b28bc91af77a638e77826fa265ed23fc0c8d7c76",
-        "subject": "feat: add parallel Kotlin-authored M3 samples policy (#553)",
-        "at": "2026-10-10T23:52:50+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
