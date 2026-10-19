@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-19T06:25:32.320Z",
+  "generatedAt": "2026-10-19T21:33:26.816Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "8cdf1e61f70254014058741407b3bc0bb544cd10",
+        "subject": "build: resolve from Google Maven before Maven Central (#615)",
+        "at": "2026-10-19T22:08:55+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "774ed3ba24af69b61c30849abff5b6374bf069f7",
+        "subject": "fix(deps): update compose-ai-tools (#617)",
+        "at": "2026-10-19T21:05:22Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c1b440876580e0d752670f15a049a7d3004410aa",
+        "subject": "chore(deps): update gradle to v9.8.2 (#616)",
+        "at": "2026-10-19T21:05:02Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "1a0135d85453251b068fbd81cb13127d2ccd6ec8",
         "subject": "chore(deps): update compose-ai-tools to v2.68.6 (#613)",
@@ -459,30 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.27.0 (#558)",
         "at": "2026-10-11T08:46:55Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "abf34b968041ae2beec86c0ac99e4ec55bdcc257",
-        "subject": "docs: tell automated reviewers not to report commit attribution (#557)",
-        "at": "2026-10-11T08:52:19+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4c7c8747840489d73534afc40b76759f429c0ab5",
-        "subject": "fix(ui-samples): seed the five random foundation samples so their renders stop flipping (#556)",
-        "at": "2026-10-11T08:01:55+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b7e816a5481cc76601c62d8133a3895d5726f0ca",
-        "subject": "fix(ui-builder): pin the typed date picker's fallback and shelve snackbar-host under Snackbar (#554)",
-        "at": "2026-10-11T07:47:23+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
