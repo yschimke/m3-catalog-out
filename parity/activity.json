@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-19T22:10:22.487Z",
+  "generatedAt": "2026-10-20T17:14:43.381Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "9b5dd8c9185d8eecd9c04433ca15067c321c77c4",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.70.2 (#621)",
+        "at": "2026-10-20T17:08:38Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "639336514842fa02f4b966d5fe91047b4cfc138e",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.69.2 (#618)",
@@ -475,14 +483,6 @@
         "subject": "chore(deps): update compose-ai-tools to v2.45.0 (#552)",
         "at": "2026-10-11T14:03:51+01:00",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "0add7844f671c16bc3f8bebc9083d4a2a9a89036",
-        "subject": "fix(ui-builder): draw m3/variable-font-text and m3/snackbar-host on the native canvas (#560)",
-        "at": "2026-10-11T12:39:16+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
