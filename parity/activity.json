@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-20T17:14:43.381Z",
+  "generatedAt": "2026-10-21T01:03:00.296Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "6f14b7b0e53b5ebff4a391c1bf7f74b07f578160",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.70.5 (#622)",
+        "at": "2026-10-21T00:57:02Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9b5dd8c9185d8eecd9c04433ca15067c321c77c4",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.70.2 (#621)",
@@ -474,14 +482,6 @@
         "sha": "b8bf522e028f99a16f4b359b85f5019359bf341e",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.29.0 (#562)",
         "at": "2026-10-11T13:30:27Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b79a06e0466dabada59e671e08fb57f68c57bf5a",
-        "subject": "chore(deps): update compose-ai-tools to v2.45.0 (#552)",
-        "at": "2026-10-11T14:03:51+01:00",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
