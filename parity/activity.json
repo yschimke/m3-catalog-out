@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-21T05:02:37.501Z",
+  "generatedAt": "2026-10-22T23:51:05.419Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "12427bbde6d4a44a4aa3cca9bcb4046a8f1c03d7",
+        "subject": "fix(deps): update compose multiplatform to v1.12.2 (#603)",
+        "at": "2026-10-22T23:36:36Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8df31b06d84f771c1b283e85fe886fd06a279226",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.21.0 (#620)",
@@ -475,14 +483,6 @@
         "subject": "feat(policy): one m3/card and one m3/icon-button with a style property (#563)",
         "at": "2026-10-11T15:52:28+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "369992ac004ce088d0d66862bc940e3d0ddd3fbf",
-        "subject": "fix(deps): update compose-ai-tools to v2.45.0 (#561)",
-        "at": "2026-10-11T13:31:25Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
