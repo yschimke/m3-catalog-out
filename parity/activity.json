@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-23T03:22:02.293Z",
+  "generatedAt": "2026-10-23T07:25:16.640Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "9a1b62f7be061cc117d8db8296c7004a066a497f",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.39.0 (#627)",
+        "at": "2026-10-23T06:58:14Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "049db52e4518400853d83d60c85e407c735980d9",
         "subject": "fix(deps): update compose-ai-tools (#624)",
@@ -475,14 +483,6 @@
         "subject": "feat(prototype): Card stickers defined as one UI builder document (#565)",
         "at": "2026-10-11T18:23:52+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3b67e7c9383584a3b82e60a9ab9bbe9ffea45eff",
-        "subject": "chore(deps): update compose-ai-tools to v2.48.0 (#568)",
-        "at": "2026-10-11T17:14:12Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
