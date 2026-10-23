@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-22T23:51:05.419Z",
+  "generatedAt": "2026-10-23T00:31:18.399Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "dd4ae6189de6f50217d198259fe1b76a2f728e35",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.71.0 (#625)",
+        "at": "2026-10-22T23:42:53Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4fbd656779d725f07018a3f19e48ce7a8c6da612",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.38.0 (#626)",
+        "at": "2026-10-22T23:42:11Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "85671bfec655561368fbe2aa11a63f79ccfa975a",
+        "subject": "chore(deps): update ci toolchain (#623)",
+        "at": "2026-10-22T23:37:32Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "12427bbde6d4a44a4aa3cca9bcb4046a8f1c03d7",
         "subject": "fix(deps): update compose multiplatform to v1.12.2 (#603)",
@@ -459,30 +483,6 @@
         "subject": "chore(deps): update compose-ai-tools to v2.47.0 (#566)",
         "at": "2026-10-11T16:51:05Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c529d8a9e5c18d8d7181e24654baa25058f1a273",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.30.0 (#567)",
-        "at": "2026-10-11T16:50:33Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d9391e21397c6c381aabc4e3c956215dc61b3050",
-        "subject": "chore(deps): update compose-ai-tools to v2.46.0 (#564)",
-        "at": "2026-10-11T14:55:39Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8bf8dd10e035e4074f4cbeb8c6f40ec1cfb5d8e4",
-        "subject": "feat(policy): one m3/card and one m3/icon-button with a style property (#563)",
-        "at": "2026-10-11T15:52:28+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
