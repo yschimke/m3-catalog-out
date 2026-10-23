@@ -6,7 +6,7 @@
     "org.jetbrains.compose.material3:material3",
     "org.jetbrains.compose.material3:material3-adaptive-navigation-suite"
   ],
-  "renderer": "typed-catalog m3-typed-pilot-dd4ae6189de6",
+  "renderer": "typed-catalog m3-typed-pilot-049db52e4518",
   "components": [
     {
       "componentId": "m3-catalog-typed-pilot/button",
@@ -503,7 +503,7 @@
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "m3-typed-pilot-dd4ae6189de6",
+    "runtimeId": "m3-typed-pilot-049db52e4518",
     "protocolVersion": 2,
     "integritySha256": "b0aa7e3d27a8d00e5374754815b53e3f7205a9317fb890dec4fac8359763ddcd"
   }
