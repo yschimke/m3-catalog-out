@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-23T07:25:16.640Z",
+  "generatedAt": "2026-10-23T11:19:56.916Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "61ca84b89756c33e13518c36bed7665e8be23db7",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.72.0 (#629)",
+        "at": "2026-10-23T10:37:10Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9a1b62f7be061cc117d8db8296c7004a066a497f",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.39.0 (#627)",
@@ -474,14 +482,6 @@
         "sha": "56dbc84a515830132bdc6e7339ae13885b8a8c8f",
         "subject": "fix(catalog): give the preview daemon 2 GB so the semantics bundle publishes again (#569)",
         "at": "2026-10-11T20:44:01+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1b0ea2ad6b4bb30fafa1edfb59b61f1d48c17a2b",
-        "subject": "feat(prototype): Card stickers defined as one UI builder document (#565)",
-        "at": "2026-10-11T18:23:52+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
