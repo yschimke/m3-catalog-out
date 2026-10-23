@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-23T00:31:18.399Z",
+  "generatedAt": "2026-10-23T03:19:29.692Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "049db52e4518400853d83d60c85e407c735980d9",
+        "subject": "fix(deps): update compose-ai-tools (#624)",
+        "at": "2026-10-23T03:16:32Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "dd4ae6189de6f50217d198259fe1b76a2f728e35",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.71.0 (#625)",
@@ -474,14 +482,6 @@
         "sha": "3b67e7c9383584a3b82e60a9ab9bbe9ffea45eff",
         "subject": "chore(deps): update compose-ai-tools to v2.48.0 (#568)",
         "at": "2026-10-11T17:14:12Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "544ad3223a88b6ecee38bb48c7705f322a4366af",
-        "subject": "chore(deps): update compose-ai-tools to v2.47.0 (#566)",
-        "at": "2026-10-11T16:51:05Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
