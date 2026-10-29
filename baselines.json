@@ -37172,7 +37172,7 @@
     "functionName": "TransformableAnimateBySamplePreview",
     "module": "ui-samples-catalog",
     "renderBasename": "TransformableAnimateBySamplePreview-bdcbdd8a.png",
-    "sha256": "833759f73c95e8e0af6de27858f4c0c8a6b7459b8bd5e568991a6af27a6c9d4d",
+    "sha256": "cb0b682499521aa77e5b99c872716811dd6eca032e8cd80a2b968e1b8d235850",
     "sourceFile": "src/main/kotlin/ee/schimke/uisamplescatalog/SamplePreviews.kt"
   },
   "ui-samples-catalog/ee.schimke.uisamplescatalog.SamplePreviewsKt.TransformableSampleInsideScrollPreview": {
@@ -37180,7 +37180,7 @@
     "functionName": "TransformableSampleInsideScrollPreview",
     "module": "ui-samples-catalog",
     "renderBasename": "TransformableSampleInsideScrollPreview-1aa46560.png",
-    "sha256": "0bfa9a8c6c5963607b24bd5fad6fc5247c5769799f7fda895872deada6715bd6",
+    "sha256": "914fdca25c4cb63566368c6a79c990eec8598da86d59cd32c2b90c7d9e6d2de6",
     "sourceFile": "src/main/kotlin/ee/schimke/uisamplescatalog/SamplePreviews.kt"
   },
   "ui-samples-catalog/ee.schimke.uisamplescatalog.SamplePreviewsKt.TransformableSamplePreview": {
@@ -37188,7 +37188,7 @@
     "functionName": "TransformableSamplePreview",
     "module": "ui-samples-catalog",
     "renderBasename": "TransformableSamplePreview-aceefe45.png",
-    "sha256": "833759f73c95e8e0af6de27858f4c0c8a6b7459b8bd5e568991a6af27a6c9d4d",
+    "sha256": "cb0b682499521aa77e5b99c872716811dd6eca032e8cd80a2b968e1b8d235850",
     "sourceFile": "src/main/kotlin/ee/schimke/uisamplescatalog/SamplePreviews.kt"
   },
   "ui-samples-catalog/ee.schimke.uisamplescatalog.SamplePreviewsKt.TriStateToggleableSamplePreview": {
