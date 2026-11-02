@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-29T15:55:58.016Z",
+  "generatedAt": "2026-11-02T06:19:12.839Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "f2774084cfe49a3c74c3eb76047ab04a1c1c5a44",
+        "subject": "chore(deps): update dependency node to v26 (#632)",
+        "at": "2026-10-31T16:23:12Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "62a666578c3a2e8adf873cee790c11f5d9f3ebd6",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.74.1 (#631)",
@@ -475,14 +483,6 @@
         "subject": "ci(design-artifacts): six render shards and a 50-minute bound so the semantics pass finishes (#572)",
         "at": "2026-10-11T22:20:12+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6b3b5c11445bc594e60b5b41426f057911f3e22d",
-        "subject": "fix(deps): update compose-ai-tools (#574)",
-        "at": "2026-10-11T21:18:53Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
