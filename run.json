@@ -4,7 +4,7 @@
   "direction": "design-led",
   "status": "warn",
   "blocked": false,
-  "cacheKey": "3b0e8961f27d328c600301504a719a5b349c2a3740fa769d3977de4b7e857b65",
+  "cacheKey": "d893bb4eb06734a48c936cda1388ade07e4cd7e67f980ff5b0f3c8ecdffcfea2",
   "entries": [
     {
       "code": "catalog/src/main/kotlin/ee/schimke/m3catalog/sections/Badges.kt#NumberBadge",
