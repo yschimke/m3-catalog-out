@@ -8,6 +8,17 @@
       "images": [
         {
           "variant": "ideal",
+          "path": "images/content-image/ideal__default__light.png",
+          "state": "default",
+          "width": 420,
+          "height": 252,
+          "theme": "light",
+          "livePreview": "https://preview.coo.ee/compose-foundation/p/content-image__ideal__default__light",
+          "previewId": "ee.schimke.foundationcatalog.sections.AssetsKt.ImageSticker_Light",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
           "path": "images/content-image/ideal__default__dark.png",
           "state": "default",
           "width": 420,
@@ -18,17 +29,6 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
-        },
-        {
-          "variant": "ideal",
-          "path": "images/content-image/ideal__default__light.png",
-          "state": "default",
-          "width": 420,
-          "height": 252,
-          "theme": "light",
-          "livePreview": "https://preview.coo.ee/compose-foundation/p/content-image__ideal__default__light",
-          "previewId": "ee.schimke.foundationcatalog.sections.AssetsKt.ImageSticker_Light",
           "density": 2.625
         }
       ],
@@ -57,6 +57,17 @@
       "images": [
         {
           "variant": "ideal",
+          "path": "images/layout-box/ideal__default__light.png",
+          "state": "default",
+          "width": 252,
+          "height": 168,
+          "theme": "light",
+          "livePreview": "https://preview.coo.ee/compose-foundation/p/layout-box__ideal__default__light",
+          "previewId": "ee.schimke.foundationcatalog.sections.LayoutKt.BoxSticker_Light",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
           "path": "images/layout-box/ideal__default__dark.png",
           "state": "default",
           "width": 252,
@@ -67,17 +78,6 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
-        },
-        {
-          "variant": "ideal",
-          "path": "images/layout-box/ideal__default__light.png",
-          "state": "default",
-          "width": 252,
-          "height": 168,
-          "theme": "light",
-          "livePreview": "https://preview.coo.ee/compose-foundation/p/layout-box__ideal__default__light",
-          "previewId": "ee.schimke.foundationcatalog.sections.LayoutKt.BoxSticker_Light",
           "density": 2.625
         }
       ],
@@ -99,6 +99,17 @@
       "images": [
         {
           "variant": "ideal",
+          "path": "images/layout-column/ideal__default__light.png",
+          "state": "default",
+          "width": 232,
+          "height": 316,
+          "theme": "light",
+          "livePreview": "https://preview.coo.ee/compose-foundation/p/layout-column__ideal__default__light",
+          "previewId": "ee.schimke.foundationcatalog.sections.LayoutKt.ColumnSticker_Light",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
           "path": "images/layout-column/ideal__default__dark.png",
           "state": "default",
           "width": 232,
@@ -109,17 +120,6 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
-        },
-        {
-          "variant": "ideal",
-          "path": "images/layout-column/ideal__default__light.png",
-          "state": "default",
-          "width": 232,
-          "height": 316,
-          "theme": "light",
-          "livePreview": "https://preview.coo.ee/compose-foundation/p/layout-column__ideal__default__light",
-          "previewId": "ee.schimke.foundationcatalog.sections.LayoutKt.ColumnSticker_Light",
           "density": 2.625
         }
       ],
@@ -141,6 +141,17 @@
       "images": [
         {
           "variant": "ideal",
+          "path": "images/layout-row/ideal__default__light.png",
+          "state": "default",
+          "width": 379,
+          "height": 148,
+          "theme": "light",
+          "livePreview": "https://preview.coo.ee/compose-foundation/p/layout-row__ideal__default__light",
+          "previewId": "ee.schimke.foundationcatalog.sections.LayoutKt.RowSticker_Light",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
           "path": "images/layout-row/ideal__default__dark.png",
           "state": "default",
           "width": 379,
@@ -151,17 +162,6 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
-        },
-        {
-          "variant": "ideal",
-          "path": "images/layout-row/ideal__default__light.png",
-          "state": "default",
-          "width": 379,
-          "height": 148,
-          "theme": "light",
-          "livePreview": "https://preview.coo.ee/compose-foundation/p/layout-row__ideal__default__light",
-          "previewId": "ee.schimke.foundationcatalog.sections.LayoutKt.RowSticker_Light",
           "density": 2.625
         }
       ],
@@ -183,6 +183,17 @@
       "images": [
         {
           "variant": "ideal",
+          "path": "images/layout-lazycolumn/ideal__default__light.png",
+          "state": "default",
+          "width": 315,
+          "height": 347,
+          "theme": "light",
+          "livePreview": "https://preview.coo.ee/compose-foundation/p/layout-lazycolumn__ideal__default__light",
+          "previewId": "ee.schimke.foundationcatalog.sections.LazyListsKt.LazyColumnSticker_Light",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
           "path": "images/layout-lazycolumn/ideal__default__dark.png",
           "state": "default",
           "width": 315,
@@ -193,17 +204,6 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
-        },
-        {
-          "variant": "ideal",
-          "path": "images/layout-lazycolumn/ideal__default__light.png",
-          "state": "default",
-          "width": 315,
-          "height": 347,
-          "theme": "light",
-          "livePreview": "https://preview.coo.ee/compose-foundation/p/layout-lazycolumn__ideal__default__light",
-          "previewId": "ee.schimke.foundationcatalog.sections.LazyListsKt.LazyColumnSticker_Light",
           "density": 2.625
         }
       ],
@@ -232,6 +232,17 @@
       "images": [
         {
           "variant": "ideal",
+          "path": "images/layout-lazyrow/ideal__default__light.png",
+          "state": "default",
+          "width": 368,
+          "height": 168,
+          "theme": "light",
+          "livePreview": "https://preview.coo.ee/compose-foundation/p/layout-lazyrow__ideal__default__light",
+          "previewId": "ee.schimke.foundationcatalog.sections.LazyListsKt.LazyRowSticker_Light",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
           "path": "images/layout-lazyrow/ideal__default__dark.png",
           "state": "default",
           "width": 368,
@@ -242,17 +253,6 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
-        },
-        {
-          "variant": "ideal",
-          "path": "images/layout-lazyrow/ideal__default__light.png",
-          "state": "default",
-          "width": 368,
-          "height": 168,
-          "theme": "light",
-          "livePreview": "https://preview.coo.ee/compose-foundation/p/layout-lazyrow__ideal__default__light",
-          "previewId": "ee.schimke.foundationcatalog.sections.LazyListsKt.LazyRowSticker_Light",
           "density": 2.625
         }
       ],
@@ -281,6 +281,17 @@
       "images": [
         {
           "variant": "ideal",
+          "path": "images/layout-lazyverticalgrid/ideal__default__light.png",
+          "state": "default",
+          "width": 525,
+          "height": 347,
+          "theme": "light",
+          "livePreview": "https://preview.coo.ee/compose-foundation/p/layout-lazyverticalgrid__ideal__default__light",
+          "previewId": "ee.schimke.foundationcatalog.sections.LazyListsKt.LazyVerticalGridSticker_Light",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
           "path": "images/layout-lazyverticalgrid/ideal__default__dark.png",
           "state": "default",
           "width": 525,
@@ -291,17 +302,6 @@
           "previewParams": {
             "uiMode": 32
           },
-          "density": 2.625
-        },
-        {
-          "variant": "ideal",
-          "path": "images/layout-lazyverticalgrid/ideal__default__light.png",
-          "state": "default",
-          "width": 525,
-          "height": 347,
-          "theme": "light",
-          "livePreview": "https://preview.coo.ee/compose-foundation/p/layout-lazyverticalgrid__ideal__default__light",
-          "previewId": "ee.schimke.foundationcatalog.sections.LazyListsKt.LazyVerticalGridSticker_Light",
           "density": 2.625
         }
       ],
@@ -331,8 +331,8 @@
     "org.jetbrains.compose.material3:material3",
     "org.jetbrains.compose.material3.adaptive:adaptive-layout"
   ],
-  "renderer": "compose-preview 2.74.1",
-  "generatedAt": "2026-11-02T06:16:35.179Z",
+  "renderer": "compose-preview 2.89.0",
+  "generatedAt": "2026-11-07T19:41:27.608Z",
   "display": {
     "hero": "BoxSticker"
   },
