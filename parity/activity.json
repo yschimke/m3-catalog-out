@@ -1,11 +1,43 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-02T06:19:12.839Z",
+  "generatedAt": "2026-11-07T19:44:30.054Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "6824dad210155678250c2aa01f4f4ffe47eb8cf0",
+        "subject": "fix(deps): update compose-ai-tools (#636)",
+        "at": "2026-11-07T19:38:00Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "92df48effa4b3816bc311ccae1f3ac295def6c10",
+        "subject": "chore(deps): update ci toolchain (#634)",
+        "at": "2026-11-07T19:35:50Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "242b1acc2851ee3f2106130a09e4f967329b9fb1",
+        "subject": "chore(deps): update dependency com.ncorti.ktfmt.gradle to v0.28.0 (#635)",
+        "at": "2026-11-07T19:35:19Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b593ccd0f8a961dff977fe4a6c1d4681f7e97db7",
+        "subject": "fix(ui-builder): declare the desktop native backend the catalog actually renders on (#633)",
+        "at": "2026-11-04T08:59:14Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f2774084cfe49a3c74c3eb76047ab04a1c1c5a44",
         "subject": "chore(deps): update dependency node to v26 (#632)",
@@ -451,38 +483,6 @@
         "subject": "chore(deps): update ci toolchain (#577)",
         "at": "2026-10-12T02:38:04Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b9993988237c3cd225c9b62b085aa30d0306889e",
-        "subject": "fix(deps): update dependency androidx.annotation:annotation to v1.11.0 (#579)",
-        "at": "2026-10-12T02:34:43Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "eb4be5b0fe4ac876f1709c623832a4def5242aa9",
-        "subject": "chore(deps): update kotlin to v2.4.21 (#578)",
-        "at": "2026-10-12T02:32:48Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "95ef0234c2ec7308b37eed08ba8eeedba77785ed",
-        "subject": "chore(deps): update compose-ai-tools to v2.51.0 (#576)",
-        "at": "2026-10-12T00:21:00Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "47efc3fc4f68613ed132c231bafa22448a0863c6",
-        "subject": "ci(design-artifacts): six render shards and a 50-minute bound so the semantics pass finishes (#572)",
-        "at": "2026-10-11T22:20:12+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
