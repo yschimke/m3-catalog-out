@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-07T19:44:30.054Z",
+  "generatedAt": "2026-11-07T21:36:45.419Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "fc3ee60e8c2067ef0cf43c5be0f94fd048a0725b",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.41.0 (#638)",
+        "at": "2026-11-07T21:27:21Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "05fcdc936692266e6efb6799b6e6ac339ea93674",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.89.0 (#637)",
+        "at": "2026-11-07T21:27:15Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "6824dad210155678250c2aa01f4f4ffe47eb8cf0",
         "subject": "fix(deps): update compose-ai-tools (#636)",
@@ -467,22 +483,6 @@
         "subject": "fix(samples): map a plain IconButton to the Standard cell (#581)",
         "at": "2026-10-12T10:23:02+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4cb4f1b2090ae7240123c495c39c70671a82c886",
-        "subject": "feat(catalog): cut 50 of 59 stickers over to generated UI builder components (#571)",
-        "at": "2026-10-12T09:14:05+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "bb9409eab9d1c95d3ca620b283c23062ac0adbf2",
-        "subject": "chore(deps): update ci toolchain (#577)",
-        "at": "2026-10-12T02:38:04Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
