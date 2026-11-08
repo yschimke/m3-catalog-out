@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-07T21:34:47.273Z",
+  "generatedAt": "2026-11-08T00:58:06.281Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "5239dcaea0c0cef53a1bfdcfef0299937037c77c",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.3 (#639)",
+        "at": "2026-11-08T00:53:21Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "fc3ee60e8c2067ef0cf43c5be0f94fd048a0725b",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.41.0 (#638)",
@@ -475,14 +483,6 @@
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.15.4 (#583)",
         "at": "2026-10-12T09:36:56Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6065fff84e432197883817f407abd148a3749522",
-        "subject": "fix(samples): map a plain IconButton to the Standard cell (#581)",
-        "at": "2026-10-12T10:23:02+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
