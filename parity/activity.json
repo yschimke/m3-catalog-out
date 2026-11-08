@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-08T05:33:03.932Z",
+  "generatedAt": "2026-11-08T13:45:40.961Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "6e0af8964d6dd292d20c8874443394222b60343b",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export-jvm to v3.130.0 (#641)",
+        "at": "2026-11-08T13:42:51Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "38ab97249ffcc60c6ae0af0ad3370105a49114e8",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.42.0 (#640)",
@@ -475,14 +483,6 @@
         "subject": "ci(design-artifacts): scope and supersede inside the reusable workflow (#575)",
         "at": "2026-10-12T10:53:29+01:00",
         "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5a06cde8dc92362440524c0311a8c244e1fd8b29",
-        "subject": "fix(deps): update compose-ai-tools (#584)",
-        "at": "2026-10-12T09:42:05Z",
-        "author": "renovate[bot]",
         "previewIds": [],
         "components": []
       }
