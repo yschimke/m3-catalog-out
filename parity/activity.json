@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-09T06:18:32.918Z",
+  "generatedAt": "2026-11-10T02:13:38.920Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "fe1595c69541ffa791c38d3fa287321d622481ce",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.4 (#642)",
+        "at": "2026-11-10T02:08:32Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "6e0af8964d6dd292d20c8874443394222b60343b",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export-jvm to v3.130.0 (#641)",
@@ -474,14 +482,6 @@
         "sha": "28ebf72f2c171ff6ed8c29ffa280f4352927897b",
         "subject": "fix(guidelines): allow paired semantic domain colours alongside theme roles (#585)",
         "at": "2026-10-12T14:10:55+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "be43d24f7ab91196689173406cb94d6fe14b23dc",
-        "subject": "ci(design-artifacts): scope and supersede inside the reusable workflow (#575)",
-        "at": "2026-10-12T10:53:29+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
