@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-10T02:13:38.920Z",
+  "generatedAt": "2026-11-12T12:48:23.857Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "88f76e04a1249efe71d9c6ae4e31e3bdf276540b",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.43.0 (#646)",
+        "at": "2026-11-12T12:43:51Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5ec62695a85fcceb60ec1dc7ebbc2422eaef1097",
+        "subject": "chore(deps): update ci toolchain (#643)",
+        "at": "2026-11-12T12:43:36Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "36652be232fb5b1b68b13692796297c56cb3184d",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.90.1 (#645)",
+        "at": "2026-11-12T12:42:17Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "fe1595c69541ffa791c38d3fa287321d622481ce",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.4 (#642)",
@@ -427,62 +451,6 @@
         "subject": "chore(deps): update actions/download-artifact action to v8.0.2 (#591)",
         "at": "2026-10-13T22:00:27Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "fbc5caed4e4445f585ef8b046d62a6b1ffbc7840",
-        "subject": "ci(renovate): drop the weekly schedule on the CI toolchain batch (#588)",
-        "at": "2026-10-12T20:37:32+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4c1c00e70354ee00bba6b3a13cd97dee540e547a",
-        "subject": "chore(deps): update compose-ai-tools to v2.55.0 (#589)",
-        "at": "2026-10-12T19:32:54Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "992d141f1c08ae09039d4c8ec48ab0dc0c0501a3",
-        "subject": "fix(deps): update compose-ai-tools to v2.54.0 (#586)",
-        "at": "2026-10-12T17:19:43Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ea5cd9e199845db789cec1024c1c5e55b150593c",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.16.0 (#587)",
-        "at": "2026-10-12T17:18:47Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "19ac6b5bedbbdb1d9f31d6958b2f955336185304",
-        "subject": "feat(typed): export the M3 typed pilot through real-record projections and publish it (#580)",
-        "at": "2026-10-12T18:04:54+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "b8cd52256ee844a09687743238047c1279ad75f0",
-        "subject": "fix(samples): link the bare IconButton samples to IconButton/Standard (#582)",
-        "at": "2026-10-12T15:54:49+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "28ebf72f2c171ff6ed8c29ffa280f4352927897b",
-        "subject": "fix(guidelines): allow paired semantic domain colours alongside theme roles (#585)",
-        "at": "2026-10-12T14:10:55+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
