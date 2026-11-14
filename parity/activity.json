@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-14T06:28:49.957Z",
+  "generatedAt": "2026-11-14T10:32:11.863Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "af944db17925d42c8413c839c48a32cfcc430718",
+        "subject": "fix(deps): update compose-ai-tools (#644)",
+        "at": "2026-11-14T10:25:34Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "c7ecf26dfdf76e4fde5dac1a4f6505b17816cbb1",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.91.0 (#648)",
@@ -371,30 +379,6 @@
         "subject": "fix(deps): update compose-ai-tools (#601)",
         "at": "2026-10-15T11:05:46Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "aa3d768517fa85e58f919d0387608297c89c5c57",
-        "subject": "chore(deps): update ci toolchain (#600)",
-        "at": "2026-10-15T07:21:06Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e41921f9bd7ee5372013a94cc6d06ab6dd738778",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.33.0 (#602)",
-        "at": "2026-10-15T07:20:46Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e003c4e674431ab87256120f62fea209b17a201e",
-        "subject": "fix(ui-builder): draw layout/scaffold, pane scaffolds, flow-row and icons in the canvas runtime (#599)",
-        "at": "2026-10-15T08:16:47+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
