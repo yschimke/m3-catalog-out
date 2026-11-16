@@ -18,6 +18,25 @@
   ],
   "revisions": [
     {
+      "commit": "30b1d93289e8b09e72238d50a9f1dc3b2e7727f9",
+      "previews": [
+        "content-image__ideal__default__dark",
+        "content-image__ideal__default__light",
+        "layout-box__ideal__default__dark",
+        "layout-box__ideal__default__light",
+        "layout-column__ideal__default__dark",
+        "layout-column__ideal__default__light",
+        "layout-lazycolumn__ideal__default__dark",
+        "layout-lazycolumn__ideal__default__light",
+        "layout-lazyrow__ideal__default__dark",
+        "layout-lazyrow__ideal__default__light",
+        "layout-lazyverticalgrid__ideal__default__dark",
+        "layout-lazyverticalgrid__ideal__default__light",
+        "layout-row__ideal__default__dark",
+        "layout-row__ideal__default__light"
+      ]
+    },
+    {
       "commit": "3ce6d33f0e7db41c98e3cc7dd05dc509205eae9c",
       "previews": [
         "content-image__ideal__default__dark",
@@ -190,25 +209,6 @@
     },
     {
       "commit": "b648e2232e61d4467166594675a15eaecff14c69",
-      "previews": [
-        "content-image__ideal__default__dark",
-        "content-image__ideal__default__light",
-        "layout-box__ideal__default__dark",
-        "layout-box__ideal__default__light",
-        "layout-column__ideal__default__dark",
-        "layout-column__ideal__default__light",
-        "layout-lazycolumn__ideal__default__dark",
-        "layout-lazycolumn__ideal__default__light",
-        "layout-lazyrow__ideal__default__dark",
-        "layout-lazyrow__ideal__default__light",
-        "layout-lazyverticalgrid__ideal__default__dark",
-        "layout-lazyverticalgrid__ideal__default__light",
-        "layout-row__ideal__default__dark",
-        "layout-row__ideal__default__light"
-      ]
-    },
-    {
-      "commit": "710fd3539bd1567b7135548cc359c29b3ef23cb5",
       "previews": [
         "content-image__ideal__default__dark",
         "content-image__ideal__default__light",
