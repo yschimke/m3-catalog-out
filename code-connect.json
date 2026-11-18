@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":ui-samples-catalog"
   },
-  "generatedAt": "2026-11-17T21:24:12.782Z",
+  "generatedAt": "2026-11-18T04:21:51.817Z",
   "mappings": [
     {
       "componentId": "AnchoredDraggable/AnchoredDraggableDynamicAnchorsSample",

@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-17T21:24:26.725Z",
+  "generatedAt": "2026-11-18T04:22:08.661Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "229a5b5479a645b7f6378f8e863cdafb33f8f9b1",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.98.0 (#658)",
+        "at": "2026-11-18T04:17:05Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "dfeca7af16734833d41b13e2bea9f2f398a62f78",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.96.0 (#657)",
@@ -354,14 +362,6 @@
         "sha": "1a0135d85453251b068fbd81cb13127d2ccd6ec8",
         "subject": "chore(deps): update compose-ai-tools to v2.68.6 (#613)",
         "at": "2026-10-19T05:11:39Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "bbee6e7ed916cbe9f1a1a4a4774b6b384911f86e",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.68.6 (#614)",
-        "at": "2026-10-19T00:43:32Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
