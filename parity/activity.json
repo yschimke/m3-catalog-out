@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-18T08:32:32.191Z",
+  "generatedAt": "2026-11-18T19:09:12.979Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "1d30a70ea702b830c41a2c4ff1492b01f440899b",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.99.3 (#661)",
+        "at": "2026-11-18T19:05:33Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "5db602b0c660b34cb172a6f58fe0bbd2eaa499b3",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.98.1 (#659)",
