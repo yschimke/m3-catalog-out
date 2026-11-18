@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-18T04:19:35.526Z",
+  "generatedAt": "2026-11-18T07:00:11.858Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "6637f4da8a8f5944700112b6c832a7ac2768fcc0",
+        "subject": "chore(deps): update compose-ai-tools to v2.94.1 (#653)",
+        "at": "2026-11-18T06:57:44Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "229a5b5479a645b7f6378f8e863cdafb33f8f9b1",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.98.0 (#658)",
@@ -354,14 +362,6 @@
         "sha": "c1b440876580e0d752670f15a049a7d3004410aa",
         "subject": "chore(deps): update gradle to v9.8.2 (#616)",
         "at": "2026-10-19T21:05:02Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1a0135d85453251b068fbd81cb13127d2ccd6ec8",
-        "subject": "chore(deps): update compose-ai-tools to v2.68.6 (#613)",
-        "at": "2026-10-19T05:11:39Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
