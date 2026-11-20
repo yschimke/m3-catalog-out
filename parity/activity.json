@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-19T14:21:23.842Z",
+  "generatedAt": "2026-11-20T17:59:17.892Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "6ca04df48d3e9c768e516ca01ec2d2512817b79b",
+        "subject": "fix(deps): update compose-ai-tools (#666)",
+        "at": "2026-11-20T17:54:15Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b51422c5ce3dd63934e046da813c31d57f4b93d2",
+        "subject": "chore(deps): update ci toolchain (#664)",
+        "at": "2026-11-20T17:53:55Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "296c6ce068f03cd3dbf32e05d78240632b67cce9",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.101.1 (#665)",
+        "at": "2026-11-20T17:52:58Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8ba8d65569e19345fd09b04a022bb85e061ce084",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.44.0 (#663)",
@@ -338,30 +362,6 @@
         "sha": "12427bbde6d4a44a4aa3cca9bcb4046a8f1c03d7",
         "subject": "fix(deps): update compose multiplatform to v1.12.2 (#603)",
         "at": "2026-10-22T23:36:36Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8df31b06d84f771c1b283e85fe886fd06a279226",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.21.0 (#620)",
-        "at": "2026-10-21T04:59:51Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "6f14b7b0e53b5ebff4a391c1bf7f74b07f578160",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.70.5 (#622)",
-        "at": "2026-10-21T00:57:02Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9b5dd8c9185d8eecd9c04433ca15067c321c77c4",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.70.2 (#621)",
-        "at": "2026-10-20T17:08:38Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
