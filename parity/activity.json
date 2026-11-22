@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-22T12:39:50.869Z",
+  "generatedAt": "2026-11-22T22:37:41.473Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "e3aeb33843508be95099f44c6b4c5bf9011e313b",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.46.0 (#671)",
+        "at": "2026-11-22T22:31:57Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f549860293358066309741745d631483fcc27800",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.45.0 (#670)",

@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":samples-catalog"
   },
-  "generatedAt": "2026-11-22T12:39:35.515Z",
+  "generatedAt": "2026-11-22T22:37:25.952Z",
   "mappings": [
     {
       "componentId": "AlertDialog/AlertDialogSample",
