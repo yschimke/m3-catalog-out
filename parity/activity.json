@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-23T06:20:00.861Z",
+  "generatedAt": "2026-11-23T12:05:36.341Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "daeb4a55e2acff93b1b209d4b5d811c6ad3125b4",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export-jvm to v3.154.0 (#672)",
+        "at": "2026-11-23T12:00:13Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "c345db68575ce172b73a6bba7a211a44b8a5cdf4",
         "subject": "fix(deps): update compose-ai-tools (#668)",
