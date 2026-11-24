@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-23T19:35:37.453Z",
+  "generatedAt": "2026-11-24T01:08:04.773Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "a218e4f4a2cd8b16a814309f9a1d7cf5f9995234",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export-jvm to v3.156.0 (#674)",
+        "at": "2026-11-24T00:53:31Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "7ef209ebe790e3af6a4ca1a50e767e11c7211556",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export-jvm to v3.155.0 (#673)",
