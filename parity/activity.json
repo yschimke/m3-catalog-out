@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-24T01:08:04.773Z",
+  "generatedAt": "2026-11-25T23:27:17.232Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "43323c63e2edf646c223a252f388b31f890441a5",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-ai-tools-bom to v2.104.0 (#678)",
+        "at": "2026-11-25T23:24:50Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "dea5de3b06f181c5d7158ac0d2f0bb95332e2b95",
+        "subject": "chore(deps): update amannn/action-semantic-pull-request action to v6.1.4 (#676)",
+        "at": "2026-11-25T23:24:04Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "a218e4f4a2cd8b16a814309f9a1d7cf5f9995234",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-ui-builder-export-jvm to v3.156.0 (#674)",
