@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-27T00:45:55.744Z",
+  "generatedAt": "2026-11-27T07:03:07.829Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/m3-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "9962b0b1e32efbf29f05cbddb67585253f602257",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-contracts-bom to v3.47.0 (#675)",
+        "at": "2026-11-27T06:57:01Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "b961207ebe22a62048b9af194a29cbdc587cc5b2",
         "subject": "fix(deps): update compose-ai-tools (#677)",
